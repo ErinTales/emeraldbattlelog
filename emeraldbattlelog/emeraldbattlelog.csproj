@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="3.png" />
+    <None Remove="images\bottom-battle.png" />
+    <None Remove="images\bottom.png" />
+    <None Remove="images\bottomleft-battle.png" />
+    <None Remove="images\bottomleft.png" />
+    <None Remove="images\bottomright-battle.png" />
+    <None Remove="images\bottomright.png" />
+    <None Remove="images\corner.png" />
+    <None Remove="images\left-battle.png" />
+    <None Remove="images\left.png" />
+    <None Remove="images\middle-battle.png" />
+    <None Remove="images\middle.png" />
+    <None Remove="images\pokemon-emerald.ttf" />
+    <None Remove="images\right-battle.png" />
+    <None Remove="images\right.png" />
+    <None Remove="images\top-battle.png" />
+    <None Remove="images\top.png" />
+    <None Remove="images\topleft-battle.png" />
+    <None Remove="images\topleft.png" />
+    <None Remove="images\topright-battle.png" />
+    <None Remove="images\topright.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\3.png" />
+    <Resource Include="images\bottom-battle.png" />
+    <Resource Include="images\bottom.png" />
+    <Resource Include="images\bottomleft-battle.png" />
+    <Resource Include="images\bottomleft.png" />
+    <Resource Include="images\bottomright-battle.png" />
+    <Resource Include="images\bottomright.png" />
+    <Resource Include="images\left-battle.png" />
+    <Resource Include="images\left.png" />
+    <Resource Include="images\middle-battle.png" />
+    <Resource Include="images\middle.png" />
+    <Resource Include="images\pokemon-emerald.ttf" />
+    <Resource Include="images\right-battle.png" />
+    <Resource Include="images\right.png" />
+    <Resource Include="images\top-battle.png" />
+    <Resource Include="images\top.png" />
+    <Resource Include="images\topleft-battle.png" />
+    <Resource Include="images\topleft.png" />
+    <Resource Include="images\topright-battle.png" />
+    <Resource Include="images\topright.png" />
+  </ItemGroup>
+
+</Project>

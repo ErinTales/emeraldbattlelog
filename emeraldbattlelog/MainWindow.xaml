@@ -1,0 +1,242 @@
+﻿<Window x:Class="PokemonBattleLogger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Emerald Battle Logger"
+        Height="600"
+        Width="800">
+
+    <Grid Margin="0">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="24"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="24"/>
+            
+            <RowDefinition Height="24"/>
+            <RowDefinition Height="0.67*"/>
+            <RowDefinition Height="24"/>
+            
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="24"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="24"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Corners Top -->
+        <Image Grid.Row="0"
+           Grid.Column="0"
+           Source="Images/topleft.png"
+           RenderOptions.BitmapScalingMode="NearestNeighbor"
+           RenderOptions.EdgeMode="Aliased"
+           SnapsToDevicePixels="True"/>
+        <Image Grid.Row="0"
+           Grid.Column="2"
+           Source="Images/topright.png"
+           RenderOptions.BitmapScalingMode="NearestNeighbor"
+           RenderOptions.EdgeMode="Aliased"
+           SnapsToDevicePixels="True"/>
+        <Image Grid.Row="2"
+           Grid.Column="0"
+           Source="Images/bottomleft.png"
+           RenderOptions.BitmapScalingMode="NearestNeighbor"
+           RenderOptions.EdgeMode="Aliased"
+           SnapsToDevicePixels="True"/>
+        <Image Grid.Row="2"
+           Grid.Column="2"
+           Source="Images/bottomright.png"
+           RenderOptions.BitmapScalingMode="NearestNeighbor"
+           RenderOptions.EdgeMode="Aliased"
+           SnapsToDevicePixels="True"/>
+        
+        <!-- Corners bottom -->
+        <Image Grid.Row="3"
+           Grid.Column="0"
+           Source="Images/topleft.png"
+           RenderOptions.BitmapScalingMode="NearestNeighbor"
+           RenderOptions.EdgeMode="Aliased"
+           SnapsToDevicePixels="True"/>
+        <Image Grid.Row="3"
+           Grid.Column="2"
+           Source="Images/topright.png"
+           RenderOptions.BitmapScalingMode="NearestNeighbor"
+           RenderOptions.EdgeMode="Aliased"
+           SnapsToDevicePixels="True"/>
+        <Image Grid.Row="5"
+           Grid.Column="0"
+           Source="Images/bottomleft.png"
+           RenderOptions.BitmapScalingMode="NearestNeighbor"
+           RenderOptions.EdgeMode="Aliased"
+           SnapsToDevicePixels="True"/>
+        <Image Grid.Row="5"
+           Grid.Column="2"
+           Source="Images/bottomright.png"
+           RenderOptions.BitmapScalingMode="NearestNeighbor"
+           RenderOptions.EdgeMode="Aliased"
+           SnapsToDevicePixels="True"/>
+
+        <!-- Edges Top -->
+        <Border Grid.Row="0" Grid.Column="1"
+        RenderOptions.BitmapScalingMode="NearestNeighbor"
+        SnapsToDevicePixels="True">
+
+            <Border.Background>
+                <ImageBrush ImageSource="Images/top.png"
+                    TileMode="Tile"
+                    Stretch="Fill"
+                    Viewport="0,0,24,24"
+                    ViewportUnits="Absolute"/>
+            </Border.Background>
+
+        </Border>
+
+        <Border Grid.Row="2" Grid.Column="1"
+        RenderOptions.BitmapScalingMode="NearestNeighbor"
+        SnapsToDevicePixels="True">
+
+            <Border.Background>
+                <ImageBrush ImageSource="Images/bottom.png"
+                    TileMode="Tile"
+                    Stretch="Fill"
+                    Viewport="0,0,24,24"
+                    ViewportUnits="Absolute"/>
+            </Border.Background>
+
+        </Border>
+
+        <Border Grid.Row="1" Grid.Column="0"
+        RenderOptions.BitmapScalingMode="NearestNeighbor"
+        SnapsToDevicePixels="True">
+
+            <Border.Background>
+                <ImageBrush ImageSource="Images/left.png"
+                    TileMode="Tile"
+                    Stretch="Fill"
+                    Viewport="0,0,24,24"
+                    ViewportUnits="Absolute"/>
+            </Border.Background>
+
+        </Border>
+
+        <Border Grid.Row="1" Grid.Column="2"
+        RenderOptions.BitmapScalingMode="NearestNeighbor"
+        SnapsToDevicePixels="True">
+
+            <Border.Background>
+                <ImageBrush ImageSource="Images/right.png"
+                    TileMode="Tile"
+                    Stretch="Fill"
+                    Viewport="0,0,24,24"
+                    ViewportUnits="Absolute"/>
+            </Border.Background>
+
+        </Border>
+
+        <!-- Edges Bottom -->
+        <Border Grid.Row="3" Grid.Column="1"
+        RenderOptions.BitmapScalingMode="NearestNeighbor"
+        SnapsToDevicePixels="True">
+
+            <Border.Background>
+                <ImageBrush ImageSource="Images/top.png"
+                    TileMode="Tile"
+                    Stretch="Fill"
+                    Viewport="0,0,24,24"
+                    ViewportUnits="Absolute"/>
+            </Border.Background>
+
+        </Border>
+
+        <Border Grid.Row="5" Grid.Column="1"
+        RenderOptions.BitmapScalingMode="NearestNeighbor"
+        SnapsToDevicePixels="True">
+
+            <Border.Background>
+                <ImageBrush ImageSource="Images/bottom.png"
+                    TileMode="Tile"
+                    Stretch="Fill"
+                    Viewport="0,0,24,24"
+                    ViewportUnits="Absolute"/>
+            </Border.Background>
+
+        </Border>
+
+        <Border Grid.Row="4" Grid.Column="0"
+        RenderOptions.BitmapScalingMode="NearestNeighbor"
+        SnapsToDevicePixels="True">
+
+            <Border.Background>
+                <ImageBrush ImageSource="Images/left.png"
+                    TileMode="Tile"
+                    Stretch="Fill"
+                    Viewport="0,0,24,24"
+                    ViewportUnits="Absolute"/>
+            </Border.Background>
+
+        </Border>
+
+        <Border Grid.Row="4" Grid.Column="2"
+        RenderOptions.BitmapScalingMode="NearestNeighbor"
+        SnapsToDevicePixels="True">
+
+            <Border.Background>
+                <ImageBrush ImageSource="Images/right.png"
+                    TileMode="Tile"
+                    Stretch="Fill"
+                    Viewport="0,0,24,24"
+                    ViewportUnits="Absolute"/>
+            </Border.Background>
+
+        </Border>
+
+        <!-- Battle Log -->
+        <Border Grid.Row="1"
+                Grid.Column="1">
+
+            <Border.Background>
+                <ImageBrush ImageSource="Images/middle.png"
+                        TileMode="Tile"
+                        Stretch="None"
+                        Viewport="0,0,12,12"
+                        ViewportUnits="Absolute"/>
+            </Border.Background>
+
+
+            <ScrollViewer Name="LogScroller"
+                          VerticalScrollBarVisibility="Auto">
+
+
+                <RichTextBox Name="BattleLog"
+                           BorderThickness="0"
+                           IsReadOnly="True"
+                           FontSize="32"
+                           FontFamily="./Images/#Pokemon Emerald Regular"
+                           Background="Transparent"
+                           VerticalScrollBarVisibility="Disabled" />
+
+            </ScrollViewer>
+
+        </Border>
+
+        <!-- Team -->
+        <Border Grid.Row="4"
+                Grid.Column="1">
+
+            <Border.Background>
+                <ImageBrush ImageSource="Images/middle.png"
+                        TileMode="Tile"
+                        Stretch="None"
+                        Viewport="0,0,12,12"
+                        ViewportUnits="Absolute"/>
+            </Border.Background>
+
+            <UniformGrid Name="PossibleEnemies"
+             Rows="2"
+             Columns="5"/>
+            
+        </Border>
+
+    </Grid>
+
+</Window>
