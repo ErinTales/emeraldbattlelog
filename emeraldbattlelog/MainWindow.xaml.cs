@@ -35,7 +35,6 @@ namespace PokemonBattleLogger
         {
             InitializeComponent();
             System.Diagnostics.Debug.WriteLine("Starting watcher...");
-            //BattleLog.Text = "Pokemon Battle Logger v0.3.1 Starting...\n";
             StartWatcher();
         }
 
@@ -49,10 +48,10 @@ namespace PokemonBattleLogger
 
             long lastPosition = 0;
 
-            var path = @"C:\Users\Erin\Desktop\pokemon lua\battlelog.txt";
+            var path = @"C:\Users\Erin\source\repos\emeraldbattlelog\emeraldbattlelog\pokemon lua\battlelog.txt";
 
             watcher = new FileSystemWatcher(
-            @"C:\Users\Erin\Desktop\pokemon lua",
+            @"C:\Users\Erin\source\repos\emeraldbattlelog\emeraldbattlelog\pokemon lua",
             "battlelog.txt");
 
             if (File.Exists(path))
