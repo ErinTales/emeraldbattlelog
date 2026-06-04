@@ -35,7 +35,6 @@ namespace PokemonBattleLogger
         {
             InitializeComponent();
             System.Diagnostics.Debug.WriteLine("Starting watcher...");
-            //BattleLog.Text = "Pokemon Battle Logger v0.3.1 Starting...\n";
             StartWatcher();
         }
 
