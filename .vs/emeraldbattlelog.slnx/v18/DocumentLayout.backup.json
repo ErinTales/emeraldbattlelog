@@ -30,8 +30,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -54,8 +58,7 @@
               "RelativeToolTip": "emeraldbattlelog\\PokemonSlot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T18:42:16.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T18:42:16.223Z"
             },
             {
               "$type": "Document",
@@ -63,9 +66,9 @@
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Erin\\source\\repos\\emeraldbattlelog\\emeraldbattlelog\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "emeraldbattlelog\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Erin\\source\\repos\\emeraldbattlelog\\emeraldbattlelog\\MainWindow.xaml.cs",
-              "RelativeToolTip": "emeraldbattlelog\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAcBAAAAAAAAAAAAAA0BAAAsAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Erin\\source\\repos\\emeraldbattlelog\\emeraldbattlelog\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "emeraldbattlelog\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-01T20:46:49.866Z",
               "EditorCaption": ""
@@ -80,8 +83,7 @@
               "RelativeToolTip": "emeraldbattlelog\\Tables.cs",
               "ViewState": "AgIAALgFAAAAAAAAAAAEwMcFAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T22:30:59.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T22:30:59.305Z"
             },
             {
               "$type": "Document",
@@ -92,8 +94,7 @@
               "ToolTip": "C:\\Users\\Erin\\source\\repos\\emeraldbattlelog\\emeraldbattlelog\\MainWindow.xaml",
               "RelativeToolTip": "emeraldbattlelog\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-01T20:46:50.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T20:46:50.369Z"
             }
           ]
         }

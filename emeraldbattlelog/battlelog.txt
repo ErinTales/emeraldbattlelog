@@ -1,0 +1,3971 @@
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Smeargle Lv40 HP 105/105
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Smeargle Lv41 HP 104/104
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　that\'s　enough！<FE>Come　back！
+Gengar Lv50 HP 145/145
+Moves: 16 Psychic, 24 Ice Punch, 24 Thunderbolt, 16 Skill Swap
+Go！　Old　Gateau！
+<FC>いいOld　Gateau<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Old　Gateau　do？
+What　will<FE>Old　Gateau　do？
+0: Gengar Lv50 HP 145/145
+Moves: 16 Psychic, 24 Ice Punch, 24 Thunderbolt, 16 Skill Swap
+1: Smeargle Lv41 HP 104/104
+Moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+<FC>たち　Got　away　safely！<FB>
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+0: Rayquaza Lv76 HP 261/261
+Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+1: Smeargle Lv47 HP 117/117
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Rayquaza Lv76 HP 261/261
+Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Smeargle Lv47 HP 117/117
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>たち　Got　away　safely！<FB>
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>AGON
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　that\'s　enough！<FE>Come　back！
+Go！　MildPoffin！
+<FC>いいMildPoffin<FC>あこ♀
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>MildPoffin　do？
+0: Blissey Lv50 HP 326/326
+Moves: 32 Seismic Toss, 16 Toxic, 16 Softboiled, 8 Aromatherapy
+1: Smeargle Lv40 HP 94/94
+Moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+What　will<FE>MildPoffin　do？
+<FC>いいMildPoffin<FC>あこ♀
+<FC>いいSMEARGLE<FC>あこ♀
+MildPoffin,　that\'s　enough！<FE>Come　back！
+0: Rayquaza Lv76 HP 261/261
+Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+Wild　SMEARGLE　used<FE>STRUGGLE！
+0: Rayquaza Lv76 HP 258/261
+Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+1: Smeargle Lv40 HP 93/94
+Moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　come　back！
+0: Gengar Lv50 HP 145/145
+Moves: 16 Psychic, 24 Ice Punch, 24 Thunderbolt, 16 Skill Swap
+Go！　Old　Gateau！
+<FC>いいOld　Gateau<FC>あさ♂
+Wild　SMEARGLE　used<FE>STRUGGLE！
+0: Gengar Lv50 HP 138/145
+Moves: 16 Psychic, 24 Ice Punch, 24 Thunderbolt, 16 Skill Swap
+1: Smeargle Lv40 HP 92/94
+Moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Old　Gateau　do？
+<FC>いいOld　Gateau<FC>あさ♂
+<FC>いいSMEARGLE<FC>あこ♀
+Old　Gateau,　come　back！
+0: Rayquaza Lv76 HP 258/261
+Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+Wild　SMEARGLE　used<FE>STRUGGLE！
+0: Rayquaza Lv76 HP 255/261
+Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+1: Smeargle Lv40 HP 91/94
+Moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long<FC>あさ
+<FC>いいMIGHTYENA<FC>あさ♂
+1: Mightyena Lv46 HP 134/134
+Moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+ELITE　FOUR　SIDNEY<FE>would　like　to　battle！<FB>
+ELITE　FOUR　SIDNEY　sent<FE>out　MIGHTYENA！
+<FC>いいMIGHTYENA<FC>あさ♂
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+Foe　MIGHTYENA\'s　INTIMIDATE<FE>cuts　Very　Long\'s　ATTACK！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Very　Long　used<FE>OUTRAGE！
+1: Mightyena Lv46 HP 0/134
+Moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+Foe　MIGHTYENA<FE>fainted！<FB>
+Very　Long　gained<FE>1261　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　ABSOL。<FB>Will　April　change<FE>POKひMON？
+1: Absol Lv49 HP 137/137
+Moves: 20 Aerial Ace, 10 Rock Slide, 30 Swords Dance, 20 Slash
+ELITE　FOUR　SIDNEY　sent<FE>out　ABSOL！
+<FC>いいABSOL<FC>あさ♂
+Very　Long　used<FE>OUTRAGE！
+1: Absol Lv49 HP 0/137
+Moves: 20 Aerial Ace, 10 Rock Slide, 30 Swords Dance, 20 Slash
+Foe　ABSOL<FE>fainted！<FB>
+Very　Long　gained<FE>1827　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　SHIFTRY。<FB>Will　April　change<FE>POKひMON？
+1: Shiftry Lv48 HP 158/158
+Moves: 15 Torment, 15 Double Team, 15 Swagger, 30 Extrasensory
+ELITE　FOUR　SIDNEY　sent<FE>out　SHIFTRY！
+<FC>いいSHIFTRY<FC>あさ♂
+Very　Long　used<FE>OUTRAGE！
+1: Shiftry Lv48 HP 0/158
+Moves: 15 Torment, 15 Double Team, 15 Swagger, 30 Extrasensory
+Foe　SHIFTRY<FE>fainted！<FB>
+Very　Long　gained<FE>1861　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　CACTURNE。<FB>Will　April　change<FE>POKひMON？
+1: Cacturne Lv46 HP 134/134
+Moves: 10 Leech Seed, 20 Faint Attack, 15 Needle Arm, 40 Cotton Spore
+ELITE　FOUR　SIDNEY　sent<FE>out　CACTURNE！
+<FC>いいCACTURNE<FC>あさ♂
+Very　Long　became<FE>confused　due　to　fatigue！
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいCACTURNE<FC>あさ♂
+Very　Long,　that\'s　enough！<FE>Come　back！
+0: Smeargle Lv100 HP 296/296
+Moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Foe　CACTURNE　used<FE>FAINT　ATTACK！
+0: Smeargle Lv100 HP 262/296
+Moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+What　will<FE>Smock　do？
+FALSE　SWIPE
+24/24
+TYPE/<FC>かあGRASS
+What　will<FE>Smock　do？
+<FC>いいSmock<FC>あさ♂
+<FC>いいCACTURNE<FC>あさ♂
+Smock,　that\'s　enough！<FE>Come　back！
+0: Rayquaza Lv76 HP 255/261
+Moves: 14 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+Foe　CACTURNE　used<FE>COTTON　SPORE！
+Very　Long\'s　SPEED<FE>harshly　fell！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Very　Long　used<FE>OUTRAGE！
+1: Cacturne Lv46 HP 0/134
+Moves: 10 Leech Seed, 19 Faint Attack, 15 Needle Arm, 39 Cotton Spore
+Foe　CACTURNE<FE>fainted！<FB>
+Very　Long　gained<FE>871　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　CRAWDAUNT。<FB>Will　April　change<FE>POKひMON？
+1: Crawdaunt Lv48 HP 132/132
+Moves: 15 Surf, 30 Swords Dance, 15 Strength, 20 Facade
+ELITE　FOUR　SIDNEY　sent<FE>out　CRAWDAUNT！
+<FC>いいCRAWDAUNT<FC>あさ♂
+Very　Long　used<FE>OUTRAGE！
+1: Crawdaunt Lv48 HP 0/132
+Moves: 15 Surf, 30 Swords Dance, 15 Strength, 20 Facade
+Foe　CRAWDAUNT<FE>fainted！<FB>
+Very　Long　gained<FE>1656　EXP。　Points！<FB>
+Player　defeated<FE>ELITE　FOUR　SIDNEY！<FB>
+Well,　how　do　you　like　that？　I　lost！<FE>Eh,　it　was　fun,　so　it　doesn\'t　matter。<FC>け
+April　got　¥9800<FE>for　winning！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいDUSCLOPS<FC>あこ♀
+0: Rayquaza Lv76 HP 261/261
+Moves: 13 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+1: Dusclops Lv48 HP 110/110
+Moves: 20 Shadow Punch, 10 Confuse Ray, 10 Curse, 10 Protect
+ELITE　FOUR　PHOEBE<FE>would　like　to　battle！<FB>
+ELITE　FOUR　PHOEBE　sent<FE>out　DUSCLOPS！
+<FC>いいDUSCLOPS<FC>あこ♀
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+0: nil Lv0 HP 0/0
+Moves: 0 nil, 0 nil, 0 nil, 0 nil
+1: nil Lv0 HP 0/0
+Moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+0: Rayquaza Lv76 HP 261/261
+Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+1: Smeargle Lv40 HP 98/98
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+1: Smeargle Lv46 HP 120/120
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　that\'s　enough！<FE>Come　back！
+0: Gengar Lv50 HP 145/145
+Moves: 16 Psychic, 24 Ice Punch, 24 Thunderbolt, 16 Skill Swap
+Go！　Old　Gateau！
+<FC>いいOld　Gateau<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Old　Gateau　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+0: Rayquaza Lv76 HP 261/261
+Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+1: Smeargle Lv45 HP 118/118
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+1: Smeargle Lv41 HP 98/98
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+1: Smeargle Lv42 HP 101/101
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+1: Smeargle Lv44 HP 102/102
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+1: Smeargle Lv40 HP 99/99
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+0: nil Lv0 HP 0/0
+Moves: 0 nil, 0 nil, 0 nil, 0 nil
+1: nil Lv0 HP 0/0
+Moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+0: Rayquaza Lv76 HP 261/261
+Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+1: Smeargle Lv48 HP 120/120
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+1: Smeargle Lv49 HP 122/122
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあFLYING
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Very　Long,　that\'s　enough！<FE>Come　back！
+0: Gengar Lv50 HP 145/145
+Moves: 16 Psychic, 24 Ice Punch, 24 Thunderbolt, 16 Skill Swap
+Go！　Old　Gateau！
+<FC>いいOld　Gateau<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Old　Gateau　doCH！
+What　will<FE>Old　Gateau　do？
+THUNDERBOLT
+16/16
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあICE
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあICE
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあPSYCHC
+What　will<FE>YCHC
+What　will<FE>Old　Gateau　do？
+THUNDERBOLT
+16/16
+TYPE/<FC>かあPSYCHC
+What　will<FE>Old　Gateau　do？
+THUNDERBOLT
+16/16
+TYPE/<FC>かあPSYCHC
+What　will<FE>YCHC
+What　will<FE>Old　Gateau　do？
+THUNDERBOLT
+16　
+TYPE/<FC>かあPSYCHC
+What　will<FE>Old　Gateau　do？
+<FC>いいOld　Gateau<FC>あさ♂
+<FC>いいSMEARGLE<FC>あさ♂
+Old　Gateau,　that\'s　enough！<FE>Come　back！
+0: Rayquaza Lv76 HP 261/261
+Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+Wild　SMEARGLE　used<FE>STRUGGLE！
+0: Rayquaza Lv76 HP 258/261
+Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+1: Smeargle Lv49 HP 121/122
+Moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあWATER
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあWATER
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあWATER
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあFLYING
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Very　Long,　come　back！
+0: Slaking Lv50 HP 221/221
+Moves: 32 Return, 16 Earthquake, 24 Shadow Ball, 16 Slack Off
+Go！　RageCandyB！
+<FC>いいRageCandyB<FC>あさ♂
+Wild　SMEARGLE　used<FE>STRUGGLE！
+0: Slaking Lv50 HP 217/221
+Moves: 32 Return, 16 Earthquake, 24 Shadow Ball, 16 Slack Off
+1: Smeargle Lv49 HP 120/122
+Moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>RageCandyB　do？
+SHADOW　BALL
+32/32
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあGHOST
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあGROUND
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあGHOST
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあGHOST
+What　will<FE>OST
+What　will<FE>RageCandyB　do？
+<FC>いいRageCandyB<FC>あさ♂
+<FC>いいSMEARGLE<FC>あさ♂
+RageCandyB,　come　back！
+0: Blissey Lv50 HP 326/326
+Moves: 32 Seismic Toss, 16 Toxic, 16 Softboiled, 8 Aromatherapy
+Go！　MildPoffin！
+<FC>いいMildPoffin<FC>あこ♀
+Wild　SMEARGLE　used<FE>STRUGGLE！
+0: Blissey Lv50 HP 318/326
+Moves: 32 Seismic Toss, 16 Toxic, 16 Softboiled, 8 Aromatherapy
+1: Smeargle Lv49 HP 118/122
+Moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+MildPoffin\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+0: Blissey Lv50 HP 326/326
+Moves: 32 Seismic Toss, 16 Toxic, 16 Softboiled, 8 Aromatherapy
+What　will<FE>MildPoffin　do？
+SOFTBOILED
+PP　
+TYPE/<FC>かあFIGHT
+What　will<FE>MildPoffin　do？
+SOFTBOILED
+PP　
+TYPE/<FC>かあFIGHT
+What　will<FE>MildPoffin　do？
+<FC>いいMildPoffin<FC>あこ♀
+<FC>いいSMEARGLE<FC>あさ♂
+MildPoffin,　come　back！
+0: Smeargle Lv100 HP 296/296
+Moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>STRUGGLE！
+0: Smeargle Lv100 HP 291/296
+Moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+1: Smeargle Lv49 HP 117/122
+Moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Smock　do？
+FALSE　SWIPE
+24/24
+TYPE/<FC>かあGRASS
+What　will<FE>Smock　do？
+FALSE　SWIPE
+24/24
+TYPE/<FC>かあGRASS
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあGRASS
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあNORMAL
+What　will<FE>Smock　do？
+FALSE　SWIPE
+40/40
+TYPE/<FC>かあNORMAL
+What　wかあNORMAL
+What　will<FE>Smock　do？
+FALSE　SWIPE
+40/40
+TYPE/<FC>かあNORMAL
+What　will<FE>RMAL
+What　will<FE>Smock　do？
+FALSE　SWIPE
+40/40
+TYPE/<FC>かあNORMAL
+What　will<FE>Smock　do？
+FALSE　SWIPE
+40/40
+TYPE/<FC>かあNORMAL
+What　will<FE>Smock　do？
+FALSE　SWIPE
+TYPE/<FC>かあIPE
+TYPE/<FC>かあNORMAL
+What　will<FE>Smock　do？
+0: nil Lv0 HP 0/0
+Moves: 0 nil, 0 nil, 0 nil, 0 nil
+1: nil Lv0 HP 0/0
+Moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+0: Rayquaza Lv76 HP 261/261
+Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+1: Smeargle Lv42 HP 109/109
+Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+Battler 0 info: Rayquaza Lv76 HP 261/261
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv42 HP 109/109
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+What　will<FE>Very　Long　do？
+Battler 0 info: Rayquaza Lv76 HP 261/261
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv42 HP 109/109
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+What　will<FE>Very　Long　do？
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv42 HP 109/109 - 23 41 29 46 79
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Smock　do？
+<FC>いいSmock<FC>あさ♂
+<FC>いいSMEARGLE<FC>あこ♀
+Smock,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Battler 0 info: Rayquaza Lv76 HP 258/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv42 HP 108/109 - 23 41 29 46 79
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Smeargle Lv42 HP 0/109 - 23 41 29 46 79
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE<FE>fainted！<FB>
+Very　Long　gained<FE>318　EXP。　Points！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Battler 1 info: Smeargle Lv49 HP 118/118 - 29 36 27 50 85
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Smock　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Battler 0 info: Rayquaza Lv76 HP 258/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv41 HP 107/107 - 32 36 25 48 67
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>AGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあWATER
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Smock　do？
+FALSE　SWIPE
+24/24
+TYPE/<FC>かあGRASS
+What　will<FE>Smock　do？
+FALSE　SWIPE
+TYPE/<FC>かあGRASS
+What　will<FE>Smock　do？
+FALSE　SWIPE
+TYPE/<FC>かあGRASS
+What　wかあGRASS
+What　will<FE>Smock　do？
+FALSE　SWIPE
+24/24
+TYPE/<FC>かあGRASS
+What　will<FE>ASS
+What　will<FE>Smock　do？
+FALSE　SWIPE
+TYPE/<FC>かあGRASS
+What　will<FE>Smock　do？
+FALSE　SWIPE
+TYPE/<FC>かあGRASS
+What　will<FE>ASS
+What　will<FE>Smock　do？
+FALSE　SWIPE
+24/24
+TYPE/<FC>かあGRASS
+What　will<FE>Smock　do？
+FALSE　SWIPE
+24/24
+TYPE/<FC>かあGRASS
+What　will<FE>Smock　do？
+FALSE　SWIPE
+24/24
+TYPE/<FC>かあGRASS
+What　will<FE>Smock　do？
+FALSE　SWIPE
+24/24
+TYPE/<FC>かあGRASS
+What　will<FE>Smock　do？
+FALSE　SWIPE
+24/24
+TYPE/<FC>かあGRASS
+What　will<FE>Smock　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 258/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>AGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Smock　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Battler 0 info: Rayquaza Lv76 HP 258/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv40 HP 100/100 - 27 38 21 47 83
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Smock　do？
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Battler 1 info: Smeargle Lv40 HP 100/100 - 27 38 21 47 83
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+What　will<FE>Smock　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Battler 0 info: Rayquaza Lv76 HP 258/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv41 HP 101/101 - 30 33 26 57 71
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Smock　do？
+FALSE　SWIPE
+TYPE/<FC>かあGRASS
+Smock　used<FE>SPORE！
+Wild　SMEARGLE<FE>fell　asleep！
+Wild　SMEARGLE　is　fast<FE>asleep。
+What　will<FE>Smock　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long<FC>あさ
+<FC>いいMIGHTYENA<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 258/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Mightyena Lv46 HP 134/134 - 101 83 81 66 83
+Battler 1 moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+ELITE　FOUR　SIDNEY<FE>would　like　to　battle！<FB>
+ELITE　FOUR　SIDNEY　sent<FE>out　MIGHTYENA！
+<FC>いいMIGHTYENA<FC>あさ♂
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+Foe　MIGHTYENA\'s　INTIMIDATE<FE>cuts　Very　Long\'s　ATTACK！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあWATER
+Very　Long　used<FE>SURF！
+Battler 1 info: Mightyena Lv46 HP 0/134 - 101 83 81 66 83
+Battler 1 moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+Foe　MIGHTYENA<FE>fainted！<FB>
+Very　Long　gained<FE>1261　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　ABSOL。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Absol Lv49 HP 137/137 - 132 85 93 78 93
+Battler 1 moves: 20 Aerial Ace, 10 Rock Slide, 30 Swords Dance, 20 Slash
+ELITE　FOUR　SIDNEY　sent<FE>out　ABSOL！
+<FC>いいABSOL<FC>あさ♂
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+Very　Long　used<FE>SURF！
+Battler 1 info: Absol Lv49 HP 0/137 - 132 85 93 78 93
+Battler 1 moves: 20 Aerial Ace, 10 Rock Slide, 30 Swords Dance, 20 Slash
+Foe　ABSOL<FE>fainted！<FB>
+Very　Long　gained<FE>1827　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　SHIFTRY。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Shiftry Lv48 HP 158/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 15 Double Team, 15 Swagger, 30 Extrasensory
+ELITE　FOUR　SIDNEY　sent<FE>out　SHIFTRY！
+<FC>いいSHIFTRY<FC>あさ♂
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+Very　Long　used<FE>SURF！
+Battler 1 info: Shiftry Lv48 HP 21/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 15 Double Team, 15 Swagger, 30 Extrasensory
+It\'s　not　very　effective⋯
+Foe　SHIFTRY　used<FE>SWAGGER！
+Very　Long\'s　ATTACK<FE>sharply　rose！
+Very　Long　became<FE>confused！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+ELITE　FOUR　SIDNEY<FE>used　FULL　RESTORE！
+Battler 1 info: Shiftry Lv48 HP 158/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 15 Double Team, 14 Swagger, 30 Extrasensory
+Foe　SHIFTRY\'s　FULL　RESTORE<FE>restored　health！
+Very　Long　is<FE>confused！
+It　hurt　itself　in　its<FE>confusion！
+Battler 0 info: Rayquaza Lv76 HP 200/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 11 Surf, 15 Waterfall
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+Very　Long　is<FE>confused！
+It　hurt　itself　in　its<FE>confusion！
+Battler 0 info: Rayquaza Lv76 HP 138/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 11 Surf, 15 Waterfall
+Foe　SHIFTRY　used<FE>DOUBLE　TEAM！
+Foe　SHIFTRY\'s　evasiveness<FE>rose！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+Very　Long　is<FE>confused！
+It　hurt　itself　in　its<FE>confusion！
+Battler 0 info: Rayquaza Lv76 HP 78/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 11 Surf, 15 Waterfall
+Foe　SHIFTRY　used<FE>EXTRASENSORY！
+Battler 0 info: Rayquaza Lv76 HP 59/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 11 Surf, 15 Waterfall
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+Very　Long　is<FE>confused！
+Very　Long　used<FE>SURF！
+Battler 1 info: Shiftry Lv48 HP 39/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 14 Double Team, 14 Swagger, 29 Extrasensory
+It\'s　not　very　effective⋯
+Foe　SHIFTRY　used<FE>DOUBLE　TEAM！
+Foe　SHIFTRY\'s　evasiveness<FE>rose！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+Very　Long　snapped<FE>out　of　confusion！
+Very　Long　used<FE>SURF！
+Battler 1 info: Shiftry Lv48 HP 0/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 13 Double Team, 14 Swagger, 29 Extrasensory
+It\'s　not　very　effective⋯
+Foe　SHIFTRY<FE>fainted！<FB>
+Very　Long　gained<FE>1861　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　CACTURNE。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Cacturne Lv46 HP 134/134 - 136 74 111 74 69
+Battler 1 moves: 10 Leech Seed, 20 Faint Attack, 15 Needle Arm, 40 Cotton Spore
+ELITE　FOUR　SIDNEY　sent<FE>out　CACTURNE！
+<FC>いいCACTURNE<FC>あさ♂
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Cacturne Lv46 HP 0/134 - 136 74 111 74 69
+Battler 1 moves: 10 Leech Seed, 20 Faint Attack, 15 Needle Arm, 40 Cotton Spore
+Foe　CACTURNE<FE>fainted！<FB>
+Very　Long　gained<FE>1744　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　CRAWDAUNT。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Crawdaunt Lv48 HP 132/132 - 147 101 105 64 72
+Battler 1 moves: 15 Surf, 30 Swords Dance, 15 Strength, 20 Facade
+ELITE　FOUR　SIDNEY　sent<FE>out　CRAWDAUNT！
+<FC>いいCRAWDAUNT<FC>あさ♂
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Crawdaunt Lv48 HP 0/132 - 147 101 105 64 72
+Battler 1 moves: 15 Surf, 30 Swords Dance, 15 Strength, 20 Facade
+Foe　CRAWDAUNT<FE>fainted！<FB>
+Very　Long　gained<FE>1656　EXP。　Points！<FB>
+Player　defeated<FE>ELITE　FOUR　SIDNEY！<FB>
+Well,　how　do　you　like　that？　I　lost！<FE>Eh,　it　was　fun,　so　it　doesn\'t　matter。<FC>け
+April　got　¥9800<FE>for　winning！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいDUSCLOPS<FC>あこ♀
+Battler 1 info: Dusclops Lv48 HP 110/110 - 94 144 77 129 43
+Battler 1 moves: 20 Shadow Punch, 10 Confuse Ray, 10 Curse, 10 Protect
+ELITE　FOUR　PHOEBE<FE>would　like　to　battle！<FB>
+ELITE　FOUR　PHOEBE　sent<FE>out　DUSCLOPS！
+<FC>いいDUSCLOPS<FC>あこ♀
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0
+Battler 0 moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0
+Battler 1 moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv45 HP 105/105 - 35 33 33 46 78
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Smeargle Lv45 HP 0/105 - 35 33 33 46 78
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE<FE>fainted！<FB>
+Very　Long　gained<FE>681　EXP。　Points！<FB>
+<FC>いいVery　Long<FC>あさ
+<FC>いいMIGHTYENA<FC>あさ♂
+Battler 1 info: Mightyena Lv46 HP 134/134 - 101 83 81 66 83
+Battler 1 moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+ELITE　FOUR　SIDNEY<FE>would　like　to　battle！<FB>
+ELITE　FOUR　SIDNEY　sent<FE>out　MIGHTYENA！
+<FC>いいMIGHTYENA<FC>あさ♂
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+Foe　MIGHTYENA\'s　INTIMIDATE<FE>cuts　Very　Long\'s　ATTACK！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあWATER
+Very　Long　used<FE>SURF！
+Battler 1 info: Mightyena Lv46 HP 0/134 - 101 83 81 66 83
+Battler 1 moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+Foe　MIGHTYENA<FE>fainted！<FB>
+Very　Long　gained<FE>1261　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　ABSOL。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Absol Lv49 HP 137/137 - 132 85 93 78 93
+Battler 1 moves: 20 Aerial Ace, 10 Rock Slide, 30 Swords Dance, 20 Slash
+ELITE　FOUR　SIDNEY　sent<FE>out　ABSOL！
+<FC>いいABSOL<FC>あさ♂
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+Very　Long　used<FE>SURF！
+Battler 1 info: Absol Lv49 HP 0/137 - 132 85 93 78 93
+Battler 1 moves: 20 Aerial Ace, 10 Rock Slide, 30 Swords Dance, 20 Slash
+Foe　ABSOL<FE>fainted！<FB>
+Very　Long　gained<FE>1827　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　SHIFTRY。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Shiftry Lv48 HP 158/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 15 Double Team, 15 Swagger, 30 Extrasensory
+ELITE　FOUR　SIDNEY　sent<FE>out　SHIFTRY！
+<FC>いいSHIFTRY<FC>あさ♂
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+Very　Long　used<FE>SURF！
+Battler 1 info: Shiftry Lv48 HP 28/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 15 Double Team, 15 Swagger, 30 Extrasensory
+It\'s　not　very　effective⋯
+Foe　SHIFTRY　used<FE>SWAGGER！
+Foe　SHIFTRY\'s<FE>attack　missed！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+ELITE　FOUR　SIDNEY<FE>used　FULL　RESTORE！
+Battler 1 info: Shiftry Lv48 HP 158/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 15 Double Team, 14 Swagger, 30 Extrasensory
+Foe　SHIFTRY\'s　FULL　RESTORE<FE>restored　health！
+Very　Long　used<FE>SURF！
+Battler 1 info: Shiftry Lv48 HP 33/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 15 Double Team, 14 Swagger, 30 Extrasensory
+It\'s　not　very　effective⋯
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+Very　Long　used<FE>SURF！
+Battler 1 info: Shiftry Lv48 HP 0/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 15 Double Team, 14 Swagger, 30 Extrasensory
+It\'s　not　very　effective⋯
+Foe　SHIFTRY<FE>fainted！<FB>
+Very　Long　gained<FE>1861　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　CACTURNE。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Cacturne Lv46 HP 134/134 - 136 74 111 74 69
+Battler 1 moves: 10 Leech Seed, 20 Faint Attack, 15 Needle Arm, 40 Cotton Spore
+ELITE　FOUR　SIDNEY　sent<FE>out　CACTURNE！
+<FC>いいCACTURNE<FC>あさ♂
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+TYPE/<FC>かあFLYING
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあDRAGON
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Cacturne Lv46 HP 0/134 - 136 74 111 74 69
+Battler 1 moves: 10 Leech Seed, 20 Faint Attack, 15 Needle Arm, 40 Cotton Spore
+Foe　CACTURNE<FE>fainted！<FB>
+Very　Long　gained<FE>1744　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　CRAWDAUNT。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Crawdaunt Lv48 HP 132/132 - 147 101 105 64 72
+Battler 1 moves: 15 Surf, 30 Swords Dance, 15 Strength, 20 Facade
+ELITE　FOUR　SIDNEY　sent<FE>out　CRAWDAUNT！
+<FC>いいCRAWDAUNT<FC>あさ♂
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Crawdaunt Lv48 HP 0/132 - 147 101 105 64 72
+Battler 1 moves: 15 Surf, 30 Swords Dance, 15 Strength, 20 Facade
+Foe　CRAWDAUNT<FE>fainted！<FB>
+Very　Long　gained<FE>1656　EXP。　Points！<FB>
+Player　defeated<FE>ELITE　FOUR　SIDNEY！<FB>
+Well,　how　do　you　like　that？　I　lost！<FE>Eh,　it　was　fun,　so　it　doesn\'t　matter。<FC>け
+April　got　¥9800<FE>for　winning！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいDUSCLOPS<FC>あこ♀
+Battler 1 info: Dusclops Lv48 HP 110/110 - 94 144 77 129 43
+Battler 1 moves: 20 Shadow Punch, 10 Confuse Ray, 10 Curse, 10 Protect
+ELITE　FOUR　PHOEBE<FE>would　like　to　battle！<FB>
+ELITE　FOUR　PHOEBE　sent<FE>out　DUSCLOPS！
+<FC>いいDUSCLOPS<FC>あこ♀
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0
+Battler 0 moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0
+Battler 1 moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv44 HP 104/104 - 34 34 31 48 81
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Smeargle Lv44 HP 0/104 - 34 34 31 48 81
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+A　critical　hit！
+Wild　SMEARGLE<FE>fainted！<FB>
+Very　Long　gained<FE>666　EXP。　Points！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Battler 1 info: Smeargle Lv40 HP 100/100 - 31 35 34 52 71
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Battler 1 info: Smeargle Lv46 HP 120/120 - 26 45 34 51 75
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Blissey Lv50 HP 326/326 - 25 63 95 155 106
+Battler 0 moves: 32 Seismic Toss, 16 Toxic, 16 Softboiled, 8 Aromatherapy
+Go！　MildPoffin！
+<FC>いいMildPoffin<FC>あこ♀
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>MildPoffin　do？
+<FC>いいMildPoffin<FC>あこ♀
+<FC>いいSMEARGLE<FC>あこ♀
+MildPoffin,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Battler 0 info: Smeargle Lv100 HP 291/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Battler 1 info: Smeargle Lv46 HP 119/120 - 26 45 34 51 75
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Smock　do？
+<FC>いいSmock<FC>あさ♂
+<FC>いいSMEARGLE<FC>あこ♀
+Smock,　come　back！
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Battler 0 info: Rayquaza Lv76 HP 258/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv46 HP 118/120 - 26 45 34 51 75
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Battler 1 info: Smeargle Lv41 HP 104/104 - 32 35 25 47 75
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long<FC>あさ
+<FC>いいMIGHTYENA<FC>あさ♂
+Battler 1 info: Mightyena Lv46 HP 134/134 - 101 83 81 66 83
+Battler 1 moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+ELITE　FOUR　SIDNEY<FE>would　like　to　battle！<FB>
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0
+Battler 0 moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0
+Battler 1 moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいGOLBAT<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Golbat Lv40 HP 111/111 - 68 64 60 68 93
+Battler 1 moves: 25 Bite, 35 Wing Attack, 10 Confuse Ray, 25 Air Cutter
+Wild　GOLBAT　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long<FC>あさ
+<FC>いいMIGHTYENA<FC>あさ♂
+Battler 1 info: Mightyena Lv46 HP 134/134 - 101 83 81 66 83
+Battler 1 moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+ELITE　FOUR　SIDNEY<FE>would　like　to　battle！<FB>
+ELITE　FOUR　SIDNEY　sent<FE>out　MIGHTYENA！
+<FC>いいMIGHTYENA<FC>あさ♂
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+Foe　MIGHTYENA\'s　INTIMIDATE<FE>cuts　Very　Long\'s　ATTACK！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Mightyena Lv46 HP 0/134 - 101 83 81 66 83
+Battler 1 moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+Foe　MIGHTYENA<FE>fainted！<FB>
+Very　Long　gained<FE>1261　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　ABSOL。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Absol Lv49 HP 137/137 - 132 85 93 78 93
+Battler 1 moves: 20 Aerial Ace, 10 Rock Slide, 30 Swords Dance, 20 Slash
+ELITE　FOUR　SIDNEY　sent<FE>out　ABSOL！
+<FC>いいABSOL<FC>あさ♂
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Absol Lv49 HP 0/137 - 132 85 93 78 93
+Battler 1 moves: 20 Aerial Ace, 10 Rock Slide, 30 Swords Dance, 20 Slash
+Foe　ABSOL<FE>fainted！<FB>
+Very　Long　gained<FE>1827　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　SHIFTRY。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Shiftry Lv48 HP 158/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 15 Double Team, 15 Swagger, 30 Extrasensory
+ELITE　FOUR　SIDNEY　sent<FE>out　SHIFTRY！
+<FC>いいSHIFTRY<FC>あさ♂
+Very　Long　became<FE>confused　due　to　fatigue！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあWATER
+Very　Long　is<FE>confused！
+Very　Long　used<FE>SURF！
+Battler 1 info: Shiftry Lv48 HP 0/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 15 Double Team, 15 Swagger, 30 Extrasensory
+A　critical　hit！
+It\'s　not　very　effective⋯
+Foe　SHIFTRY<FE>fainted！<FB>
+Very　Long　gained<FE>1861　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　CACTURNE。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Cacturne Lv46 HP 134/134 - 136 74 111 74 69
+Battler 1 moves: 10 Leech Seed, 20 Faint Attack, 15 Needle Arm, 40 Cotton Spore
+ELITE　FOUR　SIDNEY　sent<FE>out　CACTURNE！
+<FC>いいCACTURNE<FC>あさ♂
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+Very　Long　is<FE>confused！
+It　hurt　itself　in　its<FE>confusion！
+Battler 0 info: Rayquaza Lv76 HP 237/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 14 Surf, 15 Waterfall
+Foe　CACTURNE　used<FE>COTTON　SPORE！
+Very　Long\'s　SPEED<FE>harshly　fell！
+What　will<FE>Very　Long　do？
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0
+Battler 0 moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0
+Battler 1 moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<FC>いいVery　Long<FC>あさ
+<FC>いいMIGHTYENA<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Mightyena Lv46 HP 134/134 - 101 83 81 66 83
+Battler 1 moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+ELITE　FOUR　SIDNEY<FE>would　like　to　battle！<FB>
+ELITE　FOUR　SIDNEY　sent<FE>out　MIGHTYENA！
+<FC>いいMIGHTYENA<FC>あさ♂
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+Foe　MIGHTYENA\'s　INTIMIDATE<FE>cuts　Very　Long\'s　ATTACK！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあWATER
+Very　Long　used<FE>SURF！
+Battler 1 info: Mightyena Lv46 HP 0/134 - 101 83 81 66 83
+Battler 1 moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+Foe　MIGHTYENA<FE>fainted！<FB>
+Very　Long　gained<FE>1261　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　ABSOL。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Absol Lv49 HP 137/137 - 132 85 93 78 93
+Battler 1 moves: 20 Aerial Ace, 10 Rock Slide, 30 Swords Dance, 20 Slash
+ELITE　FOUR　SIDNEY　sent<FE>out　ABSOL！
+<FC>いいABSOL<FC>あさ♂
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+Very　Long　used<FE>SURF！
+Battler 1 info: Absol Lv49 HP 0/137 - 132 85 93 78 93
+Battler 1 moves: 20 Aerial Ace, 10 Rock Slide, 30 Swords Dance, 20 Slash
+Foe　ABSOL<FE>fainted！<FB>
+Very　Long　gained<FE>1827　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　SHIFTRY。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Shiftry Lv48 HP 158/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 15 Double Team, 15 Swagger, 30 Extrasensory
+ELITE　FOUR　SIDNEY　sent<FE>out　SHIFTRY！
+<FC>いいSHIFTRY<FC>あさ♂
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+Very　Long　used<FE>SURF！
+Battler 1 info: Shiftry Lv48 HP 32/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 15 Double Team, 15 Swagger, 30 Extrasensory
+It\'s　not　very　effective⋯
+Foe　SHIFTRY　used<FE>DOUBLE　TEAM！
+Foe　SHIFTRY\'s　evasiveness<FE>rose！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+TYPE/<FC>かあDRAGON
+ELITE　FOUR　SIDNEY<FE>used　FULL　RESTORE！
+Battler 1 info: Shiftry Lv48 HP 158/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 14 Double Team, 15 Swagger, 30 Extrasensory
+Foe　SHIFTRY\'s　FULL　RESTORE<FE>restored　health！
+Very　Long　used<FE>OUTRAGE！
+Very　Long\'s<FE>attack　missed！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Shiftry Lv48 HP 0/158 - 115 77 94 77 105
+Battler 1 moves: 15 Torment, 14 Double Team, 15 Swagger, 30 Extrasensory
+Foe　SHIFTRY<FE>fainted！<FB>
+Very　Long　gained<FE>1861　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　CACTURNE。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Cacturne Lv46 HP 134/134 - 136 74 111 74 69
+Battler 1 moves: 10 Leech Seed, 20 Faint Attack, 15 Needle Arm, 40 Cotton Spore
+ELITE　FOUR　SIDNEY　sent<FE>out　CACTURNE！
+<FC>いいCACTURNE<FC>あさ♂
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Cacturne Lv46 HP 0/134 - 136 74 111 74 69
+Battler 1 moves: 10 Leech Seed, 20 Faint Attack, 15 Needle Arm, 40 Cotton Spore
+Foe　CACTURNE<FE>fainted！<FB>
+Very　Long　gained<FE>1744　EXP。　Points！<FB>
+ELITE　FOUR　SIDNEY　is<FE>about　to　use　CRAWDAUNT。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Crawdaunt Lv48 HP 132/132 - 147 101 105 64 72
+Battler 1 moves: 15 Surf, 30 Swords Dance, 15 Strength, 20 Facade
+ELITE　FOUR　SIDNEY　sent<FE>out　CRAWDAUNT！
+<FC>いいCRAWDAUNT<FC>あさ♂
+Very　Long　became<FE>confused　due　to　fatigue！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Very　Long　is<FE>confused！
+It　hurt　itself　in　its<FE>confusion！
+Battler 0 info: Rayquaza Lv76 HP 237/261 - 262 168 319 157 181
+Battler 0 moves: 13 Outrage, 15 Fly, 11 Surf, 15 Waterfall
+Foe　CRAWDAUNT　used<FE>SWORDS　DANCE！
+Foe　CRAWDAUNT\'s　ATTACK<FE>sharply　rose！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Very　Long　is<FE>confused！
+It　hurt　itself　in　its<FE>confusion！
+Battler 0 info: Rayquaza Lv76 HP 213/261 - 262 168 319 157 181
+Battler 0 moves: 13 Outrage, 15 Fly, 11 Surf, 15 Waterfall
+Foe　CRAWDAUNT　used<FE>STRENGTH！
+Battler 0 info: Rayquaza Lv76 HP 167/261 - 262 168 319 157 181
+Battler 0 moves: 13 Outrage, 15 Fly, 11 Surf, 15 Waterfall
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Very　Long　snapped<FE>out　of　confusion！
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Crawdaunt Lv48 HP 0/132 - 147 101 105 64 72
+Battler 1 moves: 15 Surf, 29 Swords Dance, 14 Strength, 20 Facade
+Foe　CRAWDAUNT<FE>fainted！<FB>
+Very　Long　gained<FE>1656　EXP。　Points！<FB>
+Player　defeated<FE>ELITE　FOUR　SIDNEY！<FB>
+Well,　how　do　you　like　that？　I　lost！<FE>Eh,　it　was　fun,　so　it　doesn\'t　matter。<FC>け
+April　got　¥9800<FE>for　winning！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいDUSCLOPS<FC>あこ♀
+Battler 1 info: Dusclops Lv48 HP 110/110 - 94 144 77 129 43
+Battler 1 moves: 20 Shadow Punch, 10 Confuse Ray, 10 Curse, 10 Protect
+ELITE　FOUR　PHOEBE<FE>would　like　to　battle！<FB>
+ELITE　FOUR　PHOEBE　sent<FE>out　DUSCLOPS！
+<FC>いいDUSCLOPS<FC>あこ♀
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do<FE>out　DUSCLOPS！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Foe　DUSCLOPS　used<FE>PROTECT！
+Foe　DUSCLOPS　protected<FE>itself！
+Very　Long　used<FE>OUTRAGE！
+Foe　DUSCLOPS<FE>protected　itself！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあWATER
+TYPE/<FC>かあDRAGON
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Dusclops Lv48 HP 0/110 - 94 144 77 129 43
+Battler 1 moves: 20 Shadow Punch, 10 Confuse Ray, 10 Curse, 9 Protect
+Foe　DUSCLOPS<FE>fainted！<FB>
+Very　Long　gained<FE>1840　EXP。　Points！<FB>
+ELITE　FOUR　PHOEBE　is<FE>about　to　use　DUSCLOPS。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Dusclops Lv51 HP 117/117 - 92 153 73 168 46
+Battler 1 moves: 15 Shadow Ball, 10 Ice Beam, 10 Rock Slide, 10 Earthquake
+ELITE　FOUR　PHOEBE　sent<FE>out　DUSCLOPS！
+<FC>いいDUSCLOPS<FC>あこ♀
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Dusclops Lv51 HP 0/117 - 92 153 73 168 46
+Battler 1 moves: 15 Shadow Ball, 10 Ice Beam, 10 Rock Slide, 10 Earthquake
+Foe　DUSCLOPS<FE>fainted！<FB>
+Very　Long　gained<FE>1956　EXP。　Points！<FB>
+ELITE　FOUR　PHOEBE　is<FE>about　to　use　BANETTE。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Banette Lv49 HP 136/136 - 118 83 101 89 83
+Battler 1 moves: 15 Shadow Ball, 5 Grudge, 15 Will-O-Wisp, 20 Faint Attack
+ELITE　FOUR　PHOEBE　sent<FE>out　BANETTE！
+<FC>いいBANETTE<FC>あこ♀
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Banette Lv49 HP 0/136 - 118 83 101 89 83
+Battler 1 moves: 15 Shadow Ball, 5 Grudge, 15 Will-O-Wisp, 20 Faint Attack
+Foe　BANETTE<FE>fainted！<FB>
+Very　Long　gained<FE>1879　EXP。　Points！<FB>
+ELITE　FOUR　PHOEBE　is<FE>about　to　use　SABLEYE。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Sableye Lv50 HP 125/125 - 95 95 76 93 70
+Battler 1 moves: 15 Shadow Ball, 15 Double Team, 15 Night Shade, 20 Faint Attack
+ELITE　FOUR　PHOEBE　sent<FE>out　SABLEYE！
+<FC>いいSABLEYE<FC>あこ♀
+Very　Long　became<FE>confused　due　to　fatigue！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあWATER
+Very　Long　is<FE>confused！
+Very　Long　used<FE>SURF！
+Battler 1 info: Sableye Lv50 HP 0/125 - 95 95 76 93 70
+Battler 1 moves: 15 Shadow Ball, 15 Double Team, 15 Night Shade, 20 Faint Attack
+Foe　SABLEYE<FE>fainted！<FB>
+Very　Long　gained<FE>1050　EXP。　Points！<FB>
+ELITE　FOUR　PHOEBE　is<FE>about　to　use　BANETTE。<FB>Will　April　change<FE>POKひMON？
+Battler 1 info: Banette Lv49 HP 136/136 - 132 83 101 72 91
+Battler 1 moves: 15 Shadow Ball, 10 Psychic, 15 Thunderbolt, 20 Facade
+ELITE　FOUR　PHOEBE　sent<FE>out　BANETTE！
+<FC>いいBANETTE<FC>あこ♀
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあWATER
+Very　Long　is<FE>confused！
+Very　Long　used<FE>SURF！
+Battler 1 info: Banette Lv49 HP 0/136 - 132 83 101 72 91
+Battler 1 moves: 15 Shadow Ball, 10 Psychic, 15 Thunderbolt, 20 Facade
+Foe　BANETTE<FE>fainted！<FB>
+Very　Long　gained<FE>1879　EXP。　Points！<FB>
+Player　defeated<FE>ELITE　FOUR　PHOEBE！<FB>
+Oh,　darn。<FE>I\'ve　gone　and　lost。<FC>け
+April　got　¥10200<FE>for　winning！<FB>
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0
+Battler 0 moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0
+Battler 1 moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv41 HP 107/107 - 30 38 24 49 77
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Battler 1 info: Smeargle Lv50 HP 120/120 - 39 43 26 52 90
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Smock　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv45 HP 107/107 - 34 42 26 57 86
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Smock　do？
+<FC>いいSmock<FC>あさ♂
+<FC>いいSMEARGLE<FC>あさ♂
+Smock,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Battler 0 info: Rayquaza Lv76 HP 257/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv45 HP 106/107 - 34 42 26 57 86
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Smeargle Lv45 HP 0/107 - 34 42 26 57 86
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE<FE>fainted！<FB>
+Very　Long　gained<FE>340　EXP。　Points！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Battler 1 info: Smeargle Lv40 HP 100/100 - 23 35 28 40 65
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Slaking Lv50 HP 221/221 - 228 118 91 81 152
+Battler 0 moves: 32 Return, 16 Earthquake, 24 Shadow Ball, 16 Slack Off
+Go！　RageCandyB！
+<FC>いいRageCandyB<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>RageCandyB　do？
+<FC>いいRageCandyB<FC>あさ♂
+<FC>いいSMEARGLE<FC>あこ♀
+What　will<FE>RageCandyB　do？
+SHADOW　BALL
+32/32
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあGHOST
+RageCandyB　used<FE>SHADOW　BALL！
+It　doesn\'t　affect<FE>Wild　SMEARGLE⋯
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Battler 0 info: Slaking Lv50 HP 217/221 - 228 118 91 81 152
+Battler 0 moves: 32 Return, 16 Earthquake, 23 Shadow Ball, 16 Slack Off
+Battler 1 info: Smeargle Lv40 HP 99/100 - 23 35 28 40 65
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>RageCandyB　do？
+SHADOW　BALL
+23/24
+TYPE/<FC>かあGHOST
+RageCandyB　is<FE>loafing　around！
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Battler 0 info: Slaking Lv50 HP 213/221 - 228 118 91 81 152
+Battler 0 moves: 32 Return, 16 Earthquake, 23 Shadow Ball, 16 Slack Off
+Battler 1 info: Smeargle Lv40 HP 98/100 - 23 35 28 40 65
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>RageCandyB　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 257/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv44 HP 115/115 - 28 41 31 46 73
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Battler 1 info: Smeargle Lv40 HP 95/95 - 29 42 27 57 72
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Smock　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 257/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv44 HP 106/106 - 38 41 31 45 71
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあWATER
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Smock　do？
+<FC>いいSmock<FC>あさ♂
+<FC>いいSMEARGLE<FC>あさ♂
+Smock,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Rayquaza Lv76 HP 257/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Battler 0 info: Rayquaza Lv76 HP 253/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv44 HP 105/106 - 38 41 31 45 71
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+TYPE/<FC>かあFLYING
+Very　Long　flew<FE>up　high！
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Wild　SMEARGLE\'s<FE>attack　missed！
+Very　Long　used<FE>FLY！
+Battler 1 info: Smeargle Lv44 HP 0/106 - 38 41 31 45 71
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE<FE>fainted！<FB>
+Very　Long　gained<FE>333　EXP。　Points！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Battler 1 info: Smeargle Lv44 HP 105/105 - 32 49 28 56 82
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>Smock　do？
+<FC>いいSmock<FC>あさ♂
+<FC>いいSMEARGLE<FC>あこ♀
+Smock,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Rayquaza Lv76 HP 253/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 14 Fly, 15 Surf, 15 Waterfall
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Battler 0 info: Rayquaza Lv76 HP 249/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 14 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv44 HP 104/105 - 32 49 28 56 82
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　come　back！
+Battler 0 info: Smeargle Lv100 HP 296/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Battler 0 info: Smeargle Lv100 HP 291/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Battler 1 info: Smeargle Lv44 HP 103/105 - 32 49 28 56 82
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Smock　do？
+<FC>いいSmock<FC>あさ♂
+<FC>いいSMEARGLE<FC>あこ♀
+What　will<FE>Smock　do？
+<FC>いいSmock<FC>あさ♂
+<FC>いいSMEARGLE<FC>あこ♀
+Smock,　come　back！
+Battler 0 info: Rayquaza Lv76 HP 249/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 14 Fly, 15 Surf, 15 Waterfall
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Battler 0 info: Rayquaza Lv76 HP 245/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 14 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv44 HP 102/105 - 32 49 28 56 82
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　come　back！
+Battler 0 info: Smeargle Lv100 HP 291/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Go！　Smock！
+<FC>いいSmock<FC>あさ♂
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Battler 0 info: Smeargle Lv100 HP 285/296 - 75 106 82 107 219
+Battler 0 moves: 24 Spore, 10 Super Fang, 40 False Swipe, 10 Trick
+Battler 1 info: Smeargle Lv44 HP 101/105 - 32 49 28 56 82
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Smock　do？
+<FC>いいSmock<FC>あさ♂
+<FC>いいSMEARGLE<FC>あこ♀
+Smock,　come　back！
+Battler 0 info: Slaking Lv50 HP 213/221 - 228 118 91 81 152
+Battler 0 moves: 32 Return, 16 Earthquake, 23 Shadow Ball, 16 Slack Off
+Go！　RageCandyB！
+<FC>いいRageCandyB<FC>あさ♂
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Battler 0 info: Slaking Lv50 HP 208/221 - 228 118 91 81 152
+Battler 0 moves: 32 Return, 16 Earthquake, 23 Shadow Ball, 16 Slack Off
+Battler 1 info: Smeargle Lv44 HP 100/105 - 32 49 28 56 82
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>RageCandyB　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Battler 0 info: Rayquaza Lv76 HP 245/261 - 262 168 319 157 181
+Battler 0 moves: 14 Outrage, 14 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv40 HP 104/104 - 27 43 26 45 69
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Battler 1 info: Smeargle Lv49 HP 124/124 - 29 41 33 62 91
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Battler 1 info: Smeargle Lv45 HP 104/104 - 29 48 30 53 79
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+Very　Long　used<FE>OUTRAGE！
+Battler 1 info: Smeargle Lv45 HP 0/104 - 29 48 30 53 79
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE<FE>fainted！<FB>
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0
+Battler 0 moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0
+Battler 1 moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv42 HP 109/109 - 26 36 22 57 70
+Battler 1 moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+WATERFALL
+TYPE/<FC>かあDRAGON
+What　will<FE>AGON
+What　will<FE>Very　Long　do？
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あこ♀
+Very　Long,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Slaking Lv50 HP 221/221 - 228 118 91 81 152
+Battler 0 moves: 32 Return, 16 Earthquake, 24 Shadow Ball, 16 Slack Off
+Go！　RageCandyB！
+<FC>いいRageCandyB<FC>あさ♂
+Wild　SMEARGLE　used<FE>SKETCH！
+But　it　failed！
+What　will<FE>RageCandyB　do？
+<FC>いいRageCandyB<FC>あさ♂
+<FC>いいSMEARGLE<FC>あこ♀
+RageCandyB,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Go！　Very　Long！
+<FC>いいVery　Long<FC>あさ
+Wild　SMEARGLE　used<FE>STRUGGLE！
+Battler 0 info: Rayquaza Lv76 HP 258/261 - 262 168 319 157 181
+Battler 0 moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv42 HP 108/109 - 26 36 22 57 70
+Battler 1 moves: 0 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　is　hit<FE>with　recoil！
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+<FC>いいPLUSLE<FC>あさ♂
+<FC>いいFLAAFFY<FC>あさ♂
+<FC>いいKRABBY<FC>あさ♂
+<FC>いいARON<FC>あこ♀
+Battler 0 info: Plusle Lv50 HP 153/153 - 56 78 91 81 101
+Battler 0 moves: 20 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+Battler 1 info: Flaaffy Lv50 HP 163/163 - 61 54 129 66 51
+Battler 1 moves: 20 Shock Wave, 20 Thunder Wave, 40 Cotton Spore, 30 Light Screen
+TRIATHLETE　ALONDRA<FE>would　like　to　battle！<FB>
+TRIATHLETE　ALONDRA　sent<FE>out　FLAAFFY　and　ARON！
+<FC>いいFLAAFFY
+<FC>いいFLAAFFY<FC>あさ♂
+Go！　PLUSLE　and<FE>KRABBY！
+<FC>いいPLUSLE
+<FC>いいPLUSLE<FC>あさ♂
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>ECTR
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>ECTR
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>KRABBY　do？
+FLAIL
+10/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>SPARK！
+Battler 1 info: Flaaffy Lv50 HP 103/163 - 61 54 129 66 51
+Battler 1 moves: 20 Shock Wave, 20 Thunder Wave, 40 Cotton Spore, 30 Light Screen
+A　critical　hit！
+It\'s　not　very　effective⋯
+Foe　FLAAFFY\'s　STATIC<FE>paralyzed　PLUSLE！<FA>It　may　be　unable　to　move！
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Flaaffy Lv50 HP 46/163 - 61 54 129 66 51
+Battler 1 moves: 20 Shock Wave, 20 Thunder Wave, 40 Cotton Spore, 30 Light Screen
+A　critical　hit！
+Foe　FLAAFFY　used<FE>LIGHT　SCREEN！
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF　a　little！
+Foe　ARON　used<FE>ROAR！
+Battler 0 info: Houndour Lv50 HP 138/138 - 66 36 118 56 71
+Battler 0 moves: 15 Crunch, 25 Ember, 20 Roar, 10 Protect
+<FC>いいHOUNDOUR<FC>あこ♀
+HOUNDOUR　was<FE>dragged　out！<FB>
+What　will<FE>HOUNDOUR　do？
+PROTECT
+TYPE/<FC>かあDARK
+What　will<FE>KRABBY　do？
+FLAIL
+ラ9/10
+TYPE/<FC>かあWATER
+HOUNDOUR　used<FE>CRUNCH！
+Battler 1 info: Flaaffy Lv50 HP 0/163 - 61 54 129 66 51
+Battler 1 moves: 20 Shock Wave, 20 Thunder Wave, 40 Cotton Spore, 29 Light Screen
+Foe　FLAAFFY<FE>fainted！<FB>
+Foe　FLAAFFY\'s　STATIC<FE>paralyzed　HOUNDOUR！<FA>It　may　be　unable　to　move！
+Battler 1 info: Omanyte Lv50 HP 117/117 - 67 106 117 61 41
+Battler 1 moves: 15 Mud Shot, 25 Water Gun, 5 AncientPower, 20 Tickle
+TRIATHLETE　ALONDRA　sent<FE>out　OMANYTE！
+<FC>いいOMANYTE<FC>あさ♂
+KRABBY　used<FE>CRABHAMMER！
+KRABBY\'s<FE>attack　missed！
+Foe　ARON　used<FE>ROAR！
+Battler 0 info: Plusle Lv50 HP 153/153 - 56 78 91 81 101
+Battler 0 moves: 19 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+<FC>いいPLUSLE<FC>あさ♂
+PLUSLE　was<FE>dragged　out！<FB>
+What　will<FE><FE>dragged　out！<FB>
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>KRABBY　do？
+FLAIL
+ラ8/10
+TYPE/<FC>かあWATER
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Omanyte Lv50 HP 100/117 - 67 106 117 61 41
+Battler 1 moves: 15 Mud Shot, 25 Water Gun, 5 AncientPower, 20 Tickle
+Foe　OMANYTE　used<FE>TICKLE！
+KRABBY\'s　ATTACK<FE>fell！
+KRABBY\'s　DEFENSE<FE>fell！
+Foe　ARON　used<FE>AERIAL　ACE！
+PLUSLE　used<FE>SPARK！
+Battler 1 info: Omanyte Lv50 HP 10/117 - 67 106 117 61 41
+Battler 1 moves: 15 Mud Shot, 25 Water Gun, 5 AncientPower, 19 Tickle
+It\'s　super　effective！
+Foe　OMANYTE　is　paralyzed！<FE>It　may　be　unable　to　move！
+Foe　OMANYTE\'s　SITRUS　BERRY<FE>restored　health！
+Battler 1 info: Omanyte Lv50 HP 40/117 - 67 106 117 61 41
+Battler 1 moves: 15 Mud Shot, 25 Water Gun, 5 AncientPower, 19 Tickle
+What　wANYTE\'s　SITRUS　BERRY<FE>restored　health！
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>KRABBY　do？
+FLAIL
+ラ7/10
+TYPE/<FC>かあWATER
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Omanyte Lv50 HP 21/117 - 67 106 117 61 41
+Battler 1 moves: 15 Mud Shot, 25 Water Gun, 5 AncientPower, 19 Tickle
+PLUSLE　used<FE>SPARK！
+Battler 1 info: Omanyte Lv50 HP 0/117 - 67 106 117 61 41
+Battler 1 moves: 15 Mud Shot, 25 Water Gun, 5 AncientPower, 19 Tickle
+It\'s　super　effective！
+Foe　OMANYTE<FE>fainted！<FB>
+Foe　ARON　used<FE>ROAR！
+<FC>いいHOUNDOUR<FC>あこ♀
+HOUNDOUR　was<FE>dragged　out！<FB>
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>HOUNDOUR　do？
+PROTECT
+TYPE/<FC>かあDARK
+Foe　ARON　used<FE>METAL　SOUND！
+PLUSLE\'s　SP。　DEF<FE>harshly　fell！
+PLUSLE　is　paralyzed！<FE>It　can\'t　move！
+HOUNDOUR　used<FE>CRUNCH！
+It\'s　not　very　effective⋯
+Foe\'s　LIGHT　SCREEN<FE>wore　off！
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>HOUNDOUR　do？
+PROTECT
+TYPE/<FC>かあDARK
+Foe　ARON　used<FE>AERIAL　ACE！
+Battler 0 info: Plusle Lv50 HP 136/153 - 56 78 91 81 101
+Battler 0 moves: 17 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+It\'s　not　very　effective⋯
+PLUSLE　used<FE>SPARK！
+Foe　ARON　is　paralyzed！<FE>It　may　be　unable　to　move！
+HOUNDOUR　is　paralyzed！<FE>It　can\'t　move！
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあDARK
+TYPE/<FC>かあNORMAL
+What　will<FE>HOUNDOUR　do？
+PROTECT
+TYPE/<FC>かあDARK
+PLUSLE　used<FE>HELPING　HAND！
+PLUSLE　is　ready　to<FE>help　HOUNDOUR！
+HOUNDOUR　used<FE>CRUNCH！
+A　critical　hit！
+It\'s　not　very　effective⋯
+Foe　ARON<FE>fainted！<FB>
+Player　defeated<FE>TRIATHLETE　ALONDRA！<FB>
+MY　DIVE　LEFT<FE>ME　COLD　⋯<FC>け
+<FC>いいPLUSLE<FC>あさ♂
+<FC>いいLILEEP<FC>あさ♂
+<FC>いいKRABBY<FC>あさ♂
+<FC>いいTENTACOOL<FC>あさ♂
+Battler 0 info: Plusle Lv50 HP 153/153 - 56 78 91 81 101
+Battler 0 moves: 20 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+Battler 1 info: Lileep Lv50 HP 159/159 - 79 83 67 93 29
+Battler 1 moves: 5 AncientPower, 30 Acid, 20 Ingrain, 10 Confuse Ray
+ウエ　BREEDER　MARISA<FE>would　like　to　battle！<FB>
+ウエ　BREEDER　MARISA　sent<FE>out　LILEEP　and　TENTACOOL！
+<FC>いいTENTACOOL<FC>あさ♂
+<FC>いいLILEEP<FC>あさ♂
+Go！　PLUSLE　and<FE>KRABBY！
+<FC>いいKRABBY<FC>あさ♂
+<FC>いいPLUSLE<FC>あさ♂
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+20/20
+TYPE/<FC>かあELECTR
+What　will<FE>KRABBY　do？
+FLAIL
+10/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>SPARK！
+Battler 1 info: Lileep Lv50 HP 141/159 - 79 83 67 93 29
+Battler 1 moves: 5 AncientPower, 30 Acid, 20 Ingrain, 10 Confuse Ray
+It\'s　not　very　effective⋯
+Foe　LILEEP　is　paralyzed！<FE>It　may　be　unable　to　move！
+Foe　TENTACOOL　used<FE>BUBBLEBEAM！
+It\'s　not　very　effective⋯
+KRABBY\'s　SPEED<FE>fell！
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Lileep Lv50 HP 121/159 - 79 83 67 93 29
+Battler 1 moves: 5 AncientPower, 30 Acid, 20 Ingrain, 10 Confuse Ray
+Foe　LILEEP　is　paralyzed！<FE>It　can\'t　move！
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>KRABBY　do？
+FLAIL
+ラ9/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>SPARK！
+Battler 1 info: Lileep Lv50 HP 103/159 - 79 83 67 93 29
+Battler 1 moves: 5 AncientPower, 30 Acid, 20 Ingrain, 10 Confuse Ray
+It\'s　not　very　effective⋯
+Foe　TENTACOOL　used<FE>ACID！
+Battler 0 info: Plusle Lv50 HP 128/153 - 56 78 91 81 101
+Battler 0 moves: 18 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+A　critical　hit！
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Lileep Lv50 HP 84/159 - 79 83 67 93 29
+Battler 1 moves: 5 AncientPower, 30 Acid, 20 Ingrain, 10 Confuse Ray
+Foe　LILEEP　is　paralyzed！<FE>It　can\'t　move！
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+18/20
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあDARK
+What　will<FE>KRABBY　do？
+FLAIL
+ラ8/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>FAKE　TEARS！
+Foe　LILEEP\'s　SP。　DEF<FE>harshly　fell！
+Foe　TENTACOOL　used<FE>BARRIER！
+Foe　TENTACOOL\'s　DEFENSE<FE>sharply　rose！
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Lileep Lv50 HP 48/159 - 79 83 67 93 29
+Battler 1 moves: 5 AncientPower, 30 Acid, 20 Ingrain, 10 Confuse Ray
+Foe　LILEEP　used<FE>ANCIENTPOWER！
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあDARK
+What　will<FE>KRABBY　do？
+FLAIL
+ラ7/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>FAKE　TEARS！
+Foe　LILEEP\'s　SP。　DEF<FE>harshly　fell！
+Foe　TENTACOOL　used<FE>ACID！
+Battler 0 info: Plusle Lv50 HP 117/153 - 56 78 91 81 101
+Battler 0 moves: 18 Spark, 18 Fake Tears, 30 Quick Attack, 20 Helping Hand
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Lileep Lv50 HP 0/159 - 79 83 67 93 29
+Battler 1 moves: 4 AncientPower, 30 Acid, 20 Ingrain, 10 Confuse Ray
+A　critical　hit！
+Foe　LILEEP<FE>fainted！<FB>
+Battler 1 info: Cacnea Lv50 HP 143/143 - 123 46 91 46 41
+Battler 1 moves: 15 Needle Arm, 20 Faint Attack, 40 Cotton Spore, 15 Sand-Attack
+ウエ　BREEDER　MARISA　sent<FE>out　CACNEA！
+<FC>いいCACNEA<FC>あこ♀
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあDARK
+TYPE/<FC>かあNORMAL
+What　will<FE>KRABBY　do？
+FLAIL
+ラ6/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>QUICK　ATTACK！
+Battler 1 info: Cacnea Lv50 HP 121/143 - 123 46 91 46 41
+Battler 1 moves: 15 Needle Arm, 20 Faint Attack, 40 Cotton Spore, 15 Sand-Attack
+Foe　TENTACOOL　used<FE>BUBBLEBEAM！
+It\'s　not　very　effective⋯
+KRABBY<FE>fainted！<FB>
+<FC>いいPLUSLE<FC>あさ♂
+<FC>いいCACNEA<FC>あこ♀
+<FC>いいKRABBY<FC>あさ♂
+<FC>いいTENTACOOL<FC>あさ♂
+Go！　HOUNDOUR！
+<FC>いいHOUNDOUR<FC>あこ♀
+Foe　CACNEA　used<FE>NEEDLE　ARM！
+Battler 0 info: Plusle Lv50 HP 74/153 - 56 78 91 81 101
+Battler 0 moves: 18 Spark, 18 Fake Tears, 29 Quick Attack, 20 Helping Hand
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+29/30
+TYPE/<FC>かあNORMAL
+What　will<FE>HOUNDOUR　do？
+PROTECT
+TYPE/<FC>かあDARK
+PLUSLE　used<FE>QUICK　ATTACK！
+Battler 1 info: Cacnea Lv50 HP 100/143 - 123 46 91 46 41
+Battler 1 moves: 14 Needle Arm, 20 Faint Attack, 40 Cotton Spore, 15 Sand-Attack
+Foe　TENTACOOL　used<FE>WRAP！
+Foe　TENTACOOL\'s<FE>attack　missed！
+HOUNDOUR　used<FE>CRUNCH！
+Battler 1 info: Cacnea Lv50 HP 0/143 - 123 46 91 46 41
+Battler 1 moves: 14 Needle Arm, 20 Faint Attack, 40 Cotton Spore, 15 Sand-Attack
+Foe　CACNEA<FE>fainted！<FB>
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあNORMAL
+What　will<FE>HOUNDOUR　do？
+PROTECT
+TYPE/<FC>かあDARK
+PLUSLE　used<FE>QUICK　ATTACK！
+Foe　TENTACOOL　used<FE>BUBBLEBEAM！
+Battler 0 info: Plusle Lv50 HP 36/153 - 56 78 91 81 101
+Battler 0 moves: 18 Spark, 18 Fake Tears, 27 Quick Attack, 20 Helping Hand
+HOUNDOUR　used<FE>CRUNCH！
+Using　PETAYA　BERRY,　the　SP。　ATK<FE>of　PLUSLE　rose！
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあNORMAL
+What　will<FE>HOUNDOUR　do？
+PROTECT
+TYPE/<FC>かあDARK
+PLUSLE　used<FE>QUICK　ATTACK！
+Foe　TENTACOOL　used<FE>WRAP！
+HOUNDOUR　was　WRAPPED　by<FE>Foe　TENTACOOL！
+HOUNDOUR　used<FE>CRUNCH！
+Foe　TENTACOOL<FE>fainted！<FB>
+Player　defeated<FE>ウエ　BREEDER　MARISA！<FB>
+PROMISE　ME　ANOTHER<FE>BATTLE　PLEASE　！<FC>け
+<FC>いいPLUSLE<FC>あさ♂
+<FC>いいEEVEE<FC>あさ♂
+<FC>いいKRABBY<FC>あさ♂
+<FC>いいGROVYLE<FC>あさ♂
+Battler 0 info: Plusle Lv50 HP 153/153 - 56 78 91 81 101
+Battler 0 moves: 20 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+Battler 1 info: Eevee Lv50 HP 148/148 - 61 56 51 71 93
+Battler 1 moves: 20 Charm, 15 Attract, 15 Flail, 10 Endure
+HIKER　RICH<FE>would　like　to　battle！<FB>
+HIKER　RICH　sent<FE>out　EEVEE　and　GROVYLE！
+<FC>いい
+<FC>いいEEVEE<FC>あさ♂
+Go！　PLUSLE　and<FE>KRABBY！
+<FC>いいPLUSLE
+<FC>いいPLUSLE<FC>あさ♂
+What　will<FE>PLUSLERABBY！
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>KRABBY　do？
+FLAIL
+10/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>SPARK！
+Battler 1 info: Eevee Lv50 HP 98/148 - 61 56 51 71 93
+Battler 1 moves: 20 Charm, 15 Attract, 15 Flail, 10 Endure
+Foe　EEVEE　used<FE>CHARM！
+KRABBY\'s　ATTACK<FE>harshly　fell！
+Foe　GROVYLE　used<FE>BRICK　BREAK！
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Eevee Lv50 HP 74/148 - 61 56 51 71 93
+Battler 1 moves: 19 Charm, 15 Attract, 15 Flail, 10 Endure
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+19/20
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあDARK
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあDARK
+What　will<FE>KRABBY　do？
+FLAIL
+ラ9/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>FAKE　TEARS！
+Foe　EEVEE\'s　SP。　DEF<FE>harshly　fell！
+Foe　EEVEE　used<FE>FLAIL！
+Foe　GROVYLE　used<FE>DOUBLE　TEAM！
+Foe　GROVYLE\'s　evasiveness<FE>rose！
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Eevee Lv50 HP 0/148 - 61 56 51 71 93
+Battler 1 moves: 19 Charm, 15 Attract, 14 Flail, 10 Endure
+A　critical　hit！
+Foe　EEVEE<FE>fainted！<FB>
+Battler 1 info: Exeggcute Lv50 HP 153/153 - 50 86 98 45 46
+Battler 1 moves: 25 Confusion, 5 AncientPower, 10 Leech Seed, 30 Light Screen
+HIKER　RICH　sent<FE>out　EXEGGCUTE！
+<FC>いいEXEGGCUTE<FC>あこ♀
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあDARK
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあNORMAL
+What　will<FE>KRABBY　do？
+FLAIL
+ラ8/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>QUICK　ATTACK！
+Battler 1 info: Exeggcute Lv50 HP 142/153 - 50 86 98 45 46
+Battler 1 moves: 25 Confusion, 5 AncientPower, 10 Leech Seed, 30 Light Screen
+Foe　GROVYLE　used<FE>FURY　CUTTER！
+KRABBY　used<FE>CRABHAMMER！
+KRABBY\'s<FE>attack　missed！
+Foe　EXEGGCUTE　used<FE>CONFUSION！
+Battler 0 info: Plusle Lv50 HP 117/153 - 56 78 91 81 101
+Battler 0 moves: 19 Spark, 19 Fake Tears, 29 Quick Attack, 20 Helping Hand
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあNORMAL
+What　will<FE>KRABBY　do？
+FLAIL
+ラ7/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>QUICK　ATTACK！
+Battler 1 info: Exeggcute Lv50 HP 131/153 - 50 86 98 45 46
+Battler 1 moves: 24 Confusion, 5 AncientPower, 10 Leech Seed, 30 Light Screen
+Foe　GROVYLE　used<FE>FURY　CUTTER！
+Battler 0 info: Plusle Lv50 HP 106/153 - 56 78 91 81 101
+Battler 0 moves: 19 Spark, 19 Fake Tears, 28 Quick Attack, 20 Helping Hand
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Exeggcute Lv50 HP 113/153 - 50 86 98 45 46
+Battler 1 moves: 24 Confusion, 5 AncientPower, 10 Leech Seed, 30 Light Screen
+It\'s　not　very　effective⋯
+Foe　EXEGGCUTE　used<FE>LEECH　SEED！
+PLUSLE　was　seeded！
+Battler 0 info: Plusle Lv50 HP 87/153 - 56 78 91 81 101
+Battler 0 moves: 19 Spark, 19 Fake Tears, 28 Quick Attack, 20 Helping Hand
+Battler 1 info: Exeggcute Lv50 HP 132/153 - 50 86 98 45 46
+Battler 1 moves: 24 Confusion, 5 AncientPower, 9 Leech Seed, 30 Light Screen
+PLUSLE\'s　health　is<FE>sapped　by　LEECH　SEED！
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+28/
+TYPE/<FC>かあNORMAL
+What　will<FE>PLUSLE　do？
+<FC>いいPLUSLE<FC>あさ♂
+<FC>いいEXEGGCUTE<FC>あこ♀
+<FC>いいKRABBY<FC>あさ♂
+<FC>いいGROVYLE<FC>あさ♂
+What　will<FE>KRABBY　do？
+FLAIL
+TYPE/<FC>かあWATER
+PLUSLE,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Houndour Lv50 HP 138/138 - 66 36 118 56 71
+Battler 0 moves: 15 Crunch, 25 Ember, 20 Roar, 10 Protect
+Go！　HOUNDOUR！
+<FC>いいHOUNDOUR<FC>あこ♀
+Foe　GROVYLE　used<FE>BRICK　BREAK！
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Exeggcute Lv50 HP 112/153 - 50 86 98 45 46
+Battler 1 moves: 24 Confusion, 5 AncientPower, 9 Leech Seed, 30 Light Screen
+It\'s　not　very　effective⋯
+Foe　EXEGGCUTE　used<FE>LIGHT　SCREEN！
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF　a　little！
+What　will<FE>HOUNDOUR　do？
+PROTECT
+TYPE/<FC>かあDARK
+What　will<FE>KRABBY　do？
+FLAIL
+ラ5/10
+TYPE/<FC>かあWATER
+TYPE/<FC>かあGROUND
+TYPE/<FC>かあDARK
+TYPE/<FC>かあNORMAL
+Foe　GROVYLE　used<FE>BRICK　BREAK！
+HOUNDOUR　used<FE>CRUNCH！
+Battler 1 info: Exeggcute Lv50 HP 0/153 - 50 86 98 45 46
+Battler 1 moves: 24 Confusion, 5 AncientPower, 9 Leech Seed, 29 Light Screen
+It\'s　super　effective！
+Foe　EXEGGCUTE<FE>fainted！<FB>
+KRABBY　used<FE>FLAIL！
+KRABBY\'s<FE>attack　missed！
+What　will<FE>HOUNDOUR　do？
+PROTECT
+TYPE/<FC>かあDARK
+What　will<FE>KRABBY　do？
+FLAIL
+14/15
+TYPE/<FC>かあNORMAL
+Foe　GROVYLE　used<FE>FURY　CUTTER！
+Battler 0 info: Houndour Lv50 HP 87/138 - 66 36 118 56 71
+Battler 0 moves: 14 Crunch, 25 Ember, 20 Roar, 10 Protect
+HOUNDOUR　used<FE>CRUNCH！
+HOUNDOUR\'s<FE>attack　missed！
+KRABBY　used<FE>FLAIL！
+What　will<FE>HOUNDOUR　do？
+PROTECT
+TYPE/<FC>かあDARK
+What　will<FE>KRABBY　do？
+FLAIL
+13/15
+TYPE/<FC>かあNORMAL
+Foe　GROVYLE　used<FE>FURY　CUTTER！
+KRABBY　hung　on<FE>using　its　FOCUS　BAND！
+HOUNDOUR　used<FE>CRUNCH！
+A　critical　hit！
+Foe　GROVYLE<FE>fainted！<FB>
+Player　defeated<FE>HIKER　RICH！<FB>
+THAT　WAS　REALLY　TOUGH<FE>ON　ME　<FC>け
+<FC>いいPLUSLE<FC>あさ♂
+<FC>いいLOMBRE<FC>あこ♀
+<FC>いいKRABBY<FC>あさ♂
+<FC>いいKADABRA<FC>あさ♂
+Battler 0 info: Plusle Lv50 HP 153/153 - 56 78 91 81 101
+Battler 0 moves: 20 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+Battler 1 info: Lombre Lv50 HP 153/153 - 88 56 66 76 56
+Battler 1 moves: 20 Water Pulse, 10 Fake Out, 15 Brick Break, 20 Absorb
+SCHOOL　KID　KEITH<FE>would　like　to　battle！<FB>
+SCHOOL　KID　KEITH　sent<FE>out　LOMBRE　and　KADABRA！
+<FC>いいKADABRA<FC>あさ♂
+<FC>いいLOMBRE<FC>あこ♀
+Go！　PLUSLE　and<FE>KRABBY！
+<FC>いいPLUSLE
+<FC>いいPLUSLE<FC>あさ♂
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>KRABBY　do？
+FLAIL
+10/10
+TYPE/<FC>かあWATER
+Foe　KADABRA　used<FE>ROLE　PLAY！
+Foe　KADABRA　copied<FE>KRABBY\'s　SHELL　ARMOR！
+PLUSLE　used<FE>SPARK！
+Battler 1 info: Lombre Lv50 HP 99/153 - 88 56 66 76 56
+Battler 1 moves: 20 Water Pulse, 10 Fake Out, 15 Brick Break, 20 Absorb
+Foe　LOMBRE　used<FE>BRICK　BREAK！
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Lombre Lv50 HP 94/153 - 88 56 66 76 56
+Battler 1 moves: 20 Water Pulse, 10 Fake Out, 14 Brick Break, 20 Absorb
+It\'s　not　very　effective⋯
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>KRABBY　do？
+FLAIL
+ラ9/10
+TYPE/<FC>かあWATER
+Foe　KADABRA　used<FE>DISABLE！
+KRABBY\'s　CRABHAMMER<FE>was　disabled！
+PLUSLE　used<FE>SPARK！
+Battler 1 info: Lombre Lv50 HP 47/153 - 88 56 66 76 56
+Battler 1 moves: 20 Water Pulse, 10 Fake Out, 14 Brick Break, 20 Absorb
+Foe　LOMBRE　used<FE>BRICK　BREAK！
+Battler 0 info: Plusle Lv50 HP 115/153 - 56 78 91 81 101
+Battler 0 moves: 18 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+KRABBY\'s　CRABHAMMER<FE>is　disabled！<FB>
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+18/20
+TYPE/<FC>かあELECTR
+What　will<FE>KRABBY　do？
+FLAIL
+ラ9/10
+TYPE/<FC>かあWATER
+TYPE/<FC>かあNORMAL
+Foe　LOMBRE　used<FE>FAKE　OUT！
+But　it　failed！
+Foe　KADABRA　used<FE>FUTURE　SIGHT！
+Foe　KADABRA　foresaw<FE>an　attack！
+PLUSLE　used<FE>SPARK！
+Battler 1 info: Lombre Lv50 HP 1/153 - 88 56 66 76 56
+Battler 1 moves: 20 Water Pulse, 9 Fake Out, 13 Brick Break, 20 Absorb
+Foe　LOMBRE　is　paralyzed！<FE>It　may　be　unable　to　move！
+KRABBY　used<FE>FLAIL！
+Battler 1 info: Lombre Lv50 HP 0/153 - 88 56 66 76 56
+Battler 1 moves: 20 Water Pulse, 9 Fake Out, 13 Brick Break, 20 Absorb
+Foe　LOMBRE<FE>fainted！<FB>
+Battler 1 info: Delibird Lv50 HP 138/138 - 61 51 103 51 81
+Battler 1 moves: 15 Present, 20 Ice Ball, 20 Aerial Ace, 10 Hail
+SCHOOL　KID　KEITH　sent<FE>out　DELIBIRD！
+<FC>いいDELIBIRD<FC>あこ♀
+KRABBY　is　disabled<FE>no　more！
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What/<FC>かあELECTR
+What　will<FE>KRABBY　do？
+FLAIL
+14/15
+TYPE/<FC>かあNORMAL
+Foe　KADABRA　used<FE>ROLE　PLAY！
+Foe　KADABRA　copied<FE>KRABBY\'s　SHELL　ARMOR！
+PLUSLE　used<FE>SPARK！
+Battler 1 info: Delibird Lv50 HP 0/138 - 61 51 103 51 81
+Battler 1 moves: 15 Present, 20 Ice Ball, 20 Aerial Ace, 10 Hail
+It\'s　super　effective！
+Foe　DELIBIRD<FE>fainted！<FB>
+KRABBY　used<FE>FLAIL！
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+16/20
+TYPE/<FC>かあELECTR
+What　will<FE>KRABBY　do？
+FLAIL
+13/15
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあDARK
+What　will<FE>KRABBY　do？
+FLAIL
+20/20
+TYPE/<FC>かあDARK
+TYPE/<FC>かあGROUND
+TYPE/<FC>かあWATER
+What　will<FE>KRABBY　do？
+FLAIL
+ラ9/10
+TYPE/<FC>かあWATER
+Foe　KADABRA　used<FE>DISABLE！
+PLUSLE\'s　SPARK<FE>was　disabled！
+PLUSLE\'s　SPARK<FE>is　disabled！<FB>
+KRABBY　used<FE>CRABHAMMER！
+PLUSLE　took　the<FE>FUTURE　SIGHT　attack！
+Battler 0 info: Plusle Lv50 HP 67/153 - 56 78 91 81 101
+Battler 0 moves: 16 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+What　will<FE>PLUSLE　dTURE　SIGHT　attack！
+What　will<FE>PLUSLE　do？
+Battler 0 info: Plusle Lv50 HP 67/153 - 56 78 91 81 101
+Battler 0 moves: 16 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+Battler 1 info: Delibird Lv50 HP 0/138 - 61 51 103 51 81
+Battler 1 moves: 15 Present, 20 Ice Ball, 20 Aerial Ace, 10 Hail
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+PLUSLE\'s　SPARK<FE>is　disabled！<FB>
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+PLUSLE\'s　SPARK<FE>is　disabled！<FB>
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあNORMAL
+What　will<FE>KRABBY　do？
+FLAIL
+ラ8/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>QUICK　ATTACK！
+Foe　KADABRA　used<FE>ROLE　PLAY！
+Foe　KADABRA　copied<FE>PLUSLE\'s　PLUS！
+KRABBY　used<FE>CRABHAMMER！
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあNORMAL
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあNORMAL
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあNORMAL
+What　will<FE>KRABBY　do？
+FLAIL
+ラ7/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>QUICK　ATTACK！
+Foe　KADABRA　used<FE>FUTURE　SIGHT！
+Foe　KADABRA　foresaw<FE>an　attack！
+KRABBY　used<FE>CRABHAMMER！
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあNORMAL
+What　will<FE>KRABBY　do？
+FLAIL
+ラ6/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>QUICK　ATTACK！
+Foe　KADABRA　used<FE>DISABLE！
+Foe　KADABRA\'s<FE>attack　missed！
+KRABBY　used<FE>CRABHAMMER！
+Foe　KADABRA<FE>fainted！<FB>
+Player　defeated<FE>SCHOOL　KID　KEITH！<FB>
+I　NEED　TO<FE>STUDY　MORE　⋯<FC>け
+<FC>いいPLUSLE<FC>あさ♂
+<FC>いいSPOINK<FC>あさ♂
+<FC>いいKRABBY<FC>あさ♂
+<FC>いいGLOOM<FC>あさ♂
+Battler 0 info: Plusle Lv50 HP 153/153 - 56 78 91 81 101
+Battler 0 moves: 20 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+Battler 1 info: Spoink Lv50 HP 153/153 - 31 45 108 86 59
+Battler 1 moves: 15 Psywave, 5 Bounce, 15 Magic Coat, 10 Confuse Ray
+TUBER　EILEEN<FE>would　like　to　battle！<FB>
+TUBER　EILEEN　sent<FE>out　SPOINK　and　GLOOM！
+<FC>いいSPOINK<FC>あさ♂
+Go！　PLUSLE　and<FE>KRABBY！
+<FC>いいPRABBY<FC>あさ♂
+<FC>いいPLUSLE<FC>あさ♂
+What　will<FE>PLUSLE　do？
+Battler 0 info: Plusle Lv50 HP 153/153 - 56 78 91 81 101 - Moves: 20 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+Battler 1 info: Spoink Lv50 HP 153/153 - 31 45 108 86 59 - Moves: 15 Psywave, 5 Bounce, 15 Magic Coat, 10 Confuse Ray
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>KRABBY　do？
+FLAIL
+10/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>SPARK！
+Battler 1 info: Spoink Lv50 HP 106/153 - 31 45 108 86 59 - Moves: 15 Psywave, 5 Bounce, 15 Magic Coat, 10 Confuse Ray
+Foe　SPOINK　is　paralyzed！<FE>It　may　be　unable　to　move！
+Foe　SPOINK　is　paralyzed！<FE>It　can\'t　move！
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Spoink Lv50 HP 85/153 - 31 45 108 86 59 - Moves: 15 Psywave, 5 Bounce, 15 Magic Coat, 10 Confuse Ray
+Foe　GLOOM　used<FE>PETAL　DANCE！
+Battler 0 info: Plusle Lv50 HP 31/153 - 56 78 91 81 101 - Moves: 19 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+A　critical　hit！
+Using　PETAYA　BERRY,　the　SP。　ATK<FE>of　PLUSLE　rose！
+What　will<FE>PLUSLE　do？
+Battler 0 info: Plusle Lv50 HP 31/153 - 56 78 91 81 101 - Moves: 19 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+Battler 1 info: Spoink Lv50 HP 85/153 - 31 45 108 86 59 - Moves: 15 Psywave, 5 Bounce, 15 Magic Coat, 10 Confuse Ray
+Battler 2 info: Krabby Lv50 HP 123/123 - 143 96 31 31 56 - Moves: 9 Crabhammer, 15 Mud Shot, 15 Flail, 20 Knock Off
+Battler 3 info: Gloom Lv50 HP 153/153 - 71 76 123 81 46 - Moves: 19 Petal Dance, 30 Acid, 30 Stun Spore, 5 Moonlight
+What　will<FE>PLUSLE　do？
+QUICK　ATTACK
+PP　
+TYPE/<FC>かあELECTR
+What　will<FE>KRABBY　do？
+FLAIL
+ラ9/10
+TYPE/<FC>かあWATER
+PLUSLE　used<FE>SPARK！
+Battler 1 info: Spoink Lv50 HP 25/153 - 31 45 108 86 59 - Moves: 15 Psywave, 5 Bounce, 15 Magic Coat, 10 Confuse Ray
+KRABBY　used<FE>CRABHAMMER！
+Battler 1 info: Spoink Lv50 HP 4/153 - 31 45 108 86 59 - Moves: 15 Psywave, 5 Bounce, 15 Magic Coat, 10 Confuse Ray
+Foe　GLOOM　used<FE>PETAL　DANCE！
+Battler 0 info: Plusle Lv50 HP 0/153 - 56 78 91 81 101 - Moves: 18 Spark, 20 Fake Tears, 30 Quick Attack, 20 Helping Hand
+PLUSLE<FE>fainted！<FB>
+<FC>いいPLUSLE<FC>あさ♂
+<FC>いいSPOINK<FC>あさ♂
+<FC>いいKRABBY<FC>あさ♂
+<FC>いいGLOOM<FC>あさ♂
+Battler 0 info: Houndour Lv50 HP 138/138 - 66 36 118 56 71 - Moves: 15 Crunch, 25 Ember, 20 Roar, 10 Protect
+Go！　HOUNDOUR！
+<FC>いいHOUNDOUR<FC>あこ♀
+Foe　SPOINK　sprang　up！
+Foe　GLOOM　became<FE>confused　due　to　fatigue！
+Foe　GLOOM\'s　PERSIM　BERRY<FE>snapped　it　out　of　confusion！
+Foe　SPOINK\'s　SITRUS　BERRY<FE>restored　health！
+Battler 1 info: Spoink Lv50 HP 34/153 - 31 45 108 86 59 - Moves: 15 Psywave, 4 Bounce, 15 Magic Coat, 10 Confuse Ray
+What　will<FE>HOUNDOUR　do？
+Battler 0 info: Houndour Lv50 HP 138/138 - 66 36 118 56 71 - Moves: 15 Crunch, 25 Ember, 20 Roar, 10 Protect
+Battler 1 info: Spoink Lv50 HP 34/153 - 31 45 108 86 59 - Moves: 15 Psywave, 4 Bounce, 15 Magic Coat, 10 Confuse Ray
+Battler 2 info: Krabby Lv50 HP 123/123 - 143 96 31 31 56 - Moves: 8 Crabhammer, 15 Mud Shot, 15 Flail, 20 Knock Off
+Battler 3 info: Gloom Lv50 HP 153/153 - 71 76 123 81 46 - Moves: 19 Petal Dance, 30 Acid, 30 Stun Spore, 5 Moonlight
+What　will<FE>HOUNDOUR　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+What　will<FE>HOUNDOUR　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+What　will<FE>KRABBY　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+April　forfeited　the　match！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+<FC>いいSMEARGLE<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 258/261 - 262 168 319 157 181 - Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv44 HP 112/112 - 31 42 38 49 80 - Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Wild　SMEARGLE　appeared！<FB>
+Go！　Very　Long！
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+What　will<FE>Very　Long　do？
+<FC>たち　Got　away　safely！<FB>
+Battler 0 info: Rayquaza Lv76 HP 258/261 - 262 168 319 157 181 - Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Smeargle Lv44 HP 112/112 - 31 42 38 49 80 - Moves: 1 Sketch, 0 nil, 0 nil, 0 nil
+Battler 2 info: Krabby Lv50 HP 123/123 - 143 96 31 31 56 - Moves: 8 Crabhammer, 15 Mud Shot, 15 Flail, 20 Knock Off
+Battler 3 info: Gloom Lv50 HP 153/153 - 71 76 123 81 46 - Moves: 19 Petal Dance, 30 Acid, 30 Stun Spore, 5 Moonlight
+<FC>たち　Got　away　safely！<FB>
+<FC>いいFERALIGATR<FC>あさ♂
+<FC>いいHOUNDOOM<FC>あこ♀
+Battler 0 info: Feraligatr Lv100 HP 325/325 - 218 208 228 216 147 - Moves: 15 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+Battler 1 info: Houndoom Lv100 HP 291/291 - 258 136 298 196 268 - Moves: 15 Flamethrower, 15 Shadow Ball, 20 Counter, 15 Will-O-Wisp
+RUIN　MANIAC　ANTON<FE>would　like　to　battle！<FB>
+RUIN　MANIAC　ANTON　sent<FE>out　HOUNDOOM！
+<FC>いいHOUNDOOM<FC>あこ♀
+Go！　FERALIGATR！
+<FC>いいFERALIGATR<FC>あさ♂
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　HOUNDOOM　used<FE>WILLーOーWISP！
+FERALIGATR　was　burned！
+FERALIGATR\'s　LUM　BERRY<FE>cured　its　burn　problem！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Houndoom Lv100 HP 15/291 - 258 136 298 196 268 - Moves: 15 Flamethrower, 15 Shadow Ball, 20 Counter, 14 Will-O-Wisp
+It\'s　super　effective！
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　HOUNDOOM　used<FE>FLAMETHROWER！
+Battler 0 info: Feraligatr Lv100 HP 242/325 - 218 208 228 216 147 - Moves: 14 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+It\'s　not　very　effective⋯
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Houndoom Lv100 HP 0/291 - 258 136 298 196 268 - Moves: 14 Flamethrower, 15 Shadow Ball, 20 Counter, 14 Will-O-Wisp
+It\'s　super　effective！
+Foe　HOUNDOOM<FE>fainted！<FB>
+Battler 1 info: Muk Lv100 HP 414/414 - 339 186 149 236 136 - Moves: 10 Sludge Bomb, 15 Body Slam, 40 Screech, 20 Minimize
+RUIN　MANIAC　ANTON　sent<FE>out　MUK！
+<FC>いいMUK<FC>あさ♂
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Muk Lv100 HP 296/414 - 339 186 149 236 136 - Moves: 10 Sludge Bomb, 15 Body Slam, 40 Screech, 20 Minimize
+Foe　MUK　used<FE>SLUDGE　BOMB！
+Battler 0 info: Feraligatr Lv100 HP 48/325 - 218 208 228 216 147 - Moves: 12 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Muk Lv100 HP 141/414 - 339 186 149 236 136 - Moves: 9 Sludge Bomb, 15 Body Slam, 40 Screech, 20 Minimize
+Foe　MUK　used<FE>MINIMIZE！
+Foe　MUK\'s　evasiveness<FE>rose！
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Muk Lv100 HP 0/414 - 339 186 149 236 136 - Moves: 9 Sludge Bomb, 15 Body Slam, 40 Screech, 19 Minimize
+Foe　MUK<FE>fainted！<FB>
+Battler 1 info: Golduck Lv100 HP 301/301 - 263 192 317 196 185 - Moves: 5 Hydro Pump, 10 Dig, 15 Brick Break, 30 Light Screen
+RUIN　MANIAC　ANTON　sent<FE>out　GOLDUCK！
+<FC>いいGOLDUCK<FC>あこ♀
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　GOLDUCK　dug　a　hole！
+FERALIGATR　used<FE>SURF！
+FERALIGATR\'s<FE>attack　missed！
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　GOLDUCK　used<FE>DIG！
+Battler 0 info: Feraligatr Lv100 HP 0/325 - 218 208 228 216 147 - Moves: 9 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR<FE>fainted！<FB>
+<FC>いいFERALIGATR<FC>あさ♂
+<FC>いいGOLDUCK<FC>あこ♀
+Battler 0 info: Nidoking Lv100 HP 338/338 - 280 162 160 158 178 - Moves: 5 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+Go！　NIDOKING！
+<FC>いいNIDOKING<FC>あさ♂
+What　will<FE>G<FC>あさ♂
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ5/ラ5
+TYPE/<FC>かあNORMAL
+Foe　GOLDUCK　used<FE>LIGHT　SCREEN！
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF！
+NIDOKING　used<FE>HORN　DRILL！
+Battler 1 info: Golduck Lv100 HP 0/301 - 263 192 317 196 185 - Moves: 5 Hydro Pump, 9 Dig, 15 Brick Break, 29 Light Screen
+It\'s　a　oneーhit　KO！
+Foe　GOLDUCK<FE>fainted！<FB>
+Player　defeated<FE>RUIN　MANIAC　ANTON！<FB>
+IT\'S　A　TOUGH<FE>LOSS　TO　SWALLOW<FC>け
+<FC>いいFERALIGATR
+<FC>いいFERALIGATR<FC>あさ♂
+<FC>いいMAGMAR<FC>あこ♀
+Battler 0 info: Feraligatr Lv100 HP 325/325 - 218 208 228 216 147 - Moves: 15 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+Battler 1 info: Magmar Lv100 HP 313/313 - 226 211 278 206 199 - Moves: 15 Flamethrower, 20 SmokeScreen, 15 Brick Break, 30 Barrier
+RICH　BOY　RUSS<FE>would　like　to　battle！<FB>
+RICH　BOY　RUSS　sent<FE>out　MAGMAR！
+<FC>いいMAGMAR<FC>あこ♀
+Go！　FERALIGATR！
+<FC>いいFERALIGATR<FC>あさ♂
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　MAGMAR　used<FE>BARRIER！
+Foe　MAGMAR\'s　DEFENSE<FE>sharply　rose！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Magmar Lv100 HP 52/313 - 226 211 278 206 199 - Moves: 15 Flamethrower, 20 SmokeScreen, 15 Brick Break, 29 Barrier
+It\'s　super　effective！
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　MAGMAR　used<FE>SMOKESCREEN！
+FERALIGATR\'s　accuracy<FE>fell！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Magmar Lv100 HP 0/313 - 226 211 278 206 199 - Moves: 15 Flamethrower, 19 SmokeScreen, 15 Brick Break, 29 Barrier
+It\'s　super　effective！
+Foe　MAGMAR<FE>fainted！<FB>
+Battler 1 info: Golem Lv100 HP 301/301 - 350 296 131 229 126 - Moves: 10 Earthquake, 15 Body Slam, 20 Counter, 10 Rock Tomb
+RICH　BOY　RUSS　sent<FE>out　GOLEM！
+<FC>いいGOLEM<FC>あこ♀
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Golem Lv100 HP 0/301 - 350 296 131 229 126 - Moves: 10 Earthquake, 15 Body Slam, 20 Counter, 10 Rock Tomb
+It\'s　super　effective！
+Foe　GOLEM<FE>fainted！<FB>
+Battler 1 info: Fearow Lv100 HP 271/271 - 306 166 142 158 299 - Moves: 20 Drill Peck, 10 Tri Attack, 20 Facade, 10 Mud-Slap
+RICH　BOY　RUSS　sent<FE>out　FEAROW！
+<FC>いいFEAROW<FC>あさ♂
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　FEAROW　used<FE>FACADE！
+Battler 0 info: Feraligatr Lv100 HP 211/325 - 218 208 228 216 147 - Moves: 12 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Fearow Lv100 HP 114/271 - 306 166 142 158 299 - Moves: 20 Drill Peck, 10 Tri Attack, 19 Facade, 10 Mud-Slap
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　FEAROW　used<FE>TRI　ATTACK！
+Battler 0 info: Feraligatr Lv100 HP 79/325 - 218 208 228 216 147 - Moves: 11 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR　was<FE>frozen　solid！
+FERALIGATR\'s　LUM　BERRY<FE>cured　its　ice　problem！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Fearow Lv100 HP 0/271 - 306 166 142 158 299 - Moves: 20 Drill Peck, 9 Tri Attack, 19 Facade, 10 Mud-Slap
+Foe　FEAROW<FE>fainted！<FB>
+Player　defeated<FE>RICH　BOY　RUSS！<FB>
+HOW　COULD　YOU<FE>DO　THAT　？<FC>け
+<FC>いいFERALIGATR
+<FC>いいFERALIGATR<FC>あさ♂
+<FC>いいURSARING<FC>あこ♀
+Battler 0 info: Feraligatr Lv100 HP 325/325 - 218 208 228 216 147 - Moves: 15 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+Battler 1 info: Ursaring Lv100 HP 363/363 - 338 186 228 186 146 - Moves: 5 Mega Kick, 15 Crunch, 20 Aerial Ace, 20 Counter
+SAILOR　KADEN<FE>would　like　to　battle！<FB>
+SAILOR　KADEN　sent<FE>out　URSARING！
+<FC>いいURSARING<FC>あこ♀
+Go！　FERALIGATR！
+<FC>いいFERALIGATR<FC>あさ♂
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Ursaring Lv100 HP 220/363 - 338 186 228 186 146 - Moves: 5 Mega Kick, 15 Crunch, 20 Aerial Ace, 20 Counter
+Foe　URSARING　used<FE>CRUNCH！
+Battler 0 info: Feraligatr Lv100 HP 262/325 - 218 208 228 216 147 - Moves: 14 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Ursaring Lv100 HP 78/363 - 338 186 228 186 146 - Moves: 5 Mega Kick, 14 Crunch, 20 Aerial Ace, 20 Counter
+Foe　URSARING　used<FE>MEGA　KICK！
+Battler 0 info: Feraligatr Lv100 HP 25/325 - 218 208 228 216 147 - Moves: 13 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Ursaring Lv100 HP 0/363 - 338 186 228 186 146 - Moves: 4 Mega Kick, 14 Crunch, 20 Aerial Ace, 20 Counter
+Foe　URSARING<FE>fainted！<FB>
+Battler 1 info: Milotic Lv100 HP 373/373 - 140 236 305 286 198 - Moves: 5 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+SAILOR　KADEN　sent<FE>out　MILOTIC！
+<FC>いいMILOTIC<FC>あこ♀
+What　will<FE>FERALIG<FE>out　MILOTIC！
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　MILOTIC　used<FE>RECOVER！
+Foe　MILOTIC\'s<FE>HP　is　full！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Milotic Lv100 HP 309/373 - 140 236 305 286 198 - Moves: 5 Hydro Pump, 15 Icy Wind, 19 Recover, 20 Mirror Coat
+It\'s　not　very　effective⋯
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Milotic Lv100 HP 176/373 - 140 236 305 286 198 - Moves: 5 Hydro Pump, 15 Icy Wind, 19 Recover, 20 Mirror Coat
+A　critical　hit！
+It\'s　not　very　effective⋯
+Foe　MILOTIC　used<FE>MIRROR　COAT！
+Battler 0 info: Feraligatr Lv100 HP 0/325 - 218 208 228 216 147 - Moves: 10 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR<FE>fainted！<FB>
+<FC>いいFERALIGATR<FC>あさ♂
+<FC>いいMILOTIC<FC>あこ♀
+Battler 0 info: Nidoking Lv100 HP 338/338 - 280 162 160 158 178 - Moves: 5 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+Do　it！　NIDOKING！
+<FC>いいNIDOKING<FC>あさ♂
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ5/ラ5
+TYPE/<FC>かあNORMAL
+NIDOKING　used<FE>HORN　DRILL！
+NIDOKING\'s<FE>attack　missed！
+Foe　MILOTIC　used<FE>MIRROR　COAT！
+But　it　failed！
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ4/ラTER
+TYPE/<FC>かあNORMAL
+NIDOKING　used<FE>HORN　DRILL！
+Battler 1 info: Milotic Lv100 HP 0/373 - 140 236 305 286 198 - Moves: 5 Hydro Pump, 15 Icy Wind, 19 Recover, 18 Mirror Coat
+It\'s　a　oneーhit　KO！
+Foe　MILOTIC<FE>fainted！<FB>
+Battler 1 info: Scizor Lv100 HP 281/281 - 394 236 131 259 166 - Moves: 35 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+SAILOR　KADEN　sent<FE>out　SCIZOR！
+<FC>いいSCIZOR<FC>あさ♂
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ3/ラ5
+TYPE/<FC>かあNORMAL
+NIDOKING　used<FE>HORN　DRILL！
+Battler 1 info: Scizor Lv100 HP 0/281 - 394 236 131 259 166 - Moves: 35 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+It\'s　a　oneーhit　KO！
+Foe　SCIZOR<FE>fainted！<FB>
+Player　defeated<FE>SAILOR　KADEN！<FB>
+I　DON\'T　KNOW<FE>WHO　I　AM　⋯<FC>け
+<FC>いいFERALIGATR
+<FC>いいFERALIGATR<FC>あさ♂
+<FC>いいAERODACTYL<FC>あさ♂
+Battler 0 info: Feraligatr Lv100 HP 325/325 - 218 208 228 216 147 - Moves: 15 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+Battler 1 info: Aerodactyl Lv100 HP 343/343 - 316 166 140 186 338 - Moves: 5 AncientPower, 20 DragonBreath, 20 Aerial Ace, 20 Roar
+KINDLER　NASH<FE>would　like　to　battle！<FB>
+KINDLER　NASH　sent<FE>out　AERODACTYL！
+<FC>いいAERODACTYL<FC>あさ♂
+Go！　FERALIGATR！
+<FC>いいFERALIGATR<FC>あさ♂
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　AERODACTYL　used<FE>DRAGONBREATH！
+Battler 0 info: Feraligatr Lv100 HP 293/325 - 218 208 228 216 147 - Moves: 15 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Aerodactyl Lv100 HP 71/343 - 316 166 140 186 338 - Moves: 5 AncientPower, 19 DragonBreath, 20 Aerial Ace, 20 Roar
+It\'s　super　effective！
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　AERODACTYL　used<FE>AERIAL　ACE！
+Battler 0 info: Feraligatr Lv100 HP 192/325 - 218 208 228 216 147 - Moves: 13 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Aerodactyl Lv100 HP 0/343 - 316 166 140 186 338 - Moves: 5 AncientPower, 19 DragonBreath, 19 Aerial Ace, 20 Roar
+It\'s　super　effective！
+Foe　AERODACTYL<FE>fainted！<FB>
+Battler 1 info: Starmie Lv100 HP 324/324 - 167 206 328 206 266 - Moves: 10 Psychic, 10 Confuse Ray, 20 Thunder Wave, 20 Recover
+KINDLER　NASH　sent<FE>out　STARMIE！
+<FC>いいSTARMIE<FC>あさ
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　STARMIE　used<FE>THUNDER　WAVE！
+FERALIGATR　is　paralyzed！<FE>It　may　be　unable　to　move！
+FERALIGATR\'s　LUM　BERRY<FE>cured　its　paralysis　problem！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Starmie Lv100 HP 260/324 - 167 206 328 206 266 - Moves: 10 Psychic, 10 Confuse Ray, 19 Thunder Wave, 20 Recover
+It\'s　not　very　effective⋯
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　STARMIE　used<FE>RECOVER！
+Battler 1 info: Starmie Lv100 HP 324/324 - 167 206 328 206 266 - Moves: 10 Psychic, 10 Confuse Ray, 19 Thunder Wave, 19 Recover
+Foe　STARMIE　regained<FE>health！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Starmie Lv100 HP 262/324 - 167 206 328 206 266 - Moves: 10 Psychic, 10 Confuse Ray, 19 Thunder Wave, 19 Recover
+It\'s　not　very　effective⋯
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　STARMIE　used<FE>CONFUSE　RAY！
+FERALIGATR　became<FE>confused！
+FERALIGATR　is<FE>confused！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Starmie Lv100 HP 203/324 - 167 206 328 206 266 - Moves: 10 Psychic, 9 Confuse Ray, 19 Thunder Wave, 19 Recover
+It\'s　not　very　effective⋯
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　STARMIE　used<FE>CONFUSE　RAY！
+FERALIGATR　is<FE>already　confused！
+FERALIGATR　is<FE>confused！
+It　hurt　itself　in　its<FE>confusion！
+Battler 0 info: Feraligatr Lv100 HP 159/325 - 218 208 228 216 147 - Moves: 8 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　STARMIE　used<FE>PSYCHIC！
+Battler 0 info: Feraligatr Lv100 HP 0/325 - 218 208 228 216 147 - Moves: 8 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR<FE>fainted！<FB>
+Foe　STARMIE\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 1 info: Starmie Lv100 HP 222/324 - 167 206 328 206 266 - Moves: 9 Psychic, 8 Confuse Ray, 19 Thunder Wave, 19 Recover
+<FC>いいFERALIGATR<FC>あさ♂
+<FC>いいSTARMIE<FC>あさ
+Battler 0 info: Nidoking Lv100 HP 338/338 - 280 162 160 158 178 - Moves: 5 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+Do　it！　NIDOKING！
+<FC>いいNIDOKING<FC>あさ♂
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ5/ラ5ER
+TYPE/<FC>かあNORMAL
+Foe　STARMIE　used<FE>RECOVER！
+Battler 1 info: Starmie Lv100 HP 324/324 - 167 206 328 206 266 - Moves: 9 Psychic, 8 Confuse Ray, 19 Thunder Wave, 18 Recover
+Foe　STARMIE　regained<FE>health！
+NIDOKING　used<FE>HORN　DRILL！
+NIDOKING\'s<FE>attack　missed！
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ4/ラ5
+TYPE/<FC>かあNORMAL
+Foe　STARMIE　used<FE>CONFUSE　RAY！
+NIDOKING　became<FE>confused！
+NIDOKING　is<FE>confused！
+NIDOKING　used<FE>HORN　DRILL！
+NIDOKING\'s<FE>attack　missed！
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ3/ラ5
+TYPE/<FC>かあNORMAL
+Foe　STARMIE　used<FE>RECOVER！
+Foe　STARMIE\'s<FE>HP　is　full！
+NIDOKING　is<FE>confused！
+NIDOKING　used<FE>HORN　DRILL！
+Battler 1 info: Starmie Lv100 HP 0/324 - 167 206 328 206 266 - Moves: 9 Psychic, 7 Confuse Ray, 19 Thunder Wave, 17 Recover
+It\'s　a　oneーhit　KO！
+Foe　STARMIE<FE>fainted！<FB>
+Battler 1 info: Metagross Lv100 HP 301/301 - 382 296 203 258 218 - Moves: 10 Meteor Mash, 20 Aerial Ace, 20 Facade, 30 Light Screen
+KINDLER　NASH　sent<FE>out　METAGROSS！
+<FC>いいMETAGROSS<FC>あさ
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ2/ラ5
+TYPE/<FC>かあNORMAL
+Foe　METAGROSS　used<FE>AERIAL　ACE！
+Battler 0 info: Nidoking Lv100 HP 230/338 - 280 162 160 158 178 - Moves: 2 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+NIDOKING　is<FE>confused！
+NIDOKING　used<FE>HORN　DRILL！
+Battler 1 info: Metagross Lv100 HP 0/301 - 382 296 203 258 218 - Moves: 10 Meteor Mash, 19 Aerial Ace, 20 Facade, 30 Light Screen
+It\'s　a　oneーhit　KO！
+Foe　METAGROSS<FE>fainted！<FB>
+Player　defeated<FE>KINDLER　NASH！<FB>
+AIYEEH　！！　<FE>NO　WATER　PLEASE<FC>け
+<FC>いいFERALIGATR
+<FC>いいFERALIGATR<FC>あさ♂
+<FC>いいDODRIO<FC>あこ♀
+Battler 0 info: Feraligatr Lv100 HP 325/325 - 218 208 228 216 147 - Moves: 15 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+Battler 1 info: Dodrio Lv100 HP 261/261 - 350 176 140 156 299 - Moves: 20 Drill Peck, 10 Tri Attack, 10 Sleep Talk, 10 Rest
+ウエ　BREEDER　PAMELA<FE>would　like　to　battle！<FB>
+ウエ　BREEDER　PAMELA　sent<FE>out　DODRIO！
+<FC>いいDODRIO<FC>あこ♀
+Go！　FERALIGATR！
+<FC>いいFERALIGATR<FC>あさ♂
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　DODRIO　used<FE>SLEEP　TALK！
+But　it　failed！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Dodrio Lv100 HP 93/261 - 350 176 140 156 299 - Moves: 20 Drill Peck, 10 Tri Attack, 9 Sleep Talk, 10 Rest
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　DODRIO　used<FE>SLEEP　TALK！
+But　it　failed！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Dodrio Lv100 HP 0/261 - 350 176 140 156 299 - Moves: 20 Drill Peck, 10 Tri Attack, 8 Sleep Talk, 10 Rest
+Foe　DODRIO<FE>fainted！<FB>
+Battler 1 info: Dugtrio Lv100 HP 211/211 - 284 136 122 176 339 - Moves: 10 Earthquake, 10 Tri Attack, 20 Slash, 15 Sand Tomb
+ウエ　BREEDER　PAMELA　sent<FE>out　DUGTRIO！
+<FC>いいDUGTRIO<FC>あこ♀
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　DUGTRIO　used<FE>EARTHQUAKE！
+Battler 0 info: Feraligatr Lv100 HP 143/325 - 218 208 228 216 147 - Moves: 13 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Dugtrio Lv100 HP 0/211 - 284 136 122 176 339 - Moves: 9 Earthquake, 10 Tri Attack, 20 Slash, 15 Sand Tomb
+It\'s　super　effective！
+Foe　DUGTRIO<FE>fainted！<FB>
+Battler 1 info: Scizor Lv100 HP 281/281 - 394 236 131 259 166 - Moves: 35 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+ウエ　BREEDER　PAMELA　sent<FE>out　SCIZOR！
+<FC>いいSCIZOR<FC>あさ♂
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　SCIZOR　used<FE>AERIAL　ACE！
+Battler 0 info: Feraligatr Lv100 HP 61/325 - 218 208 228 216 147 - Moves: 12 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Scizor Lv100 HP 0/281 - 394 236 131 259 166 - Moves: 35 Metal Claw, 19 Aerial Ace, 20 Counter, 30 Quick Attack
+A　critical　hit！
+Foe　SCIZOR<FE>fainted！<FB>
+Player　defeated<FE>ウエ　BREEDER　PAMELA！<FB>
+YOU\'RE　KIND　AND<FE>YOU\'RE　ALSO　STRONG<FC>け
+<FC>いいFERALIGATR
+<FC>いいFERALIGATR<FC>あさ♂
+<FC>いいSLAKING<FC>あこ♀
+Battler 0 info: Feraligatr Lv100 HP 325/325 - 218 208 228 216 147 - Moves: 15 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+Battler 1 info: Slaking Lv100 HP 483/483 - 391 278 203 208 236 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+TRIATHLETE　ALONDRA<FE>would　like　to　battle！<FB>
+TRIATHLETE　ALONDRA　sent<FE>out　SLAKING！
+<FC>いいSLAKING<FC>あこ♀
+Go！　FERALIGATR！
+<FC>いいFERALIGATR<FC>あさ♂
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　SLAKING　used<FE>BULK　UP！
+Foe　SLAKING\'s　ATTACK<FE>rose！
+Foe　SLAKING\'s　DEFENSE<FE>rose！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Slaking Lv100 HP 356/483 - 391 278 203 208 236 - Moves: 10 Yawn, 19 Bulk Up, 15 Swagger, 20 Aerial Ace
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　SLAKING　is<FE>loafing　around！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Slaking Lv100 HP 227/483 - 391 278 203 208 236 - Moves: 10 Yawn, 19 Bulk Up, 15 Swagger, 20 Aerial Ace
+What　will<FE>　used<FE>SURF！
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　SLAKING　used<FE>YAWN！
+Foe　SLAKING　made<FE>FERALIGATR　drowsy！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Slaking Lv100 HP 94/483 - 391 278 203 208 236 - Moves: 9 Yawn, 19 Bulk Up, 15 Swagger, 20 Aerial Ace
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　SLAKING　is<FE>loafing　around！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Slaking Lv100 HP 0/483 - 391 278 203 208 236 - Moves: 9 Yawn, 19 Bulk Up, 15 Swagger, 20 Aerial Ace
+Foe　SLAKING<FE>fainted！<FB>
+Battler 1 info: Jynx Lv100 HP 334/334 - 122 106 361 226 226 - Moves: 10 Ice Beam, 10 Fake Out, 10 Lovely Kiss, 15 Attract
+TRIATHLETE　ALONDRA　sent<FE>out　JYNX！
+<FC>いいJYNX<FC>あこ♀
+FERALIGATR<FE>fell　asleep！
+FERALIGATR\'s　LUM　BERRY<FE>cured　its　sleep　problem！
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　JYNX　used<FE>LOVELY　KISS！
+FERALIGATR<FE>fell　asleep！
+FERALIGATR　is　fast<FE>asleep。
+What　will<FE>FERALIGATRsleep。
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　JYNX　used<FE>LOVELY　KISS！
+FERALIGATR　is<FE>already　asleep！
+FERALIGATR　woke　up！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Jynx Lv100 HP 211/334 - 122 106 361 226 226 - Moves: 10 Ice Beam, 10 Fake Out, 8 Lovely Kiss, 15 Attract
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　JYNX　used<FE>FAKE　OUT！
+But　it　failed！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Jynx Lv100 HP 98/334 - 122 106 361 226 226 - Moves: 10 Ice Beam, 9 Fake Out, 8 Lovely Kiss, 15 Attract
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　JYNX　used<FE>ATTRACT！
+FERALIGATR<FE>fell　in　love！
+FERALIGATR　is　in　love<FE>with　Foe　JYNX！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Jynx Lv100 HP 0/334 - 122 106 361 226 226 - Moves: 10 Ice Beam, 9 Fake Out, 8 Lovely Kiss, 14 Attract
+Foe　JYNX<FE>fainted！<FB>
+Battler 1 info: Breloom Lv100 HP 261/261 - 359 196 140 156 262 - Moves: 15 Sky Uppercut, 30 Mach Punch, 15 Headbutt, 20 Counter
+TRIATHLETE　ALONDRA　sent<FE>out　BRELOOM！
+<FC>いいBRELOOM<FC>あさ♂
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　BRELOOM　used<FE>HEADBUTT！
+Battler 0 info: Feraligatr Lv100 HP 224/325 - 218 208 228 216 147 - Moves: 8 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Breloom Lv100 HP 181/261 - 359 196 140 156 262 - Moves: 15 Sky Uppercut, 30 Mach Punch, 14 Headbutt, 20 Counter
+It\'s　not　very　effective⋯
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　BRELOOM　used<FE>SKY　UPPERCUT！
+Battler 0 info: Feraligatr Lv100 HP 43/325 - 218 208 228 216 147 - Moves: 7 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Breloom Lv100 HP 49/261 - 359 196 140 156 262 - Moves: 14 Sky Uppercut, 30 Mach Punch, 14 Headbutt, 20 Counter
+It\'s　not　very　effective⋯
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　BRELOOM　used<FE>MACH　PUNCH！
+Battler 0 info: Feraligatr Lv100 HP 0/325 - 218 208 228 216 147 - Moves: 6 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR<FE>fainted！<FB>
+<FC>いいFERALIGATR<FC>あさ♂
+<FC>いいBRELOOM<FC>あさ♂
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Go　for　it,　HARIYAMA！
+<FC>いいHARIYAMA<FC>あこ♀
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ5/ラ5
+TYPE/<FC>かあFIGHT
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 1 info: Breloom Lv100 HP 0/261 - 359 196 140 156 262 - Moves: 14 Sky Uppercut, 29 Mach Punch, 14 Headbutt, 20 Counter
+Foe　BRELOOM<FE>fainted！<FB>
+Player　defeated<FE>TRIATHLETE　ALONDRA！<FB>
+MY　DIVE　LEFT<FE>ME　COLD　⋯<FC>け
+<FC>いいFERALIGATR<FC>あさ♂
+<FC>いいTENTACRUEL<FC>あこ♀
+Battler 0 info: Feraligatr Lv100 HP 325/325 - 218 208 228 216 147 - Moves: 15 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+Battler 1 info: Tentacruel Lv100 HP 301/301 - 239 251 176 276 236 - Moves: 10 Sludge Bomb, 15 Icy Wind, 30 Barrier, 10 Confuse Ray
+EXPERT　EVAN<FE>would　like　to　battle！<FB>
+EXPERT　EVAN　sent<FE>out　TENTACRUEL！
+<FC>いいTENTACRUEL<FC>あこ♀
+Go！　FERALIGATR！
+<FC>いいFERALIGATR<FC>あさ♂
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　TENTACRUEL　used<FE>CONFUSE　RAY！
+FERALIGATR　became<FE>confused！
+FERALIGATR\'s　LUM　BERRY<FE>cured　its　confusion　problem！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Tentacruel Lv100 HP 257/301 - 239 251 176 276 236 - Moves: 10 Sludge Bomb, 15 Icy Wind, 30 Barrier, 9 Confuse Ray
+It\'s　not　very　effective⋯
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　TENTACRUEL　used<FE>CONFUSE　RAY！
+FERALIGATR　became<FE>confused！
+FERALIGATR　is<FE>confused！
+It　hurt　itself　in　its<FE>confusion！
+Battler 0 info: Feraligatr Lv100 HP 289/325 - 218 208 228 216 147 - Moves: 14 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　TENTACRUEL　used<FE>CONFUSE　RAY！
+FERALIGATR　is<FE>already　confused！
+FERALIGATR　snapped<FE>out　of　confusion！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Tentacruel Lv100 HP 214/301 - 239 251 176 276 236 - Moves: 10 Sludge Bomb, 15 Icy Wind, 30 Barrier, 7 Confuse Ray
+It\'s　not　very　effective⋯
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　TENTACRUEL　used<FE>ICY　WIND！
+Battler 0 info: Feraligatr Lv100 HP 273/325 - 218 208 228 216 147 - Moves: 13 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+It\'s　not　very　effective⋯
+FERALIGATR\'s　SPEED<FE>fell！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Tentacruel Lv100 HP 171/301 - 239 251 176 276 236 - Moves: 10 Sludge Bomb, 14 Icy Wind, 30 Barrier, 7 Confuse Ray
+It\'s　not　very　effective⋯
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　TENTACRUEL　used<FE>BARRIER！
+Foe　TENTACRUEL\'s　DEFENSE<FE>sharply　rose！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Tentacruel Lv100 HP 128/301 - 239 251 176 276 236 - Moves: 10 Sludge Bomb, 14 Icy Wind, 29 Barrier, 7 Confuse Ray
+It\'s　not　very　effective⋯
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　TENTACRUEL　used<FE>CONFUSE　RAY！
+FERALIGATR　became<FE>confused！
+FERALIGATR　is<FE>confused！
+It　hurt　itself　in　its<FE>confusion！
+Battler 0 info: Feraligatr Lv100 HP 241/325 - 218 208 228 216 147 - Moves: 11 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　TENTACRUEL　used<FE>SLUDGE　BOMB！
+Battler 0 info: Feraligatr Lv100 HP 109/325 - 218 208 228 216 147 - Moves: 11 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR　snapped<FE>out　of　confusion！
+FERALIGATR　used<FE>SURF！
+Battler 1 info: Tentacruel Lv100 HP 81/301 - 239 251 176 276 236 - Moves: 9 Sludge Bomb, 14 Icy Wind, 29 Barrier, 6 Confuse Ray
+It\'s　not　very　effective⋯
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+Foe　TENTACRUEL　used<FE>CONFUSE　RAY！
+FERALIGATR　became<FE>confused！
+FERALIGATR　is<FE>confused！
+It　hurt　itself　in　its<FE>confusion！
+Battler 0 info: Feraligatr Lv100 HP 74/325 - 218 208 228 216 147 - Moves: 10 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+What　will<FE>FERALIGATR　do？
+AERIAL　ACE
+TYPE/<FC>かあWATER
+TYPE/<FC>かあFLYING
+Foe　TENTACRUEL　used<FE>SLUDGE　BOMB！
+Battler 0 info: Feraligatr Lv100 HP 0/325 - 218 208 228 216 147 - Moves: 10 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+FERALIGATR<FE>fainted！<FB>
+<FC>いいFERALIGATR<FC>あさ♂
+<FC>いいTENTACRUEL<FC>あこ♀
+Battler 0 info: Nidoking Lv100 HP 338/338 - 280 162 160 158 178 - Moves: 5 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+Go　for　it,　NIDOKING！
+<FC>いいNIDOKING<FC>あさ♂
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ5/ラ5
+TYPE/<FC>かあNORMAL
+NIDOKING　used<FE>HORN　DRILL！
+Battler 1 info: Tentacruel Lv100 HP 0/301 - 239 251 176 276 236 - Moves: 8 Sludge Bomb, 14 Icy Wind, 29 Barrier, 5 Confuse Ray
+It\'s　a　oneーhit　KO！
+Foe　TENTACRUEL<FE>fainted！<FB>
+Battler 1 info: Flygon Lv100 HP 301/301 - 328 196 176 196 299 - Moves: 10 Earthquake, 25 Steel Wing, 20 Faint Attack, 20 Facade
+EXPERT　EVAN　sent<FE>out　FLYGON！
+<FC>いいFLYGON<FC>あこ♀
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ4/ラ5
+TYPE/<FC>かあNORMAL
+NIDOKING　used<FE>HORN　DRILL！
+NIDOKING\'s<FE>attack　missed！
+Foe　FLYGON　used<FE>FAINT　ATTACK！
+Battler 0 info: Nidoking Lv100 HP 285/338 - 280 162 160 158 178 - Moves: 3 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ3/ラ5
+TYPE/<FC>かあNORMAL
+Foe　FLYGON　used<FE>STEEL　WING！
+Battler 0 info: Nidoking Lv100 HP 169/338 - 280 162 160 158 178 - Moves: 3 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+NIDOKING　used<FE>HORN　DRILL！
+NIDOKING\'s<FE>attack　missed！
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ2/ラ5
+TYPE/<FC>かあNORMAL
+Foe　FLYGON　used<FE>FAINT　ATTACK！
+Battler 0 info: Nidoking Lv100 HP 118/338 - 280 162 160 158 178 - Moves: 2 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+NIDOKING　used<FE>HORN　DRILL！
+NIDOKING\'s<FE>attack　missed！
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ1/ラ5
+TYPE/<FC>かあNORMAL
+NIDOKING　used<FE>HORN　DRILL！
+Battler 1 info: Flygon Lv100 HP 0/301 - 328 196 176 196 299 - Moves: 10 Earthquake, 24 Steel Wing, 18 Faint Attack, 20 Facade
+It\'s　a　oneーhit　KO！
+Foe　FLYGON<FE>fainted！<FB>
+Battler 1 info: Manectric Lv100 HP 281/281 - 167 156 339 156 309 - Moves: 15 Thunderbolt, 20 Flash, 30 Quick Attack, 20 Roar
+EXPERT　EVAN　sent<FE>out　MANECTRIC！
+<FC>いいMANECTRIC<FC>あさ♂
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ0/ラ5
+TYPE/<FC>かあNORMAL
+There\'s　no　PP　left　for<FE>this　move！<FB>
+BODY　SLAM
+ラ0/ラ5
+TYPE/<FC>かあNORMAL
+NIDOKING　used<FE>BODY　SLAM！
+Battler 1 info: Manectric Lv100 HP 153/281 - 167 156 339 156 309 - Moves: 15 Thunderbolt, 20 Flash, 30 Quick Attack, 20 Roar
+Foe　MANECTRIC　used<FE>ROAR！
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+<FC>いいHARIYAMA<FC>あこ♀
+HARIYAMA　was<FE>dragged　out！<FB>
+What　will<FE>HARIYAMAed　out！<FB>
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ5/ラ5
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあROCK
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあROCK
+Foe　MANECTRIC　used<FE>QUICK　ATTACK！
+Battler 0 info: Hariyama Lv100 HP 412/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+HARIYAMA　used<FE>ROCK　SLIDE！
+Battler 1 info: Manectric Lv100 HP 52/281 - 167 156 339 156 309 - Moves: 15 Thunderbolt, 20 Flash, 29 Quick Attack, 19 Roar
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ9/10
+TYPE/<FC>かあROCK
+Foe　MANECTRIC　used<FE>FLASH！
+HARIYAMA\'s　accuracy<FE>fell！
+HARIYAMA　used<FE>ROCK　SLIDE！
+Battler 1 info: Manectric Lv100 HP 0/281 - 167 156 339 156 309 - Moves: 15 Thunderbolt, 19 Flash, 29 Quick Attack, 19 Roar
+Foe　MANECTRIC<FE>fainted！<FB>
+Player　defeated<FE>EXPERT　EVAN！<FB>
+THE　AWFUL　STENCH<FE>OF　A　LOSS<FC>け
+<FC>いいMACHOKE<FC>あさ♂
+<FC>いいTENTACOOL<FC>あさ♂
+Battler 0 info: Machoke Lv50 HP 173/173 - 116 76 50 98 51 - Moves: 20 Low Kick, 10 Rock Tomb, 40 Foresight, 10 Scary Face
+Battler 1 info: Tentacool Lv50 HP 136/136 - 81 55 91 120 90 - Moves: 20 BubbleBeam, 30 Acid, 30 Barrier, 20 Wrap
+HIKER　DARYL<FE>would　like　to　battle！<FB>
+HIKER　DARYL　sent<FE>out　TENTACOOL！
+<FC>いいTENTACOOL<FC>あさ♂
+Go！　MACHOKE！
+<FC>いいMACHOKE<FC>あさ♂
+What　will<FE>MACHOKE　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+April　forfeited　the　match！
+<FC>いいSTEELIX
+<FC>いいSTEELIX<FC>あさ♂
+<FC>いいCHARIZARD<FC>あこ♀
+Battler 0 info: Steelix Lv100 HP 266/266 - 244 411 121 204 71 - Moves: 10 Earthquake, 20 DragonBreath, 10 Sandstorm, 5 Block
+Battler 1 info: Charizard Lv100 HP 297/297 - 293 192 228 206 299 - Moves: 10 Earthquake, 20 Aerial Ace, 20 Dragon Dance, 20 SmokeScreen
+TRIATHLETE　ERIK<FE>would　like　to　battle！<FB>
+TRIATHLETE　ERIK　sent<FE>out　CHARIZARD！
+<FC>いいCHARIZARD<FC>あこ♀
+Go！　STEELIX！
+<FC>いいSTEELIX<FC>あさ♂
+What　will<FE>STEELIX　do？
+DRAGONBREATH
+10/10
+TYPE/<FC>かあGROUND
+TYPE/<FC>かあDRAGON
+What　will<FE>STEELIX　do？
+<FC>いいSTEELIX<FC>あさ♂
+<FC>いいCHARIZARD<FC>あこ♀
+STEELIX,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Breloom Lv100 HP 236/236 - 271 171 194 131 214 - Moves: 5 Giga Drain, 10 Leech Seed, 20 Focus Punch, 15 Spore
+Go！　BRELOOM！
+<FC>いいBRELOOM<FC>あさ♂
+Foe　CHARIZARD　used<FE>AERIAL　ACE！
+Battler 0 info: Breloom Lv100 HP 0/236 - 271 171 194 131 214 - Moves: 5 Giga Drain, 10 Leech Seed, 20 Focus Punch, 15 Spore
+It\'s　super　effective！
+BRELOOM<FE>fainted！<FB>
+<FC>いいBRELOOM<FC>あさ♂
+<FC>いいCHARIZARD<FC>あこ♀
+Battler 0 info: Lapras Lv100 HP 376/376 - 162 171 244 201 213 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 20 Roar
+Go！　LAPRAS！
+<FC>いいLAPRAS<FC>あこ♀
+What　will<FE>LAPRAS　do？
+BODY　SLAM
+TYPE/<FC>かあWATER
+LAPRAS　used<FE>SURF！
+Battler 1 info: Charizard Lv100 HP 9/297 - 293 192 228 206 299 - Moves: 10 Earthquake, 19 Aerial Ace, 20 Dragon Dance, 20 SmokeScreen
+It\'s　super　effective！
+Foe　CHARIZARD　used<FE>SMOKESCREEN！
+LAPRAS\'s　accuracy<FE>fell！
+What　will<FE>LAPRAS　do？
+BODY　SLAM
+TYPE/<FC>かあWATER
+LAPRAS　used<FE>SURF！
+Battler 1 info: Charizard Lv100 HP 0/297 - 293 192 228 206 299 - Moves: 10 Earthquake, 19 Aerial Ace, 20 Dragon Dance, 19 SmokeScreen
+It\'s　super　effective！
+Foe　CHARIZARD<FE>fainted！<FB>
+Battler 1 info: Lanturn Lv100 HP 391/391 - 215 152 251 188 170 - Moves: 15 Flail, 10 Endure, 15 Thunderbolt, 15 Surf
+TRIATHLETE　ERIK　sent<FE>out　LANTURN！
+<FC>いいLANTURN<FC>あさ♂
+What　will<FE>LAPRAS　do？
+BODY　SLAM
+TYPE/<FC>かあWATER
+LAPRAS　used<FE>SURF！
+LAPRAS\'s<FE>attack　missed！
+Foe　LANTURN　used<FE>SURF！
+Battler 0 info: Lapras Lv100 HP 305/376 - 162 171 244 201 213 - Moves: 12 Surf, 10 Ice Beam, 15 Body Slam, 20 Roar
+It\'s　not　very　effective⋯
+What　will<FE>LAPRAS　do？
+BODY　SLAM
+TYPE/<FC>かあWATER
+TYPE/<FC>かあNORMAL
+LAPRAS　used<FE>BODY　SLAM！
+Battler 1 info: Lanturn Lv100 HP 317/391 - 215 152 251 188 170 - Moves: 15 Flail, 10 Endure, 15 Thunderbolt, 14 Surf
+Foe　LANTURN　used<FE>FLAIL！
+Battler 0 info: Lapras Lv100 HP 285/376 - 162 171 244 201 213 - Moves: 12 Surf, 10 Ice Beam, 14 Body Slam, 20 Roar
+What　will<FE>LAPRAS　do？
+ROAR
+TYPE/<FC>かあNORMAL
+Foe　LANTURN　used<FE>THUNDERBOLT！
+Battler 0 info: Lapras Lv100 HP 23/376 - 162 171 244 201 213 - Moves: 12 Surf, 10 Ice Beam, 14 Body Slam, 20 Roar
+It\'s　super　effective！
+LAPRAS　used<FE>ROAR！
+Battler 1 info: Espeon Lv100 HP 271/271 - 229 156 296 226 319 - Moves: 10 Psychic, 15 Shadow Ball, 20 Calm Mind, 10 Rest
+<FC>いいESPEON<FC>あさ♂
+Foe　ESPEON　was<FE>dragged　out！<FB>
+What　will<FE>LAPRAS　do？
+BODY　SLAM
+TYPE/<FC>かあNORMAL
+Foe　ESPEON　used<FE>CALM　MIND！
+Foe　ESPEON\'s　SP。　ATK<FE>rose！
+Foe　ESPEON\'s　SP。　DEF<FE>rose！
+LAPRAS　used<FE>ROAR！
+Battler 1 info: Lanturn Lv100 HP 317/391 - 215 152 251 188 170 - Moves: 14 Flail, 10 Endure, 14 Thunderbolt, 14 Surf
+<FC>いいLANTURN<FC>あさ♂
+Foe　LANTURN　was<FE>dragged　out！<FB>
+What　will<FE>LAPRAS　do？
+BODY　SLAM
+TYPE/<FC>かあNORMAL
+Foe　LANTURN　used<FE>FLAIL！
+Battler 0 info: Lapras Lv100 HP 3/376 - 162 171 244 201 213 - Moves: 12 Surf, 10 Ice Beam, 14 Body Slam, 18 Roar
+LAPRAS　used<FE>ROAR！
+Battler 1 info: Espeon Lv100 HP 271/271 - 229 156 296 226 319 - Moves: 10 Psychic, 15 Shadow Ball, 19 Calm Mind, 10 Rest
+<FC>いいESPEON<FC>あさ♂
+Foe　ESPEON　was<FE>dragged　out！<FB>
+What　will<FE>LAPRAS　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+What　will<FE>LAPRAS　do？
+BODY　SLAM
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあICE
+What　will<FE>LAPRAS　do？
+ROAR
+TYPE/<FC>かあICE
+TYPE/<FC>かあWATER
+Foe　ESPEON　used<FE>SHADOW　BALL！
+Battler 0 info: Lapras Lv100 HP 0/376 - 162 171 244 201 213 - Moves: 12 Surf, 10 Ice Beam, 14 Body Slam, 17 Roar
+LAPRAS<FE>fainted！<FB>
+<FC>いいLAPRAS<FC>あこ♀
+<FC>いいESPEON<FC>あさ♂
+Battler 0 info: Steelix Lv100 HP 266/266 - 244 411 121 204 71 - Moves: 10 Earthquake, 20 DragonBreath, 10 Sandstorm, 5 Block
+Go！　STEELIX！
+<FC>いいSTEELIX<FC>あさ♂
+What　will<FE>STEELIX　do？
+SANDSTORM
+10/10
+TYPE/<FC>かあGROUND
+Foe　ESPEON　used<FE>PSYCHIC！
+Battler 0 info: Steelix Lv100 HP 188/266 - 244 411 121 204 71 - Moves: 10 Earthquake, 20 DragonBreath, 10 Sandstorm, 5 Block
+It\'s　not　very　effective⋯
+STEELIX　used<FE>EARTHQUAKE！
+Battler 1 info: Espeon Lv100 HP 102/271 - 229 156 296 226 319 - Moves: 9 Psychic, 14 Shadow Ball, 19 Calm Mind, 10 Rest
+STEELIX\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Steelix Lv100 HP 204/266 - 244 411 121 204 71 - Moves: 9 Earthquake, 20 DragonBreath, 10 Sandstorm, 5 Block
+What　will<FE>STEELIX　do？
+DRAGONBREATH
+ラ9/10
+TYPE/<FC>かあGROUND
+Foe　ESPEON　used<FE>REST！
+Foe　ESPEON　went<FE>to　sleep！
+Battler 1 info: Espeon Lv100 HP 271/271 - 229 156 296 226 319 - Moves: 9 Psychic, 14 Shadow Ball, 19 Calm Mind, 9 Rest
+Foe　ESPEON　regained<FE>health！
+Foe　ESPEON\'s　CHESTO　BERRY<FE>woke　it　from　its　sleep！
+STEELIX　used<FE>EARTHQUAKE！
+Battler 1 info: Espeon Lv100 HP 72/271 - 229 156 296 226 319 - Moves: 9 Psychic, 14 Shadow Ball, 19 Calm Mind, 9 Rest
+STEELIX\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Steelix Lv100 HP 220/266 - 244 411 121 204 71 - Moves: 8 Earthquake, 20 DragonBreath, 10 Sandstorm, 5 Block
+What　will<FE>STEELIX　do？
+DRAGONBREATH
+ラ8/10
+TYPE/<FC>かあGROUND
+Foe　ESPEON　used<FE>PSYCHIC！
+Battler 0 info: Steelix Lv100 HP 144/266 - 244 411 121 204 71 - Moves: 8 Earthquake, 20 DragonBreath, 10 Sandstorm, 5 Block
+It\'s　not　very　effective⋯
+STEELIX　used<FE>EARTHQUAKE！
+Battler 1 info: Espeon Lv100 HP 0/271 - 229 156 296 226 319 - Moves: 8 Psychic, 14 Shadow Ball, 19 Calm Mind, 9 Rest
+Foe　ESPEON<FE>fainted！<FB>
+Battler 1 info: Lanturn Lv100 HP 317/391 - 215 152 251 188 170 - Moves: 13 Flail, 10 Endure, 14 Thunderbolt, 14 Surf
+TRIATHLETE　ERIK　sent<FE>out　LANTURN！
+<FC>いいLANTURN<FC>あさ♂
+STEELIX\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Steelix Lv100 HP 160/266 - 244 411 121 204 71 - Moves: 7 Earthquake, 20 DragonBreath, 10 Sandstorm, 5 Block
+What　will<FE>STEELIX　do？
+DRAGONBREATH
+ラ7/10
+TYPE/<FC>かあGROUND
+Foe　LANTURN　used<FE>SURF！
+Battler 0 info: Steelix Lv100 HP 0/266 - 244 411 121 204 71 - Moves: 7 Earthquake, 20 DragonBreath, 10 Sandstorm, 5 Block
+It\'s　super　effective！
+STEELIX<FE>fainted！<FB>
+THANK　YOU　FROM　THE<FE>SPEED　BOOST　HERO　！<FC>け
+<FC>いいHYPNO
+<FC>いいHYPNO<FC>あこ♀
+<FC>いいFORRETRESS<FC>あさ♂
+Battler 0 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+Battler 1 info: Forretress Lv100 HP 291/291 - 306 316 140 219 116 - Moves: 15 Double-Edge, 10 Rock Slide, 30 Light Screen, 20 Spikes
+PARASOL　LADY　JULIANA<FE>would　like　to　battle！<FB>
+PARASOL　LADY　JULIANA　sent<FE>out　FORRETRESS！
+<FC>いいFORRETRESS<FC>あさ♂
+Go！　HYPNO！
+<FC>いいHYPNO<FC>あこ♀
+What　will<FE>HYPNO　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+April　forfeited　the　match！
+<FC>いいSCIZOR
+<FC>いいSCIZOR<FC>あこ♀
+<FC>いいALAKAZAM<FC>あさ♂
+Battler 0 info: Scizor Lv100 HP 253/253 - 364 208 106 231 138 - Moves: 35 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+Battler 1 info: Alakazam Lv100 HP 251/251 - 122 189 405 206 276 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Thunder Wave
+BEAUTY　DANELA<FE>would　like　to　battle！<FB>
+BEAUTY　DANELA　sent<FE>out　ALAKAZAM！
+<FC>いいALAKAZAM<FC>あさ♂
+Go！　SCIZOR！
+<FC>いいSCIZOR<FC>あこ♀
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあSTEEL
+Foe　ALAKAZAM　used<FE>ICE　PUNCH！
+Battler 0 info: Scizor Lv100 HP 205/253 - 364 208 106 231 138 - Moves: 35 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+It\'s　not　very　effective⋯
+SCIZOR　used<FE>METAL　CLAW！
+Battler 1 info: Alakazam Lv100 HP 143/251 - 122 189 405 206 276 - Moves: 15 ThunderPunch, 15 Fire Punch, 14 Ice Punch, 20 Thunder Wave
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあSTEEL
+TYPE/<FC>かあFLYING
+Foe　ALAKAZAM　used<FE>ICE　PUNCH！
+Battler 0 info: Scizor Lv100 HP 154/253 - 364 208 106 231 138 - Moves: 34 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+It\'s　not　very　effective⋯
+SCIZOR　used<FE>AERIAL　ACE！
+Battler 1 info: Alakazam Lv100 HP 46/251 - 122 189 405 206 276 - Moves: 15 ThunderPunch, 15 Fire Punch, 13 Ice Punch, 20 Thunder Wave
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあFLYING
+Foe　ALAKAZAM　used<FE>THUNDERPUNCH！
+Battler 0 info: Scizor Lv100 HP 54/253 - 364 208 106 231 138 - Moves: 34 Metal Claw, 19 Aerial Ace, 20 Counter, 30 Quick Attack
+SCIZOR　used<FE>AERIAL　ACE！
+Battler 1 info: Alakazam Lv100 HP 0/251 - 122 189 405 206 276 - Moves: 14 ThunderPunch, 15 Fire Punch, 13 Ice Punch, 20 Thunder Wave
+Foe　ALAKAZAM<FE>fainted！<FB>
+Battler 1 info: Porygon2 Lv100 HP 374/374 - 284 216 221 226 156 - Moves: 10 Tri Attack, 20 Aerial Ace, 15 Shadow Ball, 20 Recover
+BEAUTY　DANELA　sent<FE>out　PORYGON2！
+<FC>いいPORYGON2<FC>あさ
+Foe　PORYGON2　TRACED<FE>SCIZOR\'s　SWARM！
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあSTEEL
+What　will<FE>EEL
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあSTEEL
+Foe　PORYGON2　used<FE>TRI　ATTACK！
+Battler 0 info: Scizor Lv100 HP 0/253 - 364 208 106 231 138 - Moves: 34 Metal Claw, 18 Aerial Ace, 20 Counter, 30 Quick Attack
+A　critical　hit！
+It\'s　not　very　effective⋯
+SCIZOR<FE>fainted！<FB>
+<FC>いいSCIZOR<FC>あこ♀
+<FC>いいPORYGON2<FC>あさ
+Battler 0 info: Machamp Lv100 HP 356/356 - 364 168 124 178 118 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+Go！　MACHAMP！
+<FC>いいMACHAMP<FC>あさ♂
+What　will<FE>MACHAMP　do？
+COUNTER
+ラ5/ラ5
+TYPE/<FC>かあFIGHT
+Foe　PORYGON2　used<FE>RECOVER！
+Foe　PORYGON2\'s<FE>HP　is　full！
+MACHAMP　used<FE>CROSS　CHOP！
+MACHAMP\'s<FE>attack　missed！
+What　will<FE>MACHAMP　do？
+COUNTER
+ラ4/ラ5
+TYPE/<FC>かあFIGHT
+Foe　PORYGON2　used<FE>RECOVER！
+Foe　PORYGON2\'s<FE>HP　is　full！
+MACHAMP　used<FE>CROSS　CHOP！
+MACHAMP\'s<FE>attack　missed！
+What　will<FE>MACHAMP　do？
+COUNTER
+ラ3/ラ5
+TYPE/<FC>かあFIGHT
+Foe　PORYGON2　used<FE>TRI　ATTACK！
+Battler 0 info: Machamp Lv100 HP 203/356 - 364 168 124 178 118 - Moves: 3 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+MACHAMP　used<FE>CROSS　CHOP！
+Battler 1 info: Porygon2 Lv100 HP 0/374 - 284 216 221 226 156 - Moves: 8 Tri Attack, 20 Aerial Ace, 15 Shadow Ball, 18 Recover
+It\'s　super　effective！
+Foe　PORYGON2<FE>fainted！<FB>
+Battler 1 info: Dugtrio Lv100 HP 211/211 - 284 136 122 176 339 - Moves: 10 Earthquake, 10 Tri Attack, 20 Slash, 15 Sand Tomb
+BEAUTY　DANELA　sent<FE>out　DUGTRIO！
+<FC>いいDUGTRIO<FC>あさ♂
+What　will<FE>MACHAMP　do？
+COUNTER
+ラ2/ラ5
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあROCK
+TYPE/<FC>かあFIGHT
+Foe　DUGTRIO　used<FE>TRI　ATTACK！
+Battler 0 info: Machamp Lv100 HP 0/356 - 364 168 124 178 118 - Moves: 2 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+A　critical　hit！
+MACHAMP<FE>fainted！<FB>
+<FC>いいMACHAMP<FC>あさ♂
+<FC>いいDUGTRIO<FC>あさ♂
+Battler 0 info: Exploud Lv100 HP 384/384 - 253 147 171 134 144 - Moves: 10 Hyper Voice, 15 Shadow Ball, 10 Sleep Talk, 10 Rest
+Go！　EXPLOUD！
+<FC>いいEXPLOUD<FC>あこ♀
+What　will<FE>EXPLOUD　do？
+SLEEP　TALK
+10/10
+TYPE/<FC>かあNORMAL
+Foe　DUGTRIO　used<FE>EARTHQUAKE！
+Battler 0 info: Exploud Lv100 HP 120/384 - 253 147 171 134 144 - Moves: 10 Hyper Voice, 15 Shadow Ball, 10 Sleep Talk, 10 Rest
+EXPLOUD　used<FE>HYPER　VOICE！
+Battler 1 info: Dugtrio Lv100 HP 16/211 - 284 136 122 176 339 - Moves: 9 Earthquake, 9 Tri Attack, 20 Slash, 15 Sand Tomb
+What　will<FE>EXPLOUD　do？
+SLEEP　TALK
+ラ9/10
+TYPE/<FC>かあNORMAL
+Foe　DUGTRIO　used<FE>SLASH！
+Battler 0 info: Exploud Lv100 HP 20/384 - 253 147 171 134 144 - Moves: 9 Hyper Voice, 15 Shadow Ball, 10 Sleep Talk, 10 Rest
+EXPLOUD　used<FE>HYPER　VOICE！
+Battler 1 info: Dugtrio Lv100 HP 0/211 - 284 136 122 176 339 - Moves: 9 Earthquake, 9 Tri Attack, 19 Slash, 15 Sand Tomb
+Foe　DUGTRIO<FE>fainted！<FB>
+Player　defeated<FE>BEAUTY　DANELA！<FB>
+THAT　WAS　GOOD　AND<FE>THIS　IS　GOODーBYE<FC>け
+<FC>いいSCIZOR
+<FC>いいSCIZOR<FC>あこ♀
+<FC>いいXATU<FC>あこ♀
+Battler 0 info: Scizor Lv100 HP 253/253 - 364 208 106 231 138 - Moves: 35 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+Battler 1 info: Xatu Lv100 HP 313/313 - 228 176 268 176 226 - Moves: 20 Drill Peck, 15 Night Shade, 10 Wish, 15 Future Sight
+COLLECTOR　TRISTAN<FE>would　like　to　battle！<FB>
+COLLECTOR　TRISTAN　sent<FE>out　XATU！
+<FC>いいXATU<FC>あこ♀
+Go！　SCIZOR！
+<FC>いいSCIZOR<FC>あこ♀
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあSTEEL
+Foe　XATU　used<FE>WISH！
+SCIZOR　used<FE>METAL　CLAW！
+Battler 1 info: Xatu Lv100 HP 189/313 - 228 176 268 176 226 - Moves: 20 Drill Peck, 15 Night Shade, 9 Wish, 15 Future Sight
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあSTEEL
+Foe　XATU　used<FE>FUTURE　SIGHT！
+Foe　XATU　foresaw<FE>an　attack！
+SCIZOR　used<FE>METAL　CLAW！
+Battler 1 info: Xatu Lv100 HP 59/313 - 228 176 268 176 226 - Moves: 20 Drill Peck, 15 Night Shade, 9 Wish, 14 Future Sight
+Foe　XATU\'s　WISH<FE>came　true！
+Battler 1 info: Xatu Lv100 HP 215/313 - 228 176 268 176 226 - Moves: 20 Drill Peck, 15 Night Shade, 9 Wish, 14 Future Sight
+Foe　XATU　regained<FE>health！
+What　will<FE>SCIZOR　do？
+COUNTER
+33/35
+TYPE/<FC>かあSTEEL
+Foe　XATU　used<FE>FUTURE　SIGHT！
+But　it　failed！
+SCIZOR　used<FE>METAL　CLAW！
+Battler 1 info: Xatu Lv100 HP 98/313 - 228 176 268 176 226 - Moves: 20 Drill Peck, 15 Night Shade, 9 Wish, 13 Future Sight
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあSTEEL
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあSTEEL
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあSTEEL
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあSTEEL
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあSTEEL
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあSTEEL
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあSTEEL
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあSTEEL
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあSTEEL
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあSTEEL
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあSTEEL
+TYPE/<FC>かあFIGHT
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあFIGHT
+What　will<FE>SCIZOR　do？
+<FC>いいSCIZOR<FC>あこ♀
+<FC>いいXATU<FC>あこ♀
+SCIZOR,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Machamp Lv100 HP 356/356 - 364 168 124 178 118 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+Go　for　it,　MACHAMP！
+<FC>いいMACHAMP<FC>あさ♂
+Foe　XATU　used<FE>DRILL　PECK！
+Battler 0 info: Machamp Lv100 HP 57/356 - 364 168 124 178 118 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+It\'s　super　effective！
+MACHAMP　took　the<FE>FUTURE　SIGHT　attack！
+Battler 0 info: Machamp Lv100 HP 0/356 - 364 168 124 178 118 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+MACHAMP<FE>fainted！<FB>
+<FC>いいMACHAMP<FC>あさ♂
+<FC>いいXATU<FC>あこ♀
+Battler 0 info: Exploud Lv100 HP 384/384 - 253 147 171 134 144 - Moves: 10 Hyper Voice, 15 Shadow Ball, 10 Sleep Talk, 10 Rest
+Go　for　it,　EXPLOUD！
+<FC>いいEXPLOUD<FC>あこ♀
+What　will<FE>EXPLOUD　do？
+SLEEP　　BALL
+10/10
+TYPE/<FC>かあNORMAL
+Foe　XATU　used<FE>WISH！
+EXPLOUD　used<FE>HYPER　VOICE！
+Battler 1 info: Xatu Lv100 HP 0/313 - 228 176 268 176 226 - Moves: 19 Drill Peck, 15 Night Shade, 8 Wish, 13 Future Sight
+Foe　XATU<FE>fainted！<FB>
+Battler 1 info: Nidoking Lv100 HP 366/366 - 311 190 185 186 206 - Moves: 5 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+COLLECTOR　TRISTAN　sent<FE>out　NIDOKING！
+<FC>いいNIDOKING<FC>あさ♂
+What　will<FE>EXPLOUD　do？
+SLEEP　TALK
+ラ9/10
+TYPE/<FC>かあNORMAL
+What　will<FE>RMAL
+What　will<FE>EXPLOUD　do？
+<FC>いいEXPLOUD<FC>あこ♀
+<FC>いいNIDOKING<FC>あさ♂
+EXPLOUD,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Scizor Lv100 HP 253/253 - 364 208 106 231 138 - Moves: 32 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+Go！　SCIZOR！
+<FC>いいSCIZOR<FC>あこ♀
+Foe　NIDOKING　used<FE>BODY　SLAM！
+Battler 0 info: Scizor Lv100 HP 203/253 - 364 208 106 231 138 - Moves: 32 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+It\'s　not　very　effective⋯
+Foe　XATU\'s　WISH<FE>came　true！
+Foe　NIDOKING\'s<FE>HP　is　full！
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあSTEEL
+Foe　NIDOKING　used<FE>HORN　DRILL！
+Foe　NIDOKING\'s<FE>attack　missed！
+SCIZOR　used<FE>METAL　CLAW！
+Battler 1 info: Nidoking Lv100 HP 247/366 - 311 190 185 186 206 - Moves: 4 Horn Drill, 30 Double Kick, 14 Body Slam, 20 Counter
+What　will<FE>SCIZOR　do？
+COUNTER
+31/35
+TYPE/<FC>かあSTEEL
+Foe　NIDOKING　used<FE>HORN　DRILL！
+Battler 0 info: Scizor Lv100 HP 0/253 - 364 208 106 231 138 - Moves: 31 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+It\'s　a　oneーhit　KO！
+SCIZOR<FE>fainted！<FB>
+<FC>いいSCIZOR<FC>あこ♀
+<FC>いいNIDOKING<FC>あさ♂
+Battler 0 info: Exploud Lv100 HP 384/384 - 253 147 171 134 144 - Moves: 9 Hyper Voice, 15 Shadow Ball, 10 Sleep Talk, 10 Rest
+Do　it！　EXPLOUD！
+<FC>いいEXPLOUD<FC>あこ♀
+What　will<FE>EXPLOUD　do？
+SLEEP　TALK
+ラ9/10
+TYPE/<FC>かあNORMAL
+EXPLOUD　used<FE>HYPER　VOICE！
+Battler 1 info: Nidoking Lv100 HP 110/366 - 311 190 185 186 206 - Moves: 3 Horn Drill, 30 Double Kick, 14 Body Slam, 20 Counter
+Foe　NIDOKING　used<FE>COUNTER！
+Battler 0 info: Exploud Lv100 HP 110/384 - 253 147 171 134 144 - Moves: 8 Hyper Voice, 15 Shadow Ball, 10 Sleep Talk, 10 Rest
+What　will<FE>EXPLOUD　do？
+SHADOW　BALL
+ラ8/10
+TYPE/<FC>かあNORMAL
+Foe　NIDOKING　used<FE>HORN　DRILL！
+Foe　NIDOKING\'s<FE>attack　missed！
+EXPLOUD　used<FE>HYPER　VOICE！
+Battler 1 info: Nidoking Lv100 HP 0/366 - 311 190 185 186 206 - Moves: 2 Horn Drill, 30 Double Kick, 14 Body Slam, 19 Counter
+Foe　NIDOKING<FE>fainted！<FB>
+Battler 1 info: Aerodactyl Lv100 HP 343/343 - 316 166 140 186 338 - Moves: 5 AncientPower, 20 DragonBreath, 20 Aerial Ace, 20 Roar
+COLLECTOR　TRISTAN　sent<FE>out　AERODACTYL！
+<FC>いいAERODACTYL<FC>あさ♂
+What　will<FE>EXPLOUD　do？
+SLEEP　TALK
+ラ7/10
+TYPE/<FC>かあNORMAL
+Foe　AERODACTYL　used<FE>DRAGONBREATH！
+Battler 0 info: Exploud Lv100 HP 57/384 - 253 147 171 134 144 - Moves: 7 Hyper Voice, 15 Shadow Ball, 10 Sleep Talk, 10 Rest
+EXPLOUD　used<FE>HYPER　VOICE！
+Battler 1 info: Aerodactyl Lv100 HP 262/343 - 316 166 140 186 338 - Moves: 5 AncientPower, 19 DragonBreath, 20 Aerial Ace, 20 Roar
+It\'s　not　very　effective⋯
+What　will<FE>EXPLOUD　do？
+SLEEP　TALK
+ラ6/10
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあGHOST
+TYPE/<FC>かあPSYCHC
+What　will<FE>EXPLOUD　do？
+SLEEP　TALK
+10/10
+TYPE/<FC>かあPSYCHC
+EXPLOUD　used<FE>REST！
+EXPLOUD　went<FE>to　sleep！
+Battler 0 info: Exploud Lv100 HP 384/384 - 253 147 171 134 144 - Moves: 6 Hyper Voice, 15 Shadow Ball, 10 Sleep Talk, 9 Rest
+EXPLOUD　regained<FE>health！
+EXPLOUD\'s　CHESTO　BERRY<FE>woke　it　from　its　sleep！
+Foe　AERODACTYL　used<FE>ROAR！
+EXPLOUD\'s　SOUNDPROOF<FE>blocks　ROAR！
+What　will<FE>EXPLOUD　do？
+SLEEP　TALK
+ラ9/10
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあNORMAL
+Foe　AERODACTYL　used<FE>AERIAL　ACE！
+Battler 0 info: Exploud Lv100 HP 223/384 - 253 147 171 134 144 - Moves: 6 Hyper Voice, 15 Shadow Ball, 10 Sleep Talk, 9 Rest
+EXPLOUD　used<FE>HYPER　VOICE！
+Battler 1 info: Aerodactyl Lv100 HP 182/343 - 316 166 140 186 338 - Moves: 5 AncientPower, 19 DragonBreath, 19 Aerial Ace, 19 Roar
+It\'s　not　very　effective⋯
+What　will<FE>EXPLOUD　do？
+SHADOW　BALL
+ラ5/10
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあGHOST
+What　will<FE>EXPLOUD　do？
+SHADOW　BALL
+15/15
+TYPE/<FC>かあGHOST
+Foe　AERODACTYL　used<FE>DRAGONBREATH！
+Battler 0 info: Exploud Lv100 HP 176/384 - 253 147 171 134 144 - Moves: 5 Hyper Voice, 15 Shadow Ball, 10 Sleep Talk, 9 Rest
+EXPLOUD　is　paralyzed！<FE>It　may　be　unable　to　move！
+EXPLOUD　used<FE>SHADOW　BALL！
+Battler 1 info: Aerodactyl Lv100 HP 94/343 - 316 166 140 186 338 - Moves: 5 AncientPower, 18 DragonBreath, 19 Aerial Ace, 19 Roar
+What　will<FE>EXPLOUD　do？
+SLEEP　TALK
+14/15
+TYPE/<FC>かあGHOST
+Foe　AERODACTYL　used<FE>AERIAL　ACE！
+Battler 0 info: Exploud Lv100 HP 31/384 - 253 147 171 134 144 - Moves: 5 Hyper Voice, 14 Shadow Ball, 10 Sleep Talk, 9 Rest
+EXPLOUD　used<FE>SHADOW　BALL！
+Battler 1 info: Aerodactyl Lv100 HP 0/343 - 316 166 140 186 338 - Moves: 5 AncientPower, 18 DragonBreath, 18 Aerial Ace, 19 Roar
+Foe　AERODACTYL<FE>fainted！<FB>
+Player　defeated<FE>COLLECTOR　TRISTAN！<FB>
+I　AM　NOT　A<FE>GENIUS　IN　BATTLE<FC>け
+<FC>いいSCIZOR<FC>あこ♀
+<FC>いいJYNX<FC>あこ♀
+Battler 0 info: Scizor Lv100 HP 253/253 - 364 208 106 231 138 - Moves: 35 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+Battler 1 info: Jynx Lv100 HP 334/334 - 122 106 361 226 226 - Moves: 10 Ice Beam, 10 Fake Out, 10 Lovely Kiss, 15 Attract
+BUG　CATCHER　DESTIN<FE>would　like　to　battle！<FB>
+BUG　CATCHER　DESTIN　sent<FE>out　JYNX！
+<FC>いいJYNX<FC>あこ♀
+Go！　SCIZOR！
+<FC>いいSCIZOR<FC>あこ♀
+What　will<FE>SCIZOR　do？
+Battler 0 info: Scizor Lv100 HP 135/253 - 364 208 106 231 138 - Moves: 31 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+Battler 1 info: Flareon Lv100 HP 223/271 - 266 219 317 256 166 - Moves: 15 Flamethrower, 20 Roar, 24 Bite, 13 Sand-Attack
+Battler 2 info: Krabby Lv50 HP 123/123 - 143 96 31 31 56 - Moves: 8 Crabhammer, 15 Mud Shot, 15 Flail, 20 Knock Off
+Battler 3 info: Gloom Lv50 HP 153/153 - 71 76 123 81 46 - Moves: 19 Petal Dance, 30 Acid, 30 Stun Spore, 5 Moonlight
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあSTEEL
+Foe　FLAREON　used<FE>SANDーATTACK！
+SCIZOR\'s　accuracy<FE>fell！
+SCIZOR　used<FE>METAL　CLAW！
+SCIZOR\'s<FE>attack　missed！
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあSTEEL
+TYPE/<FC>かあFLYING
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあFLYING
+Foe　FLAREON　used<FE>SANDーATTACK！
+SCIZOR\'s　accuracy<FE>fell！
+SCIZOR　used<FE>AERIAL　ACE！
+Battler 1 info: Flareon Lv100 HP 144/271 - 266 219 317 256 166 - Moves: 15 Flamethrower, 20 Roar, 24 Bite, 11 Sand-Attack
+What　will<FE>SCIZOR　do？
+COUNTER
+PP　
+TYPE/<FC>かあFLYING
+SCIZOR　used<FE>AERIAL　ACE！
+Battler 1 info: Flareon Lv100 HP 68/271 - 266 219 317 256 166 - Moves: 15 Flamethrower, 20 Roar, 24 Bite, 11 Sand-Attack
+Foe　FLAREON　used<FE>ROAR！
+Battler 0 info: Machamp Lv100 HP 356/356 - 364 168 124 178 118 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+<FC>いいMACHAMP<FC>あさ♂
+MACHAMP　was<FE>dragged　out！<FB>
+Foe　FLAREON\'s　SITRUS　BERRY<FE>restored　health！
+Battler 1 info: Flareon Lv100 HP 98/271 - 266 219 317 256 166 - Moves: 15 Flamethrower, 19 Roar, 24 Bite, 11 Sand-Attack
+What　will<FE>MACHAMP　do？
+COUNTER
+PP　
+TYPE/<FC>かあFIGHT
+Foe　FLAREON　used<FE>BITE！
+Battler 0 info: Machamp Lv100 HP 315/356 - 364 168 124 178 118 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+It\'s　not　very　effective⋯
+MACHAMP　used<FE>CROSS　CHOP！
+Battler 1 info: Flareon Lv100 HP 0/271 - 266 219 317 256 166 - Moves: 15 Flamethrower, 19 Roar, 23 Bite, 11 Sand-Attack
+A　critical　hit！
+Foe　FLAREON<FE>fainted！<FB>
+Battler 1 info: Ursaring Lv100 HP 363/363 - 338 186 228 186 146 - Moves: 5 Mega Kick, 15 Crunch, 20 Aerial Ace, 20 Counter
+BUG　CATCHER　DESTIN　sent<FE>out　URSARING！
+<FC>いいURSARING<FC>あこ♀
+What　will<FE>MACHAMP　do？
