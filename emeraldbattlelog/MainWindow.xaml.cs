@@ -129,7 +129,7 @@ namespace PokemonBattleLogger
 
         private string lineCleanup(string line)
         {
-            Debug.WriteLine(line);
+            //Debug.WriteLine(line);
 
             //Remove jank from the text, like japanese characters,
             //full with characters, newline tags, etc.
