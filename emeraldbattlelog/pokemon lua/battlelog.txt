@@ -3981,3 +3981,3508 @@ It\'s　super　effective！
 Foe　URSARING<FE>fainted！<FB>
 Player　defeated<FE>BUG　CATCHER　DESTIN！<FB>
 PLEASE　I　NEED<FE>SOME　WATER　<FC>け
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 2 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<FC>いいSKARMORY
+<FC>いいSKARMORY<FC>あさ♂
+<FC>いいRAICHU<FC>あさ♂
+Battler 0 info: Skarmory Lv100 HP 285/285 - 231 288 79 190 148 - Moves: 25 Steel Wing, 25 Air Cutter, 20 Counter, 30 Agility
+Battler 1 info: Raichu Lv100 HP 261/261 - 194 188 283 196 278 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+TUBER　EILEEN<FE>would　like　to　battle！<FB>
+TUBER　EILEEN　sent<FE>out　RAICHU！
+<FC>いいRAICHU<FC>あさ♂
+Go！　SKARMORY！
+<FC>いいSKARMORY<FC>あさ♂
+What　will<FE>SKARMORY　do？
+COUNTER
+25/25
+TYPE/<FC>かあSTEEL
+Foe　RAICHU　used<FE>DOUBLE　TEAM！
+Foe　RAICHU\'s　evasiveness<FE>rose！
+SKARMORY　used<FE>STEEL　WING！
+Battler 1 info: Raichu Lv100 HP 208/261 - 194 188 283 196 278 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 14 Double Team
+It\'s　not　very　effective⋯
+What　will<FE>SKARMORY　do？
+COUNTER
+24/25
+TYPE/<FC>かあSTEEL
+Foe　RAICHU　used<FE>LIGHT　SCREEN！
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF！
+SKARMORY　used<FE>STEEL　WING！
+Battler 1 info: Raichu Lv100 HP 162/261 - 194 188 283 196 278 - Moves: 15 Thunderbolt, 30 Quick Attack, 29 Light Screen, 14 Double Team
+It\'s　not　very　effective⋯
+Foe　RAICHU\'s　STATIC<FE>paralyzed　SKARMORY！<FA>It　may　be　unable　to　move！
+What　will<FE>SKARMORY　do？
+COUNTER
+23/25
+TYPE/<FC>かあSTEEL
+What　will<FE>SKARMORY　do？
+COUNTER
+23/25
+TYPE/<FC>かあSTEEL
+Foe　RAICHU　used<FE>DOUBLE　TEAM！
+Foe　RAICHU\'s　evasiveness<FE>rose！
+SKARMORY　used<FE>STEEL　WING！
+SKARMORY\'s<FE>attack　missed！
+What　will<FE>SKARMORY　do？
+COUNTER
+22/25
+TYPE/<FC>かあSTEEL
+What　will<FE>SKARMORY　do？
+COUNTER
+22/25
+TYPE/<FC>かあSTEEL
+What　will<FE>SKARMORY　do？
+COUNTER
+22/25
+TYPE/<FC>かあSTEEL
+TYPE/<FC>かあFIGHT
+What　will<FE>SKARMORY　do？
+COUNTER
+20/20
+TYPE/<FC>かあFIGHT
+What　will<FE>GHT
+What　will<FE>SKARMORY　do？
+COUNTER
+20/20
+TYPE/<FC>かあFIGHT
+What　will<FE>SKARMORY　do？
+COUNTER
+20/20
+TYPE/<FC>かあFIGHT
+What　will<FE>SKARMORY　do？
+COUNTER
+20/20
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあPSYCHC
+What　will<FE>SKARMORY　do？
+<FC>いいSKARMORY<FC>あさ♂
+<FC>いいRAICHU<FC>あさ♂
+What　will<FE>SKARMORY　do？
+<FC>いいSKARMORY<FC>あさ♂
+<FC>いいRAICHU<FC>あさ♂
+What　will<FE>SKARMORY　do？
+COUNTER
+30/30
+TYPE/<FC>かあPSYCHC
+What　will<FE>SKARMORY　do？
+COUNTER
+30/30
+TYPE/<FC>かあPSYCHC
+What　will<FE>YCHC
+What　will<FE>SKARMORY　do？
+COUNTER
+30/30
+TYPE/<FC>かあPSYCHC
+What　will<FE>SKARMORY　do？
+COUNTER
+30/30
+TYPE/<FC>かあPSYCHC
+What　will<FE>SKARMORY　do？
+COUNTER
+30/30
+TYPE/<FC>かあPSYCHC
+What　will<FE>SKARMORY　do？
+COUNTER
+30/30
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあFIGHT
+What　will<FE>SKARMORY　do？
+COUNTER
+20/20
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあSTEEL
+What　will<FE>SKARMORY　do？
+COUNTER
+22/25
+TYPE/<FC>かあSTEEL
+Foe　RAICHU　used<FE>LIGHT　SCREEN！
+But　it　failed！
+SKARMORY　used<FE>STEEL　WING！
+SKARMORY\'s<FE>attack　missed！
+What　will<FE>SKARMORY　do？
+COUNTER
+21/25
+TYPE/<FC>かあSTEEL
+Foe　RAICHU　used<FE>DOUBLE　TEAM！
+Foe　RAICHU\'s　evasiveness<FE>rose！
+SKARMORY　used<FE>STEEL　WING！
+SKARMORY\'s<FE>attack　missed！
+What　ORY\'s<FE>attack　missed！
+What　will<FE>SKARMORY　do？
+COUNTER
+20/25
+TYPE/<FC>かあSTEEL
+Foe　RAICHU　used<FE>LIGHT　SCREEN！
+But　it　failed！
+SKARMORY　used<FE>STEEL　WING！
+SKARMORY\'s<FE>attack　missed！
+Foe\'s　LIGHT　SCREEN<FE>wore　off！
+What　will<FE>SKARMORY　do？
+COUNTER
+19/25
+TYPE/<FC>かあSTEEL
+Foe　RAICHU　used<FE>DOUBLE　TEAM！
+Foe　RAICHU\'s　evasiveness<FE>rose！
+SKARMORY　used<FE>STEEL　WING！
+SKARMORY\'s<FE>attack　missed！
+What　will<FE>SKARMORY　do？
+COUNTER
+18/25
+TYPE/<FC>かあSTEEL
+Foe　RAICHU　used<FE>QUICK　ATTACK！
+Battler 0 info: Skarmory Lv100 HP 274/285 - 231 288 79 190 148 - Moves: 18 Steel Wing, 25 Air Cutter, 20 Counter, 30 Agility
+It\'s　not　very　effective⋯
+SKARMORY　used<FE>STEEL　WING！
+SKARMORY\'s<FE>attack　missed！
+What　will<FE>SKARMORY　do？
+COUNTER
+17/25
+TYPE/<FC>かあSTEEL
+Foe　RAICHU　used<FE>LIGHT　SCREEN！
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF！
+SKARMORY　is　paralyzed！<FE>It　can\'t　move！
+What　will<FE>s　paralyzed！<FE>It　can\'t　move！
+What　will<FE>SKARMORY　do？
+COUNTER
+17/25
+TYPE/<FC>かあSTEEL
+Foe　RAICHU　used<FE>THUNDERBOLT！
+Battler 0 info: Skarmory Lv100 HP 0/285 - 231 288 79 190 148 - Moves: 17 Steel Wing, 25 Air Cutter, 20 Counter, 30 Agility
+It\'s　super　effective！
+SKARMORY<FE>fainted！<FB>
+<FC>いいSKARMORY<FC>あさ♂
+<FC>いいRAICHU<FC>あさ♂
+Battler 0 info: Ninetales Lv100 HP 259/259 - 144 158 256 208 271 - Moves: 15 Flamethrower, 20 Roar, 10 Confuse Ray, 15 Will-O-Wisp
+Do　it！　NINETALES！
+<FC>いいNINETALES<FC>あこ♀
+What　will<FE>NINETALES　do？
+CONFUSE　RAY
+15/15
+TYPE/<FC>かあFIRE
+Foe　RAICHU　used<FE>THUNDERBOLT！
+Battler 0 info: Ninetales Lv100 HP 109/259 - 144 158 256 208 271 - Moves: 15 Flamethrower, 20 Roar, 10 Confuse Ray, 15 Will-O-Wisp
+NINETALES　used<FE>FLAMETHROWER！
+Battler 1 info: Raichu Lv100 HP 92/261 - 194 188 283 196 278 - Moves: 13 Thunderbolt, 29 Quick Attack, 26 Light Screen, 11 Double Team
+What　will<FE>NINETALES　do？
+CONFUSE　RAY
+PP　
+TYPE/<FC>かあFIRE
+Foe　RAICHU　used<FE>LIGHT　SCREEN！
+But　it　failed！
+NINETALES　used<FE>FLAMETHROWER！
+Battler 1 info: Raichu Lv100 HP 22/261 - 194 188 283 196 278 - Moves: 13 Thunderbolt, 29 Quick Attack, 25 Light Screen, 11 Double Team
+What　will<FE>NINETALES　do？
+CONFUSE　RAY
+13/15
+TYPE/<FC>かあFIRE
+Foe　RAICHU　used<FE>THUNDERBOLT！
+Battler 0 info: Ninetales Lv100 HP 0/259 - 144 158 256 208 271 - Moves: 13 Flamethrower, 20 Roar, 10 Confuse Ray, 15 Will-O-Wisp
+NINETALES<FE>fainted！<FB>
+<FC>いいNINETALES<FC>あこ♀
+<FC>いいRAICHU<FC>あさ♂
+Battler 0 info: Blaziken Lv100 HP 273/273 - 311 148 291 148 168 - Moves: 15 Flamethrower, 5 Sunny Day, 30 Double Kick, 20 Roar
+Your　foe\'s　weak！<FE>Get　\'em,　BLAZIKEN！
+<FC>いいBLAZIKEN<FC>あさ♂
+Foe\'s　LIGHT　SCREEN<FE>wore　off！
+What　will<FE>BLAZIKEN　do？
+DOUBLE　KICK
+15/15
+TYPE/<FC>かあFIRE
+Foe　RAICHU　used<FE>QUICK　ATTACK！
+Battler 0 info: Blaziken Lv100 HP 233/273 - 311 148 291 148 168 - Moves: 15 Flamethrower, 5 Sunny Day, 30 Double Kick, 20 Roar
+BLAZIKEN　used<FE>FLAMETHROWER！
+Battler 1 info: Raichu Lv100 HP 0/261 - 194 188 283 196 278 - Moves: 12 Thunderbolt, 28 Quick Attack, 25 Light Screen, 11 Double Team
+Foe　RAICHU<FE>fainted！<FB>
+Battler 1 info: Ludicolo Lv100 HP 343/343 - 176 218 283 236 158 - Moves: 15 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+TUBER　EILEEN　sent<FE>out　LUDICOLO！
+<FC>いいLUDICOLO<FC>あこ♀
+What　will<FE>BLAZIKEN　do？
+DOUBLE　KICK
+14/15
+TYPE/<FC>かあFIRE
+BLAZIKEN　used<FE>FLAMETHROWER！
+Battler 1 info: Ludicolo Lv100 HP 210/343 - 176 218 283 236 158 - Moves: 15 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+Foe　LUDICOLO　was　burned！
+Foe　LUDICOLO　used<FE>SURF！
+Battler 0 info: Blaziken Lv100 HP 0/273 - 311 148 291 148 168 - Moves: 13 Flamethrower, 5 Sunny Day, 30 Double Kick, 20 Roar
+It\'s　super　effective！
+BLAZIKEN<FE>fainted！<FB>
+Foe　LUDICOLO\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 1 info: Ludicolo Lv100 HP 239/343 - 176 218 283 236 158 - Moves: 14 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+SO　THIS　IS<FE>AN　ADULT　FEELING<FC>け
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 2 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<FC>いいMAROWAK
+<FC>いいMAROWAK<FC>あこ♀
+<FC>いいHYPNO<FC>あさ♂
+Battler 0 info: Marowak Lv100 HP 296/296 - 254 228 97 168 98 - Moves: 10 Bonemerang, 10 Rock Slide, 15 Icy Wind, 15 Headbutt
+Battler 1 info: Hypno Lv100 HP 311/311 - 182 239 269 266 153 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+HIKER　KENNETH<FE>would　like　to　battle！<FB>
+HIKER　KENNETH　sent<FE>out　HYPNO！
+<FC>いいHYPNO<FC>あさ♂
+Go！　MAROWAK！
+<FC>いいMAROWAK<FC>あこ♀
+What　will<FE>MAROWAK　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+April　forfeited　the　match！
+<FC>いいGRANBULL
+<FC>いいGRANBULL<FC>あこ♀
+<FC>いいHOUNDOOM<FC>あさ♂
+Battler 0 info: Granbull Lv100 HP 356/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 20 Roar
+Battler 1 info: Houndoom Lv100 HP 291/291 - 258 136 298 196 268 - Moves: 15 Flamethrower, 15 Shadow Ball, 20 Counter, 15 Will-O-Wisp
+HIKER　KENNETH<FE>would　like　to　battle！<FB>
+HIKER　KENNETH　sent<FE>out　HOUNDOOM！
+<FC>いいHOUNDOOM<FC>あさ♂
+Go！　GRANBULL！
+<FC>いいGRANBULL<FC>あこ♀
+GRANBULL\'s　INTIMIDATE<FE>cuts　Foe　HOUNDOOM\'s　ATTACK！
+What　will<FE>GRANBULL　do？
+THUNDER　WAVE
+ラ5/ラ5
+TYPE/<FC>かあNORMAL
+What　will<FE>GRANBULL　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+What　will<FE>GRANBULL　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+April　forfeited　the　match！
+<FC>いいRAPIDASH<FC>あこ♀
+<FC>いいJOLTEON<FC>あさ♂
+<FC>いいGENGAR<FC>あさ♂
+<FC>いいCLEFABLE<FC>あこ♀
+Battler 0 info: Rapidash Lv100 HP 243/243 - 208 148 254 168 252 - Moves: 15 Flamethrower, 30 Double Kick, 30 Quick Attack, 10 Protect
+Battler 1 info: Jolteon Lv100 HP 243/243 - 124 128 320 198 331 - Moves: 15 Thunderbolt, 20 Thunder Wave, 15 Attract, 10 Protect
+Battler 2 info: Gengar Lv100 HP 275/275 - 124 128 310 158 297 - Moves: 15 Dream Eater, 20 Hypnosis, 10 Confuse Ray, 15 Attract
+Battler 3 info: Clefable Lv100 HP 303/303 - 162 217 178 251 115 - Moves: 10 Metronome, 15 Double Team, 20 Reflect, 20 Follow Me
+SCHOOL　KID　ELISE<FE>would　like　to　battle！<FB>
+SCHOOL　KID　ELISE　sent<FE>out　JOLTEON　and　CLEFABLE！
+<FC>いいCLEFABLE<FC>あこ♀
+<FC>いいJOLTEON<FC>あさ♂
+Go！　RAPIDASH　and<FE>GENGAR！
+<FC>いいGENGAR<FC>あさ♂
+<FC>いいRAPIDASH<FC>あこ♀
+What　will<FE>RAPIDASH　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+What　will<FE>RAPIDASH　do？
+DOUBLE　KICK
+PP　
+TYPE/<FC>かあFIRE
+What　will<FE>GENGAR　do？
+CONFUSE　RAY
+15/15
+TYPE/<FC>かあPSYCHC
+Foe　JOLTEON　used<FE>PROTECT！
+Foe　JOLTEON　protected<FE>itself！
+GENGAR　used<FE>DREAM　EATER！
+Foe　JOLTEON<FE>wasn\'t　affected！
+RAPIDASH　used<FE>FLAMETHROWER！
+Foe　JOLTEON<FE>protected　itself！
+Foe　CLEFABLE　used<FE>DOUBLE　TEAM！
+Foe　CLEFABLE\'s　evasiveness<FE>rose！
+What　will<FE>RAPIDASH　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+What　will<FE>GENGAR　do？
+CONFUSE　RAY
+14/1ACT
+TYPE/<FC>かあPSYCHC
+What　will<FE>GENGAR　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+April　forfeited　the　match！
+<FC>いいSCEPTILE
+<FC>いいSCEPTILE<FC>あさ♂
+<FC>いいDUSCLOPS<FC>あさ♂
+Battler 0 info: Sceptile Lv100 HP 253/253 - 160 138 309 178 311 - Moves: 15 Leaf Blade, 10 Leech Seed, 20 Aerial Ace, 5 Detect
+Battler 1 info: Dusclops Lv100 HP 263/263 - 176 371 140 338 86 - Moves: 15 Will-O-Wisp, 20 Seismic Toss, 20 Pain Split, 10 Confuse Ray
+SCHOOL　KID　LILIANA<FE>would　like　to　battle！<FB>
+SCHOOL　KID　LILIANA　sent<FE>out　DUSCLOPS！
+<FC>いいDUSCLOPS<FC>あさ♂
+Go！　SCEPTILE！
+<FC>いいSCEPTILE<FC>あさ♂
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+15/15
+TYPE/<FC>かあGRASS
+SCEPTILE　used<FE>LEAF　BLADE！
+Battler 1 info: Dusclops Lv100 HP 185/263 - 176 371 140 338 86 - Moves: 15 Will-O-Wisp, 20 Seismic Toss, 20 Pain Split, 10 Confuse Ray
+Foe　DUSCLOPS　used<FE>SEISMIC　TOSS！
+Battler 0 info: Sceptile Lv100 HP 153/253 - 160 138 309 178 311 - Moves: 13 Leaf Blade, 10 Leech Seed, 20 Aerial Ace, 5 Detect
+SCEPTILE\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Sceptile Lv100 HP 168/253 - 160 138 309 178 311 - Moves: 13 Leaf Blade, 10 Leech Seed, 20 Aerial Ace, 5 Detect
+Foe　DUSCLOPS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Dusclops Lv100 HP 201/263 - 176 371 140 338 86 - Moves: 15 Will-O-Wisp, 19 Seismic Toss, 20 Pain Split, 10 Confuse Ray
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+13/15
+TYPE/<FC>かあGRASS
+SCEPTILE　used<FE>LEAF　BLADE！
+Battler 1 info: Dusclops Lv100 HP 51/263 - 176 371 140 338 86 - Moves: 15 Will-O-Wisp, 19 Seismic Toss, 20 Pain Split, 10 Confuse Ray
+A　critical　hit！
+Foe　DUSCLOPS　used<FE>WILLーOーWISP！
+SCEPTILE　was　burned！
+SCEPTILE\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Sceptile Lv100 HP 183/253 - 160 138 309 178 311 - Moves: 11 Leaf Blade, 10 Leech Seed, 20 Aerial Ace, 5 Detect
+SCEPTILE　is　hurt<FE>by　its　burn！
+Battler 0 info: Sceptile Lv100 HP 152/253 - 160 138 309 178 311 - Moves: 11 Leaf Blade, 10 Leech Seed, 20 Aerial Ace, 5 Detect
+Foe　DUSCLOPS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Dusclops Lv100 HP 67/263 - 176 371 140 338 86 - Moves: 14 Will-O-Wisp, 19 Seismic Toss, 20 Pain Split, 10 Confuse Ray
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+11/15
+TYPE/<FC>かあGRASS
+SCEPTILE　used<FE>LEAF　BLADE！
+Battler 1 info: Dusclops Lv100 HP 0/263 - 176 371 140 338 86 - Moves: 14 Will-O-Wisp, 19 Seismic Toss, 20 Pain Split, 10 Confuse Ray
+A　critical　hit！
+Foe　DUSCLOPS<FE>fainted！<FB>
+Battler 1 info: Dodrio Lv100 HP 261/261 - 350 176 140 156 299 - Moves: 20 Drill Peck, 10 Tri Attack, 10 Sleep Talk, 10 Rest
+SCHOOL　KID　LILIANA　sent<FE>out　DODRIO！
+<FC>いいDODRIO<FC>あこ♀
+SCEPTILE\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Sceptile Lv100 HP 167/253 - 160 138 309 178 311 - Moves: 9 Leaf Blade, 10 Leech Seed, 20 Aerial Ace, 5 Detect
+SCEPTILE　is　hurt<FE>by　its　burn！
+Battler 0 info: Sceptile Lv100 HP 136/253 - 160 138 309 178 311 - Moves: 9 Leaf Blade, 10 Leech Seed, 20 Aerial Ace, 5 Detect
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+ラ9/15
+TYPE/<FC>かあGRASS
+TYPE/<FC>かあFLYING
+SCEPTILE　used<FE>AERIAL　ACE！
+Battler 1 info: Dodrio Lv100 HP 239/261 - 350 176 140 156 299 - Moves: 20 Drill Peck, 10 Tri Attack, 10 Sleep Talk, 10 Rest
+Foe　DODRIO　used<FE>SLEEP　TALK！
+But　it　failed！
+SCEPTILE\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Sceptile Lv100 HP 151/253 - 160 138 309 178 311 - Moves: 9 Leaf Blade, 10 Leech Seed, 19 Aerial Ace, 5 Detect
+SCEPTILE　is　hurt<FE>by　its　burn！
+Battler 0 info: Sceptile Lv100 HP 120/253 - 160 138 309 178 311 - Moves: 9 Leaf Blade, 10 Leech Seed, 19 Aerial Ace, 5 Detect
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+19/20
+TYPE/<FC>かあFLYING
+SCEPTILE　used<FE>AERIAL　ACE！
+Battler 1 info: Dodrio Lv100 HP 216/261 - 350 176 140 156 299 - Moves: 20 Drill Peck, 10 Tri Attack, 9 Sleep Talk, 10 Rest
+Foe　DODRIO　used<FE>REST！
+Foe　DODRIO　went<FE>to　sleep！
+Battler 1 info: Dodrio Lv100 HP 261/261 - 350 176 140 156 299 - Moves: 20 Drill Peck, 10 Tri Attack, 9 Sleep Talk, 9 Rest
+Foe　DODRIO　regained<FE>health！
+Foe　DODRIO\'s　CHESTO　BERRY<FE>woke　it　from　its　sleep！
+SCEPTILE\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Sceptile Lv100 HP 135/253 - 160 138 309 178 311 - Moves: 9 Leaf Blade, 10 Leech Seed, 18 Aerial Ace, 5 Detect
+SCEPTILE　is　hurt<FE>by　its　burn！
+Battler 0 info: Sceptile Lv100 HP 104/253 - 160 138 309 178 311 - Moves: 9 Leaf Blade, 10 Leech Seed, 18 Aerial Ace, 5 Detect
+What　will<FE>s　hurt<FE>by　its　burn！
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+18/20
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあFIGHT
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+ラ5/ラ5
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあGRASS
+SCEPTILE　used<FE>LEECH　SEED！
+Foe　DODRIO　was　seeded！
+Foe　DODRIO　used<FE>DRILL　PECK！
+Battler 0 info: Sceptile Lv100 HP 0/253 - 160 138 309 178 311 - Moves: 9 Leaf Blade, 9 Leech Seed, 18 Aerial Ace, 5 Detect
+It\'s　super　effective！
+SCEPTILE<FE>fainted！<FB>
+<FC>いいSCEPTILE<FC>あさ♂
+<FC>いいDODRIO<FC>あこ♀
+Battler 0 info: Lanturn Lv100 HP 363/363 - 124 187 245 160 127 - Moves: 15 Surf, 10 Confuse Ray, 15 Attract, 20 Thunder Wave
+Go！　LANTURN！
+<FC>いいLANTURN<FC>あさ♂
+Battler 1 info: Dodrio Lv100 HP 229/261 - 350 176 140 156 299 - Moves: 19 Drill Peck, 10 Tri Attack, 9 Sleep Talk, 9 Rest
+Foe　DODRIO\'s　health　is<FE>sapped　by　LEECH　SEED！
+What　will<FE>LANTURN　do？
+ATTRACT
+15/15
+TYPE/<FC>かあWATER
+Foe　DODRIO　used<FE>SLEEP　TALK！
+But　it　failed！
+LANTURN　used<FE>SURF！
+Battler 1 info: Dodrio Lv100 HP 41/261 - 350 176 140 156 299 - Moves: 19 Drill Peck, 10 Tri Attack, 8 Sleep Talk, 9 Rest
+Battler 1 info: Dodrio Lv100 HP 9/261 - 350 176 140 156 299 - Moves: 19 Drill Peck, 10 Tri Attack, 8 Sleep Talk, 9 Rest
+Foe　DODRIO\'s　health　is<FE>sapped　by　LEECH　SEED！
+What　will<FE>LANTURN　do？
+ATTRACT
+14/15
+TYPE/<FC>かあWATER
+Foe　DODRIO　used<FE>SLEEP　TALK！
+But　it　failed！
+LANTURN　used<FE>SURF！
+Battler 1 info: Dodrio Lv100 HP 0/261 - 350 176 140 156 299 - Moves: 19 Drill Peck, 10 Tri Attack, 7 Sleep Talk, 9 Rest
+Foe　DODRIO<FE>fainted！<FB>
+Battler 1 info: Charizard Lv100 HP 297/297 - 183 192 348 206 299 - Moves: 5 Fire Blast, 5 Sunny Day, 20 Roar, 10 Scary Face
+SCHOOL　KID　LILIANA　sent<FE>out　CHARIZARD！
+<FC>いいCHARIZARD<FC>あこ♀
+What　will<FE>LANTURN　do？
+ATTRACT
+13/15
+TYPE/<FC>かあWATER
+LANTURN　used<FE>SURF！
+Battler 1 info: Charizard Lv100 HP 50/297 - 183 192 348 206 299 - Moves: 5 Fire Blast, 5 Sunny Day, 20 Roar, 10 Scary Face
+It\'s　super　effective！
+Foe　CHARIZARD　used<FE>ROAR！
+Battler 0 info: Alakazam Lv100 HP 223/223 - 97 161 375 178 248 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Thunder Wave
+<FC>いいALAKAZAM<FC>あさ♂
+ALAKAZAM　was<FE>dragged　out！<FB>
+What　will<FE>ALAKAZAM　do？
+ICE　PUNCH
+PP　
+TYPE/<FC>かあELECTR
+Foe　CHARIZARD　used<FE>SUNNY　DAY！
+The　sunlight　got　bright！
+ALAKAZAM　used<FE>THUNDERPUNCH！
+Battler 1 info: Charizard Lv100 HP 0/297 - 183 192 348 206 299 - Moves: 5 Fire Blast, 4 Sunny Day, 19 Roar, 10 Scary Face
+It\'s　super　effective！
+Foe　CHARIZARD<FE>fainted！<FB>
+Player　defeated<FE>SCHOOL　KID　LILIANA！<FB>
+THAT\'S　IT　⋯<FE>I　GIVE　UP　⋯<FC>け
+<FC>いいSCEPTILE
+<FC>いいSCEPTILE<FC>あさ♂
+<FC>いいMEDICHAM<FC>あこ♀
+Battler 0 info: Sceptile Lv100 HP 253/253 - 160 138 309 178 311 - Moves: 15 Leaf Blade, 10 Leech Seed, 20 Aerial Ace, 5 Detect
+Battler 1 info: Medicham Lv100 HP 261/261 - 219 186 156 186 259 - Moves: 10 Psychic, 20 Hi Jump Kick, 20 Calm Mind, 40 Baton Pass
+BUG　MANIAC　CLAYTON<FE>would　like　to　battle！<FB>
+BUG　MANIAC　CLAYTON　sent<FE>out　MEDICHAM！
+<FC>いいMEDICHAM<FC>あこ♀
+Go！　SCEPTILE！
+<FC>いいSCEPTILE<FC>あさ♂
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+15/15
+TYPE/<FC>かあGRASS
+SCEPTILE　used<FE>LEECH　SEED！
+Foe　MEDICHAM　was　seeded！
+Foe　MEDICHAM　used<FE>BATON　PASS！
+Battler 1 info: Porygon2 Lv100 HP 374/374 - 284 216 221 226 156 - Moves: 10 Tri Attack, 20 Aerial Ace, 15 Shadow Ball, 20 Recover
+BUG　MANIAC　CLAYTON　sent<FE>out　PORYGON2！
+<FC>いいPORYGON2<FC>あさ
+Foe　PORYGON2　TRACED<FE>SCEPTILE\'s　OVERGROW！
+Battler 1 info: Porygon2 Lv100 HP 328/374 - 284 216 221 226 156 - Moves: 10 Tri Attack, 20 Aerial Ace, 15 Shadow Ball, 20 Recover
+Foe　PORYGON2\'s　health　is<FE>sapped　by　LEECH　SEED！
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+ラ9/10
+TYPE/<FC>かあGRASS
+SCEPTILE　used<FE>LEAF　BLADE！
+Battler 1 info: Porygon2 Lv100 HP 205/374 - 284 216 221 226 156 - Moves: 10 Tri Attack, 20 Aerial Ace, 15 Shadow Ball, 20 Recover
+Foe　PORYGON2　used<FE>AERIAL　ACE！
+Battler 0 info: Sceptile Lv100 HP 64/253 - 160 138 309 178 311 - Moves: 14 Leaf Blade, 9 Leech Seed, 20 Aerial Ace, 5 Detect
+It\'s　super　effective！
+SCEPTILE\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Sceptile Lv100 HP 79/253 - 160 138 309 178 311 - Moves: 14 Leaf Blade, 9 Leech Seed, 20 Aerial Ace, 5 Detect
+Foe　PORYGON2\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Porygon2 Lv100 HP 228/374 - 284 216 221 226 156 - Moves: 10 Tri Attack, 19 Aerial Ace, 15 Shadow Ball, 20 Recover
+Battler 1 info: Porygon2 Lv100 HP 182/374 - 284 216 221 226 156 - Moves: 10 Tri Attack, 19 Aerial Ace, 15 Shadow Ball, 20 Recover
+Battler 0 info: Sceptile Lv100 HP 125/253 - 160 138 309 178 311 - Moves: 14 Leaf Blade, 9 Leech Seed, 20 Aerial Ace, 5 Detect
+Foe　PORYGON2\'s　health　is<FE>sapped　by　LEECH　SEED！
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+14/15
+TYPE/<FC>かあGRASS
+SCEPTILE　used<FE>LEAF　BLADE！
+Battler 1 info: Porygon2 Lv100 HP 69/374 - 284 216 221 226 156 - Moves: 10 Tri Attack, 19 Aerial Ace, 15 Shadow Ball, 20 Recover
+Foe　PORYGON2　used<FE>RECOVER！
+Battler 1 info: Porygon2 Lv100 HP 256/374 - 284 216 221 226 156 - Moves: 10 Tri Attack, 19 Aerial Ace, 15 Shadow Ball, 19 Recover
+Foe　PORYGON2　regained<FE>health！
+SCEPTILE\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Sceptile Lv100 HP 140/253 - 160 138 309 178 311 - Moves: 13 Leaf Blade, 9 Leech Seed, 20 Aerial Ace, 5 Detect
+Foe　PORYGON2\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Porygon2 Lv100 HP 279/374 - 284 216 221 226 156 - Moves: 10 Tri Attack, 19 Aerial Ace, 15 Shadow Ball, 19 Recover
+Battler 1 info: Porygon2 Lv100 HP 233/374 - 284 216 221 226 156 - Moves: 10 Tri Attack, 19 Aerial Ace, 15 Shadow Ball, 19 Recover
+Battler 0 info: Sceptile Lv100 HP 186/253 - 160 138 309 178 311 - Moves: 13 Leaf Blade, 9 Leech Seed, 20 Aerial Ace, 5 Detect
+Foe　PORYGON2\'s　health　is<FE>sapped　by　LEECH　SEED！
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+13/15
+TYPE/<FC>かあGRASS
+SCEPTILE　used<FE>LEAF　BLADE！
+Battler 1 info: Porygon2 Lv100 HP 119/374 - 284 216 221 226 156 - Moves: 10 Tri Attack, 19 Aerial Ace, 15 Shadow Ball, 19 Recover
+Foe　PORYGON2　used<FE>TRI　ATTACK！
+Battler 0 info: Sceptile Lv100 HP 0/253 - 160 138 309 178 311 - Moves: 12 Leaf Blade, 9 Leech Seed, 20 Aerial Ace, 5 Detect
+SCEPTILE<FE>fainted！<FB>
+<FC>いいSCEPTILE<FC>あさ♂
+<FC>いいPORYGON2<FC>あさ
+Battler 0 info: Alakazam Lv100 HP 223/223 - 97 161 375 178 248 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Thunder Wave
+Go　for　it,　ALAKAZAM！
+<FC>いいALAKAZAM<FC>あさ♂
+Foe　PORYGON2\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Porygon2 Lv100 HP 142/374 - 284 216 221 226 156 - Moves: 9 Tri Attack, 19 Aerial Ace, 15 Shadow Ball, 19 Recover
+Battler 1 info: Porygon2 Lv100 HP 96/374 - 284 216 221 226 156 - Moves: 9 Tri Attack, 19 Aerial Ace, 15 Shadow Ball, 19 Recover
+Foe　PORYGON2\'s　health　is<FE>sapped　by　LEECH　SEED！
+What　will<FE>ALAKAZAM　do？
+FIRE　PUNCH
+PHUNDER　WAVE
+TYPE/<FC>かあELECTR
+ALAKAZAM　used<FE>THUNDERPUNCH！
+Battler 1 info: Porygon2 Lv100 HP 3/374 - 284 216 221 226 156 - Moves: 9 Tri Attack, 19 Aerial Ace, 15 Shadow Ball, 19 Recover
+Foe　PORYGON2　used<FE>SHADOW　BALL！
+Battler 0 info: Alakazam Lv100 HP 15/223 - 97 161 375 178 248 - Moves: 14 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Thunder Wave
+It\'s　super　effective！
+Foe　PORYGON2\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Porygon2 Lv100 HP 26/374 - 284 216 221 226 156 - Moves: 9 Tri Attack, 19 Aerial Ace, 14 Shadow Ball, 19 Recover
+Battler 1 info: Porygon2 Lv100 HP 0/374 - 284 216 221 226 156 - Moves: 9 Tri Attack, 19 Aerial Ace, 14 Shadow Ball, 19 Recover
+Battler 0 info: Alakazam Lv100 HP 41/223 - 97 161 375 178 248 - Moves: 14 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Thunder Wave
+Foe　PORYGON2\'s　health　is<FE>sapped　by　LEECH　SEED！
+Foe　PORYGON2<FE>fainted！<FB>
+Battler 1 info: Medicham Lv100 HP 261/261 - 219 186 156 186 259 - Moves: 10 Psychic, 20 Hi Jump Kick, 20 Calm Mind, 39 Baton Pass
+BUG　MANIAC　CLAYTON　sent<FE>out　MEDICHAM！
+<FC>いいMEDICHAM<FC>あこ♀
+What　will<FE>ALAKAZAM　do？
+FIRE　PUNCH
+PP　
+TYPE/<FC>かあELECTR
+Foe　MEDICHAM　used<FE>CALM　MIND！
+Foe　MEDICHAM\'s　SP。　ATK<FE>rose！
+Foe　MEDICHAM\'s　SP。　DEF<FE>rose！
+ALAKAZAM　used<FE>THUNDERPUNCH！
+Battler 1 info: Medicham Lv100 HP 188/261 - 219 186 156 186 259 - Moves: 10 Psychic, 20 Hi Jump Kick, 19 Calm Mind, 39 Baton Pass
+What　will<FE>ALAKAZAM　do？
+ICE　PUNCH
+THUNDER　WAVE
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあFIRE
+TYPE/<FC>かあELECTR
+Foe　MEDICHAM　used<FE>HI　JUMP　KICK！
+Battler 0 info: Alakazam Lv100 HP 0/223 - 97 161 375 178 248 - Moves: 13 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Thunder Wave
+It\'s　not　very　effective⋯
+ALAKAZAM<FE>fainted！<FB>
+<FC>いいALAKAZAM<FC>あさ♂
+<FC>いいMEDICHAM<FC>あこ♀
+Battler 0 info: Lanturn Lv100 HP 363/363 - 124 187 245 160 127 - Moves: 15 Surf, 10 Confuse Ray, 15 Attract, 20 Thunder Wave
+Go！　LANTURN！
+<FC>いいLANTURN<FC>あさ♂
+What　will<FE>LANTURN　do？
+ATTRACT
+15/15
+TYPE/<FC>かあWATER
+Foe　MEDICHAM　used<FE>BATON　PASS！
+Battler 1 info: Raichu Lv100 HP 261/261 - 194 188 283 196 278 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+BUG　MANIAC　CLAYTON　sent<FE>out　RAICHU！
+<FC>いいRAICHU<FC>あこ♀
+LANTURN　used<FE>SURF！
+Battler 1 info: Raichu Lv100 HP 169/261 - 194 188 283 196 278 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+What　will<FE>LANTURN　do？
+ATTRACT
+14/15
+TYPE/<FC>かあWATER
+Foe　RAICHU　used<FE>DOUBLE　TEAM！
+Foe　RAICHU\'s　evasiveness<FE>rose！
+LANTURN　used<FE>SURF！
+Battler 1 info: Raichu Lv100 HP 82/261 - 194 188 283 196 278 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 14 Double Team
+What　will<FE>LANTURN　do？
+ATTRACT
+13/15
+TYPE/<FC>かあWATER
+Foe　RAICHU　used<FE>LIGHT　SCREEN！
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF！
+LANTURN　used<FE>SURF！
+Battler 1 info: Raichu Lv100 HP 0/261 - 194 188 283 196 278 - Moves: 15 Thunderbolt, 30 Quick Attack, 29 Light Screen, 14 Double Team
+A　critical　hit！
+Foe　RAICHU<FE>fainted！<FB>
+Battler 1 info: Medicham Lv100 HP 188/261 - 219 186 156 186 259 - Moves: 10 Psychic, 19 Hi Jump Kick, 19 Calm Mind, 38 Baton Pass
+BUG　MANIAC　CLAYTON　sent<FE>out　MEDICHAM！
+<FC>いいMEDICHAM<FC>あこ♀
+What　will<FE>LANTURN　do？
+ATTRACT
+12/15
+TYPE/<FC>かあWATER
+Foe　MEDICHAM　used<FE>HI　JUMP　KICK！
+Battler 0 info: Lanturn Lv100 HP 138/363 - 124 187 245 160 127 - Moves: 12 Surf, 10 Confuse Ray, 15 Attract, 20 Thunder Wave
+LANTURN　used<FE>SURF！
+Battler 1 info: Medicham Lv100 HP 0/261 - 219 186 156 186 259 - Moves: 10 Psychic, 18 Hi Jump Kick, 19 Calm Mind, 38 Baton Pass
+A　critical　hit！
+Foe　MEDICHAM<FE>fainted！<FB>
+Player　defeated<FE>BUG　MANIAC　CLAYTON！<FB>
+WHERE　IS　IT？　I\'VE<FE>LOST　MY　SENSE<FC>け
+<FC>いいSCEPTILE<FC>あさ♂
+<FC>いいMAROWAK<FC>あさ♂
+Battler 0 info: Sceptile Lv100 HP 253/253 - 160 138 309 178 311 - Moves: 15 Leaf Blade, 10 Leech Seed, 20 Aerial Ace, 5 Detect
+Battler 1 info: Marowak Lv100 HP 324/324 - 284 256 122 196 126 - Moves: 10 Bonemerang, 10 Rock Slide, 15 Icy Wind, 15 Headbutt
+CAMPER　MITCH<FE>would　like　to　battle！<FB>
+CAMPER　MITCH　sent<FE>out　MAROWAK！
+<FC>いいMAROWAK<FC>あさ♂
+Go！　SCEPTILE！
+<FC>いいSCEPTILE<FC>あさ♂
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+15/15
+TYPE/<FC>かあGRASS
+SCEPTILE　used<FE>LEAF　BLADE！
+Battler 1 info: Marowak Lv100 HP 62/324 - 284 256 122 196 126 - Moves: 10 Bonemerang, 10 Rock Slide, 15 Icy Wind, 15 Headbutt
+It\'s　super　effective！
+Foe　MAROWAK　used<FE>ROCK　SLIDE！
+Battler 0 info: Sceptile Lv100 HP 29/253 - 160 138 309 178 311 - Moves: 14 Leaf Blade, 10 Leech Seed, 20 Aerial Ace, 5 Detect
+SCEPTILE\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Sceptile Lv100 HP 44/253 - 160 138 309 178 311 - Moves: 14 Leaf Blade, 10 Leech Seed, 20 Aerial Ace, 5 Detect
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+14/15
+TYPE/<FC>かあGRASS
+SCEPTILE　used<FE>LEAF　BLADE！
+Battler 1 info: Marowak Lv100 HP 0/324 - 284 256 122 196 126 - Moves: 10 Bonemerang, 9 Rock Slide, 15 Icy Wind, 15 Headbutt
+It\'s　super　effective！
+Foe　MAROWAK<FE>fainted！<FB>
+Battler 1 info: Houndoom Lv100 HP 291/291 - 258 136 298 196 268 - Moves: 15 Flamethrower, 15 Shadow Ball, 20 Counter, 15 Will-O-Wisp
+CAMPER　MITCH　sent<FE>out　HOUNDOOM！
+<FC>いいHOUNDOOM<FC>あこ♀
+SCEPTILE\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Sceptile Lv100 HP 59/253 - 160 138 309 178 311 - Moves: 13 Leaf Blade, 10 Leech Seed, 20 Aerial Ace, 5 Detect
+What　will<FE>SCEPTILE　do？
+AERIAL　ACE
+13/15
+TYPE/<FC>かあGRASS
+SCEPTILE　used<FE>LEECH　SEED！
+Foe　HOUNDOOM　was　seeded！
+Foe　HOUNDOOM　used<FE>SHADOW　BALL！
+Battler 0 info: Sceptile Lv100 HP 0/253 - 160 138 309 178 311 - Moves: 13 Leaf Blade, 9 Leech Seed, 20 Aerial Ace, 5 Detect
+A　critical　hit！
+SCEPTILE<FE>fainted！<FB>
+<FC>いいSCEPTILE<FC>あさ♂
+<FC>いいHOUNDOOM<FC>あこ♀
+Battler 0 info: Lanturn Lv100 HP 363/363 - 124 187 245 160 127 - Moves: 15 Surf, 10 Confuse Ray, 15 Attract, 20 Thunder Wave
+Go！　LANTURN！
+<FC>いいLANTURN<FC>あさ♂
+Battler 1 info: Houndoom Lv100 HP 255/291 - 258 136 298 196 268 - Moves: 15 Flamethrower, 14 Shadow Ball, 20 Counter, 15 Will-O-Wisp
+Foe　HOUNDOOM\'s　health　is<FE>sapped　by　LEECH　SEED！
+What　will<FE>LANTURN　do？
+ATTRACT
+15/15
+TYPE/<FC>かあWATER
+Foe　HOUNDOOM　used<FE>FLAMETHROWER！
+Battler 0 info: Lanturn Lv100 HP 255/363 - 124 187 245 160 127 - Moves: 15 Surf, 10 Confuse Ray, 15 Attract, 20 Thunder Wave
+It\'s　not　very　effective⋯
+LANTURN　used<FE>SURF！
+Battler 1 info: Houndoom Lv100 HP 0/291 - 258 136 298 196 268 - Moves: 14 Flamethrower, 14 Shadow Ball, 20 Counter, 15 Will-O-Wisp
+It\'s　super　effective！
+Foe　HOUNDOOM<FE>fainted！<FB>
+Battler 1 info: Whiscash Lv100 HP 424/424 - 280 182 169 178 156 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+CAMPER　MITCH　sent<FE>out　WHISCASH！
+<FC>いいWHISCASH<FC>あこ♀
+What　will<FE>LANTURN　do？
+ATTRACT
+14/15
+TYPE/<FC>かあWATER
+Foe　WHISCASH　used<FE>EARTHQUAKE！
+Battler 0 info: Lanturn Lv100 HP 0/363 - 124 187 245 160 127 - Moves: 14 Surf, 10 Confuse Ray, 15 Attract, 20 Thunder Wave
+It\'s　super　effective！
+LANTURN<FE>fainted！<FB>
+<FC>いいLANTURN<FC>あさ♂
+<FC>いいWHISCASH<FC>あこ♀
+Battler 0 info: Alakazam Lv100 HP 223/223 - 97 161 375 178 248 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Thunder Wave
+Go！　ALAKAZAM！
+<FC>いいALAKAZAM<FC>あさ♂
+What　will<FE>ALAKAZAM　do？
+ICE　PUNCH
+PP　
+TYPE/<FC>かあELECTR
+ALAKAZAM　used<FE>THUNDERPUNCH！
+It　doesn\'t　affect<FE>Foe　WHISCASH⋯
+Foe　WHISCASH　used<FE>AMNESIA！
+Foe　WHISCASH\'s　SP。　DEF<FE>sharply　rose！
+What　will<FE>ALAKAZAM　do？
+ICE　PUNCH
+PP　
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあFIRE
+ALAKAZAM　used<FE>FIRE　PUNCH！
+Battler 1 info: Whiscash Lv100 HP 393/424 - 280 182 169 178 156 - Moves: 9 Earthquake, 10 Rock Slide, 19 Amnesia, 10 Rest
+It\'s　not　very　effective⋯
+Foe　WHISCASH　used<FE>EARTHQUAKE！
+Battler 0 info: Alakazam Lv100 HP 35/223 - 97 161 375 178 248 - Moves: 14 ThunderPunch, 14 Fire Punch, 15 Ice Punch, 20 Thunder Wave
+What　will<FE>ALAKAZAM　do？
+FIRE　PUNCH
+THUNDER　WAVE
+TYPE/<FC>かあFIRE
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあICE
+WhaE/<FC>かあICE
+What　will<FE>ALAKAZAM　do？
+FIRE　PUNCH
+PP　
+TYPE/<FC>かあICE
+ALAKAZAM　used<FE>ICE　PUNCH！
+Battler 1 info: Whiscash Lv100 HP 326/424 - 280 182 169 178 156 - Moves: 8 Earthquake, 10 Rock Slide, 19 Amnesia, 10 Rest
+Foe　WHISCASH　used<FE>REST！
+Foe　WHISCASH　went<FE>to　sleep！
+Battler 1 info: Whiscash Lv100 HP 424/424 - 280 182 169 178 156 - Moves: 8 Earthquake, 10 Rock Slide, 19 Amnesia, 9 Rest
+Foe　WHISCASH　regained<FE>health！
+Foe　WHISCASH\'s　CHESTO　BERRY<FE>woke　it　from　its　sleep！
+What　will<FE>ALAKAZAM　do？
+FIRE　PUNCH
+PP　
+TYPE/<FC>かあICE
+What　will<FE>ALAKAZAM　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+April　forfeited　the　match！
+<FC>いいESPEON
+<FC>いいESPEON<FC>あさ♂
+<FC>いいFEAROW<FC>あこ♀
+Battler 0 info: Espeon Lv100 HP 243/243 - 124 170 294 240 270 - Moves: 10 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+Battler 1 info: Fearow Lv100 HP 271/271 - 306 166 142 158 299 - Moves: 20 Drill Peck, 10 Tri Attack, 20 Facade, 10 Mud-Slap
+LADY　GILLIAN<FE>would　like　to　battle！<FB>
+LADY　GILLIAN　sent<FE>out　FEAROW！
+<FC>いいFEAROW<FC>あこ♀
+Go！　ESPEON！
+<FC>いいESPEON<FC>あさ♂
+What　will<FE>ESPEON　do？
+BATON　PASS
+10/10
+TYPE/<FC>かあPSYCHC
+Foe　FEAROW　used<FE>DRILL　PECK！
+Battler 0 info: Espeon Lv100 HP 0/243 - 124 170 294 240 270 - Moves: 10 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+A　critical　hit！
+ESPEON<FE>fainted！<FB>
+<FC>いいESPEON<FC>あさ♂
+<FC>いいFEAROW<FC>あこ♀
+Battler 0 info: Aerodactyl Lv100 HP 315/315 - 286 138 115 158 310 - Moves: 5 AncientPower, 20 DragonBreath, 20 Aerial Ace, 20 Roar
+Go！　AERODACTYL！
+<FC>いいAERODACTYL<FC>あさ♂
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ5/ラ5
+TYPE/<FC>かあROCK
+AERODACTYL　used<FE>ANCIENTPOWER！
+Battler 1 info: Fearow Lv100 HP 47/271 - 306 166 142 158 299 - Moves: 19 Drill Peck, 10 Tri Attack, 20 Facade, 10 Mud-Slap
+It\'s　super　effective！
+Foe　FEAROW　used<FE>MUDーSLAP！
+It　doesn\'t　affect<FE>AERODACTYL⋯
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ4/ラ5
+TYPE/<FC>かあROCK
+AERODACTYL　used<FE>ANCIENTPOWER！
+Battler 1 info: Fearow Lv100 HP 0/271 - 306 166 142 158 299 - Moves: 19 Drill Peck, 10 Tri Attack, 20 Facade, 9 Mud-Slap
+It\'s　super　effective！
+AERODACTYL\'s　ATTACK<FE>rose！
+AERODACTYL\'s　DEFENSE<FE>rose！
+AERODACTYL\'s　SPEED<FE>rose！
+AERODACTYL\'s　SP。　ATK<FE>rose！
+AERODACTYL\'s　SP。　DEF<FE>rose！
+Foe　FEAROW<FE>fainted！<FB>
+Battler 1 info: Glalie Lv100 HP 364/364 - 176 196 284 196 196 - Moves: 10 Ice Beam, 15 Crunch, 10 Hail, 10 Protect
+LADY　GILLIAN　sent<FE>out　GLALIE！
+<FC>いいGLALIE<FC>あこ♀
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ3/ラ5
+TYPE/<FC>かあROCK
+AERODACTYL　used<FE>ANCIENTPOWER！
+Battler 1 info: Glalie Lv100 HP 0/364 - 176 196 284 196 196 - Moves: 10 Ice Beam, 15 Crunch, 10 Hail, 10 Protect
+A　critical　hit！
+It\'s　super　effective！
+Foe　GLALIE<FE>fainted！<FB>
+Battler 1 info: Altaria Lv100 HP 354/354 - 239 216 176 246 196 - Moves: 15 Dragon Claw, 20 Aerial Ace, 20 Refresh, 15 Body Slam
+LADY　GILLIAN　sent<FE>out　ALTARIA！
+<FC>いいALTARIA<FC>あこ♀
+What　will<FE>Aあこ♀
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ2/ラ5
+TYPE/<FC>かあROCK
+AERODACTYL　used<FE>ANCIENTPOWER！
+Battler 1 info: Altaria Lv100 HP 67/354 - 239 216 176 246 196 - Moves: 15 Dragon Claw, 20 Aerial Ace, 20 Refresh, 15 Body Slam
+It\'s　super　effective！
+Foe　ALTARIA　used<FE>REFRESH！
+But　it　failed！
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ1/ラ5
+TYPE/<FC>かあROCK
+TYPE/<FC>かあDRAGON
+AERODACTYL　used<FE>DRAGONBREATH！
+Battler 1 info: Altaria Lv100 HP 1/354 - 239 216 176 246 196 - Moves: 15 Dragon Claw, 20 Aerial Ace, 19 Refresh, 15 Body Slam
+It\'s　super　effective！
+Foe　ALTARIA　is　paralyzed！<FE>It　may　be　unable　to　move！
+Foe　ALTARIA\'s　CHERI　BERRY<FE>cured　paralysis！
+Foe　ALTARIA　used<FE>BODY　SLAM！
+Battler 0 info: Aerodactyl Lv100 HP 279/315 - 286 138 115 158 310 - Moves: 1 AncientPower, 19 DragonBreath, 20 Aerial Ace, 20 Roar
+It\'s　not　very　effective⋯
+What　will<FE>ery　effective⋯
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+19/20
+TYPE/<FC>かあDRAGON
+AERODACTYL　used<FE>DRAGONBREATH！
+Battler 1 info: Altaria Lv100 HP 0/354 - 239 216 176 246 196 - Moves: 15 Dragon Claw, 20 Aerial Ace, 19 Refresh, 14 Body Slam
+It\'s　super　effective！
+Foe　ALTARIA<FE>fainted！<FB>
+Player　defeated<FE>LADY　GILLIAN！<FB>
+LOSING　DOESN\'T　DISAPPOINT<FE>ME　<FC>け
+<FC>いいESPEON
+<FC>いいESPEON<FC>あさ♂
+<FC>いいLAPRAS<FC>あさ♂
+Battler 0 info: Espeon Lv100 HP 243/243 - 124 170 294 240 270 - Moves: 10 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+Battler 1 info: Lapras Lv100 HP 401/401 - 185 284 206 289 156 - Moves: 15 Surf, 15 Attract, 10 Confuse Ray, 15 Sing
+NINJA　BOY　NESTOR<FE>would　like　to　battle！<FB>
+NINJA　BOY　NESTOR　sent<FE>out　LAPRAS！
+<FC>いいLAPRAS<FC>あさ♂
+Go！　ESPEON！
+<FC>いいESPEON<FC>あさ♂
+What　will<FE>あさ♂
+What　will<FE>ESPEON　do？
+CALM　MIND
+10/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Lapras Lv100 HP 289/401 - 185 284 206 289 156 - Moves: 15 Surf, 15 Attract, 10 Confuse Ray, 15 Sing
+Foe　LAPRAS　used<FE>SURF！
+Battler 0 info: Espeon Lv100 HP 145/243 - 124 170 294 240 270 - Moves: 9 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+Foe　LAPRAS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Lapras Lv100 HP 314/401 - 185 284 206 289 156 - Moves: 14 Surf, 15 Attract, 10 Confuse Ray, 15 Sing
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ9/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Lapras Lv100 HP 202/401 - 185 284 206 289 156 - Moves: 14 Surf, 15 Attract, 10 Confuse Ray, 15 Sing
+Foe　LAPRAS　used<FE>SURF！
+Battler 0 info: Espeon Lv100 HP 45/243 - 124 170 294 240 270 - Moves: 8 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+Foe　LAPRAS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Lapras Lv100 HP 227/401 - 185 284 206 289 156 - Moves: 13 Surf, 15 Attract, 10 Confuse Ray, 15 Sing
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ8/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Lapras Lv100 HP 123/401 - 185 284 206 289 156 - Moves: 13 Surf, 15 Attract, 10 Confuse Ray, 15 Sing
+Foe　LAPRAS　used<FE>ATTRACT！
+But　it　failed！
+Foe　LAPRAS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Lapras Lv100 HP 148/401 - 185 284 206 289 156 - Moves: 13 Surf, 14 Attract, 10 Confuse Ray, 15 Sing
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ7/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Lapras Lv100 HP 35/401 - 185 284 206 289 156 - Moves: 13 Surf, 14 Attract, 10 Confuse Ray, 15 Sing
+Foe　LAPRAS　used<FE>SING！
+Foe　LAPRAS\'s<FE>attack　missed！
+Foe　LAPRAS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Lapras Lv100 HP 60/401 - 185 284 206 289 156 - Moves: 13 Surf, 14 Attract, 10 Confuse Ray, 14 Sing
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ6/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Lapras Lv100 HP 0/401 - 185 284 206 289 156 - Moves: 13 Surf, 14 Attract, 10 Confuse Ray, 14 Sing
+Foe　LAPRAS<FE>fainted！<FB>
+Battler 1 info: Jolteon Lv100 HP 271/271 - 149 156 350 226 359 - Moves: 15 Thunderbolt, 20 Thunder Wave, 15 Attract, 10 Protect
+NINJA　BOY　NESTOR　sent<FE>out　JOLTEON！
+<FC>いいJOLTEON<FC>あさ♂
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ5/10
+TYPE/<FC>かあPSYCHC
+Foe　JOLTEON　used<FE>PROTECT！
+Foe　JOLTEON　protected<FE>itself！
+ESPEON　used<FE>PSYCHIC！
+Foe　JOLTEON<FE>protected　itself！
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ4/10
+TYPE/<FC>かあPSYCHC
+Foe　JOLTEON　used<FE>ATTRACT！
+But　it　failed！
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Jolteon Lv100 HP 135/271 - 149 156 350 226 359 - Moves: 15 Thunderbolt, 20 Thunder Wave, 14 Attract, 9 Protect
+What　will<FE>ESPEON　do？
+CALM　MIND
+TYPE/<FC>かあPSYCHC
+Foe　JOLTEON　used<FE>PROTECT！
+Foe　JOLTEON　protected<FE>itself！
+ESPEON　used<FE>PSYCHIC！
+Foe　JOLTEON<FE>protected　itself！
+What　will<FE>ESPEON　do？
+BATON　PASS
+ラ2/10
+TYPE/<FC>かあPSYCHC
+Foe　JOLTEON　used<FE>THUNDER　WAVE！
+ESPEON　is　paralyzed！<FE>It　may　be　unable　to　move！
+ESPEON\'s　SYNCHRONIZE<FE>paralyzed　Foe　JOLTEON！<FA>It　may　be　unable　to　move！
+ESPEON\'s　LUM　BERRY<FE>cured　its　paralysis　problem！
+Foe　JOLTEON\'s　CHERI　BERRY<FE>cured　paralysis！
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Jolteon Lv100 HP 0/271 - 149 156 350 226 359 - Moves: 15 Thunderbolt, 19 Thunder Wave, 14 Attract, 8 Protect
+A　critical　hit！
+Foe　JOLTEON<FE>fainted！<FB>
+Battler 1 info: Vileplume Lv100 HP 354/354 - 259 226 212 216 136 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 5 Aromatherapy
+NINJA　BOY　NESTOR　sent<FE>out　VILEPLUME！
+<FC>いいVILEPLUME<FC>あさ♂
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ1/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Vileplume Lv100 HP 58/354 - 259 226 212 216 136 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 5 Aromatherapy
+It\'s　super　effective！
+Foe　VILEPLUME　used<FE>AROMATHERAPY！
+A　soothing　aroma　wafted<FE>through　the　area！
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ0/10
+TYPE/<FC>かあPSYCHC
+What　will<FE>ESPEON　do？
+<FC>いいESPEON<FC>あさ♂
+<FC>いいVILEPLUME<FC>あさ♂
+ESPEON,　OK！<FE>Come　back！
+Battler 0 info: Aerodactyl Lv100 HP 315/315 - 286 138 115 158 310 - Moves: 5 AncientPower, 20 DragonBreath, 20 Aerial Ace, 20 Roar
+Go　for　it,　AERODACTYL！
+<FC>いいAERODACTYL<FC>あさ♂
+Foe　VILEPLUME　used<FE>MOONLIGHT！
+Battler 1 info: Vileplume Lv100 HP 235/354 - 259 226 212 216 136 - Moves: 10 Sludge Bomb, 20 Petal Dance, 4 Moonlight, 4 Aromatherapy
+Foe　VILEPLUME　regained<FE>health！
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ5/ラ5
+TYPE/<FC>かあROCK
+AERODACTYL　used<FE>ANCIENTPOWER！
+Battler 1 info: Vileplume Lv100 HP 52/354 - 259 226 212 216 136 - Moves: 10 Sludge Bomb, 20 Petal Dance, 4 Moonlight, 4 Aromatherapy
+A　critical　hit！
+Foe　VILEPLUME　used<FE>AROMATHERAPY！
+A　soothing　aroma　wafted<FE>through　the　area！
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ4/ラ5
+TYPE/<FC>かあROCK
+AERODACTYL　used<FE>ANCIENTPOWER！
+Battler 1 info: Vileplume Lv100 HP 0/354 - 259 226 212 216 136 - Moves: 10 Sludge Bomb, 20 Petal Dance, 4 Moonlight, 3 Aromatherapy
+Foe　VILEPLUME<FE>fainted！<FB>
+Player　defeated<FE>NINJA　BOY　NESTOR！<FB>
+YOU　REALLY　ARE<FE>SMOOTH　！　<FC>け
+<FC>いいESPEON<FC>あさ♂
+<FC>いいFERALIGATR<FC>あこ♀
+Battler 0 info: Espeon Lv100 HP 243/243 - 124 170 294 240 270 - Moves: 10 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+Battler 1 info: Feraligatr Lv100 HP 353/353 - 246 236 259 244 172 - Moves: 15 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+RUIN　MANIAC　SAMMY<FE>would　like　to　battle！<FB>
+RUIN　MANIAC　SAMMY　sent<FE>out　FERALIGATR！
+<FC>いいFERALIGATR<FC>あこ♀
+Go！　ESPEON！
+<FC>いいESPEON<FC>あさ♂
+What　will<FE>ESPEON　do？
+CALM　MIND
+10/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Feraligatr Lv100 HP 233/353 - 246 236 259 244 172 - Moves: 15 Surf, 5 Rain Dance, 20 Aerial Ace, 20 Roar
+Foe　FERALIGATR　used<FE>RAIN　DANCE！
+It　started　to　rain！
+Rain　continues　to　fall。
+What　will<FE>ESPEON　do？
+BATON　PASS
+ラ9/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Feraligatr Lv100 HP 94/353 - 246 236 259 244 172 - Moves: 15 Surf, 4 Rain Dance, 20 Aerial Ace, 20 Roar
+Foe　FERALIGATR　used<FE>RAIN　DANCE！
+But　it　failed！
+Rain　continues　to　fall。
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ8/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Feraligatr Lv100 HP 0/353 - 246 236 259 244 172 - Moves: 15 Surf, 3 Rain Dance, 20 Aerial Ace, 20 Roar
+Foe　FERALIGATR<FE>fainted！<FB>
+Battler 1 info: Electrode Lv100 HP 324/324 - 136 176 284 196 284 - Moves: 15 Thunderbolt, 20 Swift, 30 Light Screen, 10 Protect
+RUIN　MANIAC　SAMMY　sent<FE>out　ELECTRODE！
+<FC>いいELECTRODE<FC>あさ
+Rain　continues　to　fall。
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ7/10
+TYPE/<FC>かあPSYCHC
+Foe　ELECTRODE　used<FE>PROTECT！
+Foe　ELECTRODE　protected<FE>itself！
+ESPEON　used<FE>PSYCHIC！
+Foe　ELECTRODE<FE>protected　itself！
+Rain　continues　to　fall。
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ6/10
+TYPE/<FC>かあPSYCHC
+Foe　ELECTRODE　used<FE>LIGHT　SCREEN！
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF！
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Electrode Lv100 HP 243/324 - 136 176 284 196 284 - Moves: 15 Thunderbolt, 20 Swift, 29 Light Screen, 9 Protect
+Foe　ELECTRODE\'s　SP。　DEF<FE>fell！
+The　rain　stopped。
+What　will<FE>topped。
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ5/10
+TYPE/<FC>かあPSYCHC
+Foe　ELECTRODE　used<FE>SWIFT！
+Battler 0 info: Espeon Lv100 HP 202/243 - 124 170 294 240 270 - Moves: 5 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Electrode Lv100 HP 125/324 - 136 176 284 196 284 - Moves: 15 Thunderbolt, 19 Swift, 29 Light Screen, 9 Protect
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ4/10
+TYPE/<FC>かあPSYCHC
+Foe　ELECTRODE　used<FE>LIGHT　SCREEN！
+But　it　failed！
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Electrode Lv100 HP 3/324 - 136 176 284 196 284 - Moves: 15 Thunderbolt, 19 Swift, 28 Light Screen, 9 Protect
+Foe　ELECTRODE\'s　SP。　DEF<FE>fell！
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ3/10
+TYPE/<FC>かあPSYCHC
+Foe　ELECTRODE　used<FE>THUNDERBOLT！
+Battler 0 info: Espeon Lv100 HP 61/243 - 124 170 294 240 270 - Moves: 3 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Electrode Lv100 HP 0/324 - 136 176 284 196 284 - Moves: 14 Thunderbolt, 19 Swift, 28 Light Screen, 9 Protect
+Foe　ELECTRODE<FE>fainted！<FB>
+Battler 1 info: Rapidash Lv100 HP 271/271 - 236 176 284 196 278 - Moves: 15 Flamethrower, 30 Double Kick, 30 Quick Attack, 10 Protect
+RUIN　MANIAC　SAMMY　sent<FE>out　RAPIDASH！
+<FC>いいRAPIDASH<FC>あこ♀
+What　will<FE>ESPEON　do？
+CALM　MIND
+TYPE/<FC>かあPSYCHC
+Foe　RAPIDASH　used<FE>QUICK　ATTACK！
+Battler 0 info: Espeon Lv100 HP 20/243 - 124 170 294 240 270 - Moves: 2 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Rapidash Lv100 HP 192/271 - 236 176 284 196 278 - Moves: 15 Flamethrower, 30 Double Kick, 29 Quick Attack, 10 Protect
+Foe\'s　LIGHT　SCREEN<FE>wore　off！
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ1/10
+TYPE/<FC>かあPSYCHC
+Foe　RAPIDASH　used<FE>FLAMETHROWER！
+Battler 0 info: Espeon Lv100 HP 0/243 - 124 170 294 240 270 - Moves: 1 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+ESPEON<FE>fainted！<FB>
+<FC>いいESPEON<FC>あさ♂
+<FC>いいRAPIDASH<FC>あこ♀
+Battler 0 info: Aerodactyl Lv100 HP 315/315 - 286 138 115 158 310 - Moves: 5 AncientPower, 20 DragonBreath, 20 Aerial Ace, 20 Roar
+Go！　AERODACTYL！
+<FC>いいAERODACTYL<FC>あさ♂
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ5/ラ5
+TYPE/<FC>かあROCK
+Foe　RAPIDASH　used<FE>QUICK　ATTACK！
+Battler 0 info: Aerodactyl Lv100 HP 291/315 - 286 138 115 158 310 - Moves: 5 AncientPower, 20 DragonBreath, 20 Aerial Ace, 20 Roar
+It\'s　not　very　effective⋯
+AERODACTYL　used<FE>ANCIENTPOWER！
+Battler 1 info: Rapidash Lv100 HP 0/271 - 236 176 284 196 278 - Moves: 14 Flamethrower, 30 Double Kick, 28 Quick Attack, 10 Protect
+It\'s　super　effective！
+Foe　RAPIDASH<FE>fainted！<FB>
+Player　defeated<FE>RUIN　MANIAC　SAMMY！<FB>
+I　CRY　FOR<FE>MY　PARTY　⋯<FC>け
+<FC>いいESPEON
+<FC>いいESPEON<FC>あさ♂
+<FC>いいURSARING<FC>あこ♀
+Battler 0 info: Espeon Lv100 HP 243/243 - 124 170 294 240 270 - Moves: 10 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+Battler 1 info: Ursaring Lv100 HP 363/363 - 338 186 228 186 146 - Moves: 5 Mega Kick, 15 Crunch, 20 Aerial Ace, 20 Counter
+SAILOR　KADEN<FE>would　like　to　battle！<FB>
+SAILOR　KADEN　sent<FE>out　URSARING！
+<FC>いいURSARING<FC>あこ♀
+Go！　ESPEON！
+<FC>いいESPEON<FC>あさ♂
+What　will<FE>ESPEON　do？
+CALM　MIND
+10/10
+TYPE/<FC>かあPSYCHC
+Foe　URSARING　used<FE>CRUNCH！
+Battler 0 info: Espeon Lv100 HP 133/243 - 124 170 294 240 270 - Moves: 10 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+It\'s　super　effective！
+ESPEON\'s　SP。　DEF<FE>fell！
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Ursaring Lv100 HP 204/363 - 338 186 228 186 146 - Moves: 5 Mega Kick, 14 Crunch, 20 Aerial Ace, 20 Counter
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ9/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Ursaring Lv100 HP 36/363 - 338 186 228 186 146 - Moves: 5 Mega Kick, 14 Crunch, 20 Aerial Ace, 20 Counter
+Foe　URSARING\'s　SP。　DEF<FE>fell！
+Foe　URSARING　used<FE>CRUNCH！
+Battler 0 info: Espeon Lv100 HP 0/243 - 124 170 294 240 270 - Moves: 8 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+It\'s　super　effective！
+ESPEON<FE>fainted！<FB>
+<FC>いいESPEON<FC>あさ♂
+<FC>いいURSARING<FC>あこ♀
+Battler 0 info: Aerodactyl Lv100 HP 315/315 - 286 138 115 158 310 - Moves: 5 AncientPower, 20 DragonBreath, 20 Aerial Ace, 20 Roar
+Your　foe\'s　weak！<FE>Get　\'em,　AERODACTYL！
+<FC>いいAERODACTYL<FC>あさ♂
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ5/ラ5
+TYPE/<FC>かあROCK
+AERODACTYL　used<FE>ANCIENTPOWER！
+Battler 1 info: Ursaring Lv100 HP 0/363 - 338 186 228 186 146 - Moves: 5 Mega Kick, 13 Crunch, 20 Aerial Ace, 20 Counter
+Foe　URSARING<FE>fainted！<FB>
+Battler 1 info: Altaria Lv100 HP 354/354 - 239 216 176 246 196 - Moves: 15 Dragon Claw, 20 Aerial Ace, 20 Refresh, 15 Body Slam
+SAILOR　KADEN　sent<FE>out　ALTARIA！
+<FC>いいALTARIA<FC>あさ♂
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ4/ラ5
+TYPE/<FC>かあROCK
+AERODACTYL　used<FE>ANCIENTPOWER！
+Battler 1 info: Altaria Lv100 HP 165/354 - 239 216 176 246 196 - Moves: 15 Dragon Claw, 20 Aerial Ace, 20 Refresh, 15 Body Slam
+It\'s　super　effective！
+Foe　ALTARIA　used<FE>AERIAL　ACE！
+Battler 0 info: Aerodactyl Lv100 HP 258/315 - 286 138 115 158 310 - Moves: 3 AncientPower, 20 DragonBreath, 20 Aerial Ace, 20 Roar
+It\'s　not　very　effective⋯
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ3/ラ5
+TYPE/<FC>かあROCK
+AERODACTYL　used<FE>ANCIENTPOWER！
+Battler 1 info: Altaria Lv100 HP 0/354 - 239 216 176 246 196 - Moves: 15 Dragon Claw, 19 Aerial Ace, 20 Refresh, 15 Body Slam
+It\'s　super　effective！
+Foe　ALTARIA<FE>fainted！<FB>
+Battler 1 info: Dusclops Lv100 HP 263/263 - 176 371 140 338 86 - Moves: 15 Will-O-Wisp, 20 Seismic Toss, 20 Pain Split, 10 Confuse Ray
+SAILOR　KADEN　sent<FE>out　DUSCLOPS！
+<FC>いいDUSCLOPS<FC>あこ♀
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ2/ラ5
+TYPE/<FC>かあROCK
+AERODACTYL　used<FE>ANCIENTPOWER！
+Battler 1 info: Dusclops Lv100 HP 206/263 - 176 371 140 338 86 - Moves: 15 Will-O-Wisp, 20 Seismic Toss, 20 Pain Split, 10 Confuse Ray
+Foe　DUSCLOPS　used<FE>PAIN　SPLIT！
+Battler 1 info: Dusclops Lv100 HP 232/263 - 176 371 140 338 86 - Moves: 15 Will-O-Wisp, 20 Seismic Toss, 19 Pain Split, 10 Confuse Ray
+Battler 0 info: Aerodactyl Lv100 HP 232/315 - 286 138 115 158 310 - Moves: 0 AncientPower, 20 DragonBreath, 20 Aerial Ace, 20 Roar
+The　battlers　shared<FE>their　pain！
+Foe　DUSCLOPS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Dusclops Lv100 HP 248/263 - 176 371 140 338 86 - Moves: 15 Will-O-Wisp, 20 Seismic Toss, 19 Pain Split, 10 Confuse Ray
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ0/ラ5
+TYPE/<FC>かあROCK
+There\'s　no　PP　left　for<FE>this　move！<FB>
+DRAGONBREATH
+ラ0/ラ5
+TYPE/<FC>かあROCK
+TYPE/<FC>かあFLYING
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+20/20
+TYPE/<FC>かあFLYING
+TYPE/<FC>かあNORMAL
+Foe　DUSCLOPS　used<FE>SEISMIC　TOSS！
+Battler 0 info: Aerodactyl Lv100 HP 132/315 - 286 138 115 158 310 - Moves: 0 AncientPower, 20 DragonBreath, 20 Aerial Ace, 20 Roar
+AERODACTYL　used<FE>ROAR！
+But　it　failed！
+Foe　DUSCLOPS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Dusclops Lv100 HP 263/263 - 176 371 140 338 86 - Moves: 15 Will-O-Wisp, 19 Seismic Toss, 19 Pain Split, 10 Confuse Ray
+What　will<FE>AERODACTYL　dRS<FE>restored　its　HP　a　little！
+What　will<FE>AERODACTYL　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+April　forfeited　the　match！
+<FC>いいAMPHAROS
+<FC>いいAMPHAROS<FC>あこ♀
+<FC>いいNIDOKING<FC>あさ♂
+Battler 0 info: Ampharos Lv100 HP 356/356 - 158 173 301 188 106 - Moves: 10 Thunder, 5 Rain Dance, 20 Thunder Wave, 15 Attract
+Battler 1 info: Nidoking Lv100 HP 366/366 - 311 190 185 186 206 - Moves: 5 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+POKひFAN　AMANDA<FE>would　like　to　battle！<FB>
+POKひFAN　AMANDA　sent<FE>out　NIDOKING！
+<FC>いいNIDOKING<FC>あさ♂
+Go！　AMPHAROS！
+<FC>いいAMPHAROS<FC>あこ♀
+What　will<FE>AMPHAROS　do？
+THUNDER　WAVE
+10/10
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあWATER
+What　will<FE>AMPHAROS　do？
+<FC>いいAMPHAROS<FC>あこ♀
+<FC>いいNIDOKING<FC>あさ♂
+AMPHAROS,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Glalie Lv100 HP 336/336 - 151 168 254 168 168 - Moves: 10 Ice Beam, 15 Crunch, 10 Hail, 10 Protect
+Go！　GLALIE！
+<FC>いいGLALIE<FC>あこ♀
+Foe　NIDOKING　used<FE>BODY　SLAM！
+Battler 0 info: Glalie Lv100 HP 209/336 - 151 168 254 168 168 - Moves: 10 Ice Beam, 15 Crunch, 10 Hail, 10 Protect
+GLALIE　is　paralyzed！<FE>It　may　be　unable　to　move！
+What　will<FE>GLALIE　do？
+PROTECT
+TYPE/<FC>かあICE
+Foe　NIDOKING　used<FE>BODY　SLAM！
+Battler 0 info: Glalie Lv100 HP 93/336 - 151 168 254 168 168 - Moves: 10 Ice Beam, 15 Crunch, 10 Hail, 10 Protect
+GLALIE　is　paralyzed！<FE>It　can\'t　move！
+What　will<FE>GLALIE　do？
+PROTECT
+TYPE/<FC>かあICE
+Foe　NIDOKING　used<FE>HORN　DRILL！
+Battler 0 info: Glalie Lv100 HP 0/336 - 151 168 254 168 168 - Moves: 10 Ice Beam, 15 Crunch, 10 Hail, 10 Protect
+It\'s　a　oneーhit　KO！
+GLALIE<FE>fainted！<FB>
+<FC>いいGLALIE<FC>あこ♀
+<FC>いいNIDOKING<FC>あさ♂
+Battler 0 info: Aerodactyl Lv100 HP 315/315 - 286 138 115 158 310 - Moves: 5 AncientPower, 20 DragonBreath, 20 Aerial Ace, 20 Roar
+Go！　AERODACTYL！
+<FC>いいAERODACTYL<FC>あさ♂
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ5/ラ5
+TYPE/<FC>かあROCK
+AERODACTYL　used<FE>ANCIENTPOWER！
+Battler 1 info: Nidoking Lv100 HP 311/366 - 311 190 185 186 206 - Moves: 4 Horn Drill, 30 Double Kick, 13 Body Slam, 20 Counter
+It\'s　not　very　effective⋯
+Foe　NIDOKING　used<FE>BODY　SLAM！
+Battler 0 info: Aerodactyl Lv100 HP 246/315 - 286 138 115 158 310 - Moves: 4 AncientPower, 20 DragonBreath, 20 Aerial Ace, 20 Roar
+It\'s　not　very　effective⋯
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+ラ4/ラ5
+TYPE/<FC>かあROCK
+TYPE/<FC>かあDRAGON
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+20/20
+TYPE/<FC>かあDRAGON
+AERODACTYL　used<FE>DRAGONBREATH！
+Battler 1 info: Nidoking Lv100 HP 282/366 - 311 190 185 186 206 - Moves: 4 Horn Drill, 30 Double Kick, 12 Body Slam, 20 Counter
+Foe　NIDOKING　used<FE>COUNTER！
+But　it　failed！
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+19/20
+TYPE/<FC>かあDRAGON
+AERODACTYL　used<FE>DRAGONBREATH！
+Battler 1 info: Nidoking Lv100 HP 250/366 - 311 190 185 186 206 - Moves: 4 Horn Drill, 30 Double Kick, 12 Body Slam, 19 Counter
+Foe　NIDOKING　flinched！
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+18/20
+TYPE/<FC>かあDRAGON
+AERODACTYL　used<FE>DRAGONBREATH！
+Battler 1 info: Nidoking Lv100 HP 217/366 - 311 190 185 186 206 - Moves: 4 Horn Drill, 30 Double Kick, 12 Body Slam, 19 Counter
+Foe　NIDOKING　used<FE>COUNTER！
+But　it　failed！
+What　will<FE>AERODACTYL　do？
+DRAGONBREATH
+17/20
+TYPE/<FC>かあDRAGON
+AERODACTYL　used<FE>DRAGONBREATH！
+Battler 1 info: Nidoking Lv100 HP 186/366 - 311 190 185 186 206 - Moves: 4 Horn Drill, 30 Double Kick, 12 Body Slam, 18 Counter
+Foe　NIDOKING　is　paralyzed！<FE>It　may　be　unable　to　move！
+Foe　NIDOKING　used<FE>HORN　DRILL！
+Battler 0 info: Aerodactyl Lv100 HP 0/315 - 286 138 115 158 310 - Moves: 4 AncientPower, 16 DragonBreath, 20 Aerial Ace, 20 Roar
+It\'s　a　oneーhit　KO！
+AERODACTYL<FE>fainted！<FB>
+<FC>いいAERODACTYL<FC>あさ♂
+<FC>いいNIDOKING<FC>あさ♂
+Battler 0 info: Ampharos Lv100 HP 356/356 - 158 173 301 188 106 - Moves: 10 Thunder, 5 Rain Dance, 20 Thunder Wave, 15 Attract
+Do　it！　AMPHAROS！
+<FC>いいAMPHAROS<FC>あこ♀
+What　will<FE>AMPHAROS　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+April　forfeited　the　match！
+<FC>いいNIDOKING
+<FC>いいNIDOKING<FC>あさ♂
+<FC>いいMEGANIUM<FC>あさ♂
+Battler 0 info: Nidoking Lv100 HP 338/338 - 280 162 160 158 178 - Moves: 5 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+Battler 1 info: Meganium Lv100 HP 364/364 - 180 236 291 236 196 - Moves: 10 SolarBeam, 5 Sunny Day, 30 Light Screen, 5 Synthesis
+TRIATHLETE　ADRIANA<FE>would　like　to　battle！<FB>
+TRIATHLETE　ADRIANA　sent<FE>out　MEGANIUM！
+<FC>いいMEGANIUM<FC>あさ♂
+Go！　NIDOKING！
+<FC>いいNIDOKING<FC>あさ♂
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ5/ラ5
+TYPE/<FC>かあNORMAL
+Foe　MEGANIUM　took<FE>in　sunlight！
+NIDOKING　used<FE>HORN　DRILL！
+Battler 1 info: Meganium Lv100 HP 0/364 - 180 236 291 236 196 - Moves: 9 SolarBeam, 5 Sunny Day, 30 Light Screen, 5 Synthesis
+It\'s　a　oneーhit　KO！
+Foe　MEGANIUM<FE>fainted！<FB>
+Battler 1 info: Gardevoir Lv100 HP 319/319 - 149 208 286 266 261 - Moves: 15 Dream Eater, 20 Hypnosis, 20 Magical Leaf, 20 Reflect
+TRIATHLETE　ADRIANA　sent<FE>out　GARDEVOIR！
+<FC>いいGARDEVOIR<FC>あさ♂
+Foe　GARDEVOIR　TRACED<FE>NIDOKING\'s　POISON　POINT！
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ4/ラ5
+TYPE/<FC>かあNORMAL
+Foe　GARDEVOIR　used<FE>DREAM　EATER！
+NIDOKING<FE>wasn\'t　affected！
+NIDOKING　used<FE>HORN　DRILL！
+NIDOKING\'s<FE>attack　missed！
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ3/ラ5
+TYPE/<FC>かあNORMAL
+Foe　GARDEVOIR　used<FE>REFLECT！
+Foe\'s　REFLECT<FE>raised　DEFENSE！
+NIDOKING　used<FE>HORN　DRILL！
+Battler 1 info: Gardevoir Lv100 HP 0/319 - 149 208 286 266 261 - Moves: 14 Dream Eater, 20 Hypnosis, 20 Magical Leaf, 19 Reflect
+It\'s　a　oneーhit　KO！
+Foe　GARDEVOIR<FE>fainted！<FB>
+Battler 1 info: Skarmory Lv100 HP 313/313 - 261 316 104 218 176 - Moves: 25 Steel Wing, 25 Air Cutter, 20 Counter, 30 Agility
+TRIATHLETE　ADRIANA　sent<FE>out　SKARMORY！
+<FC>いいSKARMORY<FC>あこ♀
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ2/ラ5
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあFIGHT
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+30/30
+TYPE/<FC>かあFIGHT
+What　will<FE>NIDOKING　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+April　forfeited　the　match！
+<FC>いいNIDOKING
+<FC>いいNIDOKING<FC>あさ♂
+<FC>いいLAPRAS<FC>あさ♂
+Battler 1 info: Lapras Lv100 HP 401/401 - 185 284 206 289 156 - Moves: 15 Surf, 15 Attract, 10 Confuse Ray, 15 Sing
+LADY　GILLIAN<FE>would　like　to　battle！<FB>
+LADY　GILLIAN　sent<FE>out　LAPRAS！
+<FC>いいLAPRAS<FC>あさ♂
+Go！　NIDOKING！
+<FC>いいNIDOKING<FC>あさ♂
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ5/ラ5
+TYPE/<FC>かあNORMAL
+NIDOKING　used<FE>HORN　DRILL！
+NIDOKING\'s<FE>attack　missed！
+Foe　LAPRAS　used<FE>ATTRACT！
+But　it　failed！
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ4/ラ5
+TYPE/<FC>かあNORMAL
+NIDOKING　used<FE>HORN　DRILL！
+NIDOKING\'s<FE>attack　missed！
+Foe　LAPRAS　used<FE>ATTRACT！
+But　it　failed！
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ3/ラ5
+TYPE/<FC>かあNORMAL
+NIDOKING　used<FE>HORN　DRILL！
+Battler 1 info: Lapras Lv100 HP 0/401 - 185 284 206 289 156 - Moves: 15 Surf, 13 Attract, 10 Confuse Ray, 15 Sing
+It\'s　a　oneーhit　KO！
+Foe　LAPRAS<FE>fainted！<FB>
+Battler 1 info: Ampharos Lv100 HP 384/384 - 186 204 329 216 131 - Moves: 10 Thunder, 5 Rain Dance, 20 Thunder Wave, 15 Attract
+LADY　GILLIAN　sent<FE>out　AMPHAROS！
+<FC>いいAMPHAROS<FC>あこ♀
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ2/ラ5
+TYPE/<FC>かあNORMAL
+NIDOKING　used<FE>HORN　DRILL！
+Battler 1 info: Ampharos Lv100 HP 0/384 - 186 204 329 216 131 - Moves: 10 Thunder, 5 Rain Dance, 20 Thunder Wave, 15 Attract
+It\'s　a　oneーhit　KO！
+Foe　AMPHAROS<FE>fainted！<FB>
+Battler 1 info: Armaldo Lv100 HP 354/354 - 383 236 158 196 126 - Moves: 20 Slash, 20 Aerial Ace, 5 AncientPower, 10 Protect
+LADY　GILLIAN　sent<FE>out　ARMALDO！
+<FC>いいARMALDO<FC>あさ♂
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ1/ラ5
+TYPE/<FC>かあNORMAL
+Foe　ARMALDO　used<FE>PROTECT！
+Foe　ARMALDO　protected<FE>itself！
+NIDOKING　used<FE>HORN　DRILL！
+Foe　ARMALDO<FE>protected　itself！
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ0/ラ5
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあFIGHT
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+30/30
+TYPE/<FC>かあFIGHT
+NIDOKING　used<FE>DOUBLE　KICK！
+Battler 1 info: Armaldo Lv100 HP 325/354 - 383 236 158 196 126 - Moves: 20 Slash, 20 Aerial Ace, 5 AncientPower, 9 Protect
+Battler 1 info: Armaldo Lv100 HP 296/354 - 383 236 158 196 126 - Moves: 20 Slash, 20 Aerial Ace, 5 AncientPower, 9 Protect
+Hit　2　timeシsス！
+Foe　ARMALDO　used<FE>ANCIENTPOWER！
+Battler 0 info: Nidoking Lv100 HP 250/338 - 280 162 160 158 178 - Moves: 0 Horn Drill, 29 Double Kick, 15 Body Slam, 20 Counter
+It\'s　not　very　effective⋯
+NIDOKING\'s　POISON　POINT<FE>poisoned　Foe　ARMALDO！
+Foe　ARMALDO　is　hurt<FE>by　poison！
+Battler 1 info: Armaldo Lv100 HP 252/354 - 383 236 158 196 126 - Moves: 20 Slash, 20 Aerial Ace, 4 AncientPower, 9 Protect
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+PP　
+TYPE/<FC>かあFIGHT
+NIDOKING　used<FE>DOUBLE　KICK！
+Battler 1 info: Armaldo Lv100 HP 227/354 - 383 236 158 196 126 - Moves: 20 Slash, 20 Aerial Ace, 4 AncientPower, 9 Protect
+Battler 1 info: Armaldo Lv100 HP 202/354 - 383 236 158 196 126 - Moves: 20 Slash, 20 Aerial Ace, 4 AncientPower, 9 Protect
+Hit　2　timeシsス！
+Foe　ARMALDO　used<FE>ANCIENTPOWER！
+Battler 0 info: Nidoking Lv100 HP 172/338 - 280 162 160 158 178 - Moves: 0 Horn Drill, 28 Double Kick, 15 Body Slam, 20 Counter
+It\'s　not　very　effective⋯
+Foe　ARMALDO　is　hurt<FE>by　poison！
+Battler 1 info: Armaldo Lv100 HP 158/354 - 383 236 158 196 126 - Moves: 20 Slash, 20 Aerial Ace, 3 AncientPower, 9 Protect
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+28/30
+TYPE/<FC>かあFIGHT
+Foe　ARMALDO　used<FE>PROTECT！
+Foe　ARMALDO　protected<FE>itself！
+NIDOKING　used<FE>DOUBLE　KICK！
+Foe　ARMALDO<FE>protected　itself！
+Foe　ARMALDO　is　hurt<FE>by　poison！
+Battler 1 info: Armaldo Lv100 HP 114/354 - 383 236 158 196 126 - Moves: 20 Slash, 20 Aerial Ace, 3 AncientPower, 8 Protect
+What　will<FE>NIDOKIurt<FE>by　poison！
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+27/30
+TYPE/<FC>かあFIGHT
+Foe　ARMALDO　used<FE>PROTECT！
+Foe　ARMALDO　protected<FE>itself！
+NIDOKING　used<FE>DOUBLE　KICK！
+Foe　ARMALDO<FE>protected　itself！
+Foe　ARMALDO　is　hurt<FE>by　poison！
+Battler 1 info: Armaldo Lv100 HP 70/354 - 383 236 158 196 126 - Moves: 20 Slash, 20 Aerial Ace, 3 AncientPower, 7 Protect
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+26/30
+TYPE/<FC>かあFIGHT
+NIDOKING　used<FE>DOUBLE　KICK！
+Battler 1 info: Armaldo Lv100 HP 44/354 - 383 236 158 196 126 - Moves: 20 Slash, 20 Aerial Ace, 3 AncientPower, 7 Protect
+Battler 1 info: Armaldo Lv100 HP 14/354 - 383 236 158 196 126 - Moves: 20 Slash, 20 Aerial Ace, 3 AncientPower, 7 Protect
+Hit　2　timeシsス！
+Foe　ARMALDO　used<FE>ANCIENTPOWER！
+Battler 0 info: Nidoking Lv100 HP 84/338 - 280 162 160 158 178 - Moves: 0 Horn Drill, 25 Double Kick, 15 Body Slam, 20 Counter
+It\'s　not　very　effective⋯
+Foe　ARMALDO　is　hurt<FE>by　poison！
+Battler 1 info: Armaldo Lv100 HP 0/354 - 383 236 158 196 126 - Moves: 20 Slash, 20 Aerial Ace, 2 AncientPower, 7 Protect
+Foe　ARMALDO<FE>fainted！<FB>
+Player　defeated<FE>LADY　GILLIAN！<FB>
+LOSING　DOESN\'T　DISAPPOINT<FE>ME　<FC>け
+<FC>いいNIDOKING
+<FC>いいNIDOKING<FC>あさ♂
+<FC>いいMEGANIUM<FC>あさ♂
+Battler 0 info: Nidoking Lv100 HP 338/338 - 280 162 160 158 178 - Moves: 5 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+Battler 1 info: Meganium Lv100 HP 364/364 - 180 236 291 236 196 - Moves: 10 SolarBeam, 5 Sunny Day, 30 Light Screen, 5 Synthesis
+TUBER　ANN<FE>would　like　to　battle！<FB>
+TUBER　ANN　sent<FE>out　MEGANIUM！
+<FC>いいMEGANIUM<FC>あさ♂
+Go！　NIDOKING！
+<FC>いいNIDOKING<FC>あさ♂
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ5/ラ5
+TYPE/<FC>かあNORMAL
+Foe　MEGANIUM　used<FE>SUNNY　DAY！
+The　sunlight　got　bright！
+NIDOKING　used<FE>HORN　DRILL！
+NIDOKING\'s<FE>attack　missed！
+The　sunlight　is　strong。
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+PP　
+TYPE/<FC>かあNORMAL
+Foe　MEGANIUM　used<FE>LIGHT　SCREEN！
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF！
+NIDOKING　used<FE>HORN　DRILL！
+NIDOKING\'s<FE>attack　missed！
+The　sunlight　is　strong。
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ3/ラ5
+TYPE/<FC>かあNORMAL
+NIDOKING　used<FE>HORN　DRILL！
+NIDOKING\'s<FE>attack　missed！
+Foe　MEGANIUM　used<FE>SOLARBEAM！
+Battler 0 info: Nidoking Lv100 HP 100/338 - 280 162 160 158 178 - Moves: 2 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+The　sunlight　is　strong。
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ2/ラ5
+TYPE/<FC>かあNORMAL
+Foe　MEGANIUM　used<FE>LIGHT　SCREEN！
+But　it　failed！
+NIDOKING　used<FE>HORN　DRILL！
+NIDOKING\'s<FE>attack　missed！
+The　sunlight　is　strong。
+What　will<FE>NIDOKING　do？
+BODY　SLAM
+ラ1/ラ5
+TYPE/<FC>かあNORMAL
+Foe　MEGANIUM　used<FE>SOLARBEAM！
+Battler 0 info: Nidoking Lv100 HP 0/338 - 280 162 160 158 178 - Moves: 1 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+NIDOKING<FE>fainted！<FB>
+<FC>いいNIDOKING<FC>あさ♂
+<FC>いいMEGANIUM<FC>あさ♂
+Battler 0 info: Vaporeon Lv100 HP 373/373 - 124 170 297 240 138 - Moves: 15 Surf, 20 Roar, 25 Bite, 30 Quick Attack
+Go！　VAPOREON！
+<FC>いいVAPOREON<FC>あさ♂
+The　sunlight　faded。
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあWATER
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあWATER
+TYPE/<FC>かあNORMAL
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあNORMAL
+Foe　MEGANIUM　used<FE>SUNNY　DAY！
+The　sunlight　got　bright！
+VAPOREON　used<FE>ROAR！
+Battler 1 info: Magmar Lv100 HP 313/313 - 226 211 278 206 199 - Moves: 15 Flamethrower, 20 SmokeScreen, 15 Brick Break, 30 Barrier
+<FC>いいMAGMAR<FC>あさ♂
+Foe　MAGMAR　was<FE>dragged　out！<FB>
+Foe\'s　LIGHT　SCREEN<FE>wore　off！
+The　sunlight　is　strong。
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあNORMAL
+Foe　MAGMAR　used<FE>BRICK　BREAK！
+Battler 0 info: Vaporeon Lv100 HP 229/373 - 124 170 297 240 138 - Moves: 15 Surf, 19 Roar, 25 Bite, 30 Quick Attack
+A　critical　hit！
+VAPOREON　used<FE>ROAR！
+Battler 1 info: Meganium Lv100 HP 364/364 - 180 236 291 236 196 - Moves: 8 SolarBeam, 3 Sunny Day, 28 Light Screen, 5 Synthesis
+<FC>いいMEGANIUM<FC>あさ♂
+Foe　MEGANIUM　was<FE>dragged　out！<FB>
+The　sunlight　is　strong。
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあNORMAL
+Foe　MEGANIUM　used<FE>SUNNY　DAY！
+But　it　failed！
+VAPOREON　used<FE>ROAR！
+Battler 1 info: Granbull Lv100 HP 384/384 - 372 186 140 156 126 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 20 Roar
+<FC>いいGRANBULL<FC>あこ♀
+Foe　GRANBULL　was<FE>dragged　out！<FB>
+Foe　GRANBULL\'s　INTIMIDATE<FE>cuts　VAPOREON\'s　ATTACK！
+The　sunlight　is　strong。
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあNORMAL
+Foe　GRANBULL　used<FE>SMELLINGSALT！
+Battler 0 info: Vaporeon Lv100 HP 73/373 - 124 170 297 240 138 - Moves: 15 Surf, 17 Roar, 25 Bite, 30 Quick Attack
+VAPOREON　used<FE>ROAR！
+Battler 1 info: Magmar Lv100 HP 313/313 - 226 211 278 206 199 - Moves: 15 Flamethrower, 20 SmokeScreen, 14 Brick Break, 30 Barrier
+<FC>いいMAGMAR<FC>あさ♂
+Foe　MAGMAR　was<FE>dragged　out！<FB>
+The　sunlight　is　strong。
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあNORMAL
+Foe　MAGMAR　used<FE>SMOKESCREEN！
+VAPOREON\'s　accuracy<FE>fell！
+VAPOREON　used<FE>ROAR！
+Battler 1 info: Granbull Lv100 HP 384/384 - 372 186 140 156 126 - Moves: 5 Mega Kick, 9 SmellingSalt, 20 Thunder Wave, 20 Roar
+<FC>いいGRANBULL<FC>あこ♀
+Foe　GRANBULL　was<FE>dragged　out！<FB>
+Foe　GRANBULL\'s　INTIMIDATE<FE>cuts　VAPOREON\'s　ATTACK！
+The　sunlight　faded。
+What　will<FE>ht　faded。
+What　will<FE>VAPOREON　do？
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいGRANBULL<FC>あこ♀
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあWATER
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあWATER
+VAPOREON　used<FE>SURF！
+Battler 1 info: Granbull Lv100 HP 138/384 - 372 186 140 156 126 - Moves: 5 Mega Kick, 9 SmellingSalt, 20 Thunder Wave, 20 Roar
+Foe　GRANBULL　used<FE>ROAR！
+Battler 0 info: Glalie Lv100 HP 336/336 - 151 168 254 168 168 - Moves: 10 Ice Beam, 15 Crunch, 10 Hail, 10 Protect
+<FC>いいGLALIE<FC>あこ♀
+GLALIE　was<FE>dragged　out！<FB>
+What　will<FE>GLALIE　do？
+PROTECT
+TYPE/<FC>かあICE
+GLALIE　used<FE>ICE　BEAM！
+Battler 1 info: Granbull Lv100 HP 0/384 - 372 186 140 156 126 - Moves: 5 Mega Kick, 9 SmellingSalt, 20 Thunder Wave, 19 Roar
+Foe　GRANBULL<FE>fainted！<FB>
+Battler 1 info: Magmar Lv100 HP 313/313 - 226 211 278 206 199 - Moves: 15 Flamethrower, 19 SmokeScreen, 14 Brick Break, 30 Barrier
+TUBER　ANN　sent<FE>out　MAGMAR！
+<FC>いいMAGMAR<FC>あさ♂
+What　will<FE>GLALIE　do？
+PROTECT
+TYPE/<FC>かあICE
+Foe　MAGMAR　used<FE>SMOKESCREEN！
+GLALIE\'s　accuracy<FE>fell！
+GLALIE　used<FE>ICE　BEAM！
+GLALIE\'s<FE>attack　missed！
+What　will<FE>GLALIE　do？
+PROTECT
+TYPE/<FC>かあICE
+TYPE/<FC>かあDARK
+Foe　MAGMAR　used<FE>SMOKESCREEN！
+GLALIE\'s　accuracy<FE>fell！
+GLALIE　used<FE>CRUNCH！
+Battler 1 info: Magmar Lv100 HP 238/313 - 226 211 278 206 199 - Moves: 15 Flamethrower, 17 SmokeScreen, 14 Brick Break, 30 Barrier
+Foe　MAGMAR\'s　FLAME　BODY<FE>burned　GLALIE！
+GLALIE　is　hurt<FE>by　its　burn！
+Battler 0 info: Glalie Lv100 HP 294/336 - 151 168 254 168 168 - Moves: 8 Ice Beam, 14 Crunch, 10 Hail, 10 Protect
+What　will<FE>GLALIE　do？
+PROTECT
+TYPE/<FC>かあDARK
+Foe　MAGMAR　used<FE>BARRIER！
+Foe　MAGMAR\'s　DEFENSE<FE>sharply　rose！
+GLALIE　used<FE>CRUNCH！
+GLALIE\'s<FE>attack　missed！
+GLALIE　is　hurt<FE>by　its　burn！
+Battler 0 info: Glalie Lv100 HP 252/336 - 151 168 254 168 168 - Moves: 8 Ice Beam, 13 Crunch, 10 Hail, 10 Protect
+WhALIE　is　hurt<FE>by　its　burn！
+What　will<FE>GLALIE　do？
+PROTECT
+TYPE/<FC>かあDARK
+Foe　MAGMAR　used<FE>SMOKESCREEN！
+GLALIE\'s　accuracy<FE>fell！
+GLALIE　used<FE>CRUNCH！
+GLALIE\'s<FE>attack　missed！
+GLALIE　is　hurt<FE>by　its　burn！
+Battler 0 info: Glalie Lv100 HP 210/336 - 151 168 254 168 168 - Moves: 8 Ice Beam, 12 Crunch, 10 Hail, 10 Protect
+What　will<FE>GLALIE　do？
+PROTECT
+TYPE/<FC>かあDARK
+Foe　MAGMAR　used<FE>SMOKESCREEN！
+GLALIE\'s　accuracy<FE>fell！
+GLALIE　used<FE>CRUNCH！
+GLALIE\'s<FE>attack　missed！
+GLALIE　is　hurt<FE>by　its　burn！
+Battler 0 info: Glalie Lv100 HP 168/336 - 151 168 254 168 168 - Moves: 8 Ice Beam, 11 Crunch, 10 Hail, 10 Protect
+What　will<FE>GLALIE　do？
+PROTECT
+TYPE/<FC>かあDARK
+Foe　MAGMAR　used<FE>BARRIER！
+Foe　MAGMAR\'s　DEFENSE<FE>sharply　rose！
+GLALIE　used<FE>CRUNCH！
+Battler 1 info: Magmar Lv100 HP 163/313 - 226 211 278 206 199 - Moves: 15 Flamethrower, 15 SmokeScreen, 14 Brick Break, 28 Barrier
+GLALIE　is　hurt<FE>by　its　burn！
+Battler 0 info: Glalie Lv100 HP 126/336 - 151 168 254 168 168 - Moves: 8 Ice Beam, 10 Crunch, 10 Hail, 10 Protect
+What　will<FE>GLALIE　do？
+PROTECT
+TYPE/<FC>かあDARK
+TYPE/<FC>かあICE
+What　will<FE>GLALIE　do？
+<FC>いいGLALIE<FC>あこ♀
+<FC>いいMAGMAR<FC>あさ♂
+What　will<FE>GLALIE　do？
+<FC>いいGLALIE<FC>あこ♀
+<FC>いいMAGMAR<FC>あさ♂
+What　will<FE>GLALIE　do？
+PROTECT
+TYPE/<FC>かあICE
+Foe　MAGMAR　used<FE>SMOKESCREEN！
+GLALIE\'s　accuracy<FE>fell！
+GLALIE　used<FE>ICE　BEAM！
+Battler 1 info: Magmar Lv100 HP 93/313 - 226 211 278 206 199 - Moves: 15 Flamethrower, 14 SmokeScreen, 14 Brick Break, 28 Barrier
+It\'s　not　very　effective⋯
+GLALIE　is　hurt<FE>by　its　burn！
+Battler 0 info: Glalie Lv100 HP 84/336 - 151 168 254 168 168 - Moves: 7 Ice Beam, 10 Crunch, 10 Hail, 10 Protect
+What　will<FE>GLALIE　do？
+PROTECT
+TYPE/<FC>かあICE
+What　will<FE>GLALIE　do？
+PROTECT
+TYPE/<FC>かあICE
+Foe　MAGMAR　used<FE>BRICK　BREAK！
+Battler 0 info: Glalie Lv100 HP 0/336 - 151 168 254 168 168 - Moves: 7 Ice Beam, 10 Crunch, 10 Hail, 10 Protect
+It\'s　super　effective！
+GLALIE<FE>fainted！<FB>
+<FC>いいGLALIE<FC>あこ♀
+<FC>いいMAGMAR<FC>あさ♂
+Battler 0 info: Vaporeon Lv100 HP 73/373 - 124 170 297 240 138 - Moves: 14 Surf, 15 Roar, 25 Bite, 30 Quick Attack
+Go　for　it,　VAPOREON！
+<FC>いいVAPOREON<FC>あさ♂
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあWATER
+Foe　MAGMAR　used<FE>SMOKESCREEN！
+VAPOREON\'s　accuracy<FE>fell！
+VAPOREON　used<FE>SURF！
+Battler 1 info: Magmar Lv100 HP 0/313 - 226 211 278 206 199 - Moves: 15 Flamethrower, 13 SmokeScreen, 13 Brick Break, 28 Barrier
+It\'s　super　effective！
+Foe　MAGMAR<FE>fainted！<FB>
+Battler 1 info: Meganium Lv100 HP 364/364 - 180 236 291 236 196 - Moves: 8 SolarBeam, 2 Sunny Day, 28 Light Screen, 5 Synthesis
+TUBER　ANN　sent<FE>out　MEGANIUM！
+<FC>いいMEGANIUM<FC>あさ♂
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあWATER
+Foe　MEGANIUM　used<FE>LIGHT　SCREEN！
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF！
+VAPOREON　used<FE>SURF！
+Battler 1 info: Meganium Lv100 HP 325/364 - 180 236 291 236 196 - Moves: 8 SolarBeam, 2 Sunny Day, 27 Light Screen, 5 Synthesis
+It\'s　not　very　effective⋯
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあWATER
+TYPE/<FC>かあDARK
+Foe　MEGANIUM　used<FE>LIGHT　SCREEN！
+But　it　failed！
+VAPOREON　used<FE>BITE！
+Battler 1 info: Meganium Lv100 HP 297/364 - 180 236 291 236 196 - Moves: 8 SolarBeam, 2 Sunny Day, 26 Light Screen, 5 Synthesis
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあDARK
+Foe　MEGANIUM　used<FE>SUNNY　DAY！
+The　sunlight　got　bright！
+VAPOREON　used<FE>BITE！
+VAPOREON\'s<FE>attack　missed！
+The　sunlight　is　strong。
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあDARK
+Foe　MEGANIUM　used<FE>SYNTHESIS！
+Battler 1 info: Meganium Lv100 HP 364/364 - 180 236 291 236 196 - Moves: 8 SolarBeam, 1 Sunny Day, 26 Light Screen, 4 Synthesis
+Foe　MEGANIUM　regained<FE>health！
+VAPOREON　used<FE>BITE！
+Battler 1 info: Meganium Lv100 HP 336/364 - 180 236 291 236 196 - Moves: 8 SolarBeam, 1 Sunny Day, 26 Light Screen, 4 Synthesis
+The　sunlight　is　strong。
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあDARK
+Foe　MEGANIUM　used<FE>SYNTHESIS！
+Battler 1 info: Meganium Lv100 HP 364/364 - 180 236 291 236 196 - Moves: 8 SolarBeam, 1 Sunny Day, 26 Light Screen, 3 Synthesis
+Foe　MEGANIUM　regained<FE>health！
+VAPOREON　used<FE>BITE！
+Battler 1 info: Meganium Lv100 HP 334/364 - 180 236 291 236 196 - Moves: 8 SolarBeam, 1 Sunny Day, 26 Light Screen, 3 Synthesis
+Foe\'s　LIGHT　SCREEN<FE>wore　off！
+The　sunlight　is　strong。
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあDARK
+Foe　MEGANIUM　used<FE>SYNTHESIS！
+Battler 1 info: Meganium Lv100 HP 364/364 - 180 236 291 236 196 - Moves: 8 SolarBeam, 1 Sunny Day, 26 Light Screen, 2 Synthesis
+Foe　MEGANIUM　regained<FE>health！
+VAPOREON　used<FE>BITE！
+VAPOREON\'s<FE>attack　missed！
+The　sunlight　is　strong。
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあDARK
+Foe　MEGANIUM　used<FE>SUNNY　DAY！
+But　it　failed！
+VAPOREON　used<FE>BITE！
+VAPOREON\'s<FE>attack　missed！
+The　sunlight　faded。
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあDARK
+Foe　MEGANIUM　used<FE>LIGHT　SCREEN！
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF！
+VAPOREON　used<FE>BITE！
+VAPOREON\'s<FE>attack　missed！
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあDARK
+Foe　MEGANIUM　used<FE>SYNTHESIS！
+Foe　MEGANIUM\'s<FE>HP　is　full！
+VAPOREON　used<FE>BITE！
+Battler 1 info: Meganium Lv100 HP 334/364 - 180 236 291 236 196 - Moves: 8 SolarBeam, 0 Sunny Day, 25 Light Screen, 1 Synthesis
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあDARK
+Foe　MEGANIUM　used<FE>LIGHT　SCREEN！
+But　it　failed！
+VAPOREON　used<FE>BITE！
+Battler 1 info: Meganium Lv100 HP 306/364 - 180 236 291 236 196 - Moves: 8 SolarBeam, 0 Sunny Day, 24 Light Screen, 1 Synthesis
+What　will<FE>sed<FE>BITE！
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあDARK
+Foe　MEGANIUM　took<FE>in　sunlight！
+VAPOREON　used<FE>BITE！
+Battler 1 info: Meganium Lv100 HP 274/364 - 180 236 291 236 196 - Moves: 7 SolarBeam, 0 Sunny Day, 24 Light Screen, 1 Synthesis
+What　will<FE>VAPOREON　do？
+QUICK　ATTACK
+TYPE/<FC>かあDARK
+Foe　MEGANIUM　used<FE>SOLARBEAM！
+Battler 0 info: Vaporeon Lv100 HP 0/373 - 124 170 297 240 138 - Moves: 12 Surf, 15 Roar, 15 Bite, 30 Quick Attack
+It\'s　super　effective！
+VAPOREON<FE>fainted！<FB>
+I　AM　SO　HAPPY<FE>I　CAN　CRY<FC>け
+<FC>いいESPEON<FC>あさ♂
+<FC>いいGENGAR<FC>あこ♀
+Battler 0 info: Espeon Lv100 HP 243/243 - 124 170 294 240 270 - Moves: 10 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+Battler 1 info: Gengar Lv100 HP 303/303 - 149 156 338 186 327 - Moves: 15 Dream Eater, 20 Hypnosis, 10 Confuse Ray, 15 Attract
+CAMPER　CHEN<FE>would　like　to　battle！<FB>
+CAMPER　CHEN　sent<FE>out　GENGAR！
+<FC>いいGENGAR<FC>あこ♀
+Go！　ESPEON！
+<FC>いいESPEON<FC>あさ♂
+What　will<FE>ESPEON　do？
+CALM　MIND
+10/10
+TYPE/<FC>かあPSYCHC
+Foe　GENGAR　used<FE>DREAM　EATER！
+ESPEON<FE>wasn\'t　affected！
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Gengar Lv100 HP 0/303 - 149 156 338 186 327 - Moves: 14 Dream Eater, 20 Hypnosis, 10 Confuse Ray, 15 Attract
+It\'s　super　effective！
+Foe　GENGAR<FE>fainted！<FB>
+Battler 1 info: Flareon Lv100 HP 271/271 - 266 219 317 256 166 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+CAMPER　CHEN　sent<FE>out　FLAREON！
+<FC>いいFLAREON<FC>あさ♂
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ9/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Flareon Lv100 HP 145/271 - 266 219 317 256 166 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+Foe　FLAREON　used<FE>SANDーATTACK！
+ESPEON\'s　accuracy<FE>fell！
+What　will<FE>ESPEON　do？
+BATON　PASS
+ラ8/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+ESPEON\'s<FE>attack　missed！
+Foe　FLAREON　used<FE>SANDーATTACK！
+ESPEON\'s　accuracy<FE>fell！
+What　will<FE>ESPEON　do？
+BATON　PASS
+ラ7/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Flareon Lv100 HP 31/271 - 266 219 317 256 166 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 13 Sand-Attack
+Foe　FLAREON　used<FE>FLAMETHROWER！
+Battler 0 info: Espeon Lv100 HP 104/243 - 124 170 294 240 270 - Moves: 6 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+Foe　FLAREON\'s　SITRUS　BERRY<FE>restored　health！
+Battler 1 info: Flareon Lv100 HP 61/271 - 266 219 317 256 166 - Moves: 14 Flamethrower, 20 Roar, 25 Bite, 13 Sand-Attack
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ6/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+ESPEON\'s<FE>attack　missed！
+Foe　FLAREON　used<FE>SANDーATTACK！
+ESPEON\'s　accuracy<FE>fell！
+What　will<FE>ESPEON　do？
+BATON　PASSESPEON　do？
+ラ5/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Flareon Lv100 HP 0/271 - 266 219 317 256 166 - Moves: 14 Flamethrower, 20 Roar, 25 Bite, 12 Sand-Attack
+Foe　FLAREON<FE>fainted！<FB>
+Battler 1 info: Machamp Lv100 HP 384/384 - 394 196 149 206 146 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+CAMPER　CHEN　sent<FE>out　MACHAMP！
+<FC>いいMACHAMP<FC>あさ♂
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ4/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Machamp Lv100 HP 88/384 - 394 196 149 206 146 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+It\'s　super　effective！
+Foe　MACHAMP　used<FE>COUNTER！
+But　it　failed！
+What　will<FE>ESPEON　do？
+CALM　MIND
+ラ3/10
+TYPE/<FC>かあPSYCHC
+ESPEON　used<FE>PSYCHIC！
+Battler 1 info: Machamp Lv100 HP 0/384 - 394 196 149 206 146 - Moves: 5 Cross Chop, 10 Rock Slide, 19 Counter, 10 Scary Face
+It\'s　super　effective！
+Foe　MACHAMP<FE>fainted！<FB>
+Player　defeated<FE>CAMPER　CHEN！<FB>
+I\'VE　LOST　MY<FE>FOCUS　ENERGY　AND　TOUGHNESS<FC>け
+<FC>いいESPEON<FC>あさ♂
+<FC>いいNIDOKING<FC>あさ♂
+Battler 0 info: Espeon Lv100 HP 243/243 - 124 170 294 240 270 - Moves: 10 Psychic, 20 Charm, 20 Calm Mind, 40 Baton Pass
+Battler 1 info: Nidoking Lv100 HP 366/366 - 311 190 185 186 206 - Moves: 5 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+ウエ　BREEDER　ELIZA<FE>would　like　to　battle！<FB>
+ウエ　BREEDER　ELIZA　sent<FE>out　NIDOKING！
+<FC>いいNIDOKING<FC>あさ♂
+Go！　ESPEON！
+<FC>いいESPEON<FC>あさ♂
+What　will<FE>ESPEON　do？
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 2 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+<FC>いいELECTRODE
+<FC>いいELECTRODE<FC>あさ
+<FC>いいAMPHAROS<FC>あさ♂
+Battler 0 info: Electrode Lv100 HP 296/296 - 108 148 254 168 259 - Moves: 15 Thunderbolt, 20 Swift, 30 Light Screen, 10 Protect
+Battler 1 info: Ampharos Lv100 HP 384/384 - 186 204 329 216 131 - Moves: 10 Thunder, 5 Rain Dance, 20 Thunder Wave, 15 Attract
+BUG　CATCHER　YOSHI<FE>would　like　to　battle！<FB>
+BUG　CATCHER　YOSHI　sent<FE>out　AMPHAROS！
+<FC>いいAMPHAROS<FC>あさ♂
+Go！　ELECTRODE！
+<FC>いいELECTRODE<FC>あさ
+What　will<FE>ELECTRODE　do？
+LIGHT　SCREEN
+15/15
+TYPE/<FC>かあELECTR
+ELECTRODE　used<FE>THUNDERBOLT！
+Battler 1 info: Ampharos Lv100 HP 316/384 - 186 204 329 216 131 - Moves: 10 Thunder, 5 Rain Dance, 20 Thunder Wave, 15 Attract
+It\'s　not　very　effective⋯
+Foe　AMPHAROS　used<FE>THUNDER　WAVE！
+ELECTRODE　is　paralyzed！<FE>It　may　be　unable　to　move！
+What　will<FE>ELECTRODE　do？
+<FC>いいELECTRODE<FC>あさ
+<FC>いいAMPHAROS<FC>あさ♂
+What　will<FE>ELECTRODE　do？
+LIGHT　SCREEN
+14/15
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあNORMAL
+What　will<FE>ELECTRODE　do？
+LIGHT　SCREEN
+20/20
+TYPE/<FC>かあNORMAL
+Foe　AMPHAROS　used<FE>RAIN　DANCE！
+It　started　to　rain！
+ELECTRODE　used<FE>SWIFT！
+Battler 1 info: Ampharos Lv100 HP 293/384 - 186 204 329 216 131 - Moves: 10 Thunder, 4 Rain Dance, 19 Thunder Wave, 15 Attract
+Rain　continues　to　fall。
+What　will<FE>ELECTRODE　do？
+LIGHT　SCREEN
+19/20
+TYPE/<FC>かあNORMAL
+Foe　AMPHAROS　used<FE>ATTRACT！
+But　it　failed！
+ELECTRODE　used<FE>SWIFT！
+Battler 1 info: Ampharos Lv100 HP 268/384 - 186 204 329 216 131 - Moves: 10 Thunder, 4 Rain Dance, 19 Thunder Wave, 14 Attract
+Rain　continues　to　fall。
+What　will<FE>ELECTRODE　do？
+LIGHT　SCREEN
+18/20
+TYPE/<FC>かあNORMAL
+Foe　AMPHAROS　used<FE>THUNDER　WAVE！
+ELECTRODE　is<FE>already　paralyzed！
+ELECTRODE　is　paralyzed！<FE>It　can\'t　move！
+Rain　continues　to　fall。
+What　will<FE>ELECTRODE　do？
+LIGHT　SCREEN
+18/20
+TYPE/<FC>かあNORMAL
+Foe　AMPHAROS　used<FE>THUNDER！
+Battler 0 info: Electrode Lv100 HP 153/296 - 108 148 254 168 259 - Moves: 14 Thunderbolt, 18 Swift, 30 Light Screen, 10 Protect
+It\'s　not　very　effective⋯
+ELECTRODE　used<FE>SWIFT！
+Battler 1 info: Ampharos Lv100 HP 220/384 - 186 204 329 216 131 - Moves: 9 Thunder, 4 Rain Dance, 18 Thunder Wave, 14 Attract
+A　critical　hit！
+Rain　continues　to　fall。
+What　will<FE>ELECTRODE　do？
+LIGHT　SCREEN
+17/20
+TYPE/<FC>かあNORMAL
+Foe　AMPHAROS　used<FE>THUNDER　WAVE！
+ELECTRODE　is<FE>already　paralyzed！
+ELECTRODE　is　paralyzed！<FE>It　can\'t　move！
+The　rain　stopped。
+What　will<FE>ELECTRODE　do？
+LIGHT　SCREEN
+17/20
+TYPE/<FC>かあNORMAL
+Foe　AMPHAROS　used<FE>ATTRACT！
+But　it　failed！
+ELECTRODE　used<FE>SWIFT！
+Battler 1 info: Ampharos Lv100 HP 193/384 - 186 204 329 216 131 - Moves: 9 Thunder, 4 Rain Dance, 17 Thunder Wave, 13 Attract
+What　will<FE>ELECTRODE　do？
+LIGHT　SCREEN
+16/20
+TYPE/<FC>かあNORMAL
+Foe　AMPHAROS　used<FE>RAIN　DANCE！
+It　started　to　rain！
+ELECTRODE　used<FE>SWIFT！
+Battler 1 info: Ampharos Lv100 HP 168/384 - 186 204 329 216 131 - Moves: 9 Thunder, 3 Rain Dance, 17 Thunder Wave, 13 Attract
+Rain　continues　to　fall。
+What　will<FE>ELECTRODE　do？
+LIGHT　SCREEN
+15/20
+TYPE/<FC>かあNORMAL
+Foe　AMPHAROS　used<FE>THUNDER！
+Battler 0 info: Electrode Lv100 HP 8/296 - 108 148 254 168 259 - Moves: 14 Thunderbolt, 15 Swift, 30 Light Screen, 10 Protect
+It\'s　not　very　effective⋯
+ELECTRODE　is　paralyzed！<FE>It　can\'t　move！
+Rain　continues　to　fall。
+What　will<FE>ELECTRODE　do？
+LIGHT　SCREEN
+15/20
+TYPE/<FC>かあNORMAL
+Foe　AMPHAROS　used<FE>THUNDER！
+Battler 0 info: Electrode Lv100 HP 0/296 - 108 148 254 168 259 - Moves: 14 Thunderbolt, 15 Swift, 30 Light Screen, 10 Protect
+It\'s　not　very　effective⋯
+ELECTRODE<FE>fainted！<FB>
+<FC>いいELECTRODE<FC>あさ
+<FC>いいAMPHAROS<FC>あさ♂
+Battler 0 info: Slaking Lv100 HP 455/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Do　it！　SLAKING！
+<FC>いいSLAKING<FC>あこ♀
+Rain　continues　to　fall。
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+10/10
+TYPE/<FC>かあNORMAL
+SLAKING　used<FE>YAWN！
+SLAKING　made<FE>Foe　AMPHAROS　drowsy！
+Foe　AMPHAROS　used<FE>THUNDER！
+Battler 0 info: Slaking Lv100 HP 162/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Rain　continues　to　fall。
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+TYPE/<FC>かあNORMAL
+SLAKING　is<FE>loafing　around！
+Foe　AMPHAROS　used<FE>ATTRACT！
+SLAKING<FE>fell　in　love！
+The　rain　stopped。
+Foe　AMPHAROS<FE>fell　asleep！
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+ラ9/10
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあFIGHT
+What　will<FE>SLAKING　do？
+<FC>いいSLAKING<FC>あこ♀
+<FC>いいAMPHAROS<FC>あさ♂
+SLAKING,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Electabuzz Lv100 HP 285/285 - 174 180 240 178 196 - Moves: 15 Thunderbolt, 20 Thunder Wave, 15 Brick Break, 30 Light Screen
+Do　it！　ELECTABUZZ！
+<FC>いいELECTABUZZ<FC>あこ♀
+Foe　AMPHAROS　is　fast<FE>asleep。
+What　will<FE>ELECTABUZZ　do？
+THUNDER　WAVE
+LIGHT　SCREEN
+TYPE/<FC>かあELECTR
+ELECTABUZZ　used<FE>THUNDERBOLT！
+Battler 1 info: Ampharos Lv100 HP 110/384 - 186 204 329 216 131 - Moves: 6 Thunder, 3 Rain Dance, 17 Thunder Wave, 12 Attract
+It\'s　not　very　effective⋯
+Foe　AMPHAROS　is　fast<FE>asleep。
+What　will<FE>ELECTABUZZ　do？
+THUNDER　WAVE
+LIGHT　SCREEN
+TYPE/<FC>かあELECTR
+ELECTABUZZ　used<FE>THUNDERBOLT！
+Battler 1 info: Ampharos Lv100 HP 50/384 - 186 204 329 216 131 - Moves: 6 Thunder, 3 Rain Dance, 17 Thunder Wave, 12 Attract
+It\'s　not　very　effective⋯
+Foe　AMPHAROS　is　fast<FE>asleep。
+What　will<FE>ELECTABUZZ　do？
+THUNDER　WAVE
+LIGHT　SCREEN
+TYPE/<FC>かあELECTR
+ELECTABUZZ　used<FE>THUNDERBOLT！
+Battler 1 info: Ampharos Lv100 HP 0/384 - 186 204 329 216 131 - Moves: 6 Thunder, 3 Rain Dance, 17 Thunder Wave, 12 Attract
+It\'s　not　very　effective⋯
+Foe　AMPHAROS<FE>fainted！<FB>
+Battler 1 info: Tentacruel Lv100 HP 301/301 - 239 251 176 276 236 - Moves: 10 Sludge Bomb, 15 Icy Wind, 30 Barrier, 10 Confuse Ray
+BUG　CATCHER　YOSHI　sent<FE>out　TENTACRUEL！
+<FC>いいTENTACRUEL<FC>あこ♀
+What　will<FE>ELECTABUZZ　do？
+THUNDER　WAVE
+LIGHT　SCREEN
+TYPE/<FC>かあELECTR
+Foe　TENTACRUEL　used<FE>BARRIER！
+Foe　TENTACRUEL\'s　DEFENSE<FE>sharply　rose！
+ELECTABUZZ　used<FE>THUNDERBOLT！
+Battler 1 info: Tentacruel Lv100 HP 113/301 - 239 251 176 276 236 - Moves: 10 Sludge Bomb, 15 Icy Wind, 29 Barrier, 10 Confuse Ray
+It\'s　super　effective！
+What　will<FE>ELECTABUZZ　do？
+THUNDER　WAVE
+LIGHT　SCREEN
+TYPE/<FC>かあELECTR
+Foe　TENTACRUEL　used<FE>ICY　WIND！
+Battler 0 info: Electabuzz Lv100 HP 239/285 - 174 180 240 178 196 - Moves: 11 Thunderbolt, 20 Thunder Wave, 15 Brick Break, 30 Light Screen
+ELECTABUZZ\'s　SPEED<FE>fell！
+ELECTABUZZ　used<FE>THUNDERBOLT！
+Battler 1 info: Tentacruel Lv100 HP 0/301 - 239 251 176 276 236 - Moves: 10 Sludge Bomb, 14 Icy Wind, 29 Barrier, 10 Confuse Ray
+It\'s　super　effective！
+Foe　TENTACRUEL<FE>fainted！<FB>
+Battler 1 info: Blissey Lv100 HP 651/651 - 50 130 186 369 146 - Moves: 10 Toxic, 15 Double Team, 15 Sing, 10 Softboiled
+BUG　CATCHER　YOSHI　sent<FE>out　BLISSEY！
+<FC>いいBLISSEY<FC>あこ♀
+What　will<FE>ELECTABUZZ　do？
+THUNDER　WAVE
+LIGHT　SCREEN
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあFIGHT
+Foe　BLISSEY　used<FE>DOUBLE　TEAM！
+Foe　BLISSEY\'s　evasiveness<FE>rose！
+ELECTABUZZ　used<FE>BRICK　BREAK！
+Battler 1 info: Blissey Lv100 HP 486/651 - 50 130 186 369 146 - Moves: 10 Toxic, 14 Double Team, 15 Sing, 10 Softboiled
+It\'s　super　effective！
+What　will<FE>ELECTABUZZ　do？
+THUNDER　WAVE
+LIGHT　SCREEN
+TYPE/<FC>かあFIGHT
+Foe　BLISSEY　used<FE>TOXIC！
+ELECTABUZZ　is　badly<FE>poisoned！
+ELECTABUZZ　used<FE>BRICK　BREAK！
+ELECTABUZZ\'s<FE>attack　missed！
+ELECTABUZZ　is　hurt<FE>by　poison！
+Battler 0 info: Electabuzz Lv100 HP 222/285 - 174 180 240 178 196 - Moves: 10 Thunderbolt, 20 Thunder Wave, 13 Brick Break, 30 Light Screen
+What　will<FE>ELECTABUZZ　do？
+THUNDER　WAVE
+PP　
+TYPE/<FC>かあFIGHT
+Foe　BLISSEY　used<FE>SOFTBOILED！
+Battler 1 info: Blissey Lv100 HP 651/651 - 50 130 186 369 146 - Moves: 9 Toxic, 14 Double Team, 15 Sing, 9 Softboiled
+Foe　BLISSEY　regained<FE>health！
+ELECTABUZZ　used<FE>BRICK　BREAK！
+ELECTABUZZ\'s<FE>attack　missed！
+ELECTABUZZ　is　hurt<FE>by　poison！
+Battler 0 info: Electabuzz Lv100 HP 188/285 - 174 180 240 178 196 - Moves: 10 Thunderbolt, 20 Thunder Wave, 12 Brick Break, 30 Light Screen
+What　will<FE>ELECTABUZZ　do？
+THUNDER　WAVE
+LIGHT　SCREEN
+TYPE/<FC>かあFIGHT
+Foe　BLISSEY　used<FE>SING！
+But　it　failed！
+ELECTABUZZ　used<FE>BRICK　BREAK！
+Battler 1 info: Blissey Lv100 HP 490/651 - 50 130 186 369 146 - Moves: 9 Toxic, 14 Double Team, 14 Sing, 9 Softboiled
+It\'s　super　effective！
+ELECTABUZZ　is　hurt<FE>by　poison！
+Battler 0 info: Electabuzz Lv100 HP 137/285 - 174 180 240 178 196 - Moves: 10 Thunderbolt, 20 Thunder Wave, 11 Brick Break, 30 Light Screen
+What　will<FE>ELECTABUZZ　do？
+THUNDER　WAVE
+LIGHT　SCREEN
+TYPE/<FC>かあFIGHT
+Foe　BLISSEY　used<FE>SOFTBOILED！
+Battler 1 info: Blissey Lv100 HP 651/651 - 50 130 186 369 146 - Moves: 9 Toxic, 14 Double Team, 14 Sing, 8 Softboiled
+Foe　BLISSEY　regained<FE>health！
+ELECTABUZZ　used<FE>BRICK　BREAK！
+ELECTABUZZ\'s<FE>attack　missed！
+ELECTABUZZ　is　hurt<FE>by　poison！
+Battler 0 info: Electabuzz Lv100 HP 69/285 - 174 180 240 178 196 - Moves: 10 Thunderbolt, 20 Thunder Wave, 10 Brick Break, 30 Light Screen
+What　will<FE>ELECTABUZZ　do？
+THUNDER　WAVE
+LIGHT　SCREEN
+TYPE/<FC>かあFIGHT
+Foe　BLISSEY　used<FE>TOXIC！
+ELECTABUZZ　is　already<FE>poisoned。
+ELECTABUZZ　used<FE>BRICK　BREAK！
+ELECTABUZZ\'s<FE>attack　missed！
+ELECTABUZZ　is　hurt<FE>by　poison！
+Battler 0 info: Electabuzz Lv100 HP 0/285 - 174 180 240 178 196 - Moves: 10 Thunderbolt, 20 Thunder Wave, 9 Brick Break, 30 Light Screen
+ELECTABUZZ<FE>fainted！<FB>
+<FC>いいELECTABUZZ<FC>あこ♀
+<FC>いいBLISSEY<FC>あこ♀
+Battler 0 info: Slaking Lv100 HP 162/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Go！　SLAKING！
+<FC>いいSLAKING<FC>あこ♀
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあFIGHT
+What　will<FE>SLAKING　do？
+<FC>いいSLAKING<FC>あこ♀
+<FC>いいBLISSEY<FC>あこ♀
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+20/20
+TYPE/<FC>かあFIGHT
+SLAKING　is<FE>loafing　around！
+Foe　BLISSEY　used<FE>TOXIC！
+Foe　BLISSEY\'s<FE>attack　missed！
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあFLYING
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+20/20
+TYPE/<FC>かあFLYING
+SLAKING　used<FE>AERIAL　ACE！
+Battler 1 info: Blissey Lv100 HP 532/651 - 50 130 186 369 146 - Moves: 7 Toxic, 14 Double Team, 14 Sing, 8 Softboiled
+Foe　BLISSEY　used<FE>SING！
+Foe　BLISSEY\'s<FE>attack　missed！
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+19/20
+TYPE/<FC>かあFLYING
+SLAKING　is<FE>loafing　around！
+Foe　BLISSEY　used<FE>DOUBLE　TEAM！
+Foe　BLISSEY\'s　evasiveness<FE>rose！
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+TYPE/<FC>かあFLYING
+SLAKING　used<FE>AERIAL　ACE！
+Battler 1 info: Blissey Lv100 HP 411/651 - 50 130 186 369 146 - Moves: 7 Toxic, 13 Double Team, 13 Sing, 8 Softboiled
+Foe　BLISSEY　used<FE>SOFTBOILED！
+Battler 1 info: Blissey Lv100 HP 651/651 - 50 130 186 369 146 - Moves: 7 Toxic, 13 Double Team, 13 Sing, 7 Softboiled
+Foe　BLISSEY　regained<FE>health！
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+18/20
+TYPE/<FC>かあFLYING
+SLAKING　is<FE>loafing　around！
+Foe　BLISSEY　used<FE>SOFTBOILED！
+Foe　BLISSEY\'s<FE>HP　is　full！
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+18/20
+TYPE/<FC>かあFLYING
+SLAKING　used<FE>AERIAL　ACE！
+Battler 1 info: Blissey Lv100 HP 520/651 - 50 130 186 369 146 - Moves: 7 Toxic, 13 Double Team, 13 Sing, 6 Softboiled
+Foe　BLISSEY　used<FE>DOUBLE　TEAM！
+Foe　BLISSEY\'s　evasiveness<FE>rose！
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+17/20
+TYPE/<FC>かあFLYING
+SLAKING　is<FE>loafing　around！
+Foe　BLISSEY　used<FE>SING！
+SLAKING<FE>fell　asleep！
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+TYPE/<FC>かあFLYING
+SLAKING　is　fast<FE>asleep。
+Foe　BLISSEY　used<FE>SOFTBOILED！
+Battler 1 info: Blissey Lv100 HP 651/651 - 50 130 186 369 146 - Moves: 7 Toxic, 12 Double Team, 12 Sing, 5 Softboiled
+Foe　BLISSEY　regained<FE>health！
+What　will<FE>SLAKING　do？
+AERIAL　ACE
+TYPE/<FC>かあFLYING
+What　will<FE>YING
+What　will<FE>SLAKING　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+What　will<FE>like　to　forfeit　the　match<FE>and　quit　now？
+What　will<FE>SLAKING　do？
+Would　you　like　to　forfeit　the　match<FE>and　quit　now？
+April　forfeited　the　match！
+<FC>いいHAUNTER<FC>あこ♀
+<FC>いいGLOOM<FC>あこ♀
+Battler 0 info: Haunter Lv50 HP 138/138 - 88 51 133 54 101 - Moves: 20 Shadow Punch, 10 Confuse Ray, 10 Spite, 5 Grudge
+Battler 1 info: Gloom Lv50 HP 167/167 - 85 90 137 95 60 - Moves: 20 Petal Dance, 30 Acid, 30 Stun Spore, 5 Moonlight
+BUG　MANIAC　CLAYTON<FE>would　like　to　battle！<FB>
+BUG　MANIAC　CLAYTON　sent<FE>out　GLOOM！
+<FC>いいGLOOM<FC>あこ♀
+Go！　HAUNTER！
+<FC>いいHAUNTER<FC>あこ♀
+What　will<FE>HAUNTER　do？
+CONFUSE　RAY
+20/20
+TYPE/<FC>かあGHOST
+HAUNTER　used<FE>SHADOW　PUNCH！
+Battler 1 info: Gloom Lv50 HP 128/167 - 85 90 137 95 60 - Moves: 20 Petal Dance, 30 Acid, 30 Stun Spore, 5 Moonlight
+Foe　GLOOM　used<FE>ACID！
+Battler 0 info: Haunter Lv50 HP 128/138 - 88 51 133 54 101 - Moves: 19 Shadow Punch, 10 Confuse Ray, 10 Spite, 5 Grudge
+It\'s　not　very　effective⋯
+What　will<FE>HAUNTER　do？
+CONFUSE　RAY
+19/20
+TYPE/<FC>かあGHOST
+HAUNTER　used<FE>SHADOW　PUNCH！
+Battler 1 info: Gloom Lv50 HP 47/167 - 85 90 137 95 60 - Moves: 20 Petal Dance, 29 Acid, 30 Stun Spore, 5 Moonlight
+A　critical　hit！
+Foe　GLOOM　used<FE>STUN　SPORE！
+HAUNTER　is　paralyzed！<FE>It　may　be　unable　to　move！
+What　will<FE>HAUNTER　do？
+SPITE
+18/20
+TYPE/<FC>かあGHOST
+Foe　GLOOM　used<FE>PETAL　DANCE！
+Battler 0 info: Haunter Lv50 HP 70/138 - 88 51 133 54 101 - Moves: 18 Shadow Punch, 10 Confuse Ray, 10 Spite, 5 Grudge
+It\'s　not　very　effective⋯
+HAUNTER　used<FE>SHADOW　PUNCH！
+Battler 1 info: Gloom Lv50 HP 10/167 - 85 90 137 95 60 - Moves: 19 Petal Dance, 29 Acid, 29 Stun Spore, 5 Moonlight
+What　will<FE>HAUNTER　do？
+CONFUSE　RAY
+17/20
+TYPE/<FC>かあGHOST
+Foe　GLOOM　used<FE>PETAL　DANCE！
+Battler 0 info: Haunter Lv50 HP 14/138 - 88 51 133 54 101 - Moves: 17 Shadow Punch, 10 Confuse Ray, 10 Spite, 5 Grudge
+It\'s　not　very　effective⋯
+HAUNTER　used<FE>SHADOW　PUNCH！
+Battler 1 info: Gloom Lv50 HP 0/167 - 85 90 137 95 60 - Moves: 19 Petal Dance, 29 Acid, 29 Stun Spore, 5 Moonlight
+Foe　GLOOM<FE>fainted！<FB>
+Battler 1 info: Clamperl Lv50 HP 131/131 - 84 126 94 96 52 - Moves: 10 Dive, 10 Toxic, 15 Iron Defense, 15 Double Team
+BUG　MANIAC　CLAYTON　sent<FE>out　CLAMPERL！
+<FC>いいCLAMPERL<FC>あさ♂
+What　will<FE>HAUNTER　do？
+SPITE
+16/20
+TYPE/<FC>かあGHOST
+Foe　CLAMPERL　hid<FE>underwater！
+HAUNTER　is　paralyzed！<FE>It　can\'t　move！
+What　will<FE>HAUNTER　do？
+CONFUSE　RAY
+16/20
+TYPE/<FC>かあGHOST
+Foe　CLAMPERL　used<FE>DIVE！
+Battler 0 info: Haunter Lv50 HP 0/138 - 88 51 133 54 101 - Moves: 16 Shadow Punch, 10 Confuse Ray, 10 Spite, 5 Grudge
+A　critical　hit！
+HAUNTER<FE>fainted！<FB>
+<FC>いいHAUNTER<FC>あこ♀
+<FC>いいCLAMPERL<FC>あさ♂
+Battler 0 info: Aipom Lv50 HP 148/148 - 108 67 46 61 81 - Moves: 15 Fury Swipes, 15 Sand-Attack, 40 Baton Pass, 30 Agility
+Go！　AIPOM！
+<FC>いいAIPOM<FC>あさ♂
+What　will<FE>AIPOM　do？
+BATON　PASS
+15/15
+TYPE/<FC>かあNORMAL
+AIPOM　used<FE>FURY　SWIPES！
+Battler 1 info: Clamperl Lv50 HP 120/131 - 84 126 94 96 52 - Moves: 9 Dive, 10 Toxic, 15 Iron Defense, 15 Double Team
+Battler 1 info: Clamperl Lv50 HP 108/131 - 84 126 94 96 52 - Moves: 9 Dive, 10 Toxic, 15 Iron Defense, 15 Double Team
+Hit　2　timeシsス！
+Foe　CLAMPERL　used<FE>TOXIC！
+AIPOM　is　badly<FE>poisoned！
+AIPOM　is　hurt<FE>by　poison！
+Battler 0 info: Aipom Lv50 HP 139/148 - 108 67 46 61 81 - Moves: 14 Fury Swipes, 15 Sand-Attack, 40 Baton Pass, 30 Agility
+What　will<FE>AIPOM　do？
+SANDーATTACK
+1P　
+TYPE/<FC>かあNORMAL
+AIPOM　used<FE>FURY　SWIPES！
+Battler 1 info: Clamperl Lv50 HP 97/131 - 84 126 94 96 52 - Moves: 9 Dive, 9 Toxic, 15 Iron Defense, 15 Double Team
+Battler 1 info: Clamperl Lv50 HP 86/131 - 84 126 94 96 52 - Moves: 9 Dive, 9 Toxic, 15 Iron Defense, 15 Double Team
+Battler 1 info: Clamperl Lv50 HP 74/131 - 84 126 94 96 52 - Moves: 9 Dive, 9 Toxic, 15 Iron Defense, 15 Double Team
+Battler 1 info: Clamperl Lv50 HP 63/131 - 84 126 94 96 52 - Moves: 9 Dive, 9 Toxic, 15 Iron Defense, 15 Double Team
+Battler 1 info: Clamperl Lv50 HP 52/131 - 84 126 94 96 52 - Moves: 9 Dive, 9 Toxic, 15 Iron Defense, 15 Double Team
+Hit　5　timeシsス！
+Foe　CLAMPERL　used<FE>TOXIC！
+AIPOM　is　already<FE>poisoned。
+AIPOM　is　hurt<FE>by　poison！
+Battler 0 info: Aipom Lv50 HP 121/148 - 108 67 46 61 81 - Moves: 13 Fury Swipes, 15 Sand-Attack, 40 Baton Pass, 30 Agility
+What　will<FE>AIPOM　do？
+BATON　PASS
+13/1ITY
+TYPE/<FC>かあNORMAL
+AIPOM　used<FE>FURY　SWIPES！
+AIPOM\'s<FE>attack　missed！
+Foe　CLAMPERL　hid<FE>underwater！
+AIPOM　is　hurt<FE>by　poison！
+Battler 0 info: Aipom Lv50 HP 94/148 - 108 67 46 61 81 - Moves: 12 Fury Swipes, 15 Sand-Attack, 40 Baton Pass, 30 Agility
+What　will<FE>AIPOM　do？
+SANDーATTACK
+PP　
+TYPE/<FC>かあNORMAL
+AIPOM　used<FE>FURY　SWIPES！
+AIPOM\'s<FE>attack　missed！
+Foe　CLAMPERL　used<FE>DIVE！
+Battler 0 info: Aipom Lv50 HP 32/148 - 108 67 46 61 81 - Moves: 11 Fury Swipes, 15 Sand-Attack, 40 Baton Pass, 30 Agility
+AIPOM　is　hurt<FE>by　poison！
+Battler 0 info: Aipom Lv50 HP 0/148 - 108 67 46 61 81 - Moves: 11 Fury Swipes, 15 Sand-Attack, 40 Baton Pass, 30 Agility
+AIPOM<FE>fainted！<FB>
+<FC>いいAIPOM<FC>あさ♂
+<FC>いいCLAMPERL<FC>あさ♂
+Battler 0 info: Teddiursa Lv50 HP 153/153 - 118 61 56 56 41 - Moves: 20 Secret Power, 20 Fake Tears, 20 Faint Attack, 10 Rest
+Go　for　it,　TEDDIURSA！
+<FC>いいTEDDIURSA<FC>あこ♀
+What　will<FE>TEDDIURSA　do？
+FAKE　TEARS
+20/20
+TYPE/<FC>かあNORMAL
+Foe　CLAMPERL　used<FE>DOUBLE　TEAM！
+Foe　CLAMPERL\'s　evasiveness<FE>rose！
+TEDDIURSA　used<FE>SECRET　POWER！
+TEDDIURSA\'s<FE>attack　missed！
+What　will<FE>TEDDIURSA　do？
+FAINT　ATTACK
+19/20
+TYPE/<FC>かあNORMAL
+Foe　CLAMPERL　used<FE>IRON　DEFENSE！
+Foe　CLAMPERL\'s　DEFENSE<FE>sharply　rose！
+TEDDIURSA　used<FE>SECRET　POWER！
+Battler 1 info: Clamperl Lv50 HP 31/131 - 84 126 94 96 52 - Moves: 8 Dive, 8 Toxic, 14 Iron Defense, 14 Double Team
+What　will<FE>TEDDIURSA　do？
+FAINT　ATTACK
+18/20
+TYPE/<FC>かあNORMAL
+Foe　CLAMPERL　hid<FE>underwater！
+TEDDIURSA　used<FE>SECRET　POWER！
+TEDDIURSA\'s<FE>attack　missed！
+What　will<FE>TEDDIURSA　do？
+FAKE　TEARS
+17/20
+TYPE/<FC>かあNORMAL
+Foe　CLAMPERL　used<FE>DIVE！
+Battler 0 info: Teddiursa Lv50 HP 92/153 - 118 61 56 56 41 - Moves: 17 Secret Power, 20 Fake Tears, 20 Faint Attack, 10 Rest
+TEDDIURSA　used<FE>SECRET　POWER！
+Battler 1 info: Clamperl Lv50 HP 9/131 - 84 126 94 96 52 - Moves: 7 Dive, 8 Toxic, 14 Iron Defense, 14 Double Team
+What　will<FE>TEDDIURSA　do？
+FAKE　TEARS
+16/20
+TYPE/<FC>かあNORMAL
+Foe　CLAMPERL　used<FE>DOUBLE　TEAM！
+Foe　CLAMPERL\'s　evasiveness<FE>rose！
+TEDDIURSA　used<FE>SECRET　POWER！
+TEDDIURSA\'s<FE>attack　missed！
+What　will<FE>TEDDIURSA　do？
+FAINT　ATTACK
+15/20
+TYPE/<FC>かあNORMAL
+Foe　CLAMPERL　used<FE>IRON　DEFENSE！
+Foe　CLAMPERL\'s　DEFENSE<FE>sharply　rose！
+TEDDIURSA　used<FE>SECRET　POWER！
+TEDDIURSA\'s<FE>attack　missed！
+What　will<FE>TEDDIURSA　do？
+FAKE　TEARS
+14/20
+TYPE/<FC>かあNORMAL
+Foe　CLAMPERL　used<FE>IRON　DEFENSE！
+Foe　CLAMPERL\'s　DEFENSE<FE>sharply　rose！
+TEDDIURSA　used<FE>SECRET　POWER！
+TEDDIURSA\'s<FE>attack　missed！
+What　will<FE>TEDDIURSA　do？
+FAKE　TEARS
+13/20
+TYPE/<FC>かあNORMAL
+Foe　CLAMPERL　hid<FE>underwater！
+TEDDIURSA　used<FE>SECRET　POWER！
+TEDDIURSA\'s<FE>attack　missed！
+What　will<FE>TEDDIURSA　do？
+FAINT　ATTACK
+12/20
+TYPE/<FC>かあNORMAL
+Foe　CLAMPERL　used<FE>DIVE！
+Battler 0 info: Teddiursa Lv50 HP 30/153 - 118 61 56 56 41 - Moves: 12 Secret Power, 20 Fake Tears, 20 Faint Attack, 10 Rest
+TEDDIURSA　used<FE>SECRET　POWER！
+Battler 1 info: Clamperl Lv50 HP 0/131 - 84 126 94 96 52 - Moves: 6 Dive, 8 Toxic, 12 Iron Defense, 13 Double Team
+Foe　CLAMPERL<FE>fainted！<FB>
+Battler 1 info: Grovyle Lv50 HP 157/157 - 117 71 105 85 103 - Moves: 20 Fury Cutter, 5 Endeavor, 15 Brick Break, 15 Double Team
+BUG　MANIAC　CLAYTON　sent<FE>out　GROVYLE！
+<FC>いいGROVYLE<FC>あさ♂
+What　will<FE>TEDDIURSA　do？
+FAINT　ATTS
+1P　
+TYPE/<FC>かあNORMAL
+Foe　GROVYLE　used<FE>ENDEAVOR！
+But　it　failed！
+TEDDIURSA　used<FE>SECRET　POWER！
+Battler 1 info: Grovyle Lv50 HP 89/157 - 117 71 105 85 103 - Moves: 20 Fury Cutter, 4 Endeavor, 15 Brick Break, 15 Double Team
+What　will<FE>TEDDIURSA　do？
+FAINT　ATTACK
+10/
+TYPE/<FC>かあNORMAL
+Foe　GROVYLE　used<FE>DOUBLE　TEAM！
+Foe　GROVYLE\'s　evasiveness<FE>rose！
+TEDDIURSA　used<FE>SECRET　POWER！
+Battler 1 info: Grovyle Lv50 HP 22/157 - 117 71 105 85 103 - Moves: 20 Fury Cutter, 4 Endeavor, 15 Brick Break, 14 Double Team
+What　will<FE>TEDDIURSA　do？
+FAINT　ATTACK
+ラ9/20
+TYPE/<FC>かあNORMAL
+Foe　GROVYLE　used<FE>BRICK　BREAK！
+Battler 0 info: Teddiursa Lv50 HP 0/153 - 118 61 56 56 41 - Moves: 9 Secret Power, 20 Fake Tears, 20 Faint Attack, 10 Rest
+It\'s　super　effective！
+TEDDIURSA<FE>fainted！<FB>
+WHERE　IS　IT？　I\'VE<FE>LOST　MY　POKひNAV<FC>け
+<FC>いいMILOTIC
+<FC>いいMILOTIC<FC>あさ♂
+<FC>いいSCIZOR<FC>あさ♂
+Battler 0 info: Milotic Lv100 HP 345/345 - 115 208 275 258 170 - Moves: 5 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+Battler 1 info: Scizor Lv100 HP 281/281 - 394 236 131 259 166 - Moves: 35 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+TRIATHLETE　ADRIANA<FE>would　like　to　battle！<FB>
+TRIATHLETE　ADRIANA　sent<FE>out　SCIZOR！
+<FC>いいSCIZOR<FC>あさ♂
+Go！　MILOTIC！
+<FC>いいMILOTIC<FC>あさ♂
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ5/ラ5
+TYPE/<FC>かあWATER
+MILOTIC　used<FE>HYDRO　PUMP！
+Battler 1 info: Scizor Lv100 HP 133/281 - 394 236 131 259 166 - Moves: 35 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+Foe　SCIZOR　used<FE>METAL　CLAW！
+Battler 0 info: Milotic Lv100 HP 285/345 - 115 208 275 258 170 - Moves: 4 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+It\'s　not　very　effective⋯
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ4/ラ5
+TYPE/<FC>かあWATER
+MILOTIC　used<FE>HYDRO　PUMP！
+Battler 1 info: Scizor Lv100 HP 0/281 - 394 236 131 259 166 - Moves: 34 Metal Claw, 20 Aerial Ace, 20 Counter, 30 Quick Attack
+Foe　SCIZOR<FE>fainted！<FB>
+Battler 1 info: Ampharos Lv100 HP 384/384 - 186 204 329 216 131 - Moves: 10 Thunder, 5 Rain Dance, 20 Thunder Wave, 15 Attract
+TRIATHLETE　ADRIANA　sent<FE>out　AMPHAROS！
+<FC>いいAMPHAROS<FC>あさ♂
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ3/ラ5
+TYPE/<FC>かあWATER
+MILOTIC　used<FE>HYDRO　PUMP！
+MILOTIC\'s<FE>attack　missed！
+Foe　AMPHAROS　used<FE>ATTRACT！
+But　it　failed！
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ2/ラ5
+TYPE/<FC>かあWATER
+MILOTIC　used<FE>HYDRO　PUMP！
+MILOTIC\'s<FE>attack　missed！
+Foe　AMPHAROS　used<FE>ATTRACT！
+But　it　failed！
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ1/ラ5
+TYPE/<FC>かあWATER
+MILOTIC　used<FE>HYDRO　PUMP！
+MILOTIC\'s<FE>attack　missed！
+Foe　AMPHAROS　used<FE>THUNDER！
+Foe　AMPHAROS\'s<FE>attack　missed！
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ0/ラ5
+TYPE/<FC>かあWATER
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあICE
+TYPE/<FC>かあPSYCHC
+Foe　AMPHAROS　used<FE>THUNDER　WAVE！
+MILOTIC　is　paralyzed！<FE>It　may　be　unable　to　move！
+MILOTIC\'s　LUM　BERRY<FE>cured　its　paralysis　problem！
+MILOTIC　used<FE>MIRROR　COAT！
+But　it　failed！
+What　will<FE>MILOTIC　do？
+RECOVER
+19/20
+TYPE/<FC>かあPSYCHC
+Foe　AMPHAROS　used<FE>ATTRACT！
+But　it　failed！
+MILOTIC　used<FE>MIRROR　COAT！
+But　it　failed！
+What　will<FE>MILOTIC　do？
+RECOVER
+18/20
+TYPE/<FC>かあPSYCHC
+Foe　AMPHAROS　used<FE>THUNDER　WAVE！
+MILOTIC　is　paralyzed！<FE>It　may　be　unable　to　move！
+MILOTIC　is　paralyzed！<FE>It　can\'t　move！
+What　will<FE>MILOTIC　do？
+RECOVER
+18/20
+TYPE/<FC>かあPSYCHC
+Foe　AMPHAROS　used<FE>THUNDER！
+Battler 0 info: Milotic Lv100 HP 0/345 - 115 208 275 258 170 - Moves: 0 Hydro Pump, 15 Icy Wind, 20 Recover, 18 Mirror Coat
+It\'s　super　effective！
+MILOTIC<FE>fainted！<FB>
+<FC>いいMILOTIC<FC>あさ♂
+<FC>いいAMPHAROS<FC>あさ♂
+Battler 0 info: Weezing Lv100 HP 306/306 - 276 248 160 148 128 - Moves: 10 Sludge Bomb, 15 Will-O-Wisp, 15 Shadow Ball, 20 SmokeScreen
+Go！　WEEZING！
+<FC>いいWEEZING<FC>あさ♂
+What　will<FE>WEEZING　do？
+SHADOW　BALL
+SMOKESCREEN
+TYPE/<FC>かあPOISON
+Foe　AMPHAROS　used<FE>THUNDER　WAVE！
+WEEZING　is　paralyzed！<FE>It　may　be　unable　to　move！
+WEEZING　used<FE>SLUDGE　BOMB！
+Battler 1 info: Ampharos Lv100 HP 101/384 - 186 204 329 216 131 - Moves: 8 Thunder, 5 Rain Dance, 17 Thunder Wave, 12 Attract
+A　critical　hit！
+What　will<FE>WEEZING　do？
+WILLーOーWISP
+SMOKESCREEN
+TYPE/<FC>かあPOISON
+Foe　AMPHAROS　used<FE>THUNDER！
+Battler 0 info: Weezing Lv100 HP 0/306 - 276 248 160 148 128 - Moves: 9 Sludge Bomb, 15 Will-O-Wisp, 15 Shadow Ball, 20 SmokeScreen
+A　critical　hit！
+WEEZING<FE>fainted！<FB>
+<FC>いいWEEZING<FC>あさ♂
+<FC>いいAMPHAROS<FC>あさ♂
+Battler 0 info: Ludicolo Lv100 HP 315/315 - 148 190 253 208 133 - Moves: 15 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+Go　for　it,　LUDICOLO！
+<FC>いいLUDICOLO<FC>あさ♂
+What　will<FE>LUDICOLO　do？
+THUNDERPUNCH
+15/15
+TYPE/<FC>かあWATER
+LUDICOLO　used<FE>SURF！
+Battler 1 info: Ampharos Lv100 HP 0/384 - 186 204 329 216 131 - Moves: 7 Thunder, 5 Rain Dance, 17 Thunder Wave, 12 Attract
+A　critical　hit！
+Foe　AMPHAROS<FE>fainted！<FB>
+Battler 1 info: Claydol Lv100 HP 324/324 - 262 246 158 276 186 - Moves: 10 Earthquake, 10 Rock Slide, 15 Swagger, 10 Psych Up
+TRIATHLETE　ADRIANA　sent<FE>out　CLAYDOL！
+<FC>いいCLAYDOL<FC>あさ
+What　will<FE>LUDICOLO　do？
+THUNDERPUNCH
+14/15
+TYPE/<FC>かあWATER
+Foe　CLAYDOL　used<FE>EARTHQUAKE！
+Battler 0 info: Ludicolo Lv100 HP 233/315 - 148 190 253 208 133 - Moves: 14 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+It\'s　not　very　effective⋯
+LUDICOLO　used<FE>SURF！
+Battler 1 info: Claydol Lv100 HP 114/324 - 262 246 158 276 186 - Moves: 9 Earthquake, 10 Rock Slide, 15 Swagger, 10 Psych Up
+It\'s　super　effective！
+LUDICOLO\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Ludicolo Lv100 HP 259/315 - 148 190 253 208 133 - Moves: 13 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+What　will<FE>LUDICOLO　do？
+THUNDERPUNCH
+13/15
+TYPE/<FC>かあWATER
+Foe　CLAYDOL　used<FE>EARTHQUAKE！
+Battler 0 info: Ludicolo Lv100 HP 180/315 - 148 190 253 208 133 - Moves: 13 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+It\'s　not　very　effective⋯
+LUDICOLO　used<FE>SURF！
+Battler 1 info: Claydol Lv100 HP 0/324 - 262 246 158 276 186 - Moves: 8 Earthquake, 10 Rock Slide, 15 Swagger, 10 Psych Up
+It\'s　super　effective！
+Foe　CLAYDOL<FE>fainted！<FB>
+LUDICOLO\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Ludicolo Lv100 HP 194/315 - 148 190 253 208 133 - Moves: 12 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+Player　defeated<FE>TRIATHLETE　ADRIANA！<FB>
+I　AM　FEELING　BEAT　UP<FE>AND　TIRED　<FC>け
+<FC>いいMILOTIC
+<FC>いいMILOTIC<FC>あさ♂
+<FC>いいSHIFTRY<FC>あこ♀
+Battler 0 info: Milotic Lv100 HP 345/345 - 115 208 275 258 170 - Moves: 5 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+Battler 1 info: Shiftry Lv100 HP 321/321 - 236 198 283 198 176 - Moves: 5 Giga Drain, 20 Faint Attack, 30 Quick Attack, 10 Fake Out
+COLLECTOR　ADRIAN<FE>would　like　to　battle！<FB>
+COLLECTOR　ADRIAN　sent<FE>out　SHIFTRY！
+<FC>いいSHIFTRY<FC>あこ♀
+Go！　MILOTIC！
+<FC>いいMILOTIC<FC>あさ♂
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ5/ラ5
+TYPE/<FC>かあWATER
+TYPE/<FC>かあICE
+Foe　SHIFTRY　used<FE>FAKE　OUT！
+Battler 0 info: Milotic Lv100 HP 306/345 - 115 208 275 258 170 - Moves: 5 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+MILOTIC　flinched！
+What　will<FE>MILOTIC　do？
+RECOVER
+15/15
+TYPE/<FC>かあICE
+Foe　SHIFTRY　used<FE>FAKE　OUT！
+But　it　failed！
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Shiftry Lv100 HP 204/321 - 236 198 283 198 176 - Moves: 5 Giga Drain, 20 Faint Attack, 30 Quick Attack, 8 Fake Out
+It\'s　super　effective！
+Foe　SHIFTRY\'s　SPEED<FE>fell！
+What　will<FE>MILOTIC　do？
+RECOVER
+14/15
+TYPE/<FC>かあICE
+Foe　SHIFTRY　used<FE>FAKE　OUT！
+But　it　failed！
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Shiftry Lv100 HP 82/321 - 236 198 283 198 176 - Moves: 5 Giga Drain, 20 Faint Attack, 30 Quick Attack, 7 Fake Out
+It\'s　super　effective！
+Foe　SHIFTRY\'s　SPEED<FE>fell！
+What　will<FE>MILOTIC　do？
+RECOVER
+13/15
+TYPE/<FC>かあICE
+Foe　SHIFTRY　used<FE>FAKE　OUT！
+But　it　failed！
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Shiftry Lv100 HP 0/321 - 236 198 283 198 176 - Moves: 5 Giga Drain, 20 Faint Attack, 30 Quick Attack, 6 Fake Out
+It\'s　super　effective！
+Foe　SHIFTRY<FE>fainted！<FB>
+Battler 1 info: Crobat Lv100 HP 353/353 - 258 196 218 196 296 - Moves: 10 Sludge Bomb, 25 Bite, 15 Astonish, 40 Screech
+COLLECTOR　ADRIAN　sent<FE>out　CROBAT！
+<FC>いいCROBAT<FC>あさ♂
+What　will<FE>MILOTIC　do？
+RECOVER
+12/15
+TYPE/<FC>かあICE
+Foe　CROBAT　used<FE>SCREECH！
+MILOTIC\'s　DEFENSE<FE>harshly　fell！
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Crobat Lv100 HP 224/353 - 258 196 218 196 296 - Moves: 10 Sludge Bomb, 25 Bite, 15 Astonish, 39 Screech
+It\'s　super　effective！
+Foe　CROBAT\'s　SPEED<FE>fell！
+What　will<FE>MILOTIC　do？
+RECOVER
+11/15
+TYPE/<FC>かあICE
+Foe　CROBAT　used<FE>SCREECH！
+MILOTIC\'s　DEFENSE<FE>harshly　fell！
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Crobat Lv100 HP 111/353 - 258 196 218 196 296 - Moves: 10 Sludge Bomb, 25 Bite, 15 Astonish, 38 Screech
+It\'s　super　effective！
+Foe　CROBAT\'s　SPEED<FE>fell！
+What　will<FE>MILOTIC　do？
+RECOVER
+10/15
+TYPE/<FC>かあICE
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Crobat Lv100 HP 0/353 - 258 196 218 196 296 - Moves: 10 Sludge Bomb, 25 Bite, 15 Astonish, 38 Screech
+It\'s　super　effective！
+Foe　CROBAT<FE>fainted！<FB>
+Battler 1 info: Nidoking Lv100 HP 366/366 - 311 190 185 186 206 - Moves: 5 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+COLLECTOR　ADRIAN　sent<FE>out　NIDOKING！
+<FC>いいNIDOKING<FC>あさ♂
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ9/15
+TYPE/<FC>かあICE
+TYPE/<FC>かあWATER
+Foe　NIDOKING　used<FE>HORN　DRILL！
+Foe　NIDOKING\'s<FE>attack　missed！
+MILOTIC　used<FE>HYDRO　PUMP！
+Battler 1 info: Nidoking Lv100 HP 0/366 - 311 190 185 186 206 - Moves: 4 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+It\'s　super　effective！
+Foe　NIDOKING<FE>fainted！<FB>
+Player　defeated<FE>COLLECTOR　ADRIAN！<FB>
+GOODーBYE　！　<FE>GOODーBYE　！！　<FC>け
+<FC>いいMILOTIC<FC>あさ♂
+<FC>いいMETAGROSS<FC>あさ
+Battler 0 info: Milotic Lv100 HP 345/345 - 115 208 275 258 170 - Moves: 5 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+Battler 1 info: Metagross Lv100 HP 301/301 - 382 296 203 258 218 - Moves: 10 Meteor Mash, 20 Aerial Ace, 20 Facade, 30 Light Screen
+BEAUTY　AMELIA<FE>would　like　to　battle！<FB>
+BEAUTY　AMELIA　sent<FE>out　METAGROSS！
+<FC>いいMETAGROSS<FC>あさ
+Go！　MILOTIC！
+<FC>いいMILOTIC<FC>あさ♂
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ5/ラ5
+TYPE/<FC>かあWATER
+Foe　METAGROSS　used<FE>LIGHT　SCREEN！
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF！
+MILOTIC　used<FE>HYDRO　PUMP！
+Battler 1 info: Metagross Lv100 HP 222/301 - 382 296 203 258 218 - Moves: 10 Meteor Mash, 20 Aerial Ace, 20 Facade, 29 Light Screen
+Foe　METAGROSS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Metagross Lv100 HP 240/301 - 382 296 203 258 218 - Moves: 10 Meteor Mash, 20 Aerial Ace, 20 Facade, 29 Light Screen
+What　will<FE>MILOTIC　do？
+<FC>いいMILOTIC<FC>あさ♂
+<FC>いいMETAGROSS<FC>あさ
+MILOTIC,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Ludicolo Lv100 HP 315/315 - 148 190 253 208 133 - Moves: 15 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+Go！　LUDICOLO！
+<FC>いいLUDICOLO<FC>あさ♂
+Foe　METAGROSS　used<FE>METEOR　MASH！
+Foe　METAGROSS\'s<FE>attack　missed！
+Foe　METAGROSS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Metagross Lv100 HP 258/301 - 382 296 203 258 218 - Moves: 9 Meteor Mash, 20 Aerial Ace, 20 Facade, 29 Light Screen
+What　will<FE>LUDICOLO　do？
+THUNDERPUNCH
+15/15
+TYPE/<FC>かあWATER
+TYPE/<FC>かあFIRE
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあFIRE
+Foe　METAGROSS　used<FE>AERIAL　ACE！
+Battler 0 info: Ludicolo Lv100 HP 109/315 - 148 190 253 208 133 - Moves: 15 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+It\'s　super　effective！
+LUDICOLO　used<FE>FIRE　PUNCH！
+Battler 1 info: Metagross Lv100 HP 196/301 - 382 296 203 258 218 - Moves: 9 Meteor Mash, 19 Aerial Ace, 20 Facade, 29 Light Screen
+It\'s　super　effective！
+LUDICOLO\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Ludicolo Lv100 HP 116/315 - 148 190 253 208 133 - Moves: 15 Surf, 5 Rain Dance, 15 ThunderPunch, 14 Fire Punch
+Foe　METAGROSS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Metagross Lv100 HP 214/301 - 382 296 203 258 218 - Moves: 9 Meteor Mash, 19 Aerial Ace, 20 Facade, 29 Light Screen
+What　will<FE>OSS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+What　will<FE>LUDICOLO　do？
+THUNDERPUNCH
+14/15
+TYPE/<FC>かあFIRE
+Foe　METAGROSS　used<FE>FACADE！
+Battler 0 info: Ludicolo Lv100 HP 0/315 - 148 190 253 208 133 - Moves: 15 Surf, 5 Rain Dance, 15 ThunderPunch, 14 Fire Punch
+LUDICOLO<FE>fainted！<FB>
+<FC>いいLUDICOLO<FC>あさ♂
+<FC>いいMETAGROSS<FC>あさ
+Battler 0 info: Weezing Lv100 HP 306/306 - 276 248 160 148 128 - Moves: 10 Sludge Bomb, 15 Will-O-Wisp, 15 Shadow Ball, 20 SmokeScreen
+Go！　WEEZING！
+<FC>いいWEEZING<FC>あさ♂
+Foe　METAGROSS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Metagross Lv100 HP 232/301 - 382 296 203 258 218 - Moves: 9 Meteor Mash, 19 Aerial Ace, 19 Facade, 29 Light Screen
+What　will<FE>WEEZING　do？
+WILLーOーWISP
+SMOKESCREEN
+TYPE/<FC>かあPOISON
+TYPE/<FC>かあFIRE
+Foe　METAGROSS　used<FE>FACADE！
+Battler 0 info: Weezing Lv100 HP 218/306 - 276 248 160 148 128 - Moves: 10 Sludge Bomb, 15 Will-O-Wisp, 15 Shadow Ball, 20 SmokeScreen
+WEEZING　used<FE>WILLーOーWISP！
+Foe　METAGROSS　was　burned！
+Foe\'s　LIGHT　SCREEN<FE>wore　off！
+Foe　METAGROSS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Metagross Lv100 HP 250/301 - 382 296 203 258 218 - Moves: 9 Meteor Mash, 19 Aerial Ace, 18 Facade, 29 Light Screen
+Foe　METAGROSS　is　hurt<FE>by　its　burn！
+Battler 1 info: Metagross Lv100 HP 213/301 - 382 296 203 258 218 - Moves: 9 Meteor Mash, 19 Aerial Ace, 18 Facade, 29 Light Screen
+What　will<FE>WEEZING　do？
+SHADOW　BALL
+SMOKESCREEN
+TYPE/<FC>かあFIRE
+TYPE/<FC>かあPOISON
+TYPE/<FC>かあGHOST
+Foe　METAGROSS　used<FE>FACADE！
+Battler 0 info: Weezing Lv100 HP 127/306 - 276 248 160 148 128 - Moves: 10 Sludge Bomb, 14 Will-O-Wisp, 15 Shadow Ball, 20 SmokeScreen
+WEEZING　used<FE>SHADOW　BALL！
+Battler 1 info: Metagross Lv100 HP 149/301 - 382 296 203 258 218 - Moves: 9 Meteor Mash, 19 Aerial Ace, 17 Facade, 29 Light Screen
+Foe　METAGROSS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Metagross Lv100 HP 167/301 - 382 296 203 258 218 - Moves: 9 Meteor Mash, 19 Aerial Ace, 17 Facade, 29 Light Screen
+Foe　METAGROSS　is　hurt<FE>by　its　burn！
+Battler 1 info: Metagross Lv100 HP 130/301 - 382 296 203 258 218 - Moves: 9 Meteor Mash, 19 Aerial Ace, 17 Facade, 29 Light Screen
+What　will<FE>WEEZING　do？
+SHADOW　BALL
+SMOKESCREEN
+TYPE/<FC>かあGHOST
+Foe　METAGROSS　used<FE>METEOR　MASH！
+Battler 0 info: Weezing Lv100 HP 40/306 - 276 248 160 148 128 - Moves: 10 Sludge Bomb, 14 Will-O-Wisp, 14 Shadow Ball, 20 SmokeScreen
+WEEZING　used<FE>SHADOW　BALL！
+Battler 1 info: Metagross Lv100 HP 71/301 - 382 296 203 258 218 - Moves: 8 Meteor Mash, 19 Aerial Ace, 17 Facade, 29 Light Screen
+Foe　METAGROSS\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Metagross Lv100 HP 89/301 - 382 296 203 258 218 - Moves: 8 Meteor Mash, 19 Aerial Ace, 17 Facade, 29 Light Screen
+Foe　METAGROSS　is　hurt<FE>by　its　burn！
+Battler 1 info: Metagross Lv100 HP 52/301 - 382 296 203 258 218 - Moves: 8 Meteor Mash, 19 Aerial Ace, 17 Facade, 29 Light Screen
+What　will<FE>OSS　is　hurt<FE>by　its　burn！
+What　will<FE>WEEZING　do？
+SHADOW　BALL
+PP　
+TYPE/<FC>かあGHOST
+Foe　METAGROSS　used<FE>LIGHT　SCREEN！
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF！
+WEEZING　used<FE>SHADOW　BALL！
+Battler 1 info: Metagross Lv100 HP 0/301 - 382 296 203 258 218 - Moves: 8 Meteor Mash, 19 Aerial Ace, 17 Facade, 28 Light Screen
+Foe　METAGROSS<FE>fainted！<FB>
+Battler 1 info: Xatu Lv100 HP 313/313 - 228 176 268 176 226 - Moves: 20 Drill Peck, 15 Night Shade, 10 Wish, 15 Future Sight
+BEAUTY　AMELIA　sent<FE>out　XATU！
+<FC>いいXATU<FC>あこ♀
+What　will<FE>WEEZING　do？
+SHADOW　BALL
+PP　
+TYPE/<FC>かあGHOST
+TYPE/<FC>かあPOISON
+Foe　XATU　used<FE>FUTURE　SIGHT！
+Foe　XATU　foresaw<FE>an　attack！
+WEEZING　used<FE>SLUDGE　BOMB！
+Battler 1 info: Xatu Lv100 HP 148/313 - 228 176 268 176 226 - Moves: 20 Drill Peck, 15 Night Shade, 10 Wish, 14 Future Sight
+What　will<FE>WEEZING　do？
+SHADOW　BALL
+SMOKESCREEN
+TYPE/<FC>かあPOISON
+Foe　XATU　used<FE>DRILL　PECK！
+Battler 0 info: Weezing Lv100 HP 0/306 - 276 248 160 148 128 - Moves: 9 Sludge Bomb, 14 Will-O-Wisp, 12 Shadow Ball, 20 SmokeScreen
+WEEZING<FE>fainted！<FB>
+<FC>いいWEEZING<FC>あさ♂
+<FC>いいXATU<FC>あこ♀
+Battler 0 info: Milotic Lv100 HP 345/345 - 115 208 275 258 170 - Moves: 4 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+Do　it！　MILOTIC！
+<FC>いいMILOTIC<FC>あさ♂
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ4/ラ5
+TYPE/<FC>かあWATER
+TYPE/<FC>かあICE
+Foe　XATU　used<FE>DRILL　PECK！
+Battler 0 info: Milotic Lv100 HP 235/345 - 115 208 275 258 170 - Moves: 4 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Xatu Lv100 HP 78/313 - 228 176 268 176 226 - Moves: 18 Drill Peck, 15 Night Shade, 10 Wish, 14 Future Sight
+It\'s　super　effective！
+Foe　XATU\'s　SPEED<FE>fell！
+MILOTIC　took　the<FE>FUTURE　SIGHT　attack！
+Battler 0 info: Milotic Lv100 HP 127/345 - 115 208 275 258 170 - Moves: 4 Hydro Pump, 14 Icy Wind, 20 Recover, 20 Mirror Coat
+What　will<FE>MILOTIC　do？
+RECOVER
+14/15
+TYPE/<FC>かあICE
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Xatu Lv100 HP 0/313 - 228 176 268 176 226 - Moves: 18 Drill Peck, 15 Night Shade, 10 Wish, 14 Future Sight
+A　critical　hit！
+It\'s　super　effective！
+Foe　XATU<FE>fainted！<FB>
+Battler 1 info: Machamp Lv100 HP 384/384 - 394 196 149 206 146 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+BEAUTY　AMELIA　sent<FE>out　MACHAMP！
+<FC>いいMACHAMP<FC>あこ♀
+Foe\'s　LIGHT　SCREEN<FE>wore　off！
+What　will<FE>MILOTIC　do？
+RECOVER
+13/15
+TYPE/<FC>かあICE
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Machamp Lv100 HP 327/384 - 394 196 149 206 146 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+Foe　MACHAMP\'s　SPEED<FE>fell！
+Foe　MACHAMP　used<FE>SCARY　FACE！
+MILOTIC\'s　SPEED<FE>harshly　fell！
+What　will<FE>MILOTIC　do？
+RECOVER
+12/15
+TYPE/<FC>かあICE
+TYPE/<FC>かあWATER
+Foe　MACHAMP　used<FE>ROCK　SLIDE！
+Battler 0 info: Milotic Lv100 HP 14/345 - 115 208 275 258 170 - Moves: 4 Hydro Pump, 12 Icy Wind, 20 Recover, 20 Mirror Coat
+MILOTIC　used<FE>HYDRO　PUMP！
+Battler 1 info: Machamp Lv100 HP 150/384 - 394 196 149 206 146 - Moves: 5 Cross Chop, 9 Rock Slide, 20 Counter, 9 Scary Face
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ3/ラ5
+TYPE/<FC>かあWATER
+Foe　MACHAMP　used<FE>SCARY　FACE！
+Foe　MACHAMP\'s<FE>attack　missed！
+MILOTIC　used<FE>HYDRO　PUMP！
+Battler 1 info: Machamp Lv100 HP 0/384 - 394 196 149 206 146 - Moves: 5 Cross Chop, 9 Rock Slide, 20 Counter, 8 Scary Face
+Foe　MACHAMP<FE>fainted！<FB>
+Player　defeated<FE>BEAUTY　AMELIA！<FB>
+THAT　WAS　AWFUL　！<FE>I　AM　GOING　HOME<FC>け
+<FC>いいMILOTIC<FC>あさ♂
+<FC>いいMEGANIUM<FC>あさ♂
+Battler 0 info: Milotic Lv100 HP 345/345 - 115 208 275 258 170 - Moves: 5 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+Battler 1 info: Meganium Lv100 HP 364/364 - 180 236 291 236 196 - Moves: 10 SolarBeam, 5 Sunny Day, 30 Light Screen, 5 Synthesis
+POKひFAN　AMANDA<FE>would　like　to　battle！<FB>
+POKひFAN　AMANDA　sent<FE>out　MEGANIUM！
+<FC>いいMEGANIUM<FC>あさ♂
+Go！　MILOTIC！
+<FC>いいMILOTIC<FC>あさ♂
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ5/ラ5
+TYPE/<FC>かあWATER
+TYPE/<FC>かあICE
+Foe　MEGANIUM　used<FE>LIGHT　SCREEN！
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF！
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Meganium Lv100 HP 316/364 - 180 236 291 236 196 - Moves: 10 SolarBeam, 5 Sunny Day, 29 Light Screen, 5 Synthesis
+It\'s　super　effective！
+Foe　MEGANIUM\'s　SPEED<FE>fell！
+What　will<FE>MILOTIC　do？
+RECOVER
+14/15
+TYPE/<FC>かあICE
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Meganium Lv100 HP 96/364 - 180 236 291 236 196 - Moves: 10 SolarBeam, 5 Sunny Day, 29 Light Screen, 5 Synthesis
+A　critical　hit！
+It\'s　super　effective！
+Foe　MEGANIUM\'s　SPEED<FE>fell！
+Foe　MEGANIUM　took<FE>in　sunlight！
+What　will<FE>MILOTIC　do？
+RECOVER
+13/15
+TYPE/<FC>かあICE
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Meganium Lv100 HP 47/364 - 180 236 291 236 196 - Moves: 9 SolarBeam, 5 Sunny Day, 29 Light Screen, 5 Synthesis
+It\'s　super　effective！
+Foe　MEGANIUM\'s　SPEED<FE>fell！
+Foe　MEGANIUM　used<FE>SOLARBEAM！
+Battler 0 info: Milotic Lv100 HP 0/345 - 115 208 275 258 170 - Moves: 5 Hydro Pump, 12 Icy Wind, 20 Recover, 20 Mirror Coat
+It\'s　super　effective！
+MILOTIC<FE>fainted！<FB>
+<FC>いいMILOTIC<FC>あさ♂
+<FC>いいMEGANIUM<FC>あさ♂
+Battler 0 info: Weezing Lv100 HP 306/306 - 276 248 160 148 128 - Moves: 10 Sludge Bomb, 15 Will-O-Wisp, 15 Shadow Ball, 20 SmokeScreen
+Go　for　it,　WEEZING！
+<FC>いいWEEZING<FC>あさ♂
+What　will<FE>WEEZING　do？
+SHADOW　BALL
+SMOKESCREEN
+TYPE/<FC>かあPOISON
+WEEZING　used<FE>SLUDGE　BOMB！
+Battler 1 info: Meganium Lv100 HP 0/364 - 180 236 291 236 196 - Moves: 9 SolarBeam, 5 Sunny Day, 29 Light Screen, 5 Synthesis
+It\'s　super　effective！
+Foe　MEGANIUM<FE>fainted！<FB>
+Battler 1 info: Venusaur Lv100 HP 364/364 - 200 202 328 236 176 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+POKひFAN　AMANDA　sent<FE>out　VENUSAUR！
+<FC>いいVENUSAUR<FC>あさ♂
+What　will<FE>WEEZING　do？
+WILLーOーWISP
+SMOKESCREEN
+TYPE/<FC>かあPOISON
+Foe　VENUSAUR　used<FE>GIGA　DRAIN！
+Battler 0 info: Weezing Lv100 HP 229/306 - 276 248 160 148 128 - Moves: 9 Sludge Bomb, 15 Will-O-Wisp, 15 Shadow Ball, 20 SmokeScreen
+It\'s　not　very　effective⋯
+WEEZING　had　its<FE>energy　drained！
+WEEZING　used<FE>SLUDGE　BOMB！
+Battler 1 info: Venusaur Lv100 HP 209/364 - 200 202 328 236 176 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Foe\'s　LIGHT　SCREEN<FE>wore　off！
+What　will<FE>WEEZING　do？
+WILLーOーWISP
+SMOKESCREEN
+TYPE/<FC>かあPOISON
+Foe　VENUSAUR　used<FE>SUNNY　DAY！
+The　sunlight　got　bright！
+WEEZING　used<FE>SLUDGE　BOMB！
+Battler 1 info: Venusaur Lv100 HP 54/364 - 200 202 328 236 176 - Moves: 4 Giga Drain, 4 Sunny Day, 5 Synthesis, 15 Sleep Powder
+The　sunlight　is　strong。
+What　will<FE>WEEZING　do？
+SHADOW　BALL
+SMOKESCREEN
+TYPE/<FC>かあPOISON
+Foe　VENUSAUR　used<FE>GIGA　DRAIN！
+Battler 0 info: Weezing Lv100 HP 121/306 - 276 248 160 148 128 - Moves: 7 Sludge Bomb, 15 Will-O-Wisp, 15 Shadow Ball, 20 SmokeScreen
+It\'s　not　very　effective⋯
+Battler 1 info: Venusaur Lv100 HP 108/364 - 200 202 328 236 176 - Moves: 3 Giga Drain, 4 Sunny Day, 5 Synthesis, 15 Sleep Powder
+WEEZING　had　its<FE>energy　drained！
+WEEZING　used<FE>SLUDGE　BOMB！
+Battler 1 info: Venusaur Lv100 HP 0/364 - 200 202 328 236 176 - Moves: 3 Giga Drain, 4 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Foe　VENUSAUR<FE>fainted！<FB>
+Battler 1 info: Slowbro Lv100 HP 394/394 - 186 256 259 259 86 - Moves: 15 Surf, 5 Rain Dance, 15 Headbutt, 15 Ice Punch
+POKひFAN　AMANDA　sent<FE>out　SLOWBRO！
+<FC>いいSLOWBRO<FC>あこ♀
+The　sunlight　is　strong。
+What　will<FE>WEEZING　do？
+SHADOW　BALL
+SMOKESCREEN
+TYPE/<FC>かあPOISON
+WEEZING　used<FE>SLUDGE　BOMB！
+Battler 1 info: Slowbro Lv100 HP 282/394 - 186 256 259 259 86 - Moves: 15 Surf, 5 Rain Dance, 15 Headbutt, 15 Ice Punch
+Foe　SLOWBRO　used<FE>RAIN　DANCE！
+It　started　to　rain！
+Rain　continues　to　fall。
+What　will<FE>WEEZING　do？
+WILLーOーWISP
+SMOKESCREEN
+TYPE/<FC>かあPOISON
+TYPE/<FC>かあGHOST
+WEEZING　used<FE>SHADOW　BALL！
+Battler 1 info: Slowbro Lv100 HP 148/394 - 186 256 259 259 86 - Moves: 15 Surf, 4 Rain Dance, 15 Headbutt, 15 Ice Punch
+It\'s　super　effective！
+Foe　SLOWBRO\'s　SP。　DEF<FE>fell！
+Foe　SLOWBRO　used<FE>ICE　PUNCH！
+Battler 0 info: Weezing Lv100 HP 12/306 - 276 248 160 148 128 - Moves: 5 Sludge Bomb, 15 Will-O-Wisp, 14 Shadow Ball, 20 SmokeScreen
+Foe　SLOWBRO\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 1 info: Slowbro Lv100 HP 161/394 - 186 256 259 259 86 - Moves: 15 Surf, 4 Rain Dance, 15 Headbutt, 14 Ice Punch
+Rain　continues　to　fall。
+What　will<FE>WEEZING　do？
+WILLーOーWISP
+SMOKESCREEN
+TYPE/<FC>かあGHOST
+WEEZING　used<FE>SHADOW　BALL！
+Battler 1 info: Slowbro Lv100 HP 30/394 - 186 256 259 259 86 - Moves: 15 Surf, 4 Rain Dance, 15 Headbutt, 14 Ice Punch
+It\'s　super　effective！
+Foe　SLOWBRO　used<FE>HEADBUTT！
+Battler 0 info: Weezing Lv100 HP 0/306 - 276 248 160 148 128 - Moves: 5 Sludge Bomb, 15 Will-O-Wisp, 13 Shadow Ball, 20 SmokeScreen
+WEEZING<FE>fainted！<FB>
+Foe　SLOWBRO\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 1 info: Slowbro Lv100 HP 31/394 - 186 256 259 259 86 - Moves: 15 Surf, 4 Rain Dance, 14 Headbutt, 14 Ice Punch
+<FC>いいWEEZING<FC>あさ♂
+<FC>いいSLOWBRO<FC>あこ♀
+Battler 0 info: Ludicolo Lv100 HP 315/315 - 148 190 253 208 133 - Moves: 15 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+Your　foe\'s　weak！<FE>Get　\'em,　LUDICOLO！
+<FC>いいLUDICOLO<FC>あさ♂
+Rain　continues　to　fall。
+What　will<FE>LUDICOLO　do？
+THUNDERPUNCH
+15/15
+TYPE/<FC>かあWATER
+LUDICOLO　used<FE>SURF！
+Battler 1 info: Slowbro Lv100 HP 0/394 - 186 256 259 259 86 - Moves: 15 Surf, 4 Rain Dance, 14 Headbutt, 14 Ice Punch
+It\'s　not　very　effective⋯
+Foe　SLOWBRO<FE>fainted！<FB>
+Player　defeated<FE>POKひFAN　AMANDA！<FB>
+I　WANT　TO<FE>GO　HOME　RIGHT　NOW<FC>け
+<FC>いいMILOTIC
+<FC>いいMILOTIC<FC>あさ♂
+<FC>いいAMPHAROS<FC>あさ♂
+Battler 0 info: Milotic Lv100 HP 345/345 - 115 208 275 258 170 - Moves: 5 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+Battler 1 info: Ampharos Lv100 HP 384/384 - 186 204 329 216 131 - Moves: 10 Thunder, 5 Rain Dance, 20 Thunder Wave, 15 Attract
+BEAUTY　LIZBETH<FE>would　like　to　battle！<FB>
+BEAUTY　LIZBETH　sent<FE>out　AMPHAROS！
+<FC>いいAMPHAROS<FC>あさ♂
+Go！　MILOTIC！
+<FC>いいMILOTIC<FC>あさ♂
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ5/ラ5
+TYPE/<FC>かあWATER
+TYPE/<FC>かあICE
+TYPE/<FC>かあWATER
+MILOTIC　used<FE>HYDRO　PUMP！
+Battler 1 info: Ampharos Lv100 HP 213/384 - 186 204 329 216 131 - Moves: 10 Thunder, 5 Rain Dance, 20 Thunder Wave, 15 Attract
+Foe　AMPHAROS　used<FE>RAIN　DANCE！
+It　started　to　rain！
+Rain　continues　to　fall。
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ4/ラ5
+TYPE/<FC>かあWATER
+MILOTIC　used<FE>HYDRO　PUMP！
+MILOTIC\'s<FE>attack　missed！
+Foe　AMPHAROS　used<FE>ATTRACT！
+But　it　failed！
+Rain　continues　to　fall。
+What　will<FE>MILOTIC　do？l。
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ3/ラ5
+TYPE/<FC>かあWATER
+MILOTIC　used<FE>HYDRO　PUMP！
+Battler 1 info: Ampharos Lv100 HP 0/384 - 186 204 329 216 131 - Moves: 10 Thunder, 4 Rain Dance, 20 Thunder Wave, 14 Attract
+Foe　AMPHAROS<FE>fainted！<FB>
+Battler 1 info: Nidoking Lv100 HP 366/366 - 311 190 185 186 206 - Moves: 5 Horn Drill, 30 Double Kick, 15 Body Slam, 20 Counter
+BEAUTY　LIZBETH　sent<FE>out　NIDOKING！
+<FC>いいNIDOKING<FC>あさ♂
+Rain　continues　to　fall。
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ2/ラ5
+TYPE/<FC>かあWATER
+Foe　NIDOKING　used<FE>BODY　SLAM！
+Battler 0 info: Milotic Lv100 HP 246/345 - 115 208 275 258 170 - Moves: 2 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+MILOTIC　is　paralyzed！<FE>It　may　be　unable　to　move！
+MILOTIC\'s　LUM　BERRY<FE>cured　its　paralysis　problem！
+MILOTIC　used<FE>HYDRO　PUMP！
+Battler 1 info: Nidoking Lv100 HP 0/366 - 311 190 185 186 206 - Moves: 5 Horn Drill, 30 Double Kick, 14 Body Slam, 20 Counter
+It\'s　super　effective！
+Foe　NIDOKING<FE>fainted！<FB>
+Battler 1 info: Tauros Lv100 HP 291/291 - 328 226 104 176 319 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 20 Facade
+BEAUTY　LIZBETH　sent<FE>out　TAUROS！
+<FC>いいTAUROS<FC>あさ♂
+Foe　TAUROS\'s　INTIMIDATE<FE>cuts　MILOTIC\'s　ATTACK！
+Rain　continues　to　fall。
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ1/ラ5
+TYPE/<FC>かあWATER
+Foe　TAUROS　used<FE>FACADE！
+Battler 0 info: Milotic Lv100 HP 118/345 - 115 208 275 258 170 - Moves: 1 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+MILOTIC　used<FE>HYDRO　PUMP！
+Battler 1 info: Tauros Lv100 HP 0/291 - 328 226 104 176 319 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 19 Facade
+Foe　TAUROS<FE>fainted！<FB>
+Player　defeated<FE>BEAUTY　LIZBETH！<FB>
+YOUR　PRESENT　？！<FE>HERE　IT　IS　A　DOUBLESLAP<FC>け
+<FC>いいMILOTIC
+<FC>いいMILOTIC<FC>あさ♂
+<FC>いいFLAREON<FC>あさ♂
+Battler 0 info: Milotic Lv100 HP 345/345 - 115 208 275 258 170 - Moves: 5 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+Battler 1 info: Flareon Lv100 HP 271/271 - 266 219 317 256 166 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+KINDLER　MARLON<FE>would　like　to　battle！<FB>
+KINDLER　MARLON　sent<FE>out　FLAREON！
+<FC>いいFLAREON<FC>あさ♂
+Go！　MILOTIC！
+<FC>いいMILOTIC<FC>あさ♂
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ5/ラ5
+TYPE/<FC>かあWATER
+MILOTIC　used<FE>HYDRO　PUMP！
+MILOTIC\'s<FE>attack　missed！
+Foe　FLAREON　used<FE>SANDーATTACK！
+MILOTIC\'s　accuracy<FE>fell！
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ4/ラ5
+TYPE/<FC>かあWATER
+MILOTIC　used<FE>HYDRO　PUMP！
+MILOTIC\'s<FE>attack　missed！
+Foe　FLAREON　used<FE>BITE！
+Battler 0 info: Milotic Lv100 HP 228/345 - 115 208 275 258 170 - Moves: 3 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+A　critical　hit！
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ3/ラ5
+TYPE/<FC>かあWATER
+MILOTIC　used<FE>HYDRO　PUMP！
+Battler 1 info: Flareon Lv100 HP 0/271 - 266 219 317 256 166 - Moves: 15 Flamethrower, 20 Roar, 24 Bite, 14 Sand-Attack
+It\'s　super　effective！
+Foe　FLAREON<FE>fainted！<FB>
+Battler 1 info: Misdreavus Lv100 HP 324/324 - 156 240 185 206 206 - Moves: 20 Pain Split, 15 Shadow Ball, 10 Confuse Ray, 20 Thunder Wave
+KINDLER　MARLON　sent<FE>out　MISDREAVUS！
+<FC>いいMISDREAVUS<FC>あこ♀
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ2/ラ5
+TYPE/<FC>かあWATER
+Foe　MISDREAVUS　used<FE>CONFUSE　RAY！
+MILOTIC　became<FE>confused！
+MILOTIC\'s　LUM　BERRY<FE>cured　its　confusion　problem！
+MILOTIC　used<FE>HYDRO　PUMP！
+Battler 1 info: Misdreavus Lv100 HP 133/324 - 156 240 185 206 206 - Moves: 20 Pain Split, 15 Shadow Ball, 9 Confuse Ray, 20 Thunder Wave
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ1/ラ5
+TYPE/<FC>かあWATER
+Foe　MISDREAVUS　used<FE>SHADOW　BALL！
+Battler 0 info: Milotic Lv100 HP 160/345 - 115 208 275 258 170 - Moves: 1 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+MILOTIC\'s　SP。　DEF<FE>fell！
+MILOTIC　used<FE>HYDRO　PUMP！
+Battler 1 info: Misdreavus Lv100 HP 0/324 - 156 240 185 206 206 - Moves: 20 Pain Split, 14 Shadow Ball, 9 Confuse Ray, 20 Thunder Wave
+Foe　MISDREAVUS<FE>fainted！<FB>
+Battler 1 info: Lanturn Lv100 HP 391/391 - 152 215 276 188 153 - Moves: 15 Surf, 10 Confuse Ray, 15 Attract, 20 Thunder Wave
+KINDLER　MARLON　sent<FE>out　LANTURN！
+<FC>いいLANTURN<FC>あこ♀
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ0/ラ5
+TYPE/<FC>かあWATER
+TYPE/<FC>かあICE
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Lanturn Lv100 HP 361/391 - 152 215 276 188 153 - Moves: 15 Surf, 10 Confuse Ray, 15 Attract, 20 Thunder Wave
+It\'s　not　very　effective⋯
+Foe　LANTURN\'s　SPEED<FE>fell！
+Foe　LANTURN　used<FE>THUNDER　WAVE！
+MILOTIC　is　paralyzed！<FE>It　may　be　unable　to　move！
+What　will<FE>MILOTIC　do？
+RECOVER
+14/15
+TYPE/<FC>かあICE
+Foe　LANTURN　used<FE>THUNDER　WAVE！
+MILOTIC　is<FE>already　paralyzed！
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Lanturn Lv100 HP 329/391 - 152 215 276 188 153 - Moves: 15 Surf, 10 Confuse Ray, 15 Attract, 18 Thunder Wave
+It\'s　not　very　effective⋯
+Foe　LANTURN\'s　SPEED<FE>fell！
+What　will<FE>MILOTIC　do？
+RECOVER
+13/15
+TYPE/<FC>かあICE
+Foe　LANTURN　used<FE>CONFUSE　RAY！
+MILOTIC　became<FE>confused！
+MILOTIC　is<FE>confused！
+MILOTIC　used<FE>ICY　WIND！
+MILOTIC\'s<FE>attack　missed！
+What　will<FE>MILOTIC　do？
+RECOVER
+12/15
+TYPE/<FC>かあICE
+Foe　LANTURN　used<FE>CONFUSE　RAY！
+MILOTIC　is<FE>already　confused！
+MILOTIC　is<FE>confused！
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Lanturn Lv100 HP 299/391 - 152 215 276 188 153 - Moves: 15 Surf, 8 Confuse Ray, 15 Attract, 18 Thunder Wave
+It\'s　not　very　effective⋯
+Foe　LANTURN\'s　SPEED<FE>fell！
+What　will<FE>MILOTIC　do？
+RECOVER
+11/15
+TYPE/<FC>かあICE
+Foe　LANTURN　used<FE>ATTRACT！
+MILOTIC<FE>fell　in　love！
+MILOTIC　is<FE>confused！
+MILOTIC　is　in　love<FE>with　Foe　LANTURN！
+MILOTIC　used<FE>ICY　WIND！
+Battler 1 info: Lanturn Lv100 HP 265/391 - 152 215 276 188 153 - Moves: 15 Surf, 8 Confuse Ray, 14 Attract, 18 Thunder Wave
+It\'s　not　very　effective⋯
+Foe　LANTURN\'s　SPEED<FE>fell！
+What　will<FE>N\'s　SPEED<FE>fell！
+What　will<FE>MILOTIC　do？
+<FC>いいMILOTIC<FC>あさ♂
+<FC>いいLANTURN<FC>あこ♀
+MILOTIC,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Weezing Lv100 HP 306/306 - 276 248 160 148 128 - Moves: 10 Sludge Bomb, 15 Will-O-Wisp, 15 Shadow Ball, 20 SmokeScreen
+Do　it！　WEEZING！
+<FC>いいWEEZING<FC>あさ♂
+Foe　LANTURN　used<FE>CONFUSE　RAY！
+Foe　LANTURN\'s<FE>attack　missed！
+What　will<FE>WEEZING　do？
+WILLーOーWISP
+PP　
+TYPE/<FC>かあPOISON
+WEEZING　used<FE>SLUDGE　BOMB！
+Battler 1 info: Lanturn Lv100 HP 137/391 - 152 215 276 188 153 - Moves: 15 Surf, 7 Confuse Ray, 14 Attract, 18 Thunder Wave
+Foe　LANTURN<FE>was　poisoned！
+Foe　LANTURN　used<FE>ATTRACT！
+WEEZING<FE>fell　in　love！
+Foe　LANTURN　is　hurt<FE>by　poison！
+Battler 1 info: Lanturn Lv100 HP 89/391 - 152 215 276 188 153 - Moves: 15 Surf, 7 Confuse Ray, 13 Attract, 18 Thunder Wave
+What　will<FE>WEEZING　do？
+SHADOW　BALL
+PP　
+TYPE/<FC>かあPOISON
+WEEZING　is　in　love<FE>with　Foe　LANTURN！
+WEEZING　is<FE>immobilized　by　love！
+Foe　LANTURN　used<FE>ATTRACT！
+But　it　failed！
+Foe　LANTURN　is　hurt<FE>by　poison！
+Battler 1 info: Lanturn Lv100 HP 41/391 - 152 215 276 188 153 - Moves: 15 Surf, 7 Confuse Ray, 12 Attract, 18 Thunder Wave
+What　will<FE>WEEZING　do？
+SHADOW　BALL
+SMOKESCREEN
+TYPE/<FC>かあPOISON
+WEEZING　is　in　love<FE>with　Foe　LANTURN！
+WEEZING　used<FE>SLUDGE　BOMB！
+Battler 1 info: Lanturn Lv100 HP 0/391 - 152 215 276 188 153 - Moves: 15 Surf, 7 Confuse Ray, 12 Attract, 18 Thunder Wave
+Foe　LANTURN<FE>fainted！<FB>
+Player　defeated<FE>KINDLER　MARLON！<FB>
+IT\'S　NOT　？<FE>IS　POKひNAV　？<FC>け
+<FC>いいMILOTIC<FC>あさ♂
+<FC>いいARCANINE<FC>あさ♂
+Battler 0 info: Milotic Lv100 HP 345/345 - 115 208 275 258 170 - Moves: 5 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+Battler 1 info: Arcanine Lv100 HP 321/321 - 350 196 212 196 289 - Moves: 15 Flamethrower, 5 ExtremeSpeed, 15 Crunch, 15 Body Slam
+TRIATHLETE　DAVE<FE>would　like　to　battle！<FB>
+TRIATHLETE　DAVE　sent<FE>out　ARCANINE！
+<FC>いいARCANINE<FC>あさ♂
+Go！　MILOTIC！
+<FC>いいMILOTIC<FC>あさ♂
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ5/ラ5
+TYPE/<FC>かあWATER
+Foe　ARCANINE　used<FE>BODY　SLAM！
+Battler 0 info: Milotic Lv100 HP 231/345 - 115 208 275 258 170 - Moves: 5 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+MILOTIC　is　paralyzed！<FE>It　may　be　unable　to　move！
+MILOTIC\'s　LUM　BERRY<FE>cured　its　paralysis　problem！
+MILOTIC　used<FE>HYDRO　PUMP！
+MILOTIC\'s<FE>attack　missed！
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ4/ラ5
+TYPE/<FC>かあWATER
+Foe　ARCANINE　used<FE>FLAMETHROWER！
+Battler 0 info: Milotic Lv100 HP 187/345 - 115 208 275 258 170 - Moves: 4 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+It\'s　not　very　effective⋯
+MILOTIC　used<FE>HYDRO　PUMP！
+MILOTIC\'s<FE>attack　missed！
+What　will<FE>MILOTIC　do？
+RECOVER
+ラ3/ラ5
+TYPE/<FC>かあWATER
+Foe　ARCANINE　used<FE>EXTREMESPEED！
+Battler 0 info: Milotic Lv100 HP 0/345 - 115 208 275 258 170 - Moves: 3 Hydro Pump, 15 Icy Wind, 20 Recover, 20 Mirror Coat
+A　critical　hit！
+MILOTIC<FE>fainted！<FB>
+<FC>いいMILOTIC<FC>あさ♂
+<FC>いいARCANINE<FC>あさ♂
+Battler 0 info: Ludicolo Lv100 HP 315/315 - 148 190 253 208 133 - Moves: 15 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+Go！　LUDICOLO！
+<FC>いいLUDICOLO<FC>あさ♂
+What　will<FE>LUDICOLO　do？
+THUNDERPUNCH
+15/15
+TYPE/<FC>かあWATER
+Foe　ARCANINE　used<FE>FLAMETHROWER！
+Battler 0 info: Ludicolo Lv100 HP 194/315 - 148 190 253 208 133 - Moves: 15 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+LUDICOLO　used<FE>SURF！
+Battler 1 info: Arcanine Lv100 HP 55/321 - 350 196 212 196 289 - Moves: 13 Flamethrower, 4 ExtremeSpeed, 15 Crunch, 14 Body Slam
+It\'s　super　effective！
+LUDICOLO\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Ludicolo Lv100 HP 227/315 - 148 190 253 208 133 - Moves: 14 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+What　will<FE>LUDICOLO　do？
+THUNDERPUNCH
+14/15
+TYPE/<FC>かあWATER
+Foe　ARCANINE　used<FE>FLAMETHROWER！
+Battler 0 info: Ludicolo Lv100 HP 108/315 - 148 190 253 208 133 - Moves: 14 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+LUDICOLO　used<FE>SURF！
+Battler 1 info: Arcanine Lv100 HP 0/321 - 350 196 212 196 289 - Moves: 12 Flamethrower, 4 ExtremeSpeed, 15 Crunch, 14 Body Slam
+It\'s　super　effective！
+Foe　ARCANINE<FE>fainted！<FB>
+LUDICOLO\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Ludicolo Lv100 HP 114/315 - 148 190 253 208 133 - Moves: 13 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+Battler 1 info: Alakazam Lv100 HP 251/251 - 122 189 405 206 276 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Thunder Wave
+TRIATHLETE　DAVE　sent<FE>out　ALAKAZAM！
+<FC>いいALAKAZAM<FC>あさ♂
+What　will<FE>LUDICOLO　do？
+THUNDERPUNCH
+13/15
+TYPE/<FC>かあWATER
+Foe　ALAKAZAM　used<FE>THUNDER　WAVE！
+LUDICOLO　is　paralyzed！<FE>It　may　be　unable　to　move！
+LUDICOLO　used<FE>SURF！
+Battler 1 info: Alakazam Lv100 HP 0/251 - 122 189 405 206 276 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 19 Thunder Wave
+A　critical　hit！
+Foe　ALAKAZAM<FE>fainted！<FB>
+LUDICOLO\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Ludicolo Lv100 HP 145/315 - 148 190 253 208 133 - Moves: 12 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+Battler 1 info: Machamp Lv100 HP 384/384 - 394 196 149 206 146 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+TRIATHLETE　DAVE　sent<FE>out　MACHAMP！
+<FC>いいMACHAMP<FC>あさ♂
+What　will<FE>LUDICOLO　do？
+THUNDERPUNCH
+12/15
+TYPE/<FC>かあWATER
+LUDICOLO　used<FE>SURF！
+Battler 1 info: Machamp Lv100 HP 237/384 - 394 196 149 206 146 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Scary Face
+LUDICOLO\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Ludicolo Lv100 HP 163/315 - 148 190 253 208 133 - Moves: 11 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+Foe　MACHAMP　used<FE>COUNTER！
+But　it　failed！
+What　will<FE>LUDICOLO　do？
+THUNDERPUNCH
+11/15
+TYPE/<FC>かあWATER
+LUDICOLO　used<FE>SURF！
+Battler 1 info: Machamp Lv100 HP 98/384 - 394 196 149 206 146 - Moves: 5 Cross Chop, 10 Rock Slide, 19 Counter, 10 Scary Face
+LUDICOLO\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Ludicolo Lv100 HP 180/315 - 148 190 253 208 133 - Moves: 10 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+Foe　MACHAMP　used<FE>COUNTER！
+But　it　failed！
+What　will<FE>LUDICOLO　do？
+THUNDERPUNCH
+10/15
+TYPE/<FC>かあWATER
+Foe　MACHAMP　used<FE>ROCK　SLIDE！
+Battler 0 info: Ludicolo Lv100 HP 66/315 - 148 190 253 208 133 - Moves: 10 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+LUDICOLO　flinched！
+What　will<FE>LUDICOLO　do？
+THUNDERPUNCH
+10/15
+TYPE/<FC>かあWATER
+LUDICOLO　used<FE>SURF！
+Battler 1 info: Machamp Lv100 HP 0/384 - 394 196 149 206 146 - Moves: 5 Cross Chop, 9 Rock Slide, 18 Counter, 10 Scary Face
+Foe　MACHAMP<FE>fainted！<FB>
+LUDICOLO\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Ludicolo Lv100 HP 78/315 - 148 190 253 208 133 - Moves: 9 Surf, 5 Rain Dance, 15 ThunderPunch, 15 Fire Punch
+Player　defeated<FE>TRIATHLETE　DAVE！<FB>
+I　WILL　GO<FE>PLAY　A　GAME<FC>け
+<FC>いいLavaCookie
+<FC>いいLavaCookie<FC>あこ♀
+<FC>いいARCANINE<FC>あさ♂
+Battler 0 info: Latias Lv50 HP 153/153 - 80 106 178 139 160 - Moves: 16 Psychic, 24 Dragon Claw, 10 Ice Beam, 24 Thunderbolt
+Battler 1 info: Arcanine Lv50 HP 166/166 - 162 118 120 100 126 - Moves: 5 Overheat, 5 ExtremeSpeed, 20 Roar, 10 Protect
+PALACE　MAVEN　SPENSER<FE>would　like　to　battle！<FB>
+PALACE　MAVEN　SPENSER　sent<FE>out　ARCANINE！
+<FC>いいARCANINE<FC>あさ♂
+Go！　LavaCookie！
+<FC>いいLavaCookie<FC>あこ♀
+Foe　ARCANINE\'s　INTIMIDATE<FE>cuts　LavaCookie\'s　ATTACK！
+Foe　ARCANINE　used<FE>EXTREMESPEED！
+Battler 0 info: Latias Lv50 HP 101/153 - 80 106 178 139 160 - Moves: 16 Psychic, 24 Dragon Claw, 10 Ice Beam, 24 Thunderbolt
+LavaCookie　used<FE>PSYCHIC！
+Battler 1 info: Arcanine Lv50 HP 64/166 - 162 118 120 100 126 - Moves: 5 Overheat, 4 ExtremeSpeed, 20 Roar, 10 Protect
+A　glint　appears　in<FE>Foe　ARCANINE\'s　eyes！
+Foe　ARCANINE　used<FE>EXTREMESPEED！
+Battler 0 info: Latias Lv50 HP 54/153 - 80 106 178 139 160 - Moves: 15 Psychic, 24 Dragon Claw, 10 Ice Beam, 24 Thunderbolt
+LavaCookie　used<FE>DRAGON　CLAW！
+Battler 1 info: Arcanine Lv50 HP 0/166 - 162 118 120 100 126 - Moves: 5 Overheat, 3 ExtremeSpeed, 20 Roar, 10 Protect
+Foe　ARCANINE<FE>fainted！<FB>
+Battler 1 info: Slaking Lv50 HP 226/226 - 212 120 115 85 152 - Moves: 5 Hyper Beam, 10 Earthquake, 15 Shadow Ball, 10 Yawn
+PALACE　MAVEN　SPENSER　sent<FE>out　SLAKING！
+<FC>いいSLAKING<FC>あこ♀
+LavaCookie　is　getting　into<FE>position！
+LavaCookie　used<FE>PSYCHIC！
+Battler 1 info: Slaking Lv50 HP 100/226 - 212 120 115 85 152 - Moves: 5 Hyper Beam, 10 Earthquake, 15 Shadow Ball, 10 Yawn
+Foe　SLAKING　used<FE>YAWN！
+Foe　SLAKING　made<FE>LavaCookie　drowsy！
+Foe　SLAKING　is　eager　for　more！
+LavaCookie　used<FE>DRAGON　CLAW！
+Battler 1 info: Slaking Lv50 HP 1/226 - 212 120 115 85 152 - Moves: 5 Hyper Beam, 10 Earthquake, 15 Shadow Ball, 9 Yawn
+Foe　SLAKING　is<FE>loafing　around！
+LavaCookie<FE>fell　asleep！
+LavaCookie\'s　LUM　BERRY<FE>cured　its　sleep　problem！
+LavaCookie　used<FE>THUNDERBOLT！
+Battler 1 info: Slaking Lv50 HP 0/226 - 212 120 115 85 152 - Moves: 5 Hyper Beam, 10 Earthquake, 15 Shadow Ball, 9 Yawn
+Foe　SLAKING<FE>fainted！<FB>
+Battler 1 info: Suicune Lv50 HP 207/207 - 95 150 110 135 116 - Moves: 5 Blizzard, 15 Surf, 25 Bite, 20 Calm Mind
+PALACE　MAVEN　SPENSER　sent<FE>out　SUICUNE！
+<FC>いいSUICUNE<FC>あさ
+LavaCookie　used<FE>DRAGON　CLAW！
+Battler 1 info: Suicune Lv50 HP 146/207 - 95 150 110 135 116 - Moves: 5 Blizzard, 15 Surf, 25 Bite, 20 Calm Mind
+Foe　SUICUNE　appears　incapable<FE>of　using　its　power！
+LavaCookie　appears　incapable<FE>of　using　its　power！
+Foe　SUICUNE　used<FE>BLIZZARD！
+Battler 0 info: Latias Lv50 HP 0/153 - 80 106 178 139 160 - Moves: 14 Psychic, 20 Dragon Claw, 10 Ice Beam, 23 Thunderbolt
+It\'s　super　effective！
+LavaCookie<FE>fainted！<FB>
+Battler 0 info: Regice Lv50 HP 185/185 - 57 121 166 216 67 - Moves: 16 Ice Beam, 24 Thunderbolt, 0 nil, 0 nil
+Go！　Castlicone！
+<FC>いいCastlicone<FC>あさ
+Foe　SUICUNE　used<FE>CALM　MIND！
+Foe　SUICUNE\'s　SP。　ATK<FE>rose！
+Foe　SUICUNE\'s　SP。　DEF<FE>rose！
+Castlicone　appears　incapable<FE>of　using　its　power！
+Foe　SUICUNE　used<FE>CALM　MIND！
+Foe　SUICUNE\'s　SP。　ATK<FE>rose！
+Foe　SUICUNE\'s　SP。　DEF<FE>rose！
+Castlicone　appears　incapable<FE>of　using　its　power！
+Foe　SUICUNE　used<FE>SURF！
+Battler 0 info: Regice Lv50 HP 123/185 - 57 121 166 216 67 - Moves: 16 Ice Beam, 24 Thunderbolt, 0 nil, 0 nil
+Castlicone　used<FE>THUNDERBOLT！
+Battler 1 info: Suicune Lv50 HP 94/207 - 95 150 110 135 116 - Moves: 4 Blizzard, 14 Surf, 25 Bite, 18 Calm Mind
+It\'s　super　effective！
+Foe　SUICUNE　is　paralyzed！<FE>It　may　be　unable　to　move！
+Castlicone\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Regice Lv50 HP 134/185 - 57 121 166 216 67 - Moves: 16 Ice Beam, 22 Thunderbolt, 0 nil, 0 nil
+A　glint　appears　in<FE>Foe　SUICUNE\'s　eyes！
+Castlicone　appears　incapable<FE>of　using　its　power！
+Foe　SUICUNE　used<FE>SURF！
+Battler 0 info: Regice Lv50 HP 78/185 - 57 121 166 216 67 - Moves: 16 Ice Beam, 22 Thunderbolt, 0 nil, 0 nil
+Castlicone\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Regice Lv50 HP 89/185 - 57 121 166 216 67 - Moves: 16 Ice Beam, 22 Thunderbolt, 0 nil, 0 nil
+Castlicone　is　getting　into<FE>position！
+Castlicone　appears　incapable<FE>of　using　its　power！
+Foe　SUICUNE　used<FE>SURF！
+Battler 0 info: Regice Lv50 HP 33/185 - 57 121 166 216 67 - Moves: 16 Ice Beam, 22 Thunderbolt, 0 nil, 0 nil
+Castlicone\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Regice Lv50 HP 44/185 - 57 121 166 216 67 - Moves: 16 Ice Beam, 22 Thunderbolt, 0 nil, 0 nil
+Castlicone　used<FE>THUNDERBOLT！
+Battler 1 info: Suicune Lv50 HP 43/207 - 95 150 110 135 116 - Moves: 4 Blizzard, 12 Surf, 25 Bite, 18 Calm Mind
+It\'s　super　effective！
+Foe　SUICUNE　used<FE>SURF！
+Battler 0 info: Regice Lv50 HP 0/185 - 57 121 166 216 67 - Moves: 16 Ice Beam, 20 Thunderbolt, 0 nil, 0 nil
+Castlicone<FE>fainted！<FB>
+Battler 0 info: Slaking Lv50 HP 221/221 - 228 118 91 81 152 - Moves: 32 Return, 16 Earthquake, 24 Shadow Ball, 8 Hyper Beam
+Go　for　it,　RageCndyBr！
+<FC>いいRageCndyBr<FC>あさ♂
+RageCndyBr　used<FE>SHADOW　BALL！
+Battler 1 info: Suicune Lv50 HP 0/207 - 95 150 110 135 116 - Moves: 4 Blizzard, 11 Surf, 25 Bite, 18 Calm Mind
+Foe　SUICUNE<FE>fainted！<FB>
+Player　defeated<FE>PALACE　MAVEN　SPENSER！<FB>
+Gwah！<FE>Hahahaha！<FC>け

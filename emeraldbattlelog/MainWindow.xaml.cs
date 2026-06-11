@@ -9,12 +9,12 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
-using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace PokemonBattleLogger
 {
@@ -29,15 +29,21 @@ namespace PokemonBattleLogger
         PokemonSlot[] sets;
         private bool newTurn = true;
         private int turnCounter = 1;
-
+        private FrontierSets frontierSetsWindow = new FrontierSets();
 
         public MainWindow()
         {
+            frontierSetsWindow.Show();
+
             InitializeComponent();
             System.Diagnostics.Debug.WriteLine("Starting watcher...");
             StartWatcher();
         }
 
+        private void Window_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            DragMove();
+        }
 
         private void StartWatcher()
         {
@@ -131,6 +137,8 @@ namespace PokemonBattleLogger
             line = line.Replace("け", "");
             line = line.Replace("ラ", "");
             line = line.Replace("ウエ", "POKéMON");
+            line = line.Replace("シ", "");
+            line = line.Replace("ス", "");
 
             //Don't display random spam of battler names.
             if (line.Contains("いい"))
@@ -173,14 +181,21 @@ namespace PokemonBattleLogger
                 line = "Got away safely!";
             }
 
-            //Remove uppercase spam.
-            TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
-
-            foreach (string pokemonName in Tables.pokemon)
+            if (line.Contains("Would you like to forfeit the match and quit now?"))
             {
-                line = line.Replace(pokemonName, textInfo.ToTitleCase(pokemonName), StringComparison.OrdinalIgnoreCase);
+                line = "";
             }
 
+            //remove the battle end text
+            if (Regex.IsMatch(line, @"^[^a-z]*$"))
+            {
+                line = "";
+            }
+
+            //Remove uppercase spam.
+            line = FixCaps(line);
+
+            TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
             foreach (string moveName in Tables.battleMoves)
             {
                 line = line.Replace(moveName, textInfo.ToTitleCase(moveName), StringComparison.OrdinalIgnoreCase);
@@ -191,6 +206,22 @@ namespace PokemonBattleLogger
                     line = "";
                 }
             }
+
+            line = line.Replace("PORYGON2", "Porygon2");
+            line = line.Replace("ひ", "é");
+            line = line.Replace("Hp", "HP");
+            line = line.Replace("POKéMON", "Pokémon");
+            line = line.Replace("POKéFAN", "Pokéfan");
+            line = line.Replace("oneーhit Ko!", "oneーhit KO!");
+            line = line.Replace("WILLーOーWISP", "WillーOーWisp");
+            line = line.Replace("SANDーATTACK", "SandーAttack");
+
+            /*
+            foreach (string pokemonName in Tables.pokemon)
+            {
+                line = line.Replace(pokemonName, textInfo.ToTitleCase(pokemonName), StringComparison.OrdinalIgnoreCase);
+            }
+
 
             foreach (string itemName in Tables.items)
             {
@@ -215,7 +246,7 @@ namespace PokemonBattleLogger
             line = line.Replace("USing", "Using");      //Lazy fix - bug from "USING" having "SING" in it.
             line = line.Replace("uSing", "Using");      //Lazy fix - bug from "USING" having "SING" in it.
             line = line.Replace("ParasOL", "PARASOL");  //Lazy fix - bug from "PARASOL" having "PARAS" in it.
-            line = line.Replace("TraceD", "Traced");    ////Lazy fix - bug from "TRAED" having "TRACE" in it.
+            line = line.Replace("TraceD", "Traced");    ////Lazy fix - bug from "TRAED" having "TRACE" in it.*/
 
 
             //Remove weird "What will [partial type name]" spam. (this is buggy, idk why it happens but who cares lol)
@@ -234,7 +265,7 @@ namespace PokemonBattleLogger
                 || line.Contains("is confused")                 //pokemon is confused
                 || line.Contains("Player defeated")             //player wins
                 || line.Contains("is fast asleep")              //sleeping
-                || line.Contains("is paralyzed")                //paralzed
+                || line.Contains("is paralyzed")                //paralyzed
                 || line.Contains("is frozen solid")             //frozen
                 || line.Contains("is in love ")                 //infatuated
                 || line.Contains("is Disabled!")                //Disable
@@ -278,9 +309,19 @@ namespace PokemonBattleLogger
             if (line.EndsWith("that's enough! Come back!")        //switch
                 || line.Contains(" used ")                       //used a move
                 || line.Contains("is fast asleep")              //sleeping
-                || line.Contains("is paralyzed")                //paralzed
+                || line.Contains("is paralyzed")                //paralyzed
                 || line.Contains("is frozen solid")             //frozen
-                || line.Contains("is in love "))                //infatuated
+                || line.Contains("is in love ")                //infatuated
+                || line.Contains("is Disabled!")                //Disable
+                || line.Contains("restored health!")            //HP restore berry
+                || line.Contains("forfeited the match!")        //Quit match
+                || line.Contains("took in sunlight")            //charged solarbeam
+                || line.Contains("sprang up")                   //charged bounce
+                || line.Contains("whipped up a whirlwind")      //charged razor wind
+                || line.Contains("hid underwater")              //charged dive
+                || line.Contains("dug a hole")                  //charged dig
+                || line.Contains("lowered its head")            //charged skull bash
+                || line.Contains("hid underwater"))             //charged dive
             {
                 if (!newTurn)
                 {
@@ -305,14 +346,18 @@ namespace PokemonBattleLogger
                 line = "";
             }
 
+
+            //uncomment this section to show unfinished frontier sets bit. (there's 4 of these in total to uncomment)
+            
             //Post battler info only once they actually send it out - we received it early.
             if (line.Contains("sent out")
-                || line.Contains("was dragged out!"))
+                || Regex.IsMatch(line, @"^Foe .* was dragged out! $"))
             {
+                System.Diagnostics.Debug.WriteLine("Posting set...");
                 Dispatcher.Invoke(() =>
                 {
-                    PossibleEnemies.Children.Clear();
-                    postSet(sets);
+                    frontierSetsWindow.PossibleEnemies.Children.Clear();
+                    frontierSetsWindow.postSet(sets);
                 });
             }
             
@@ -322,76 +367,20 @@ namespace PokemonBattleLogger
             {
                 Dispatcher.Invoke(() =>
                 {
-                    PossibleEnemies.Children.Clear();
+                    frontierSetsWindow.PossibleEnemies.Children.Clear();
                 });
             }
 
             return line;
         }
 
-
-        //                PossibleEnemies.Children.Clear();
-
-        public void postSet(PokemonSlot[] possibleSets)
+        string FixCaps(string input)
         {
-            if (possibleSets.Length == 0)
+            return Regex.Replace(input, @"\b[A-Z]{2,}\b", match =>
             {
-                return;
-            }
-
-            foreach (var set in possibleSets)
-            {
-                if (set == null)
-                    continue;
-
-                foreach (var enemy in enemyTeam)
-                {
-                    if (enemy != null)
-                    {
-                        //exit if it's a duplicate.
-                        if (enemy.name.Equals(set.name))
-                        {
-                            return;
-                        }
-                    }
-                }
-
-                var border = new Border
-                {
-                    BorderThickness = new Thickness(1),
-                    Padding = new Thickness(5),
-                    Margin = new Thickness(2)
-                };
-
-                var stack = new StackPanel();
-
-                stack.Children.Add(new TextBlock
-                {
-                    Text = set.name + set.index, // Species
-                    FontWeight = FontWeights.Bold
-                });
-
-                stack.Children.Add(new TextBlock
-                {
-                    Text = $"Item: {set.item}"
-                });
-
-                stack.Children.Add(new TextBlock
-                {
-                    Text = $"- {set.move1}\n- {set.move2}\n- {set.move3}\n- {set.move4}"
-                });
-
-                border.Child = stack;
-
-                PossibleEnemies.Children.Add(border);
-            }
-        }
-
-
-
-        private void otherText(string line)
-        {
-
+                string word = match.Value.ToLower();
+                return CultureInfo.InvariantCulture.TextInfo.ToTitleCase(word);
+            });
         }
     }
 }
