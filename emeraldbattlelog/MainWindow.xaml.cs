@@ -129,6 +129,8 @@ namespace PokemonBattleLogger
 
         private string lineCleanup(string line)
         {
+            Debug.WriteLine(line);
+
             //Remove jank from the text, like japanese characters,
             //full with characters, newline tags, etc.
             line = Regex.Replace(line, @"<[^>]*>", " ");
@@ -384,7 +386,7 @@ namespace PokemonBattleLogger
                 //Handle battler info - player is battler 0, enemy is battler 1.
                 if (line.Contains("Battler 1"))
                 {
-                    Debug.WriteLine(line);
+                    //Debug.WriteLine(line);
                     sets = new FrontierSetHandler().handleFrontierSet(line);
                 }
 

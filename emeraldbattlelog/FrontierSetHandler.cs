@@ -66,14 +66,6 @@ namespace emeraldbattlelog
                             }
                         }
 
-                        foreach(PokemonSlot set in frontierSets)
-                        {
-                            if (set != null)
-                            {
-                                Debug.WriteLine(set.name + set.index + ", ");
-                            }
-                        }
-
                         return frontierSets;
 
                     }

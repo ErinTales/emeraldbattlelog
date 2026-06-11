@@ -171,41 +171,65 @@ callbacks:add("frame", function()
         lastHP3 = hp3
     end
 	
-	local PP01 = emu:read8(0x020240B4)
+	--[[local PP01 = emu:read8(0x020240B4)
 	local PP02 = emu:read8(0x020240B5)
 	local PP03 = emu:read8(0x020240B6)
 	local PP04 = emu:read8(0x020240B7)
+	
+	if PP01 ~= lastPP01 or PP02 ~= lastPP02
+	or PP03 ~= lastPP03 or PP04 ~= lastPP04
+	then	
+		dumpBattler(0)
+		lastPP01 = PP01
+		lastPP02 = PP02
+		lastPP03 = PP03
+		lastPP04 = PP04
+	end
 
 	local PP11 = emu:read8(0x0202410C)
 	local PP12 = emu:read8(0x0202410D)
 	local PP13 = emu:read8(0x0202410E)
 	local PP14 = emu:read8(0x0202410F)
 
+	if PP11 ~= lastPP11 or PP12 ~= lastPP12
+	or PP13 ~= lastPP13 or PP14 ~= lastPP14
+	then	
+		dumpBattler(1)
+		lastPP11 = PP11
+		lastPP12 = PP12
+		lastPP13 = PP13
+		lastPP14 = PP14
+	end
+
 	local PP21 = emu:read8(0x02024164)
 	local PP22 = emu:read8(0x02024165)
 	local PP23 = emu:read8(0x02024166)
 	local PP24 = emu:read8(0x02024167)
+	
+	if PP21 ~= lastPP21 or PP22 ~= lastPP22
+	or PP23 ~= lastPP23 or PP24 ~= lastPP24
+	then	
+		dumpBattler(2)
+		lastPP21 = PP21
+		lastPP22 = PP22
+		lastPP23 = PP23
+		lastPP24 = PP24
+	end
 
 	local PP31 = emu:read8(0x020241BC)
 	local PP32 = emu:read8(0x020241BD)
 	local PP33 = emu:read8(0x020241BE)
 	local PP34 = emu:read8(0x020241BF)
 	
-	if PP01 ~= lastPP01 or PP02 ~= lastPP02
-	or PP03 ~= lastPP03 or PP04 ~= lastPP04
-	or PP11 ~= lastPP11 or PP12 ~= lastPP12
-	or PP13 ~= lastPP13 or PP14 ~= lastPP14
-	or PP21 ~= lastPP21 or PP22 ~= lastPP22
-	or PP23 ~= lastPP23 or PP24 ~= lastPP24
-	or PP31 ~= lastPP31 or PP32 ~= lastPP32
+	if PP31 ~= lastPP31 or PP32 ~= lastPP32
 	or PP33 ~= lastPP33 or PP34 ~= lastPP34		
-	then	
-		dumpBattler(0)
-		lastPP01 = pp1
-		lastPP02 = pp2
-		lastPP03 = pp3
-		lastPP04 = pp4
-	end
+	then
+		dumpBattler(3)
+		lastPP31 = PP31
+		lastPP32 = PP32
+		lastPP33 = PP33
+		lastPP34 = PP34
+	end--]]
 end)
 
 local DISPLAYED_STRING_BATTLE = 0x02022E2C
@@ -237,6 +261,12 @@ callbacks:add("frame", function()
     frameCounter = frameCounter + 1
 
     if frameCounter % 60 == 0 and #pendingLogs > 0 then
+	
+		dumpBattler(0)
+		dumpBattler(1)
+		dumpBattler(2)
+		dumpBattler(3)
+		
         local logfile = io.open(
             "C:/Users/Erin/source/repos/emeraldbattlelog/emeraldbattlelog/pokemon lua/battlelog.txt",
             "a"
