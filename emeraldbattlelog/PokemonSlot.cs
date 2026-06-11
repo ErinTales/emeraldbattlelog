@@ -18,5 +18,29 @@ namespace emeraldbattlelog
         public string abilities { get; set; }
 
         public string SpritePath { get; set; }
+
+        public void setEVs(string evString)
+        {
+            EVs = formatEVs(evString);
+        }
+
+        public string formatEVs(string evString)
+        {
+            string[] stats = { "HP", "Atk", "Def", "SpA", "SpD", "Spe" };
+
+            var values = evString.Split('/');
+
+            List<string> investedStats = new List<string>();
+
+            for (int i = 0; i < values.Length; i++)
+            {
+                if (int.Parse(values[i].Trim()) > 0)
+                {
+                    investedStats.Add(stats[i]);
+                }
+            }
+
+            return string.Join("/", investedStats);
+        }
     }
 }

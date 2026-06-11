@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Globalization;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -17,6 +18,11 @@ namespace emeraldbattlelog
     //Battler 0 is player, 1 is opponent, 2 is player second, 3 is opponent second (2/3 only used in doubles)
     public class FrontierSetHandler()
     {
+        public PokemonSlot[] handleFrontierSlotSimple(String monName)
+        {
+            return handleFrontierSet("Battler 1 " + monName);
+        }
+
         public PokemonSlot[] handleFrontierSet(String monInfo)
         {
             TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
@@ -29,7 +35,6 @@ namespace emeraldbattlelog
                     $@"\b{Regex.Escape(pokemonName)}\b",
                     RegexOptions.IgnoreCase))
                 {
-
                     //If is opponent
                     if (monInfo.StartsWith("Battler 1")
                         || monInfo.StartsWith("Battler 3"))
@@ -54,8 +59,18 @@ namespace emeraldbattlelog
                                 s.abilities = frontierSet[8];
                                 s.EVs = frontierSet[9];
 
+                                s.setEVs(frontierSet[9]);
+
                                 frontierSets[i] = s;
                                 i++;
+                            }
+                        }
+
+                        foreach(PokemonSlot set in frontierSets)
+                        {
+                            if (set != null)
+                            {
+                                Debug.WriteLine(set.name + set.index + ", ");
                             }
                         }
 

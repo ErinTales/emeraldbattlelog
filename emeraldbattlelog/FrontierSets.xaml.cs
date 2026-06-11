@@ -49,13 +49,12 @@ namespace PokemonBattleLogger
             enemyCount = enemies;
         }
 
-        //uncomment this section to show unfinished frontier sets bit. (there's 4 of these in total to uncomment)
         public void postSet(PokemonSlot[] possibleSets)
         {
             PossibleEnemies.Rows = enemyCount * 2;
             int addedSprite = 0;
 
-            if (possibleSets.Length == 0)
+            if (possibleSets == null || possibleSets.Length == 0)
             {
                 return;
             }
@@ -111,6 +110,15 @@ namespace PokemonBattleLogger
 
                 stack.Children.Add(addName(set));
 
+                stack.Children.Add(new TextBlock
+                {
+                    FontFamily = new FontFamily(
+                        new Uri("pack://application:,,,/"),
+                        "pack://application:,,,/Images/pokemon-emerald.ttf#Pokemon Emerald Regular"),
+                    FontSize = 16,
+                    Text = $"        {set.EVs}"
+                });
+
                 stack.Children.Add(addItem(set));
 
                 stack.Children.Add(new TextBlock
@@ -124,9 +132,30 @@ namespace PokemonBattleLogger
 
                 border.Child = stack;
 
-
                 PossibleEnemies.Children.Add(border);
             }
+        }
+
+        //This will only be called after postSet is called.
+        public void postSetDouble(PokemonSlot[] possibleSets)
+        {
+            while(PossibleEnemies.Children.Count < 10)
+            {
+                var sprite = new Image
+                {
+                    Width = 64,
+                    Height = 64,
+                    Stretch = Stretch.None,
+                    Source = new BitmapImage(
+                    new Uri($"pack://application:,,,/Images/pokemon_sprites/blank.png"))
+                };
+
+                RenderOptions.SetBitmapScalingMode(sprite, BitmapScalingMode.NearestNeighbor);
+
+                PossibleEnemies.Children.Add(sprite);
+            }
+
+            postSet(possibleSets);
         }
 
         public void addSprite(PokemonSlot set)
@@ -139,6 +168,11 @@ namespace PokemonBattleLogger
             };
 
             var stack = new StackPanel();
+
+            if (set.name.Contains("."))
+            {
+                set.name = "mr_mime";
+            }
 
             var sprite = new Image
             {
@@ -233,6 +267,7 @@ namespace PokemonBattleLogger
             itemNameFixed = itemNameFixed.Replace(" ", "_");
             itemNameFixed = itemNameFixed.Replace("'", "");
             itemNameFixed = itemNameFixed.Replace("brightpowder", "bright_powder"); //pkhex has this issue too
+            itemNameFixed = itemNameFixed.Replace("nevermeltice", "never_melt_ice");
             itemNameFixed = itemNameFixed.Replace("white_herb", "in_battle_herb"); //the fuck?
 
             var itemImage = new Image

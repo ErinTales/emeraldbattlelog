@@ -86,8 +86,6 @@ local function dumpBattler(slot)
 		move4Name
 	))
 	]]
-	
-	
 		pendingLogs[#pendingLogs + 1] = (string.format(
 		"Battler %d info: %s Lv%d HP %d/%d - %d %d %d %d %d - Moves: %d %s, %d %s, %d %s, %d %s",
 		slot,
@@ -127,6 +125,26 @@ end
 local lastHP0 = nil
 local lastHP1 = nil
 
+local lastPP01 = nil
+local lastPP02 = nil
+local lastPP03 = nil
+local lastPP04 = nil
+
+local lastPP11 = nil
+local lastPP12 = nil
+local lastPP13 = nil
+local lastPP14 = nil
+
+local lastPP21 = nil
+local lastPP22 = nil
+local lastPP23 = nil
+local lastPP24 = nil
+
+local lastPP31 = nil
+local lastPP32 = nil
+local lastPP33 = nil
+local lastPP34 = nil
+
 callbacks:add("frame", function()
     local hp0 = emu:read16(0x020240AC)
     local hp1 = emu:read16(0x02024104)
@@ -152,6 +170,42 @@ callbacks:add("frame", function()
         dumpBattler(3)
         lastHP3 = hp3
     end
+	
+	local PP01 = emu:read8(0x020240B4)
+	local PP02 = emu:read8(0x020240B5)
+	local PP03 = emu:read8(0x020240B6)
+	local PP04 = emu:read8(0x020240B7)
+
+	local PP11 = emu:read8(0x0202410C)
+	local PP12 = emu:read8(0x0202410D)
+	local PP13 = emu:read8(0x0202410E)
+	local PP14 = emu:read8(0x0202410F)
+
+	local PP21 = emu:read8(0x02024164)
+	local PP22 = emu:read8(0x02024165)
+	local PP23 = emu:read8(0x02024166)
+	local PP24 = emu:read8(0x02024167)
+
+	local PP31 = emu:read8(0x020241BC)
+	local PP32 = emu:read8(0x020241BD)
+	local PP33 = emu:read8(0x020241BE)
+	local PP34 = emu:read8(0x020241BF)
+	
+	if PP01 ~= lastPP01 or PP02 ~= lastPP02
+	or PP03 ~= lastPP03 or PP04 ~= lastPP04
+	or PP11 ~= lastPP11 or PP12 ~= lastPP12
+	or PP13 ~= lastPP13 or PP14 ~= lastPP14
+	or PP21 ~= lastPP21 or PP22 ~= lastPP22
+	or PP23 ~= lastPP23 or PP24 ~= lastPP24
+	or PP31 ~= lastPP31 or PP32 ~= lastPP32
+	or PP33 ~= lastPP33 or PP34 ~= lastPP34		
+	then	
+		dumpBattler(0)
+		lastPP01 = pp1
+		lastPP02 = pp2
+		lastPP03 = pp3
+		lastPP04 = pp4
+	end
 end)
 
 local DISPLAYED_STRING_BATTLE = 0x02022E2C

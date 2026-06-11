@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Emerald Battle Logger"
         Height="900"
-        Width="800"
+        Width="850"
         WindowStyle="None"
         MouseLeftButtonDown="Window_MouseLeftButtonDown">
 

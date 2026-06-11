@@ -27,9 +27,13 @@ namespace PokemonBattleLogger
         private FileSystemWatcher? watcher;
         private PokemonSlot[] enemyTeam = new PokemonSlot[4];
         PokemonSlot[] sets;
+        PokemonSlot[] setsDouble;
         private bool newTurn = true;
         private int turnCounter = 1;
         private FrontierSets frontierSetsWindow = new FrontierSets();
+        private int battleType = 1;
+        bool battleTypeLockout = false;
+        string lastFainted = "";
 
         public MainWindow()
         {
@@ -171,6 +175,12 @@ namespace PokemonBattleLogger
 
             //Don't display "would you like to switch?" message
             if (line.Contains("is about to use"))
+            {
+                line = "";
+            }
+
+            //Don't display items message
+            if(line.Contains("Items can't be used"))
             {
                 line = "";
             }
@@ -335,43 +345,169 @@ namespace PokemonBattleLogger
                 || line.EndsWith("appeared! "))                 //Handle wild battles just because
             {
                 turnCounter = 1;
+                battleTypeLockout = false;
+
+                //clear battle log
+                Dispatcher.Invoke(() =>
+                {
+                    frontierSetsWindow.PossibleEnemies.Children.Clear();
+                });
             }
 
             //Handle battler info - player is battler 0, enemy is battler 1.
-            //We can't leak battler 1's info unless it's visible, that would be cheating.
+            /*if (line.StartsWith("Battler 3"))
+            {
+                Debug.WriteLine("double " + line);
+                setsDouble = new FrontierSetHandler().handleFrontierSet(line);
+            }
+            else if (line.StartsWith("Battler ") && (line.Contains("Battler 1") || line.Contains("Battler 3"))) 
+            {
+                Debug.WriteLine(line);
+                sets = new FrontierSetHandler().handleFrontierSet(line);
+            }*/
+
+            //Check for battle type
+            if (!battleTypeLockout)
+            {
+                if (line.Contains(" sent out "))
+                {
+                    setBattleType(line.Contains(" and ") ? 2 : 1);
+                }
+            }
+
+            //handle single battles
+            if (battleType == 1)
+            {
+                //set frontier sets window to single battle
+                frontierSetsWindow.setEnemyCount(battleType);
+
+                //Handle battler info - player is battler 0, enemy is battler 1.
+                if (line.Contains("Battler 1"))
+                {
+                    Debug.WriteLine(line);
+                    sets = new FrontierSetHandler().handleFrontierSet(line);
+                }
+
+                //Post battler info only once they actually send it out - we received it early.
+                /*if (line.Contains("sent out")
+                    || Regex.IsMatch(line, @"^Foe .* was dragged out! $"))*/
+                if (line.Contains("Turn"))
+                {
+                    Dispatcher.Invoke(() =>
+                    {
+                        frontierSetsWindow.PossibleEnemies.Children.Clear();
+                        frontierSetsWindow.postSet(sets);
+                    });
+                }
+
+                //Clear sets when we win or score a KO
+                if (line.Contains("Player defeated ")
+                    || (line.Contains("Foe") && line.Contains("fainted!")))
+                {
+                    Dispatcher.Invoke(() =>
+                    {
+                        frontierSetsWindow.PossibleEnemies.Children.Clear();
+                    });
+                }
+            }
+
+            //handle double battles - these have been handled completely differently (and probably better) because all hail the spaghetti code monster.
+            if(battleType == 2)
+            {
+                //set frontier sets window to double battle
+                frontierSetsWindow.setEnemyCount(battleType);
+
+                //Handle battler info - player is battler 0/2, enemy is battler 1/3.
+                if (line.Contains("Battler 1") || line.Contains("Battler 3"))
+                {
+                    Debug.WriteLine(line);
+                    sets = new FrontierSetHandler().handleFrontierSet(line);
+                }
+
+                //start of double battle
+                if (line.Contains(" sent out ") && (line.Contains(" and ")))
+                {
+                    string sentOut = line.Split(" sent out ")[1];
+                    sentOut = sentOut.TrimEnd('!');
+
+                    if (sentOut.Contains(" and "))
+                    {
+                        string[] pokemon = sentOut.Split(" and ");
+                        sets = new FrontierSetHandler().handleFrontierSlotSimple(pokemon[0]);
+                        setsDouble = new FrontierSetHandler().handleFrontierSlotSimple(pokemon[1]);
+
+                        Dispatcher.Invoke(() =>
+                        {
+                            frontierSetsWindow.PossibleEnemies.Children.Clear();
+                            frontierSetsWindow.postSet(sets);
+                            frontierSetsWindow.postSetDouble(setsDouble);
+                        });
+                    }
+                }
+                else if (line.Contains(" sent out "))
+                {
+                    //Clear last fainted so we know it's been handled.
+                    lastFainted = "";
+
+                    Dispatcher.Invoke(() =>
+                    {
+                        frontierSetsWindow.PossibleEnemies.Children.Clear();
+                        frontierSetsWindow.postSet(sets);
+                        frontierSetsWindow.postSetDouble(setsDouble);
+                    });
+                }
+                else if (line.Contains("Foe ") && (line.Contains(" fainted!")))
+                {
+                    lastFainted = line.Split("Foe ")[1];
+                    lastFainted = lastFainted.Trim();
+                    lastFainted = lastFainted.Split(" fainted!")[0];
+                }
+
+                //Clear sets when we win
+                if (line.Contains("Player defeated "))
+                {
+                    Dispatcher.Invoke(() =>
+                    {
+                        frontierSetsWindow.PossibleEnemies.Children.Clear();
+                    });
+                }
+
+                //If we fainted something and there's nothing to replace it, clear then reload
+                if(line.Contains("Turn") && lastFainted != "")
+                {
+                    if (sets[0].name.Equals(lastFainted))
+                    {
+                        sets = new FrontierSetHandler().handleFrontierSet("");
+                    }
+                    else if (setsDouble[0].name.Equals(lastFainted))
+                    {
+                        setsDouble = new FrontierSetHandler().handleFrontierSet("");
+                    }
+
+                    Dispatcher.Invoke(() =>
+                    {
+                        frontierSetsWindow.PossibleEnemies.Children.Clear();
+                        frontierSetsWindow.postSet(sets);
+                        frontierSetsWindow.postSetDouble(setsDouble);
+                    });
+
+                    lastFainted = "";
+                }
+            }
+
+            //We can't leak battler info, that would be cheating.
             if (line.StartsWith("Battler "))
             {
-                //TODO - this needs to jump elsewhere to handle team displays.
-                sets = new FrontierSetHandler().handleFrontierSet(line);
                 line = "";
             }
 
-
-            //uncomment this section to show unfinished frontier sets bit. (there's 4 of these in total to uncomment)
-            
-            //Post battler info only once they actually send it out - we received it early.
-            if (line.Contains("sent out")
-                || Regex.IsMatch(line, @"^Foe .* was dragged out! $"))
-            {
-                System.Diagnostics.Debug.WriteLine("Posting set...");
-                Dispatcher.Invoke(() =>
-                {
-                    frontierSetsWindow.PossibleEnemies.Children.Clear();
-                    frontierSetsWindow.postSet(sets);
-                });
-            }
-            
-            //Clear sets when we win
-            if (line.Contains("Player defeated ")
-                || (line.Contains("Foe") && line.Contains("fainted!")))
-            {
-                Dispatcher.Invoke(() =>
-                {
-                    frontierSetsWindow.PossibleEnemies.Children.Clear();
-                });
-            }
-
             return line;
+        }
+
+        void setBattleType(int numOfOpponents)
+        {
+            battleType = numOfOpponents;
+            battleTypeLockout = true;
         }
 
         string FixCaps(string input)
