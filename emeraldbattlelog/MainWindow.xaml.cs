@@ -356,18 +356,6 @@ namespace PokemonBattleLogger
                 });
             }
 
-            //Handle battler info - player is battler 0, enemy is battler 1.
-            /*if (line.StartsWith("Battler 3"))
-            {
-                Debug.WriteLine("double " + line);
-                setsDouble = new FrontierSetHandler().handleFrontierSet(line);
-            }
-            else if (line.StartsWith("Battler ") && (line.Contains("Battler 1") || line.Contains("Battler 3"))) 
-            {
-                Debug.WriteLine(line);
-                sets = new FrontierSetHandler().handleFrontierSet(line);
-            }*/
-
             //Check for battle type
             if (!battleTypeLockout)
             {
@@ -422,7 +410,7 @@ namespace PokemonBattleLogger
                 //Handle battler info - player is battler 0/2, enemy is battler 1/3.
                 if (line.Contains("Battler 1") || line.Contains("Battler 3"))
                 {
-                    Debug.WriteLine(line);
+                    //Debug.WriteLine(line);
                     sets = new FrontierSetHandler().handleFrontierSet(line);
                 }
 
