@@ -19,9 +19,7 @@ using static System.Net.Mime.MediaTypeNames;
 namespace PokemonBattleLogger
 {
 
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    // Interaction logic for MainWindow.xaml
     public partial class MainWindow : Window
     {
         private FileSystemWatcher? watcher;
@@ -119,7 +117,7 @@ namespace PokemonBattleLogger
                         }
                     }
 
-                    // Remember where we stopped reading
+                    //Remember where we stopped reading
                     lastPosition = stream.Position;
                 }
                 catch (Exception ex)
@@ -128,7 +126,6 @@ namespace PokemonBattleLogger
                 }
             };
 
-            //sure bro
             watcher.EnableRaisingEvents = true;
         }
 
@@ -169,7 +166,6 @@ namespace PokemonBattleLogger
             {
                 line = "";
             }
-
             if (line.Equals("PP "))
             {
                 line = "";
@@ -191,12 +187,6 @@ namespace PokemonBattleLogger
             if(line.Contains("Items can't be used"))
             {
                 line = "";
-            }
-
-            //Fix "Got away safely"
-            if(line.Equals("  Got away safely! "))
-            {
-                line = "Got away safely!";
             }
 
             //Don't display forfeit query
@@ -246,7 +236,7 @@ namespace PokemonBattleLogger
             //Add newlines before select messages, for formatting reasons
             if (line.EndsWith("would like to battle! ")         //New trainer battle
                 || line.EndsWith("appeared! ")                  //wild battle
-                || line.EndsWith("Got away safely!")            //more wild battle
+                || line.Contains("Got away safely!")            //more wild battle
                 || line.Contains("used")                        //use a move
                 || line.Contains("sent out")                    //opponent sends out pokemon
                 || line.Contains("Go!")                         //player sends out pokemon
@@ -332,16 +322,7 @@ namespace PokemonBattleLogger
                 });
             }
 
-            //Check for battle type (1 for single, 2 for double)
-            if (!battleTypeLockout)
-            {
-                if (line.Contains(" sent out "))
-                {
-                    setBattleType(line.Contains(" and ") ? 2 : 1);
-                }
-            }
-
-            //Time for the spaghetti
+            //Show the Battle Frontier sets.
             line = frontierSetsWindowHandler(line);
 
             /*
@@ -360,20 +341,29 @@ namespace PokemonBattleLogger
 
         string frontierSetsWindowHandler(string line)
         {
+
+            //Set battle type if not done so already (1 for single, 2 for double)
+            if (!battleTypeLockout)
+            {
+                if (line.Contains(" sent out "))
+                {
+                    setBattleType(line.Contains(" and ") ? 2 : 1);
+                }
+            }
+
+            //Wild battle
+            if (line.Contains("Wild ") && line.Contains("appeared!"))
+            {
+                setBattleType(0);
+            }
+
             //handle single battles
             if (battleType == 1)
             {
                 //set frontier sets window to single battle
                 frontierSetsWindow.setEnemyCount(battleType);
 
-                //Handle battler info - player is battler 0, enemy is battler 1.
-                //TODO - get rid of this, we got rid of it for doubles.
-                /*if (line.Contains("Battler 1"))
-                {
-                    //Prep the frontier sets based on enemy pokemon.
-                    sets = new FrontierSetHandler().handleFrontierSet(line);
-                }*/
-
+                //When enemy is sent out.
                 if (line.Contains(" sent out ") || line.Contains("dragged out"))
                 {
                     string sentOut = "";
