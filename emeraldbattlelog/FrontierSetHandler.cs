@@ -69,12 +69,11 @@ namespace emeraldbattlelog
                                 i++;
                             }
                         }
-
                         return frontierSets;
-
                     }
                 }
             }
+            //else, return an empty set.
             return new PokemonSlot[0];
         }
     }
