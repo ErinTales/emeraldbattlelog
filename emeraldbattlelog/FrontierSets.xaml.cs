@@ -186,6 +186,11 @@ namespace PokemonBattleLogger
                 VerticalAlignment = VerticalAlignment.Center
             };
 
+            if (set.name.Contains("mr_mime"))
+            {
+                set.name = "Mr. Mime";
+            }
+
             RenderOptions.SetBitmapScalingMode(sprite, BitmapScalingMode.NearestNeighbor);
 
             stack.Children.Add(new TextBlock
@@ -216,8 +221,18 @@ namespace PokemonBattleLogger
             DispatcherTimer itemTimer;
             bool frame = false;
 
+            if (set.name.Contains("."))
+            {
+                set.name = "mr_mime";
+            }
+
             var bitmap = new BitmapImage(
                             new Uri($"pack://application:,,,/Images/icons/{set.name.ToLower()}.png"));
+
+            if (set.name.Contains("mr_mime"))
+            {
+                set.name = "Mr. Mime";
+            }
 
             var cropped = new CroppedBitmap(
                 bitmap,
@@ -268,6 +283,7 @@ namespace PokemonBattleLogger
             itemNameFixed = itemNameFixed.Replace("'", "");
             itemNameFixed = itemNameFixed.Replace("brightpowder", "bright_powder"); //pkhex has this issue too
             itemNameFixed = itemNameFixed.Replace("nevermeltice", "never_melt_ice");
+            itemNameFixed = itemNameFixed.Replace("twistedspoon", "twisted_spoon");
             itemNameFixed = itemNameFixed.Replace("white_herb", "in_battle_herb"); //the fuck?
 
             var itemImage = new Image
@@ -298,8 +314,18 @@ namespace PokemonBattleLogger
 
         private Image UpdateItemFrame(Image itemImage, bool frame, string name)
         {
+            if (name.Contains("."))
+            {
+                name = "mr_mime";
+            }
+
             var bitmap = new BitmapImage(
                 new Uri($"pack://application:,,,/Images/icons/{name}.png"));
+
+            if (name.Contains("mr_mime"))
+            {
+                name = "Mr. Mime";
+            }
 
             int y = frame ? 32 : 0;
 
