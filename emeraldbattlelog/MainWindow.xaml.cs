@@ -34,13 +34,13 @@ namespace PokemonBattleLogger
         private int battleType = 1;
         bool battleTypeLockout = false;
         string lastFainted = "";
+        string[] enemyPokemon = new string[2];
 
         public MainWindow()
         {
             frontierSetsWindow.Show();
 
             InitializeComponent();
-            System.Diagnostics.Debug.WriteLine("Starting watcher...");
             StartWatcher();
         }
 
@@ -150,6 +150,7 @@ namespace PokemonBattleLogger
             line = line.Replace("ウエ", "Pokémon");
             line = line.Replace("シ", "");
             line = line.Replace("ス", "");
+            line = line.Replace("⋯", "...");
 
             //Don't display random spam of battler names.
             if (line.Contains("いい"))
@@ -234,6 +235,7 @@ namespace PokemonBattleLogger
             line = line.Replace("oneーhit Ko!", "oneーhit KO!");
             line = line.Replace("WILLーOーWISP", "WillーOーWisp");
             line = line.Replace("SANDーATTACK", "SandーAttack");
+            line = line.Replace("MUDーSLAP", "MudーSlap");
 
             //Remove weird/buggy "What will [partial type name]" spam. (the buffer seems to partially overwrite itself for some reason)
             if (line.StartsWith("What will ") && !line.EndsWith(" do?"))
@@ -248,6 +250,7 @@ namespace PokemonBattleLogger
                 || line.Contains("used")                        //use a move
                 || line.Contains("sent out")                    //opponent sends out pokemon
                 || line.Contains("Go!")                         //player sends out pokemon
+                || line.Contains("dragged out")                 //sent out due to roar/ww
                 || line.Contains("is confused")                 //pokemon is confused
                 || line.Contains("Player defeated")             //player wins
                 || line.Contains("is fast asleep")              //sleeping
@@ -273,7 +276,7 @@ namespace PokemonBattleLogger
             {
                 if (newTurn)
                 {
-                    line = Environment.NewLine + "Turn: " + turnCounter;// + Environment.NewLine + line;
+                    line = Environment.NewLine + "Turn: " + turnCounter;
                     newTurn = false;
                 }
                 else //if(!newTurn)
@@ -301,6 +304,7 @@ namespace PokemonBattleLogger
                 || line.Contains("forfeited the match!")        //Quit match
                 || line.Contains("took in sunlight")            //charged solarbeam
                 || line.Contains("sprang up")                   //charged bounce
+                || line.Contains("flew up high")                //charged fly
                 || line.Contains("whipped up a whirlwind")      //charged razor wind
                 || line.Contains("hid underwater")              //charged dive
                 || line.Contains("dug a hole")                  //charged dig
@@ -315,8 +319,8 @@ namespace PokemonBattleLogger
             }
 
             //Reset turn counter when a new battle starts
-            if (line.EndsWith("would like to battle! ")         //New trainer battle
-                || line.EndsWith("appeared! "))                 //Handle wild battles just because
+            if (line.Contains("would like to battle!")         //New trainer battle
+                || line.Contains("appeared!"))                 //Handle wild battles just because
             {
                 turnCounter = 1;
                 battleTypeLockout = false;
@@ -363,13 +367,35 @@ namespace PokemonBattleLogger
                 frontierSetsWindow.setEnemyCount(battleType);
 
                 //Handle battler info - player is battler 0, enemy is battler 1.
-                if (line.Contains("Battler 1"))
+                //TODO - get rid of this, we got rid of it for doubles.
+                /*if (line.Contains("Battler 1"))
                 {
+                    //Prep the frontier sets based on enemy pokemon.
                     sets = new FrontierSetHandler().handleFrontierSet(line);
+                }*/
+
+                if (line.Contains(" sent out ") || line.Contains("dragged out"))
+                {
+                    string sentOut = "";
+                    if (line.Contains(" sent out "))
+                    {
+                        sentOut = line.Split(" sent out ")[1];
+                        sentOut = sentOut.TrimEnd('!');
+                    }
+                    else if (line.Contains("dragged out"))
+                    {
+                        sentOut = line.Split(" was dragged out")[0];
+                        sentOut = line.Split("Foe ")[1];
+                    }
+
+                    //Prep the frontier sets based on enemy pokemon.
+                    sets = new FrontierSetHandler().handleFrontierSlotSimple(line);
                 }
 
                 //Post battler info only once they actually send it out - we received it early.
-                if (line.Contains("Turn"))
+                //Basically we just don't want to send it out as the line is first printing bc
+                //it looks odd - it shows up before you can visually tell what you're fighting.
+                if (line.Contains("Turn") || line.Contains("Go!") || line.Contains("used"))
                 {
                     Dispatcher.Invoke(() =>
                     {
@@ -390,56 +416,77 @@ namespace PokemonBattleLogger
                 }
             }
 
-            //handle double battles - these have been handled completely differently (and probably better) because all hail the spaghetti code monster.
+            //handle double battles - these have been handled differently (and probably better in some ways) 
             if (battleType == 2)
             {
                 //set frontier sets window to double battle
                 frontierSetsWindow.setEnemyCount(battleType);
 
-                //Handle battler info - player is battler 0/2, enemy is battler 1/3.
-                if (line.Contains("Battler 1") || line.Contains("Battler 3"))
-                {
-                    sets = new FrontierSetHandler().handleFrontierSet(line);
-                }
-
                 //start of double battle
                 if (line.Contains(" sent out ") && (line.Contains(" and ")))
                 {
+                    //Trim and split apart to get the enemy team.
                     string sentOut = line.Split(" sent out ")[1];
                     sentOut = sentOut.TrimEnd('!');
+                    enemyPokemon = sentOut.Split(" and ");
 
-                    if (sentOut.Contains(" and "))
-                    {
-                        string[] pokemon = sentOut.Split(" and ");
-                        sets = new FrontierSetHandler().handleFrontierSlotSimple(pokemon[0]);
-                        setsDouble = new FrontierSetHandler().handleFrontierSlotSimple(pokemon[1]);
-
-                        Dispatcher.Invoke(() =>
-                        {
-                            frontierSetsWindow.PossibleEnemies.Children.Clear();
-                            frontierSetsWindow.postSet(sets);
-                            frontierSetsWindow.postSetDouble(setsDouble);
-                        });
-                    }
+                    //Prep the frontier sets based on enemy pokemon.
+                    sets = new FrontierSetHandler().handleFrontierSlotSimple(enemyPokemon[0]);
+                    setsDouble = new FrontierSetHandler().handleFrontierSlotSimple(enemyPokemon[1]);
                 }
-                //Roar/Whirlwind might still have issues in doubles. I think Baton Pass shouldn't but I haven't asked a "no" question yet on that front.
-                else if (line.Contains(" sent out "))
+                //After a KO in double battles, figure out what's being sent out.
+                //Roar/Whirlwind might still have issues in doubles. Baton Pass shouldn't but I haven't asked a "no" question yet.
+                else if (line.Contains(" sent out ") || ((line.Contains("Turn") || line.Contains("used")) && lastFainted != "")) //Replacing an enemy || There are no enemies left (thx gen 3)
                 {
+                    string sentOut = "";
+
+                    if (line.Contains(" sent out "))
+                    {
+                        sentOut = line.Split(" sent out ")[1];
+                        sentOut = sentOut.TrimEnd('!');
+                    }
+                    else //if !line.Contains(" sent out ")) // there are no enemies left
+                    {
+                        sentOut = "";
+                    }
+
+                    //Replace the enemy pokemon with whatever was sent out.
+                    int i = 0;
+                    foreach (string pokemon in enemyPokemon)
+                    {
+                        if (pokemon.Equals(lastFainted))
+                        {
+                            enemyPokemon[i] = sentOut;
+                        }
+                        i++;
+                    }
+
+                    //Prep the frontier sets based on enemy pokemon.
+                    sets = new FrontierSetHandler().handleFrontierSlotSimple(enemyPokemon[0]);
+                    setsDouble = new FrontierSetHandler().handleFrontierSlotSimple(enemyPokemon[1]);
+
                     //Clear last fainted so we know it's been handled.
                     lastFainted = "";
+                }
+                //Keep track of what fainted so we know which set to replace.
+                else if (line.Contains("Foe ") && (line.Contains(" fainted!")))
+                {
+                    lastFainted = line.Split("Foe ")[1];
+                    lastFainted = lastFainted.Trim();
+                    lastFainted = lastFainted.Split(" fainted!")[0];
+                }
 
+                //Post battler info only once they actually send it out - we received it early.
+                //Basically we just don't want to send it out as the line is first printing bc
+                //it looks odd - it shows up before you can visually tell what you're fighting.
+                if (line.Contains("Turn") || line.Contains("Go!") || line.Contains("used"))
+                {
                     Dispatcher.Invoke(() =>
                     {
                         frontierSetsWindow.PossibleEnemies.Children.Clear();
                         frontierSetsWindow.postSet(sets);
                         frontierSetsWindow.postSetDouble(setsDouble);
                     });
-                }
-                else if (line.Contains("Foe ") && (line.Contains(" fainted!")))
-                {
-                    lastFainted = line.Split("Foe ")[1];
-                    lastFainted = lastFainted.Trim();
-                    lastFainted = lastFainted.Split(" fainted!")[0];
                 }
 
                 //Clear sets when we win
@@ -450,40 +497,17 @@ namespace PokemonBattleLogger
                         frontierSetsWindow.PossibleEnemies.Children.Clear();
                     });
                 }
-
-                //If we fainted something and there's nothing to replace it, clear then reload
-                if (line.Contains("Turn") && lastFainted != "")
-                {
-                    if (sets[0].name.Equals(lastFainted))
-                    {
-                        sets = new FrontierSetHandler().handleFrontierSet("");
-                    }
-                    else if (setsDouble[0].name.Equals(lastFainted))
-                    {
-                        setsDouble = new FrontierSetHandler().handleFrontierSet("");
-                    }
-
-                    Dispatcher.Invoke(() =>
-                    {
-                        frontierSetsWindow.PossibleEnemies.Children.Clear();
-                        frontierSetsWindow.postSet(sets);
-                        frontierSetsWindow.postSetDouble(setsDouble);
-                    });
-
-                    lastFainted = "";
-                }
             }
-
             return line;
         }
 
-        //
         void setBattleType(int numOfOpponents)
         {
             battleType = numOfOpponents;
             battleTypeLockout = true;
         }
 
+        //My friend Malamar is responsible for whatever this does. And also for pretty much every regex you see.
         string FixCaps(string input)
         {
             return Regex.Replace(input, @"\b[A-Z]{2,}\b", match =>

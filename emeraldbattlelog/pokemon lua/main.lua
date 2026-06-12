@@ -7,6 +7,13 @@ console:log("SCRIPT STARTED")
 local charmap = {}
 local pendingLogs = {}
 
+lastBattlers = {
+    {},
+    {},
+    {},
+    {}
+}
+
 local charmapPath = "C:/Users/Erin/source/repos/emeraldbattlelog/emeraldbattlelog/pokemon lua/charmap.txt"
 
 for line in io.lines(charmapPath) do
@@ -18,6 +25,7 @@ for line in io.lines(charmapPath) do
 end
 console:log("Loaded " .. tostring(#charmap) .. " entries")
 
+--Who the fuck knows what this does.
 local function decodePokemonString(addr, maxLen)
     local out = {}
 
@@ -34,6 +42,7 @@ local function decodePokemonString(addr, maxLen)
     return table.concat(out)
 end
 
+--Dump battler info to file.
 local function dumpBattler(slot)
     local base = gBattleMons + slot * BATTLE_MON_SIZE
 
@@ -64,174 +73,36 @@ local function dumpBattler(slot)
 	local spa = emu:read16(base + 0x08)
 	local spd = emu:read16(base + 0x0A)
 	
+	--leaving this but commenting it out, it prints to the console for debugging purposes.
 		--[[console:log(string.format(
-		"Battler %d info: %s Lv%d HP %d/%d - %d %d %d %d %d - Moves: %d %s, %d %s, %d %s, %d %s",
-		slot,
-		speciesName,
-		level,
-		hp,
-		maxHp,
-		atk,
-		def,
-		spa,
-		spd,
-		spe,
-		pp1,
-		move1Name,
-		pp2,
-		move2Name,
-		pp3,
-		move3Name,
-		pp4,
-		move4Name
+		"Battler %d info: %s Lv%d HP %d/%d - %d %d %d %d %d - Moves: %d %s, %d %s, %d %s, %d %s", slot, speciesName, level, hp, maxHp, atk, def, spa, spd, spe, pp1, move1Name, pp2, move2Name, pp3, move3Name, pp4, move4Name
 	))
 	]]
 		pendingLogs[#pendingLogs + 1] = (string.format(
-		"Battler %d info: %s Lv%d HP %d/%d - %d %d %d %d %d - Moves: %d %s, %d %s, %d %s, %d %s",
-		slot,
-		speciesName,
-		level,
-		hp,
-		maxHp,
-		atk,
-		def,
-		spa,
-		spd,
-		spe,
-		pp1,
-		move1Name,
-		pp2,
-		move2Name,
-		pp3,
-		move3Name,
-		pp4,
-		move4Name
+		"Battler %d info: %s Lv%d HP %d/%d - %d %d %d %d %d - Moves: %d %s, %d %s, %d %s, %d %s", slot, speciesName, level, hp, maxHp, atk, def, spa, spd, spe, pp1, move1Name, pp2, move2Name, pp3, move3Name, pp4, move4Name
 	))
-		--[[pendingLogs[#pendingLogs + 1] = (string.format(
-		"Battler %d moves: %d %s, %d %s, %d %s, %d %s",
-		slot,
-		pp1,
-		move1Name,
-		pp2,
-		move2Name,
-		pp3,
-		move3Name,
-		pp4,
-		move4Name
-	))]]
 
 end
 
-local lastHP0 = nil
-local lastHP1 = nil
+--Checks if battlers have changed. (This triggers more frequently than necessary, but making it better would involve actually knowing what is happening.
+function checkBattler(index, base)
+    local changed = false
 
-local lastPP01 = nil
-local lastPP02 = nil
-local lastPP03 = nil
-local lastPP04 = nil
+    for i = 0, 0x57 do
+        local value = emu:read8(base + i)
 
-local lastPP11 = nil
-local lastPP12 = nil
-local lastPP13 = nil
-local lastPP14 = nil
-
-local lastPP21 = nil
-local lastPP22 = nil
-local lastPP23 = nil
-local lastPP24 = nil
-
-local lastPP31 = nil
-local lastPP32 = nil
-local lastPP33 = nil
-local lastPP34 = nil
-
-callbacks:add("frame", function()
-    local hp0 = emu:read16(0x020240AC)
-    local hp1 = emu:read16(0x02024104)
-	local hp2 = emu:read16(0x202415C)
-	local hp3 = emu:read16(0x20241B4)
-
-    if hp0 ~= lastHP0 then
-        dumpBattler(0)
-        lastHP0 = hp0
+        if lastBattlers[index + 1][i] ~= value then
+            lastBattlers[index + 1][i] = value
+            changed = true
+        end
     end
 
-    if hp1 ~= lastHP1 then
-        dumpBattler(1)
-        lastHP1 = hp1
+    if changed then
+        dumpBattler(index)
     end
-	
-	if hp2 ~= lastHP2 then
-        dumpBattler(2)
-        lastHP2 = hp2
-    end
+end
 
-    if hp3 ~= lastHP3 then
-        dumpBattler(3)
-        lastHP3 = hp3
-    end
-	
-	--[[local PP01 = emu:read8(0x020240B4)
-	local PP02 = emu:read8(0x020240B5)
-	local PP03 = emu:read8(0x020240B6)
-	local PP04 = emu:read8(0x020240B7)
-	
-	if PP01 ~= lastPP01 or PP02 ~= lastPP02
-	or PP03 ~= lastPP03 or PP04 ~= lastPP04
-	then	
-		dumpBattler(0)
-		lastPP01 = PP01
-		lastPP02 = PP02
-		lastPP03 = PP03
-		lastPP04 = PP04
-	end
-
-	local PP11 = emu:read8(0x0202410C)
-	local PP12 = emu:read8(0x0202410D)
-	local PP13 = emu:read8(0x0202410E)
-	local PP14 = emu:read8(0x0202410F)
-
-	if PP11 ~= lastPP11 or PP12 ~= lastPP12
-	or PP13 ~= lastPP13 or PP14 ~= lastPP14
-	then	
-		dumpBattler(1)
-		lastPP11 = PP11
-		lastPP12 = PP12
-		lastPP13 = PP13
-		lastPP14 = PP14
-	end
-
-	local PP21 = emu:read8(0x02024164)
-	local PP22 = emu:read8(0x02024165)
-	local PP23 = emu:read8(0x02024166)
-	local PP24 = emu:read8(0x02024167)
-	
-	if PP21 ~= lastPP21 or PP22 ~= lastPP22
-	or PP23 ~= lastPP23 or PP24 ~= lastPP24
-	then	
-		dumpBattler(2)
-		lastPP21 = PP21
-		lastPP22 = PP22
-		lastPP23 = PP23
-		lastPP24 = PP24
-	end
-
-	local PP31 = emu:read8(0x020241BC)
-	local PP32 = emu:read8(0x020241BD)
-	local PP33 = emu:read8(0x020241BE)
-	local PP34 = emu:read8(0x020241BF)
-	
-	if PP31 ~= lastPP31 or PP32 ~= lastPP32
-	or PP33 ~= lastPP33 or PP34 ~= lastPP34		
-	then
-		dumpBattler(3)
-		lastPP31 = PP31
-		lastPP32 = PP32
-		lastPP33 = PP33
-		lastPP34 = PP34
-	end--]]
-end)
-
+--Two functions to capture buffer text.
 local DISPLAYED_STRING_BATTLE = 0x02022E2C
 
 local lastString = ""
@@ -255,18 +126,20 @@ callbacks:add("frame", function()
     end
 end)
 
-local frameCounter = 0
+--Check if battlers have changed
+callbacks:add("frame", function()
+    checkBattler(0, 0x02024090)
+    checkBattler(1, 0x020240E8)
+    checkBattler(2, 0x02024140)
+    checkBattler(3, 0x02024198)
+end)
 
+local frameCounter = 0
+--Print logs to file
 callbacks:add("frame", function()
     frameCounter = frameCounter + 1
 
     if frameCounter % 60 == 0 and #pendingLogs > 0 then
-	
-		dumpBattler(0)
-		dumpBattler(1)
-		dumpBattler(2)
-		dumpBattler(3)
-		
         local logfile = io.open(
             "C:/Users/Erin/source/repos/emeraldbattlelog/emeraldbattlelog/pokemon lua/battlelog.txt",
             "a"

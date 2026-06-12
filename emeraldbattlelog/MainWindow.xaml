@@ -5,7 +5,8 @@
         Height="900"
         Width="850"
         WindowStyle="None"
-        MouseLeftButtonDown="Window_MouseLeftButtonDown">
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        Icon="/images/pokeemerald.ico">
 
     <Grid Margin="0">
 
