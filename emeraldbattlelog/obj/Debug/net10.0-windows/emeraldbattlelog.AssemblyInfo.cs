@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("emeraldbattlelog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b40a49a221c92637140f36f9e3ab7e521fc94052")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c68ccbaefa14773dfad58d3935c360833c50a09d")]
 [assembly: System.Reflection.AssemblyProductAttribute("emeraldbattlelog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("emeraldbattlelog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

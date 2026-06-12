@@ -52,12 +52,13 @@ namespace PokemonBattleLogger
         private void StartWatcher()
         {
             var paragraph = new Paragraph();
-            paragraph.Inlines.Add(new Run("Pokemon Emerald Battle Logger Initialized\n"));
 
+            paragraph.Inlines.Add(new Run("Pokemon Emerald Battle Logger Initialized\n"));
             BattleLog.Document.Blocks.Add(paragraph);
 
             long lastPosition = 0;
 
+            //I don't know how to not hard code these, all attempts so far have failed.
             var path = @"C:\Users\Erin\source\repos\emeraldbattlelog\emeraldbattlelog\pokemon lua\battlelog.txt";
 
             watcher = new FileSystemWatcher(
@@ -69,6 +70,7 @@ namespace PokemonBattleLogger
                 lastPosition = new FileInfo(path).Length;
             }
 
+            //Whenever the file changes...
             watcher.Changed += (sender, e) =>
             {
                 try
@@ -84,6 +86,7 @@ namespace PokemonBattleLogger
 
                     using var reader = new StreamReader(stream);
 
+                    //While there's still lines left to read...
                     while (!reader.EndOfStream)
                     {
                         string? line = reader.ReadLine();
@@ -95,12 +98,13 @@ namespace PokemonBattleLogger
 
                             if (!string.IsNullOrWhiteSpace(line))
                             {
-                                    //Print the line to the log.
+                                //Print the line to the log.
                                 Dispatcher.Invoke(() =>
                                 {
                                     var paragraph = new Paragraph();
                                     paragraph.Margin = new Thickness(0);
 
+                                    //Large font for significant things.
                                     if(line.Contains("Turn")
                                     || line.Contains("would like to battle"))
                                     {
@@ -120,10 +124,11 @@ namespace PokemonBattleLogger
                 }
                 catch (Exception ex)
                 {
-                   //TODO - handle
+                   //Don't crash thx
                 }
             };
 
+            //sure bro
             watcher.EnableRaisingEvents = true;
         }
 
@@ -132,7 +137,7 @@ namespace PokemonBattleLogger
             //Debug.WriteLine(line);
 
             //Remove jank from the text, like japanese characters,
-            //full with characters, newline tags, etc.
+            //full width characters, newline tags, etc.
             line = Regex.Replace(line, @"<[^>]*>", " ");
             line = line.Replace("　", " ");
             line = line.Replace("！", "!");
@@ -142,7 +147,7 @@ namespace PokemonBattleLogger
             line = line.Replace("たち", "");
             line = line.Replace("け", "");
             line = line.Replace("ラ", "");
-            line = line.Replace("ウエ", "POKéMON");
+            line = line.Replace("ウエ", "Pokémon");
             line = line.Replace("シ", "");
             line = line.Replace("ス", "");
 
@@ -181,7 +186,7 @@ namespace PokemonBattleLogger
                 line = "";
             }
 
-            //Don't display items message
+            //Don't display Frontier items message
             if(line.Contains("Items can't be used"))
             {
                 line = "";
@@ -193,12 +198,13 @@ namespace PokemonBattleLogger
                 line = "Got away safely!";
             }
 
+            //Don't display forfeit query
             if (line.Contains("Would you like to forfeit the match and quit now?"))
             {
                 line = "";
             }
 
-            //remove the battle end text
+            //Remove the all caps easy chat battle end text.
             if (Regex.IsMatch(line, @"^[^a-z]*$"))
             {
                 line = "";
@@ -219,6 +225,7 @@ namespace PokemonBattleLogger
                 }
             }
 
+            //Extra corrections not caught by the above regular expression
             line = line.Replace("PORYGON2", "Porygon2");
             line = line.Replace("ひ", "é");
             line = line.Replace("Hp", "HP");
@@ -228,46 +235,13 @@ namespace PokemonBattleLogger
             line = line.Replace("WILLーOーWISP", "WillーOーWisp");
             line = line.Replace("SANDーATTACK", "SandーAttack");
 
-            /*
-            foreach (string pokemonName in Tables.pokemon)
-            {
-                line = line.Replace(pokemonName, textInfo.ToTitleCase(pokemonName), StringComparison.OrdinalIgnoreCase);
-            }
-
-
-            foreach (string itemName in Tables.items)
-            {
-                line = line.Replace(itemName, textInfo.ToTitleCase(itemName.ToLower()), StringComparison.OrdinalIgnoreCase);
-            }
-
-            foreach (string abilityName in Tables.abilities)
-            {
-                line = line.Replace(abilityName, textInfo.ToTitleCase(abilityName.ToLower()), StringComparison.OrdinalIgnoreCase);
-            }
-
-            line = line.Replace("ATTACK", "Attack");
-            line = line.Replace("DEFENSE", "Defense");
-            line = line.Replace("SP.", "Sp.");
-            line = line.Replace("DEF", "Def");
-            line = line.Replace("ATK", "Atk");
-            line = line.Replace("SPEED", "Speed");
-            line = line.Replace("POKひMON", "Pokémon");
-            line = line.Replace("ExeggCute", "Exeggcute");      //Black magic or smth, idk why this happens.
-            line = line.Replace("RestORE", "Restore");  //Lazy fix - bug from "FULL RESTORE" having "REST" in it
-            line = line.Replace("WrapPED", "wrapped");  //Lazy fix - bug from "WRAPPED" having "WRAP" in it.
-            line = line.Replace("USing", "Using");      //Lazy fix - bug from "USING" having "SING" in it.
-            line = line.Replace("uSing", "Using");      //Lazy fix - bug from "USING" having "SING" in it.
-            line = line.Replace("ParasOL", "PARASOL");  //Lazy fix - bug from "PARASOL" having "PARAS" in it.
-            line = line.Replace("TraceD", "Traced");    ////Lazy fix - bug from "TRAED" having "TRACE" in it.*/
-
-
-            //Remove weird "What will [partial type name]" spam. (this is buggy, idk why it happens but who cares lol)
+            //Remove weird/buggy "What will [partial type name]" spam. (the buffer seems to partially overwrite itself for some reason)
             if (line.StartsWith("What will ") && !line.EndsWith(" do?"))
             {
                 line = "";
             }
 
-            //Add newlines before select messages, for prettyness
+            //Add newlines before select messages, for formatting reasons
             if (line.EndsWith("would like to battle! ")         //New trainer battle
                 || line.EndsWith("appeared! ")                  //wild battle
                 || line.EndsWith("Got away safely!")            //more wild battle
@@ -294,7 +268,7 @@ namespace PokemonBattleLogger
             }
 
             //Use "What will [Pokemon] do?" to add new turn line.
-            //BUG - Outrage, Thrash, etc. break this. 
+            //BUG - Outrage, Thrash, etc. can break this when used by the player.
             if (line.StartsWith("What will ") && line.EndsWith(" do?"))
             {
                 if (newTurn)
@@ -315,15 +289,13 @@ namespace PokemonBattleLogger
                 //TODO - handle outrage, etc. as it breaks the turn counter.
             }
 
-            //TODO - add other things that can happen during a turn.
-
-            //Retrigger new turn if a turn starts.
-            if (line.EndsWith("that's enough! Come back!")        //switch
-                || line.Contains(" used ")                       //used a move
+            //Increment turn counter when we know the turn has definitely started.
+            if (line.EndsWith("that's enough! Come back!")      //switch
+                || line.Contains(" used ")                      //used a move
                 || line.Contains("is fast asleep")              //sleeping
                 || line.Contains("is paralyzed")                //paralyzed
                 || line.Contains("is frozen solid")             //frozen
-                || line.Contains("is in love ")                //infatuated
+                || line.Contains("is in love ")                 //infatuated
                 || line.Contains("is Disabled!")                //Disable
                 || line.Contains("restored health!")            //HP restore berry
                 || line.Contains("forfeited the match!")        //Quit match
@@ -356,7 +328,7 @@ namespace PokemonBattleLogger
                 });
             }
 
-            //Check for battle type
+            //Check for battle type (1 for single, 2 for double)
             if (!battleTypeLockout)
             {
                 if (line.Contains(" sent out "))
@@ -365,6 +337,25 @@ namespace PokemonBattleLogger
                 }
             }
 
+            //Time for the spaghetti
+            line = frontierSetsWindowHandler(line);
+
+            /*
+                We can't leak (enemy) battler info, that would be cheating.
+                Any lines like this aren't actually from the buffer, 
+                they're the Lua script dumping battler info.
+            */
+            if (line.StartsWith("Battler "))
+            {
+                line = "";
+            }
+
+            //Line is fixed, now we return it to be printed out.
+            return line;
+        }
+
+        string frontierSetsWindowHandler(string line)
+        {
             //handle single battles
             if (battleType == 1)
             {
@@ -374,13 +365,10 @@ namespace PokemonBattleLogger
                 //Handle battler info - player is battler 0, enemy is battler 1.
                 if (line.Contains("Battler 1"))
                 {
-                    //Debug.WriteLine(line);
                     sets = new FrontierSetHandler().handleFrontierSet(line);
                 }
 
                 //Post battler info only once they actually send it out - we received it early.
-                /*if (line.Contains("sent out")
-                    || Regex.IsMatch(line, @"^Foe .* was dragged out! $"))*/
                 if (line.Contains("Turn"))
                 {
                     Dispatcher.Invoke(() =>
@@ -392,7 +380,8 @@ namespace PokemonBattleLogger
 
                 //Clear sets when we win or score a KO
                 if (line.Contains("Player defeated ")
-                    || (line.Contains("Foe") && line.Contains("fainted!")))
+                    || (line.Contains("Foe") && line.Contains("fainted!"))
+                    || (line.Contains("Wild") && line.Contains("fainted!")))
                 {
                     Dispatcher.Invoke(() =>
                     {
@@ -402,7 +391,7 @@ namespace PokemonBattleLogger
             }
 
             //handle double battles - these have been handled completely differently (and probably better) because all hail the spaghetti code monster.
-            if(battleType == 2)
+            if (battleType == 2)
             {
                 //set frontier sets window to double battle
                 frontierSetsWindow.setEnemyCount(battleType);
@@ -410,7 +399,6 @@ namespace PokemonBattleLogger
                 //Handle battler info - player is battler 0/2, enemy is battler 1/3.
                 if (line.Contains("Battler 1") || line.Contains("Battler 3"))
                 {
-                    //Debug.WriteLine(line);
                     sets = new FrontierSetHandler().handleFrontierSet(line);
                 }
 
@@ -434,6 +422,7 @@ namespace PokemonBattleLogger
                         });
                     }
                 }
+                //Roar/Whirlwind might still have issues in doubles. I think Baton Pass shouldn't but I haven't asked a "no" question yet on that front.
                 else if (line.Contains(" sent out "))
                 {
                     //Clear last fainted so we know it's been handled.
@@ -463,7 +452,7 @@ namespace PokemonBattleLogger
                 }
 
                 //If we fainted something and there's nothing to replace it, clear then reload
-                if(line.Contains("Turn") && lastFainted != "")
+                if (line.Contains("Turn") && lastFainted != "")
                 {
                     if (sets[0].name.Equals(lastFainted))
                     {
@@ -485,15 +474,10 @@ namespace PokemonBattleLogger
                 }
             }
 
-            //We can't leak battler info, that would be cheating.
-            if (line.StartsWith("Battler "))
-            {
-                line = "";
-            }
-
             return line;
         }
 
+        //
         void setBattleType(int numOfOpponents)
         {
             battleType = numOfOpponents;

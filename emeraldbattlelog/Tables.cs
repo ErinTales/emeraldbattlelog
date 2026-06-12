@@ -4,6 +4,8 @@ using System.Text;
 
 namespace emeraldbattlelog
 {
+
+    //This entire class is just tables of pokemon moves/items/abilities/names and frontier sets.
     public static class Tables
     {
     
@@ -516,7 +518,7 @@ namespace emeraldbattlelog
 "TEACHY TV",
 "TRI-PASS",
 "RAINBOW PASS",
-//"TEA",
+//"TEA", //idr why this was commented out but it's an unholdable key item anyway so it doesn't matter
 "MYSTICTICKET",
 "AURORATICKET",
 "POWDER JAR",

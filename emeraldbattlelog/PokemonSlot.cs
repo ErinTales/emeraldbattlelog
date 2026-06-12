@@ -16,7 +16,6 @@ namespace emeraldbattlelog
         public string item { get; set; }
         public string EVs { get; set; }
         public string abilities { get; set; }
-
         public string SpritePath { get; set; }
 
         public void setEVs(string evString)

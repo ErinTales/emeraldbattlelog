@@ -20,6 +20,7 @@ using System.Windows.Input;
 
 namespace PokemonBattleLogger
 {
+    //This entire class is spaghetti
     public partial class FrontierSets : Window
     {
         private FileSystemWatcher? watcher;
@@ -71,7 +72,7 @@ namespace PokemonBattleLogger
                         //exit if it's a duplicate.
                         if (enemy.name.Equals(set.name))
                         {
-                            //return;
+                            //return; //My friend Malamar said this would cause issues and to use continue instead
                             continue;
                         }
                     }
@@ -82,6 +83,7 @@ namespace PokemonBattleLogger
                     addSprite(set);
                 }
 
+                //Once we've finished one line, add a blank sprite to indent the next line.
                 if (addedSprite == 4)
                 {
                     var sprite = new Image
@@ -97,6 +99,7 @@ namespace PokemonBattleLogger
 
                     PossibleEnemies.Children.Add(sprite);
                 }
+
                 addedSprite++;
 
                 var border = new Border
@@ -108,8 +111,10 @@ namespace PokemonBattleLogger
 
                 var stack = new StackPanel();
 
+                //Add top line: icon, pokemon name, index
                 stack.Children.Add(addName(set));
 
+                //Add second line: EVs
                 stack.Children.Add(new TextBlock
                 {
                     FontFamily = new FontFamily(
@@ -119,8 +124,10 @@ namespace PokemonBattleLogger
                     Text = $"        {set.EVs}"
                 });
 
+                //Add third line: Item sprite, item name
                 stack.Children.Add(addItem(set));
 
+                //Add final lines: Moves
                 stack.Children.Add(new TextBlock
                 {
                     FontFamily = new FontFamily(
@@ -130,13 +137,16 @@ namespace PokemonBattleLogger
                     Text = $"    • {set.move1}\n    • {set.move2}\n    • {set.move3}\n    • {set.move4}"
                 });
 
+                //Display it.
                 border.Child = stack;
-
                 PossibleEnemies.Children.Add(border);
             }
         }
 
         //This will only be called after postSet is called.
+        //This function fills up any remaining spaces in the first
+        //two lines with blank sprites, ensuring the second battler's
+        //info starts on line 3.
         public void postSetDouble(PokemonSlot[] possibleSets)
         {
             while(PossibleEnemies.Children.Count < 10)
@@ -169,11 +179,13 @@ namespace PokemonBattleLogger
 
             var stack = new StackPanel();
 
+            //Hard coding this, this is probably wrong.
             if (set.name.Contains("."))
             {
                 set.name = "mr_mime";
             }
 
+            //Load the correct sprite.
             var sprite = new Image
             {
                 Width = 64,
@@ -186,6 +198,7 @@ namespace PokemonBattleLogger
                 VerticalAlignment = VerticalAlignment.Center
             };
 
+            //Undoing it because this text is gonna get printed out to the screen, this is definitely wrong.
             if (set.name.Contains("mr_mime"))
             {
                 set.name = "Mr. Mime";
@@ -193,9 +206,10 @@ namespace PokemonBattleLogger
 
             RenderOptions.SetBitmapScalingMode(sprite, BitmapScalingMode.NearestNeighbor);
 
+            //Add the name.
             stack.Children.Add(new TextBlock
             {
-                Text = set.name, // Species
+                Text = set.name,
                 FontFamily = new FontFamily(
                     new Uri("pack://application:,,,/"),
                     "./Images/#Pokemon Emerald Regular"),
@@ -204,6 +218,7 @@ namespace PokemonBattleLogger
                 VerticalAlignment = VerticalAlignment.Center
             });
 
+            //Add the loaded sprite underneath.
             stack.Children.Add(sprite);
 
             border.Child = stack;
@@ -221,6 +236,7 @@ namespace PokemonBattleLogger
             DispatcherTimer itemTimer;
             bool frame = false;
 
+            //Hard coding this again
             if (set.name.Contains("."))
             {
                 set.name = "mr_mime";
@@ -229,11 +245,13 @@ namespace PokemonBattleLogger
             var bitmap = new BitmapImage(
                             new Uri($"pack://application:,,,/Images/icons/{set.name.ToLower()}.png"));
 
+            //Yeahhhhhhhh
             if (set.name.Contains("mr_mime"))
             {
                 set.name = "Mr. Mime";
             }
 
+            //The icons have both frames contained in the same spritesheet, only display the top half.
             var cropped = new CroppedBitmap(
                 bitmap,
                 new Int32Rect(0, 0, 32, 32));
@@ -245,6 +263,7 @@ namespace PokemonBattleLogger
                 Source = cropped
             };
 
+            //Make a timer for animating the icon and handle it.
             itemTimer = new DispatcherTimer();
             itemTimer.Interval = TimeSpan.FromMilliseconds(300);
             itemTimer.Tick += (s, e) =>
@@ -257,10 +276,11 @@ namespace PokemonBattleLogger
 
             RenderOptions.SetBitmapScalingMode(itemImage, BitmapScalingMode.NearestNeighbor);
 
+            //Display the icon and the set name + index.
             itemPanel.Children.Add(itemImage);
             itemPanel.Children.Add(new TextBlock
             {
-                Text = "  " + set.name + set.index, // Species
+                Text = "  " + set.name + set.index,
                 FontWeight = FontWeights.Bold,
                 FontFamily = new FontFamily(
                     new Uri("pack://application:,,,/"),
@@ -314,6 +334,7 @@ namespace PokemonBattleLogger
 
         private Image UpdateItemFrame(Image itemImage, bool frame, string name)
         {
+            //I hate mr mime atp
             if (name.Contains("."))
             {
                 name = "mr_mime";
@@ -327,6 +348,7 @@ namespace PokemonBattleLogger
                 name = "Mr. Mime";
             }
 
+            //I don't know how this code works but my friend Malamar said it would. and it does.
             int y = frame ? 32 : 0;
 
             itemImage.Source = new CroppedBitmap(

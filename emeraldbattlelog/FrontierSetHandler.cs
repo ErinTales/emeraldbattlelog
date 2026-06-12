@@ -18,6 +18,9 @@ namespace emeraldbattlelog
     //Battler 0 is player, 1 is opponent, 2 is player second, 3 is opponent second (2/3 only used in doubles)
     public class FrontierSetHandler()
     {
+        //This is all that's necessary for now, since we can't leak the enemy's set
+        //but the full handler will be necessary for things like printing out the player's
+        //current active battler or something, if I ever want to implement that.
         public PokemonSlot[] handleFrontierSlotSimple(String monName)
         {
             return handleFrontierSet("Battler 1 " + monName);
@@ -35,7 +38,7 @@ namespace emeraldbattlelog
                     $@"\b{Regex.Escape(pokemonName)}\b",
                     RegexOptions.IgnoreCase))
                 {
-                    //If is opponent
+                    //Currently we only want to bother for opponents, but this may change in the future.
                     if (monInfo.StartsWith("Battler 1")
                         || monInfo.StartsWith("Battler 3"))
                     {
@@ -59,6 +62,7 @@ namespace emeraldbattlelog
                                 s.abilities = frontierSet[8];
                                 s.EVs = frontierSet[9];
 
+                                //Change the EVs from numbers to a readable format.
                                 s.setEVs(frontierSet[9]);
 
                                 frontierSets[i] = s;
