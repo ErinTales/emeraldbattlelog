@@ -37,6 +37,8 @@ namespace PokemonBattleLogger
         string[] playerTeamRevealed = new string[6];
         string[] enemyTeamRevealed = new string[6];
 
+        string[] playerTeamStatus = new string[6];
+        string[] enemyTeamStatus = new string[6];
 
         public MainWindow()
         {
@@ -152,6 +154,10 @@ namespace PokemonBattleLogger
             line = line.Replace("シ", "");
             line = line.Replace("ス", "");
             line = line.Replace("⋯", "...");
+            line = line.Replace("♂", "");
+            line = line.Replace("♀", "");
+            line = line.Replace("こ", "");
+            line = line.Replace("あ", "");
 
             //Don't display random spam of battler names.
             if (line.Contains("いい"))
@@ -327,6 +333,8 @@ namespace PokemonBattleLogger
                 {
                     playerTeamRevealed = new string[6];
                     enemyTeamRevealed = new string[6];
+                    playerTeamStatus = new string[6];
+                    enemyTeamStatus = new string[6];
                     frontierSetsWindow.initializeTeams();
                     frontierSetsWindow.PossibleEnemies.Children.Clear();
                 });
@@ -339,7 +347,10 @@ namespace PokemonBattleLogger
                 {
                     playerTeamRevealed = new string[6];
                     enemyTeamRevealed = new string[6];
-                    frontierSetsWindow.initializeTeams();
+                    playerTeamStatus = new string[6];
+                    enemyTeamStatus = new string[6];
+                    //frontierSetsWindow.initializeTeams();
+                    frontierSetsWindow.teamIcons.Children.Clear();
                     frontierSetsWindow.PossibleEnemies.Children.Clear();
                 });
             }
@@ -503,6 +514,7 @@ namespace PokemonBattleLogger
 
             //Send teammates off to be displayed at the bottom.
             handleTeamIcons(line);
+            updateStatus(line);
 
             return line;
         }
@@ -519,12 +531,11 @@ namespace PokemonBattleLogger
                 {
                     if (line.Contains(" and "))
                     {
-                        Debug.WriteLine("double battle allies");
                         string sentOut = line.Split("Go! ")[1];
                         sentOut = sentOut.TrimEnd('!');
 
                         pokemonName = sentOut.Split(" and ")[1];
-                        displayTeamIcons(playerTeamRevealed, sentOut.Split(" and ")[0], true);
+                        displayTeamIcons(line, playerTeamRevealed, sentOut.Split(" and ")[0], true);
                     }
                     else //if (!line.Contains(" and "))
                     {
@@ -544,8 +555,9 @@ namespace PokemonBattleLogger
                     pokemonName = line.Split(" was dragged out")[0].Replace(". ", "_").ToLower();
                 }
 
-                displayTeamIcons(playerTeamRevealed, pokemonName, true);
+                displayTeamIcons(line, playerTeamRevealed, pokemonName, true);
             }
+
             if (line.Contains(" sent out ") || (line.Contains("Foe ") && line.Contains("dragged out")))
             {
                 string pokemonName = "";
@@ -558,7 +570,7 @@ namespace PokemonBattleLogger
                         sentOut = sentOut.TrimEnd('!');
 
                         pokemonName = sentOut.Split(" and ")[1];
-                        displayTeamIcons(enemyTeamRevealed, sentOut.Split(" and ")[0], false);
+                        displayTeamIcons(line, enemyTeamRevealed, sentOut.Split(" and ")[0], false);
                     }
                     else //if (!line.Contains(" and "))
                     {
@@ -570,11 +582,93 @@ namespace PokemonBattleLogger
                     pokemonName = line.Split(" was dragged out")[0].Split("Foe ")[1].Replace(". ", "_").ToLower();
                 }
 
-                displayTeamIcons(enemyTeamRevealed, pokemonName, false);
+                displayTeamIcons(line, enemyTeamRevealed, pokemonName, false);
             }
         }
 
-        void displayTeamIcons(string[] team, string teammate, bool isPlayer)
+        //For now this only displays fainting. It supports other status conditions, but
+        //it's not always possible to tell when status is caused/cured due to Natural Cure,
+        //Heal Bell, Aromatherapy, and some facilities allowing statusing outside/between battles.
+
+        void updateStatus(string line)
+        {
+            foreach (string status in Tables.status)
+            {
+                //match exact status name
+                if (Regex.IsMatch(
+                    line,
+                    $@"\b{Regex.Escape(status)}\b",
+                    RegexOptions.IgnoreCase))
+                {
+                    //We only want to handle fainting for now.
+                    if(status != "fainted")
+                    {
+                        return;
+                    }
+
+                    Debug.WriteLine(line);
+
+                    foreach (string pokemonName in Tables.pokemon)
+                    {
+                        //match exact pokemon name
+                        if (Regex.IsMatch(
+                            line,
+                            $@"\b{Regex.Escape(pokemonName)}\b",
+                            RegexOptions.IgnoreCase))
+                        {
+                            if (line.Contains("Foe "))
+                            {
+                                //Search the current enemy team for our target
+                                for (int i = 0; i < enemyTeamRevealed.Length; i++)
+                                {
+                                    if (!String.IsNullOrEmpty(enemyTeamRevealed[i]))
+                                    {
+                                        if (enemyTeamRevealed[i].ToLower().Equals(pokemonName.ToLower()))
+                                        {
+                                            enemyTeamStatus[i] = status;
+
+                                            //If they get cured by a berry (or heal naturally) delete the status.
+                                            //This never gets called atm because only fainting is handled.
+                                            if (line.Contains("cured") || line.Contains("defrosted") || line.Contains("woke up"))
+                                            {
+                                                enemyTeamStatus[i] = "";
+                                            }
+
+                                            frontierSetsWindow.displayTeam(enemyTeamRevealed, enemyTeamStatus, false);
+                                        }
+                                    }
+                                }
+                            }
+                            else //if(!line.Contains("Foe ")
+                            {
+                                for (int i = 0; i < playerTeamRevealed.Length; i++)
+                                {
+                                    if (!String.IsNullOrEmpty(playerTeamRevealed[i]))
+                                    {
+                                        if (playerTeamRevealed[i].ToLower().Equals(pokemonName.ToLower()))
+                                        {
+                                            playerTeamStatus[i] = status;
+
+                                            //If they get cured by a berry (or heal naturally) delete the status.
+                                            //This never gets called atm because only fainting is handled.
+                                            if (line.Contains("cured") || line.Contains("defrosted") || line.Contains("woke up"))
+                                            {
+                                                playerTeamStatus[i] = "";
+                                            }
+
+                                            frontierSetsWindow.displayTeam(playerTeamRevealed, playerTeamStatus, true);
+
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        void displayTeamIcons(string line, string[] team, string teammate, bool isPlayer)
         {
             if(team.Contains(teammate))
             {
@@ -587,7 +681,18 @@ namespace PokemonBattleLogger
                     if (team[i] == null)
                     {
                         team[i] = teammate;
-                        frontierSetsWindow.displayTeam(team, isPlayer);
+
+                        if (isPlayer)
+                        {
+                            playerTeamRevealed = team;
+                            frontierSetsWindow.displayTeam(playerTeamRevealed, playerTeamStatus, isPlayer);
+                        }
+                        else //if (!isPlayer)
+                        {
+                            enemyTeamRevealed = team;
+                            frontierSetsWindow.displayTeam(enemyTeamRevealed, enemyTeamStatus, isPlayer);
+                        }
+
                         break;
                     }
                 }

@@ -8,7 +8,13 @@ namespace emeraldbattlelog
     //This entire class is just tables of pokemon moves/items/abilities/names and frontier sets.
     public static class Tables
     {
-    
+        //only "fainted" is used for now, but would be used for status handling.
+        public static readonly String[] status = { "asleep", "burned", "fainted", "frozen", "paralyzed", "poisoned", "defrosted", "woke up"};
+
+        //unused for now, but would be used for status handling.
+        public static readonly String[] NaturalCureSometimes = {"Blissey", "Chansey", "Corsola", "Roselia", "Starmie", "Staryu",};
+        public static readonly String[] NaturalCure = { "Altaria", "Celebi", "Swablu" };
+
         public static readonly String[] battleMoves = {"Pound", "Karate Chop", "DoubleSlap", "Comet Punch", "Mega Punch", "Pay Day",
             "Fire Punch", "Ice Punch", "ThunderPunch", "Scratch", "ViceGrip", "Guillotine",
             "Razor Wind", "Swords Dance", "Cut", "Gust", "Wing Attack", "Whirlwind", "Fly",

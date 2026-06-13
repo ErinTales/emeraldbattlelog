@@ -1078,6 +1078,12 @@
     <None Remove="images\pokemon_sprites\zubat.png" />
     <None Remove="images\right-battle.png" />
     <None Remove="images\right.png" />
+    <None Remove="images\status\asleep.png" />
+    <None Remove="images\status\burned.png" />
+    <None Remove="images\status\fainted.png" />
+    <None Remove="images\status\frozen.png" />
+    <None Remove="images\status\paralyzed.png" />
+    <None Remove="images\status\poisoned.png" />
     <None Remove="images\top-battle.png" />
     <None Remove="images\top.png" />
     <None Remove="images\topleft-battle.png" />
@@ -2155,6 +2161,12 @@
     <Resource Include="images\pokemon_sprites\zubat.png" />
     <Resource Include="images\right-battle.png" />
     <Resource Include="images\right.png" />
+    <Resource Include="images\status\asleep.png" />
+    <Resource Include="images\status\burned.png" />
+    <Resource Include="images\status\fainted.png" />
+    <Resource Include="images\status\frozen.png" />
+    <Resource Include="images\status\paralyzed.png" />
+    <Resource Include="images\status\poisoned.png" />
     <Resource Include="images\top-battle.png" />
     <Resource Include="images\top.png" />
     <Resource Include="images\topleft-battle.png" />

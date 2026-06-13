@@ -3,6 +3,7 @@ using System.Collections;
 using System.Diagnostics;
 using System.Globalization;
 using System.IO;
+using System.Net.NetworkInformation;
 using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Text;
@@ -28,7 +29,7 @@ namespace PokemonBattleLogger
         private PokemonSlot[] enemyTeam = new PokemonSlot[4];
         PokemonSlot[] sets;
         int enemyCount = 1;
-        bool initializedTeams = false;
+        //bool initializedTeams = false;
         StackPanel playerTeamPanel;
         StackPanel enemyTeamPanel;
         Grid teamsGrid;
@@ -44,11 +45,11 @@ namespace PokemonBattleLogger
         private void StartWatcher()
         {
             //Show the little pokeballs.
-            if (!initializedTeams)
+            /*if (!initializedTeams)
             {
                 initializeTeams();
                 initializedTeams = true;
-            }
+            }*/
         }
 
         private void Window_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
@@ -153,7 +154,8 @@ namespace PokemonBattleLogger
             }   
         }
 
-        public void displayTeam(string[] team, bool isPlayer)
+        //Display the team icons at the bottom
+        public void displayTeam(string[] team, string[] teamStatus, bool isPlayer)
         {
             Dispatcher.Invoke(() =>
             {
@@ -162,17 +164,32 @@ namespace PokemonBattleLogger
                     Orientation = Orientation.Horizontal
                 };
 
-                Debug.WriteLine(team.ToString());
-
                 int teammateCount = team.Count(x => !string.IsNullOrEmpty(x));
                 int pokeballCount = Math.Max(3 - teammateCount, 0);
 
-                Debug.WriteLine("Teammate count: " + teammateCount + ", " + "Pokeball count: " + pokeballCount);
-
+                //For each teammate, add the icon + status if applicable.
                 for (int i = 0; i < teammateCount; i++)
                 {
-                    teamPanel.Children.Add(initializeIcon(team[i]));
+                    //If we have a status, overlay it first.
+                    if (!String.IsNullOrEmpty(teamStatus[i]))
+                    {
+                        var container = new Grid();
+
+                        container.Children.Add(initializeIcon(team[i]));
+                        if (!teamStatus[i].Equals("remove"))
+                        {
+                            container.Children.Add(initializeStatus(teamStatus[i], 24));
+                        }
+
+                        teamPanel.Children.Add(container);
+                    }
+                    else //if we don't have a status...
+                    {
+                        teamPanel.Children.Add(initializeIcon(team[i]));
+
+                    }
                 }
+                //If there's less than 3 teammates, add pokeballs.
                 for (int i = 0; i < pokeballCount; i++)
                 {
                     teamPanel = initializePokeballIcon(teamPanel);
@@ -319,7 +336,7 @@ namespace PokemonBattleLogger
 
             PossibleEnemies.Children.Add(border);
         }
-
+        
         public Image initializeIcon(string name)
         {
             DispatcherTimer itemTimer;
@@ -354,6 +371,26 @@ namespace PokemonBattleLogger
             RenderOptions.SetBitmapScalingMode(itemImage, BitmapScalingMode.NearestNeighbor);
 
             return itemImage;
+        }
+
+        //If we want to initialize a normal status, top should be 24.
+        //If we want to initialize the unused "unknown" status,
+        //then we call: initializeStatus("unknown", 18);
+        public Image initializeStatus(string status, double top)
+        {
+            var statusImage = new Image
+                {
+                    Source = new BitmapImage(
+                        new Uri($"pack://application:,,,/Images/status/{status}.png")),
+                    Width = 20,
+                    Height = 8,
+                    IsHitTestVisible = false
+                };
+
+            statusImage.Margin = new Thickness(12, top, 0, 0);
+            statusImage.Opacity = 0.7;
+            
+            return statusImage;
         }
 
         public StackPanel addName(PokemonSlot set)
