@@ -348,6 +348,7 @@ namespace PokemonBattleLogger
             }
             catch(Exception e)
             {
+                Debug.WriteLine("Error with: " + name);
                 bitmap = new BitmapImage(
                                 new Uri($"pack://application:,,,/Images/icons/question_mark.png"));
             }
@@ -528,6 +529,7 @@ namespace PokemonBattleLogger
             }
             catch(Exception e)
             {
+                Debug.WriteLine("Error with: " + name);
                 bitmap = new BitmapImage(
                     new Uri($"pack://application:,,,/Images/icons/question_mark.png"));
             }
