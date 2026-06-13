@@ -12588,3 +12588,1237 @@ Battler 1 info: Granbull Lv100 HP 92/356 - 342 158 115 128 98 - Moves: 5 Mega Ki
 Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
 Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
 What　will<FE>SLOWKING　do？
+AMNESIA
+TYPE/<FC>かあPSYCHC
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあGROUND
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+TAUROS　woke　up！
+TAUROS　used<FE>EARTHQUAKE！
+Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 0 info: Slowking Lv100 HP 293/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 1 info: Granbull Lv100 HP 0/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 19 Roar
+A　critical　hit！
+Foe　GRANBULL<FE>fainted！<FB>
+Battler 3 info: Venusaur Lv100 HP 0/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+A　critical　hit！
+Battler 3 info: Venusaur Lv100 HP 0/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Foe　VENUSAUR<FE>fainted！<FB>
+Battler 1 info: Granbull Lv100 HP 0/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 19 Roar
+Battler 3 info: Venusaur Lv100 HP 0/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 0/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Player　defeated<FE>PARASOL　LADY　CHELSEA！<FB>
+Battler 3 info: Venusaur Lv100 HP 0/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+YOU\'RE　FAR　TOO　STRONG<FE>FOR　ME　<FC>け
+<FC>いいHARIYAMA<FC>あさ♂
+<FC>いいVILEPLUME<FC>あさ♂
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいSALAMENCE<FC>あさ♂
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 1 info: Vileplume Lv100 HP 326/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 5 Aromatherapy
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Salamence Lv100 HP 303/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+LADY　TINA<FE>would　like　to　battle！<FB>
+LADY　TINA　sent<FE>out　VILEPLUME　and　SALAMENCE！
+Battler 3 info: Salamence Lv100 HP 303/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+<FC>いいSALAMENCE<FC>あさ♂
+<FC>いいVILEPLUME<FC>あさ♂
+Go！　HARIYAMA　and<FE>TAUROS！
+Battler 3 info: Salamence Lv100 HP 303/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいHARIYAMA<FC>あさ♂
+Battler 1 info: Vileplume Lv100 HP 326/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 5 Aromatherapy
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　VILEPLUME\'s　ATTACK！
+Battler 3 info: Salamence Lv100 HP 303/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　SALAMENCE\'s　ATTACK！
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Foe　SALAMENCE\'s　INTIMIDATE<FE>cuts　HARIYAMA\'s　ATTACK！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 20 Facade
+Foe　SALAMENCE\'s　INTIMIDATE<FE>cuts　TAUROS\'s　ATTACK！
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Salamence Lv100 HP 303/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+Battler 3 info: Salamence Lv100 HP 303/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+Battler 3 info: Salamence Lv100 HP 303/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+Battler 3 info: Salamence Lv100 HP 303/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+COUNTER
+ラ5/ラ5
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあROCK
+TYPE/<FC>かあNORMAL
+What　will<FE>HARIYAMA　do？
+COUNTER
+10/10
+TYPE/<FC>かあNORMAL
+What　will<FE>TAUROS　do？
+SWAGGER
+10/10
+TYPE/<FC>かあGROUND
+TYPE/<FC>かあNORMAL
+Battler 3 info: Salamence Lv100 HP 303/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+HARIYAMA　used<FE>FAKE　OUT！
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+Battler 3 info: Salamence Lv100 HP 270/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+Battler 3 info: Salamence Lv100 HP 270/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+Battler 3 info: Salamence Lv100 HP 270/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+Battler 3 info: Salamence Lv100 HP 270/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+TAUROS　used<FE>FACADE！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 19 Facade
+Battler 3 info: Salamence Lv100 HP 0/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+A　critical　hit！
+Battler 3 info: Salamence Lv100 HP 0/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+Foe　SALAMENCE<FE>fainted！<FB>
+Battler 3 info: Salamence Lv100 HP 0/303 - 341 168 228 168 271 - Moves: 15 Dragon Claw, 20 Aerial Ace, 15 Headbutt, 10 Rock Slide
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 19 Facade
+Battler 3 info: Flareon Lv100 HP 243/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+LADY　TINA　sent<FE>out　FLAREON！
+Battler 3 info: Flareon Lv100 HP 243/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+<FC>いいFLAREON<FC>あさ♂
+Battler 3 info: Flareon Lv100 HP 243/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+Foe　VILEPLUME　used<FE>AROMATHERAPY！
+Battler 1 info: Vileplume Lv100 HP 326/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 4 Aromatherapy
+A　soothing　aroma　wafted<FE>through　the　area！
+Battler 3 info: Flareon Lv100 HP 243/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Flareon Lv100 HP 243/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 243/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 243/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 243/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+COUNTER
+ラ9/10
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあNORMAL
+What　will<FE>RMAL
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ9/10
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあROCK
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+What　willORMAL
+What　will<FE>TAUROS　do？
+SWAGGER
+15/15
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあGROUND
+Battler 3 info: Flareon Lv100 HP 243/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+TAUROS　used<FE>EARTHQUAKE！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 20 Thrash, 15 Swagger, 19 Facade
+Battler 0 info: Hariyama Lv100 HP 175/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+A　critical　hit！
+Battler 1 info: Vileplume Lv100 HP 247/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 4 Aromatherapy
+Battler 3 info: Flareon Lv100 HP 67/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+It\'s　super　effective！
+Battler 3 info: Flareon Lv100 HP 67/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 67/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 15 Sand-Attack
+Foe　FLAREON　used<FE>SANDーATTACK！
+Battler 3 info: Flareon Lv100 HP 67/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 20 Thrash, 15 Swagger, 19 Facade
+TAUROS\'s　accuracy<FE>fell！
+Battler 3 info: Flareon Lv100 HP 67/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 67/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+HARIYAMA　used<FE>ROCK　SLIDE！
+Battler 0 info: Hariyama Lv100 HP 175/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 9 Rock Slide, 20 Counter, 9 Fake Out
+Battler 1 info: Vileplume Lv100 HP 218/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 4 Aromatherapy
+Battler 3 info: Flareon Lv100 HP 14/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+It\'s　super　effective！
+Battler 3 info: Flareon Lv100 HP 14/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 14/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Foe　VILEPLUME　used<FE>AROMATHERAPY！
+Battler 1 info: Vileplume Lv100 HP 218/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 3 Aromatherapy
+A　soothing　aroma　wafted<FE>through　the　area！
+Battler 3 info: Flareon Lv100 HP 14/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Foe　FLAREON\'s　SITRUS　BERRY<FE>restored　health！
+Battler 3 info: Flareon Lv100 HP 44/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 44/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Flareon Lv100 HP 44/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 44/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 44/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 44/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+COUNTER
+ラ9/10
+TYPE/<FC>かあROCK
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあGROUND
+Battler 3 info: Flareon Lv100 HP 44/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+TAUROS　used<FE>EARTHQUAKE！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 8 Earthquake, 20 Thrash, 15 Swagger, 19 Facade
+HARIYAMA　avoided<FE>the　attack！
+Battler 1 info: Vileplume Lv100 HP 139/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 3 Aromatherapy
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+It\'s　super　effective！
+Foe　FLAREON<FE>fainted！<FB>
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Foe　VILEPLUME　used<FE>AROMATHERAPY！
+Battler 1 info: Vileplume Lv100 HP 139/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 2 Aromatherapy
+A　soothing　aroma　wafted<FE>through　the　area！
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+HARIYAMA　used<FE>ROCK　SLIDE！
+Battler 0 info: Hariyama Lv100 HP 175/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 8 Rock Slide, 20 Counter, 9 Fake Out
+Battler 1 info: Vileplume Lv100 HP 86/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 2 Aromatherapy
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ8/10
+TYPE/<FC>かあROCK
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあROCK
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+SWAGGER
+ラ8/10
+TYPE/<FC>かあGROUND
+TYPE/<FC>かあNORMAL
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+TAUROS　used<FE>FACADE！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 8 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 1 info: Vileplume Lv100 HP 5/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 2 Aromatherapy
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 175/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 8 Rock Slide, 20 Counter, 9 Fake Out
+HARIYAMA\'s<FE>attack　missed！
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Foe　VILEPLUME　used<FE>AROMATHERAPY！
+Battler 1 info: Vileplume Lv100 HP 5/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 1 Aromatherapy
+A　soothing　aroma　wafted<FE>through　the　area！
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ4/ラ5
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+TAUROS　used<FE>FACADE！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 8 Earthquake, 20 Thrash, 15 Swagger, 17 Facade
+Battler 1 info: Vileplume Lv100 HP 0/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 1 Aromatherapy
+Battler 1 info: Vileplume Lv100 HP 0/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 1 Aromatherapy
+Foe　VILEPLUME<FE>fainted！<FB>
+Battler 1 info: Vileplume Lv100 HP 0/326 - 231 195 187 188 108 - Moves: 10 Sludge Bomb, 20 Petal Dance, 5 Moonlight, 1 Aromatherapy
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+Player　defeated<FE>LADY　TINA！<FB>
+Battler 3 info: Flareon Lv100 HP 0/243 - 241 191 287 228 138 - Moves: 15 Flamethrower, 20 Roar, 25 Bite, 14 Sand-Attack
+YOU　WANT　A<FE>SWIFT　MEGA　KICK　INSTEAD<FC>け
+<FC>いいHARIYAMA<FC>あさ♂
+<FC>いいSNORLAX<FC>あさ♂
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいBRELOOM<FC>あさ♂
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 1 info: Snorlax Lv100 HP 433/433 - 320 201 124 228 68 - Moves: 20 Facade, 15 Shadow Ball, 15 Attract, 15 Double Team
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Breloom Lv100 HP 233/233 - 331 168 115 128 232 - Moves: 15 Sky Uppercut, 30 Mach Punch, 15 Headbutt, 20 Counter
+BIRD　KEEPER　TREVIN<FE>would　like　to　battle！<FB>
+BIRD　KEEPER　TREVIN　sent<FE>out　SNORLAX　and　BRELOOM！
+Battler 3 info: Breloom Lv100 HP 233/233 - 331 168 115 128 232 - Moves: 15 Sky Uppercut, 30 Mach Punch, 15 Headbutt, 20 Counter
+Battler 3 info: Breloom Lv100 HP 233/233 - 331 168 115 128 232 - Moves: 15 Sky Uppercut, 30 Mach Punch, 15 Headbutt, 20 Counter
+<FC>いいBRELOOM<FC>あさ♂
+<FC>いいSNORLAX<FC>あさ♂
+Go！　HARIYAMA　and<FE>TAUROS！
+Battler 3 info: Breloom Lv100 HP 233/233 - 331 168 115 128 232 - Moves: 15 Sky Uppercut, 30 Mach Punch, 15 Headbutt, 20 Counter
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいHARIYAMA<FC>あさ♂
+Battler 1 info: Snorlax Lv100 HP 433/433 - 320 201 124 228 68 - Moves: 20 Facade, 15 Shadow Ball, 15 Attract, 15 Double Team
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　SNORLAX\'s　ATTACK！
+Battler 3 info: Breloom Lv100 HP 233/233 - 331 168 115 128 232 - Moves: 15 Sky Uppercut, 30 Mach Punch, 15 Headbutt, 20 Counter
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　BRELOOM\'s　ATTACK！
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Breloom Lv100 HP 233/233 - 331 168 115 128 232 - Moves: 15 Sky Uppercut, 30 Mach Punch, 15 Headbutt, 20 Counter
+Battler 3 info: Breloom Lv100 HP 233/233 - 331 168 115 128 232 - Moves: 15 Sky Uppercut, 30 Mach Punch, 15 Headbutt, 20 Counter
+COUNTER
+ラ5/ラ5
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+SWAGGER
+10/10
+TYPE/<FC>かあGROUND
+TYPE/<FC>かあNORMAL
+Battler 3 info: Breloom Lv100 HP 233/233 - 331 168 115 128 232 - Moves: 15 Sky Uppercut, 30 Mach Punch, 15 Headbutt, 20 Counter
+TAUROS　used<FE>THRASH！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Breloom Lv100 HP 0/233 - 331 168 115 128 232 - Moves: 15 Sky Uppercut, 30 Mach Punch, 15 Headbutt, 20 Counter
+A　critical　hit！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Breloom Lv100 HP 0/233 - 331 168 115 128 232 - Moves: 15 Sky Uppercut, 30 Mach Punch, 15 Headbutt, 20 Counter
+Foe　BRELOOM<FE>fainted！<FB>
+Battler 3 info: Breloom Lv100 HP 0/233 - 331 168 115 128 232 - Moves: 15 Sky Uppercut, 30 Mach Punch, 15 Headbutt, 20 Counter
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Flygon Lv100 HP 273/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 20 Faint Attack, 20 Facade
+BIRD　KEEPER　TREVIN　sent<FE>out　FLYGON！
+Battler 3 info: Flygon Lv100 HP 273/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 20 Faint Attack, 20 Facade
+<FC>いいFLYGON<FC>あさ♂
+Battler 3 info: Flygon Lv100 HP 273/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 20 Faint Attack, 20 Facade
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 1 info: Snorlax Lv100 HP 89/433 - 320 201 124 228 68 - Moves: 20 Facade, 15 Shadow Ball, 15 Attract, 15 Double Team
+It\'s　super　effective！
+Battler 3 info: Flygon Lv100 HP 273/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 20 Faint Attack, 20 Facade
+Battler 3 info: Flygon Lv100 HP 273/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 20 Faint Attack, 20 Facade
+Foe　SNORLAX　used<FE>FACADE！
+Battler 1 info: Snorlax Lv100 HP 89/433 - 320 201 124 228 68 - Moves: 19 Facade, 15 Shadow Ball, 15 Attract, 15 Double Team
+Battler 0 info: Hariyama Lv100 HP 337/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 3 info: Flygon Lv100 HP 273/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 20 Faint Attack, 20 Facade
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+Foe　SNORLAX\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Snorlax Lv100 HP 116/433 - 320 201 124 228 68 - Moves: 19 Facade, 15 Shadow Ball, 15 Attract, 15 Double Team
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Flygon Lv100 HP 273/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 20 Faint Attack, 20 Facade
+Battler 3 info: Flygon Lv100 HP 273/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 20 Faint Attack, 20 Facade
+COUNTER
+ラ4/ラ5
+TYPE/<FC>かあFIGHT
+Battler 3 info: Flygon Lv100 HP 273/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 20 Faint Attack, 20 Facade
+TAUROS　used<FE>THRASH！
+Battler 3 info: Flygon Lv100 HP 96/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 20 Faint Attack, 20 Facade
+Battler 3 info: Flygon Lv100 HP 96/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 20 Faint Attack, 20 Facade
+Battler 3 info: Flygon Lv100 HP 96/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 20 Faint Attack, 20 Facade
+Foe　FLYGON　used<FE>FAINT　ATTACK！
+Battler 3 info: Flygon Lv100 HP 96/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 19 Faint Attack, 20 Facade
+Battler 2 info: Tauros Lv100 HP 218/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Flygon Lv100 HP 96/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 19 Faint Attack, 20 Facade
+Battler 3 info: Flygon Lv100 HP 96/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 19 Faint Attack, 20 Facade
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 337/443 - 272 170 79 170 108 - Moves: 3 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 1 info: Snorlax Lv100 HP 0/433 - 320 201 124 228 68 - Moves: 19 Facade, 15 Shadow Ball, 15 Attract, 15 Double Team
+A　critical　hit！
+It\'s　super　effective！
+Battler 1 info: Snorlax Lv100 HP 0/433 - 320 201 124 228 68 - Moves: 19 Facade, 15 Shadow Ball, 15 Attract, 15 Double Team
+Foe　SNORLAX<FE>fainted！<FB>
+Battler 1 info: Snorlax Lv100 HP 0/433 - 320 201 124 228 68 - Moves: 19 Facade, 15 Shadow Ball, 15 Attract, 15 Double Team
+Battler 3 info: Flygon Lv100 HP 96/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 19 Faint Attack, 20 Facade
+Battler 3 info: Flygon Lv100 HP 96/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 19 Faint Attack, 20 Facade
+Battler 3 info: Flygon Lv100 HP 96/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 19 Faint Attack, 20 Facade
+Battler 2 info: Tauros Lv100 HP 218/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ3/ラ5
+TYPE/<FC>かあFIGHT
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ3/ラ5
+TYPE/<FC>かあFIGHT
+Battler 3 info: Flygon Lv100 HP 96/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 19 Faint Attack, 20 Facade
+TAUROS　used<FE>THRASH！
+Battler 3 info: Flygon Lv100 HP 0/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 19 Faint Attack, 20 Facade
+Foe　FLYGON<FE>fainted！<FB>
+Battler 3 info: Flygon Lv100 HP 0/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 19 Faint Attack, 20 Facade
+Battler 3 info: Flygon Lv100 HP 0/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 19 Faint Attack, 20 Facade
+Player　defeated<FE>BIRD　KEEPER　TREVIN！<FB>
+Battler 3 info: Flygon Lv100 HP 0/273 - 298 168 151 168 271 - Moves: 10 Earthquake, 25 Steel Wing, 19 Faint Attack, 20 Facade
+SERIOUS　？！　<FE><FC>け
+<FC>いいHARIYAMA<FC>あさ♂
+<FC>いいFEAROW<FC>あこ♀
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいWHISCASH<FC>あさ♂
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 1 info: Fearow Lv100 HP 243/243 - 276 138 117 130 271 - Moves: 20 Drill Peck, 10 Tri Attack, 20 Facade, 10 Mud-Slap
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+TRIATHLETE　KATHRYN<FE>would　like　to　battle！<FB>
+TRIATHLETE　KATHRYN　sent<FE>out　FEAROW　and　WHISCASH！
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+<FC>いいWHISCASH<FC>あさ♂
+<FC>いいFEAROW<FC>あこ♀
+Go！　HARIYAMA　and<FE>TAUROS！
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいHARIYAMA<FC>あさ♂
+Battler 1 info: Fearow Lv100 HP 243/243 - 276 138 117 130 271 - Moves: 20 Drill Peck, 10 Tri Attack, 20 Facade, 10 Mud-Slap
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　FEAROW\'s　ATTACK！
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　WHISCASH\'s　ATTACK！
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+COUNTER
+ラ5/ラ5
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあROCK
+TYPE/<FC>かあNORMAL
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあGROUND
+TYPE/<FC>かあNORMAL
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+HARIYAMA　used<FE>FAKE　OUT！
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+Battler 1 info: Fearow Lv100 HP 180/243 - 276 138 117 130 271 - Moves: 20 Drill Peck, 10 Tri Attack, 20 Facade, 10 Mud-Slap
+Battler 1 info: Fearow Lv100 HP 180/243 - 276 138 117 130 271 - Moves: 20 Drill Peck, 10 Tri Attack, 20 Facade, 10 Mud-Slap
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+TAUROS　used<FE>FACADE！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 19 Facade
+Battler 1 info: Fearow Lv100 HP 4/243 - 276 138 117 130 271 - Moves: 20 Drill Peck, 10 Tri Attack, 20 Facade, 10 Mud-Slap
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 1 info: Fearow Lv100 HP 4/243 - 276 138 117 130 271 - Moves: 20 Drill Peck, 10 Tri Attack, 20 Facade, 10 Mud-Slap
+Foe　FEAROW　flinched！
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 10 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Foe　WHISCASH　used<FE>EARTHQUAKE！
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 9 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 0 info: Hariyama Lv100 HP 326/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+It　doesn\'t　affect<FE>Foe　FEAROW⋯
+Battler 2 info: Tauros Lv100 HP 163/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 19 Facade
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 9 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 9 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 9 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+COUNTER
+ラ9/10
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあROCK
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+Battler 3 info: Whiscash Lv100 HP 396/396 - 249 154 144 150 128 - Moves: 9 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+TAUROS　used<FE>FACADE！
+Battler 2 info: Tauros Lv100 HP 163/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 9 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 9 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 9 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Foe　FEAROW　used<FE>TRI　ATTACK！
+Battler 1 info: Fearow Lv100 HP 4/243 - 276 138 117 130 271 - Moves: 20 Drill Peck, 9 Tri Attack, 20 Facade, 10 Mud-Slap
+Battler 2 info: Tauros Lv100 HP 71/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 9 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 9 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Foe　WHISCASH　used<FE>EARTHQUAKE！
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 0 info: Hariyama Lv100 HP 211/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+It　doesn\'t　affect<FE>Foe　FEAROW⋯
+Battler 2 info: Tauros Lv100 HP 0/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+TAUROS<FE>fainted！<FB>
+Battler 2 info: Tauros Lv100 HP 0/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+<FC>いいHARIYAMA<FC>あさ♂
+<FC>いいFEAROW<FC>あこ♀
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいWHISCASH<FC>あさ♂
+Battler 1 info: Fearow Lv100 HP 4/243 - 276 138 117 130 271 - Moves: 20 Drill Peck, 9 Tri Attack, 20 Facade, 10 Mud-Slap
+Battler 2 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Go！　SLOWKING！
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+<FC>いいSLOWKING<FC>あさ♂
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+HARIYAMA　used<FE>ROCK　SLIDE！
+Battler 0 info: Hariyama Lv100 HP 211/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 9 Rock Slide, 20 Counter, 9 Fake Out
+Battler 1 info: Fearow Lv100 HP 0/243 - 276 138 117 130 271 - Moves: 20 Drill Peck, 9 Tri Attack, 20 Facade, 10 Mud-Slap
+It\'s　super　effective！
+Battler 1 info: Fearow Lv100 HP 0/243 - 276 138 117 130 271 - Moves: 20 Drill Peck, 9 Tri Attack, 20 Facade, 10 Mud-Slap
+Foe　FEAROW<FE>fainted！<FB>
+Foe　WHISCASH　avoided<FE>the　attack！
+Battler 1 info: Fearow Lv100 HP 0/243 - 276 138 117 130 271 - Moves: 20 Drill Peck, 9 Tri Attack, 20 Facade, 10 Mud-Slap
+Battler 0 info: Hariyama Lv100 HP 211/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 9 Rock Slide, 20 Counter, 9 Fake Out
+Battler 1 info: Starmie Lv100 HP 296/296 - 142 178 298 178 238 - Moves: 10 Psychic, 10 Confuse Ray, 20 Thunder Wave, 20 Recover
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+TRIATHLETE　KATHRYN　sent<FE>out　STARMIE！
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+<FC>いいSTARMIE<FC>あさ
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ9/10
+TYPE/<FC>かあROCK
+What　will<FE>SLOWKING　do？
+AMNESIA
+10/10
+TYPE/<FC>かあPSYCHC
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Foe　STARMIE　used<FE>RECOVER！
+Battler 1 info: Starmie Lv100 HP 296/296 - 142 178 298 178 238 - Moves: 10 Psychic, 10 Confuse Ray, 20 Thunder Wave, 19 Recover
+Foe　STARMIE\'s<FE>HP　is　full！
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 10 Rock Slide, 20 Amnesia, 10 Rest
+Foe　WHISCASH　used<FE>ROCK　SLIDE！
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 20 Amnesia, 10 Rest
+Battler 0 info: Hariyama Lv100 HP 196/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 9 Rock Slide, 20 Counter, 9 Fake Out
+It\'s　not　very　effective⋯
+Battler 2 info: Slowking Lv100 HP 346/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 250/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 20 Amnesia, 10 Rest
+HARIYAMA　used<FE>ROCK　SLIDE！
+Battler 0 info: Hariyama Lv100 HP 196/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 8 Rock Slide, 20 Counter, 9 Fake Out
+Battler 1 info: Starmie Lv100 HP 250/296 - 142 178 298 178 238 - Moves: 10 Psychic, 10 Confuse Ray, 20 Thunder Wave, 19 Recover
+Battler 3 info: Whiscash Lv100 HP 226/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 20 Amnesia, 10 Rest
+It\'s　not　very　effective⋯
+Battler 3 info: Whiscash Lv100 HP 226/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 226/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 20 Amnesia, 10 Rest
+SLOWKING　used<FE>PSYCHIC！
+Battler 2 info: Slowking Lv100 HP 346/366 - 158 231 228 228 61 - Moves: 9 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 3 info: Whiscash Lv100 HP 79/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 79/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 20 Amnesia, 10 Rest
+SLOWKING\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 2 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 9 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ8/10
+TYPE/<FC>かあROCK
+TYPE/<FC>かあFIGHT
+What　will<FE>SLOWKING　do？
+AMNESIA
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあPSYCHC
+Battler 3 info: Whiscash Lv100 HP 79/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 20 Amnesia, 10 Rest
+Foe　STARMIE　used<FE>THUNDER　WAVE！
+Battler 1 info: Starmie Lv100 HP 250/296 - 142 178 298 178 238 - Moves: 10 Psychic, 10 Confuse Ray, 19 Thunder Wave, 19 Recover
+Battler 0 info: Hariyama Lv100 HP 196/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 8 Rock Slide, 20 Counter, 9 Fake Out
+HARIYAMA　is　paralyzed！<FE>It　may　be　unable　to　move！
+Battler 3 info: Whiscash Lv100 HP 79/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 20 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 79/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 20 Amnesia, 10 Rest
+Foe　WHISCASH　used<FE>AMNESIA！
+Battler 3 info: Whiscash Lv100 HP 79/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 79/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+Foe　WHISCASH\'s　SP。　DEF<FE>sharply　rose！
+Battler 3 info: Whiscash Lv100 HP 79/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 79/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 196/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 8 Rock Slide, 20 Counter, 9 Fake Out
+Battler 3 info: Whiscash Lv100 HP 0/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+A　critical　hit！
+Battler 3 info: Whiscash Lv100 HP 0/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+Foe　WHISCASH<FE>fainted！<FB>
+Battler 3 info: Whiscash Lv100 HP 0/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 0/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 0/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+SLOWKING　used<FE>PSYCHIC！
+Battler 2 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 8 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 1 info: Starmie Lv100 HP 188/296 - 142 178 298 178 238 - Moves: 10 Psychic, 10 Confuse Ray, 19 Thunder Wave, 19 Recover
+It\'s　not　very　effective⋯
+Battler 1 info: Starmie Lv100 HP 188/296 - 142 178 298 178 238 - Moves: 10 Psychic, 10 Confuse Ray, 19 Thunder Wave, 19 Recover
+Foe　STARMIE\'s　SP。　DEF<FE>fell！
+Battler 3 info: Whiscash Lv100 HP 0/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ4/ラ5
+TYPE/<FC>かあFIGHT
+What　will<FE>SLOWKING　do？
+AMNESIA
+ラ8/10
+TYPE/<FC>かあPSYCHC
+Battler 3 info: Whiscash Lv100 HP 0/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+Foe　STARMIE　used<FE>PSYCHIC！
+Battler 1 info: Starmie Lv100 HP 188/296 - 142 178 298 178 238 - Moves: 9 Psychic, 10 Confuse Ray, 19 Thunder Wave, 19 Recover
+Battler 2 info: Slowking Lv100 HP 293/366 - 158 231 228 228 61 - Moves: 8 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+It\'s　not　very　effective⋯
+Foe　STARMIE\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 1 info: Starmie Lv100 HP 197/296 - 142 178 298 178 238 - Moves: 9 Psychic, 10 Confuse Ray, 19 Thunder Wave, 19 Recover
+Battler 3 info: Whiscash Lv100 HP 0/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 0/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+SLOWKING　used<FE>PSYCHIC！
+Battler 2 info: Slowking Lv100 HP 293/366 - 158 231 228 228 61 - Moves: 7 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 1 info: Starmie Lv100 HP 94/296 - 142 178 298 178 238 - Moves: 9 Psychic, 10 Confuse Ray, 19 Thunder Wave, 19 Recover
+It\'s　not　very　effective⋯
+Battler 3 info: Whiscash Lv100 HP 0/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+Battler 3 info: Whiscash Lv100 HP 0/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 196/443 - 272 170 79 170 108 - Moves: 3 Cross Chop, 8 Rock Slide, 20 Counter, 9 Fake Out
+Battler 1 info: Starmie Lv100 HP 0/296 - 142 178 298 178 238 - Moves: 9 Psychic, 10 Confuse Ray, 19 Thunder Wave, 19 Recover
+It\'s　not　very　effective⋯
+Battler 1 info: Starmie Lv100 HP 0/296 - 142 178 298 178 238 - Moves: 9 Psychic, 10 Confuse Ray, 19 Thunder Wave, 19 Recover
+Foe　STARMIE<FE>fainted！<FB>
+Battler 1 info: Starmie Lv100 HP 0/296 - 142 178 298 178 238 - Moves: 9 Psychic, 10 Confuse Ray, 19 Thunder Wave, 19 Recover
+Battler 3 info: Whiscash Lv100 HP 0/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+Player　defeated<FE>TRIATHLETE　KATHRYN！<FB>
+Battler 3 info: Whiscash Lv100 HP 0/396 - 249 154 144 150 128 - Moves: 8 Earthquake, 9 Rock Slide, 19 Amnesia, 10 Rest
+WHY　COULDN\'T　I<FE>WIN　THIS　？<FC>け
+<FC>いいHARIYAMA<FC>あさ♂
+<FC>いいBLASTOISE<FC>あこ♀
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいRAICHU<FC>あこ♀
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 1 info: Blastoise Lv100 HP 334/334 - 156 208 265 218 164 - Moves: 5 Hydro Pump, 5 Rain Dance, 25 Bite, 20 Seismic Toss
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Raichu Lv100 HP 233/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+RUIN　MANIAC　ANTON<FE>would　like　to　battle！<FB>
+RUIN　MANIAC　ANTON　sent<FE>out　BLASTOISE　and　RAICHU！
+Battler 3 info: Raichu Lv100 HP 233/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+Battler 3 info: Raichu Lv100 HP 233/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+<FC>いいRAICHU<FC>あこ♀
+<FC>いいBLASTOISE<FC>あこ♀
+Go！　HARIYAMA　and<FE>TAUROS！
+Battler 3 info: Raichu Lv100 HP 233/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいHARIYAMA<FC>あさ♂
+Battler 1 info: Blastoise Lv100 HP 334/334 - 156 208 265 218 164 - Moves: 5 Hydro Pump, 5 Rain Dance, 25 Bite, 20 Seismic Toss
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　BLASTOISE\'s　ATTACK！
+Battler 3 info: Raichu Lv100 HP 233/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　RAICHU\'s　ATTACK！
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Raichu Lv100 HP 233/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+Battler 3 info: Raichu Lv100 HP 233/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+Battler 3 info: Raichu Lv100 HP 233/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+Battler 3 info: Raichu Lv100 HP 233/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+COUNTER
+ラ5/ラ5
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+SWAGGER
+10/10
+TYPE/<FC>かあGROUND
+TYPE/<FC>かあNORMAL
+Battler 3 info: Raichu Lv100 HP 233/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+TAUROS　used<FE>THRASH！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Raichu Lv100 HP 48/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Raichu Lv100 HP 48/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+Battler 3 info: Raichu Lv100 HP 48/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 30 Light Screen, 15 Double Team
+Foe　RAICHU　used<FE>LIGHT　SCREEN！
+Battler 3 info: Raichu Lv100 HP 48/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 29 Light Screen, 15 Double Team
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF　a　little！
+Battler 3 info: Raichu Lv100 HP 48/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 29 Light Screen, 15 Double Team
+Battler 3 info: Raichu Lv100 HP 48/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 29 Light Screen, 15 Double Team
+Foe　BLASTOISE　used<FE>RAIN　DANCE！
+Battler 1 info: Blastoise Lv100 HP 334/334 - 156 208 265 218 164 - Moves: 5 Hydro Pump, 4 Rain Dance, 25 Bite, 20 Seismic Toss
+It　started　to　rain！
+Battler 3 info: Raichu Lv100 HP 48/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 29 Light Screen, 15 Double Team
+Battler 3 info: Raichu Lv100 HP 48/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 29 Light Screen, 15 Double Team
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 3 info: Raichu Lv100 HP 0/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 29 Light Screen, 15 Double Team
+Battler 3 info: Raichu Lv100 HP 0/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 29 Light Screen, 15 Double Team
+Foe　RAICHU<FE>fainted！<FB>
+Battler 3 info: Raichu Lv100 HP 0/233 - 169 160 253 168 250 - Moves: 15 Thunderbolt, 30 Quick Attack, 29 Light Screen, 15 Double Team
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 15 Brick Break, 10 Rock Tomb, 20 Counter
+RUIN　MANIAC　ANTON　sent<FE>out　HERACROSS！
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 15 Brick Break, 10 Rock Tomb, 20 Counter
+<FC>いいHERACROSS<FC>あこ♀
+Rain　continues　to　fall。
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+What　will<FE>nues　to　fall。
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 15 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 15 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 15 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 15 Brick Break, 10 Rock Tomb, 20 Counter
+COUNTER
+ラ4/ラ5
+TYPE/<FC>かあFIGHT
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 15 Brick Break, 10 Rock Tomb, 20 Counter
+TAUROS　used<FE>THRASH！
+Battler 1 info: Blastoise Lv100 HP 194/334 - 156 208 265 218 164 - Moves: 5 Hydro Pump, 4 Rain Dance, 25 Bite, 20 Seismic Toss
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 15 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 15 Brick Break, 10 Rock Tomb, 20 Counter
+Foe　HERACROSS　used<FE>BRICK　BREAK！
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 0 info: Hariyama Lv100 HP 269/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Foe　BLASTOISE　used<FE>SEISMIC　TOSS！
+Battler 1 info: Blastoise Lv100 HP 194/334 - 156 208 265 218 164 - Moves: 5 Hydro Pump, 4 Rain Dance, 25 Bite, 19 Seismic Toss
+Battler 0 info: Hariyama Lv100 HP 169/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Foe　BLASTOISE\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 1 info: Blastoise Lv100 HP 206/334 - 156 208 265 218 164 - Moves: 5 Hydro Pump, 4 Rain Dance, 25 Bite, 19 Seismic Toss
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 169/443 - 272 170 79 170 108 - Moves: 3 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+HARIYAMA\'s<FE>attack　missed！
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Rain　continues　to　fall。
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+TAUROS　became<FE>confused　due　to　fatigue！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+TAUROS\'s　PERSIM　BERRY<FE>snapped　it　out　of　confusion！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+What　will<FE>ERSIM　BERRY<FE>snapped　it　out　of　confusion！
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+COUNTER
+ラ3/ラ5
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+SWAGGER
+19/20
+TYPE/<FC>かあNORMAL
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+TAUROS　used<FE>THRASH！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 18 Thrash, 15 Swagger, 20 Facade
+Battler 1 info: Blastoise Lv100 HP 66/334 - 156 208 265 218 164 - Moves: 5 Hydro Pump, 4 Rain Dance, 25 Bite, 19 Seismic Toss
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 18 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 10 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Foe　HERACROSS　used<FE>MEGAHORN！
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 0 info: Hariyama Lv100 HP 11/443 - 272 170 79 170 108 - Moves: 3 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+It\'s　not　very　effective⋯
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Foe　BLASTOISE　used<FE>HYDRO　PUMP！
+Battler 1 info: Blastoise Lv100 HP 66/334 - 156 208 265 218 164 - Moves: 4 Hydro Pump, 4 Rain Dance, 25 Bite, 19 Seismic Toss
+Battler 0 info: Hariyama Lv100 HP 1/443 - 272 170 79 170 108 - Moves: 3 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+A　critical　hit！
+HARIYAMA　hung　on<FE>using　its　FOCUS　BAND！
+Foe　BLASTOISE\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 1 info: Blastoise Lv100 HP 67/334 - 156 208 265 218 164 - Moves: 4 Hydro Pump, 4 Rain Dance, 25 Bite, 19 Seismic Toss
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 1/443 - 272 170 79 170 108 - Moves: 2 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 1 info: Blastoise Lv100 HP 0/334 - 156 208 265 218 164 - Moves: 4 Hydro Pump, 4 Rain Dance, 25 Bite, 19 Seismic Toss
+Battler 1 info: Blastoise Lv100 HP 0/334 - 156 208 265 218 164 - Moves: 4 Hydro Pump, 4 Rain Dance, 25 Bite, 19 Seismic Toss
+Foe　BLASTOISE<FE>fainted！<FB>
+Battler 1 info: Blastoise Lv100 HP 0/334 - 156 208 265 218 164 - Moves: 4 Hydro Pump, 4 Rain Dance, 25 Bite, 19 Seismic Toss
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Rain　continues　to　fall。
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 18 Thrash, 15 Swagger, 20 Facade
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ2/ラ5
+TYPE/<FC>かあFIGHT
+Battler 3 info: Heracross Lv100 HP 273/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+TAUROS　used<FE>THRASH！
+Battler 3 info: Heracross Lv100 HP 135/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 135/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 135/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 1/443 - 272 170 79 170 108 - Moves: 1 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 3 info: Heracross Lv100 HP 65/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+It\'s　not　very　effective⋯
+Battler 3 info: Heracross Lv100 HP 65/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Battler 3 info: Heracross Lv100 HP 65/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 20 Counter
+Foe　HERACROSS　used<FE>COUNTER！
+Battler 3 info: Heracross Lv100 HP 65/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 19 Counter
+Battler 0 info: Hariyama Lv100 HP 0/443 - 272 170 79 170 108 - Moves: 1 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+HARIYAMA<FE>fainted！<FB>
+Battler 0 info: Hariyama Lv100 HP 0/443 - 272 170 79 170 108 - Moves: 1 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 3 info: Heracross Lv100 HP 65/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 19 Counter
+Battler 3 info: Heracross Lv100 HP 65/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 19 Counter
+<FC>いいHARIYAMA<FC>あさ♂
+<FC>いいBLASTOISE<FC>あこ♀
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいHERACROSS<FC>あこ♀
+Battler 0 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 3 info: Heracross Lv100 HP 65/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 19 Counter
+Go！　SLOWKING！
+<FC>いいSLOWKING<FC>あさ♂
+Rain　continues　to　fall。
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 18 Thrash, 15 Swagger, 20 Facade
+TAUROS　became<FE>confused　due　to　fatigue！
+What　will<FE>SLOWKING　do？
+AMNESIA
+10/10
+TYPE/<FC>かあPSYCHC
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+Battler 3 info: Heracross Lv100 HP 65/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 19 Counter
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 18 Thrash, 15 Swagger, 20 Facade
+TAUROS　is<FE>confused！
+TAUROS　used<FE>THRASH！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 17 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Heracross Lv100 HP 0/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 19 Counter
+A　critical　hit！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 17 Thrash, 15 Swagger, 20 Facade
+Foe　HERACROSS<FE>fainted！<FB>
+Battler 3 info: Heracross Lv100 HP 0/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 19 Counter
+Battler 3 info: Heracross Lv100 HP 0/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 19 Counter
+Player　defeated<FE>RUIN　MANIAC　ANTON！<FB>
+Battler 3 info: Heracross Lv100 HP 0/273 - 353 221 79 198 178 - Moves: 9 Megahorn, 14 Brick Break, 10 Rock Tomb, 19 Counter
+IT\'S　A　TOUGH<FE>LOSS　TO　SWALLOW<FC>け
+<FC>いいHARIYAMA<FC>あさ♂
+<FC>いいXATU<FC>あこ♀
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいSLAKING<FC>あこ♀
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 1 info: Xatu Lv100 HP 285/285 - 200 148 240 148 198 - Moves: 20 Drill Peck, 15 Night Shade, 10 Wish, 15 Future Sight
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Slaking Lv100 HP 455/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+RUIN　MANIAC　SAMMY<FE>would　like　to　battle！<FB>
+RUIN　MANIAC　SAMMY　sent<FE>out　XATU　and　SLAKING！
+Battler 3 info: Slaking Lv100 HP 455/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 455/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+<FC>いいSLAKING<FC>あこ♀
+<FC>いいXATU<FC>あこ♀
+Go！　HARIYAMA　and<FE>TAUROS！
+Battler 3 info: Slaking Lv100 HP 455/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいHARIYAMA<FC>あさ♂
+Battler 1 info: Xatu Lv100 HP 285/285 - 200 148 240 148 198 - Moves: 20 Drill Peck, 15 Night Shade, 10 Wish, 15 Future Sight
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　XATU\'s　ATTACK！
+Battler 3 info: Slaking Lv100 HP 455/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　SLAKING\'s　ATTACK！
+What　will<FE>NTIMIDATE<FE>cuts　Foe　SLAKING\'s　ATTACK！
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Slaking Lv100 HP 455/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 455/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+COUNTER
+ラ5/ラ5
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあROCK
+TYPE/<FC>かあNORMAL
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあGROUND
+TYPE/<FC>かあNORMAL
+Battler 3 info: Slaking Lv100 HP 455/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+HARIYAMA　used<FE>FAKE　OUT！
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+TAUROS　used<FE>FACADE！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 19 Facade
+Battler 1 info: Xatu Lv100 HP 107/285 - 200 148 240 148 198 - Moves: 20 Drill Peck, 15 Night Shade, 10 Wish, 15 Future Sight
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Foe　SLAKING　flinched！
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Foe　XATU　used<FE>FUTURE　SIGHT！
+Battler 1 info: Xatu Lv100 HP 107/285 - 200 148 240 148 198 - Moves: 20 Drill Peck, 15 Night Shade, 10 Wish, 14 Future Sight
+Foe　XATU　foresaw<FE>an　attack！
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+What　will<FE>oresaw<FE>an　attack！
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+COUNTER
+ラ9/10
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあROCK
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+What　will<FE>TAUROS　do？
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ5/ラ5
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+TAUROS　used<FE>FACADE！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 1 info: Xatu Lv100 HP 0/285 - 200 148 240 148 198 - Moves: 20 Drill Peck, 15 Night Shade, 10 Wish, 14 Future Sight
+Battler 1 info: Xatu Lv100 HP 0/285 - 200 148 240 148 198 - Moves: 20 Drill Peck, 15 Night Shade, 10 Wish, 14 Future Sight
+Foe　XATU<FE>fainted！<FB>
+Battler 1 info: Xatu Lv100 HP 0/285 - 200 148 240 148 198 - Moves: 20 Drill Peck, 15 Night Shade, 10 Wish, 14 Future Sight
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+Battler 1 info: Shiftry Lv100 HP 293/293 - 208 170 253 170 151 - Moves: 5 Giga Drain, 20 Faint Attack, 30 Quick Attack, 10 Fake Out
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+RUIN　MANIAC　SAMMY　sent<FE>out　SHIFTRY！
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+<FC>いいSHIFTRY<FC>あこ♀
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Foe　SLAKING　is<FE>loafing　around！
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 419/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+It\'s　super　effective！
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+COUNTER
+ラ4/ラ5
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Foe　SHIFTRY　used<FE>FAKE　OUT！
+Battler 1 info: Shiftry Lv100 HP 293/293 - 208 170 253 170 151 - Moves: 5 Giga Drain, 20 Faint Attack, 30 Quick Attack, 9 Fake Out
+Battler 2 info: Tauros Lv100 HP 230/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 2 info: Tauros Lv100 HP 230/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 2 info: Tauros Lv100 HP 230/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+TAUROS　flinched！
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 10 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Foe　SLAKING　used<FE>YAWN！
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Foe　SLAKING　made<FE>TAUROS　drowsy！
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 150/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 3 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+It\'s　super　effective！
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Foe　SLAKING<FE>fainted！<FB>
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+HARIYAMA　took　the<FE>FUTURE　SIGHT　attack！
+Battler 0 info: Hariyama Lv100 HP 353/443 - 272 170 79 170 108 - Moves: 3 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+What　will<FE>ook　the<FE>FUTURE　SIGHT　attack！
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ3/ラ5
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+<FC>いいHARIYAMA<FC>あさ♂
+<FC>いいSHIFTRY<FC>あこ♀
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいSLAKING<FC>あこ♀
+TAUROS,　that\'s　enough！<FE>Come　back！
+Battler 1 info: Shiftry Lv100 HP 293/293 - 208 170 253 170 151 - Moves: 5 Giga Drain, 20 Faint Attack, 30 Quick Attack, 9 Fake Out
+Battler 2 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Go！　SLOWKING！
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+<FC>いいSLOWKING<FC>あさ♂
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Foe　SHIFTRY　used<FE>GIGA　DRAIN！
+Battler 1 info: Shiftry Lv100 HP 293/293 - 208 170 253 170 151 - Moves: 4 Giga Drain, 20 Faint Attack, 30 Quick Attack, 9 Fake Out
+Battler 2 info: Slowking Lv100 HP 205/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+It\'s　super　effective！
+SLOWKING　had　its<FE>energy　drained！
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 353/443 - 272 170 79 170 108 - Moves: 2 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+HARIYAMA\'s<FE>attack　missed！
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+SLOWKING\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 2 info: Slowking Lv100 HP 227/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ2/ラ5
+TYPE/<FC>かあFIGHT
+What　will<FE>SLOWKING　do？
+AMNESIA
+10/10
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあFIGHT
+What　will<FE>SLOWKING　do？
+AMNESIA
+15/15
+TYPE/<FC>かあFIGHT
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Foe　SHIFTRY　used<FE>FAINT　ATTACK！
+Battler 1 info: Shiftry Lv100 HP 293/293 - 208 170 253 170 151 - Moves: 4 Giga Drain, 19 Faint Attack, 30 Quick Attack, 9 Fake Out
+Battler 0 info: Hariyama Lv100 HP 305/443 - 272 170 79 170 108 - Moves: 2 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+It\'s　not　very　effective⋯
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 305/443 - 272 170 79 170 108 - Moves: 1 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+Battler 1 info: Shiftry Lv100 HP 0/293 - 208 170 253 170 151 - Moves: 4 Giga Drain, 19 Faint Attack, 30 Quick Attack, 9 Fake Out
+A　critical　hit！
+It\'s　super　effective！
+Foe　SHIFTRY<FE>fainted！<FB>
+Battler 1 info: Shiftry Lv100 HP 0/293 - 208 170 253 170 151 - Moves: 4 Giga Drain, 19 Faint Attack, 30 Quick Attack, 9 Fake Out
+Battler 3 info: Slaking Lv100 HP 0/455 - 360 250 178 180 208 - Moves: 9 Yawn, 20 Bulk Up, 15 Swagger, 20 Aerial Ace
+Player　defeated<FE>RUIN　MANIAC　SAMMY！<FB>
+I　CRY　FOR<FE>MY　PARTY　⋯<FC>け
+<FC>いいHARIYAMA<FC>あさ♂
+<FC>いいUMBREON<FC>あさ♂
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいBLAZIKEN<FC>あさ♂
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 1 info: Umbreon Lv100 HP 348/348 - 126 300 131 313 141 - Moves: 10 Confuse Ray, 20 Faint Attack, 15 Double Team, 40 Baton Pass
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Blaziken Lv100 HP 276/276 - 314 151 294 151 171 - Moves: 15 Flamethrower, 5 Sunny Day, 30 Double Kick, 20 Roar
+EXPERT　KRISTEN<FE>would　like　to　battle！<FB>
+EXPERT　KRISTEN　sent<FE>out　UMBREON　and　BLAZIKEN！
+Battler 3 info: Blaziken Lv100 HP 276/276 - 314 151 294 151 171 - Moves: 15 Flamethrower, 5 Sunny Day, 30 Double Kick, 20 Roar
+<FC>いいBLAZIKEN<FC>あさ♂
+<FC>いいUMBREON<FC>あさ♂
+Go！　HARIYAMA　and<FE>TAUROS！
+Battler 3 info: Blaziken Lv100 HP 276/276 - 314 151 294 151 171 - Moves: 15 Flamethrower, 5 Sunny Day, 30 Double Kick, 20 Roar
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいHARIYAMA<FC>あさ♂
+Battler 1 info: Umbreon Lv100 HP 348/348 - 126 300 131 313 141 - Moves: 10 Confuse Ray, 20 Faint Attack, 15 Double Team, 40 Baton Pass
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　UMBREON\'s　ATTACK！
+Battler 3 info: Blaziken Lv100 HP 276/276 - 314 151 294 151 171 - Moves: 15 Flamethrower, 5 Sunny Day, 30 Double Kick, 20 Roar
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　BLAZIKEN\'s　ATTACK！
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Blaziken Lv100 HP 276/276 - 314 151 294 151 171 - Moves: 15 Flamethrower, 5 Sunny Day, 30 Double Kick, 20 Roar
+Battler 3 info: Blaziken Lv100 HP 276/276 - 314 151 294 151 171 - Moves: 15 Flamethrower, 5 Sunny Day, 30 Double Kick, 20 Roar
+COUNTER
+ラ5/ラ5
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+SWAGGER
+10/10
+TYPE/<FC>かあGROUND
+Battler 3 info: Blaziken Lv100 HP 276/276 - 314 151 294 151 171 - Moves: 15 Flamethrower, 5 Sunny Day, 30 Double Kick, 20 Roar
+TAUROS　used<FE>EARTHQUAKE！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 20 Thrash, 15 Swagger, 20 Facade
+Battler 0 info: Hariyama Lv100 HP 145/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+A　critical　hit！
+Battler 1 info: Umbreon Lv100 HP 267/348 - 126 300 131 313 141 - Moves: 10 Confuse Ray, 20 Faint Attack, 15 Double Team, 40 Baton Pass
+Battler 3 info: Blaziken Lv100 HP 0/276 - 314 151 294 151 171 - Moves: 15 Flamethrower, 5 Sunny Day, 30 Double Kick, 20 Roar
+It\'s　super　effective！
+Battler 3 info: Blaziken Lv100 HP 0/276 - 314 151 294 151 171 - Moves: 15 Flamethrower, 5 Sunny Day, 30 Double Kick, 20 Roar
+Foe　BLAZIKEN<FE>fainted！<FB>
+Battler 3 info: Blaziken Lv100 HP 0/276 - 314 151 294 151 171 - Moves: 15 Flamethrower, 5 Sunny Day, 30 Double Kick, 20 Roar
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 20 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 10 Tri Attack, 10 Sleep Talk, 10 Rest
+EXPERT　KRISTEN　sent<FE>out　DODRIO！
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 10 Tri Attack, 10 Sleep Talk, 10 Rest
+<FC>いいDODRIO<FC>あこ♀
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 10 Tri Attack, 10 Sleep Talk, 10 Rest
+Foe　UMBREON　used<FE>FAINT　ATTACK！
+Battler 1 info: Umbreon Lv100 HP 267/348 - 126 300 131 313 141 - Moves: 10 Confuse Ray, 19 Faint Attack, 15 Double Team, 40 Baton Pass
+Battler 0 info: Hariyama Lv100 HP 116/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+It\'s　not　very　effective⋯
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 10 Tri Attack, 10 Sleep Talk, 10 Rest
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 10 Tri Attack, 10 Sleep Talk, 10 Rest
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 116/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 1 info: Umbreon Lv100 HP 43/348 - 126 300 131 313 141 - Moves: 10 Confuse Ray, 19 Faint Attack, 15 Double Team, 40 Baton Pass
+It\'s　super　effective！
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 10 Tri Attack, 10 Sleep Talk, 10 Rest
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ4/ラ5
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあROCK
+What　will<FE>TAUROS　do？
+SWAGGER
+ラ9/10
+TYPE/<FC>かあGROUND
+TYPE/<FC>かあNORMAL
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 10 Tri Attack, 10 Sleep Talk, 10 Rest
+TAUROS　used<FE>THRASH！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 19 Thrash, 15 Swagger, 20 Facade
+TAUROS\'s<FE>attack　missed！
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 10 Tri Attack, 10 Sleep Talk, 10 Rest
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 10 Tri Attack, 10 Sleep Talk, 10 Rest
+Foe　DODRIO　used<FE>TRI　ATTACK！
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 10 Rest
+Battler 0 info: Hariyama Lv100 HP 0/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+HARIYAMA<FE>fainted！<FB>
+Battler 0 info: Hariyama Lv100 HP 0/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 10 Rest
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 10 Rest
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 10 Rest
+<FC>いいHARIYAMA<FC>あさ♂
+<FC>いいUMBREON<FC>あさ♂
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいDODRIO<FC>あこ♀
+Battler 0 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 10 Rest
+Go！　SLOWKING！
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 10 Rest
+<FC>いいSLOWKING<FC>あさ♂
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 10 Rest
+Foe　UMBREON　used<FE>DOUBLE　TEAM！
+Battler 1 info: Umbreon Lv100 HP 43/348 - 126 300 131 313 141 - Moves: 10 Confuse Ray, 19 Faint Attack, 14 Double Team, 40 Baton Pass
+Battler 1 info: Umbreon Lv100 HP 43/348 - 126 300 131 313 141 - Moves: 10 Confuse Ray, 19 Faint Attack, 14 Double Team, 40 Baton Pass
+Foe　UMBREON\'s　evasiveness<FE>rose！
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 10 Rest
+What　will<FE>SLOWKING　do？
+AMNESIA
+10/10
+TYPE/<FC>かあPSYCHC
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 10 Rest
+TAUROS　used<FE>THRASH！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 18 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Dodrio Lv100 HP 10/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 10 Rest
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 18 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Dodrio Lv100 HP 10/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 10 Rest
+Battler 3 info: Dodrio Lv100 HP 10/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 10 Rest
+Foe　DODRIO　used<FE>REST！
+Battler 3 info: Dodrio Lv100 HP 10/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 3 info: Dodrio Lv100 HP 10/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Foe　DODRIO　went<FE>to　sleep！
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Foe　DODRIO　regained<FE>health！
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Foe　DODRIO\'s　CHESTO　BERRY<FE>woke　it　from　its　sleep！
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Foe　UMBREON　used<FE>CONFUSE　RAY！
+Battler 1 info: Umbreon Lv100 HP 43/348 - 126 300 131 313 141 - Moves: 9 Confuse Ray, 19 Faint Attack, 14 Double Team, 40 Baton Pass
+Battler 0 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+SLOWKING　became<FE>confused！
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 0 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+SLOWKING　is<FE>confused！
+It　hurt　itself　in　its<FE>confusion！
+Battler 0 info: Slowking Lv100 HP 343/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 18 Thrash, 15 Swagger, 20 Facade
+SLOWKING\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Slowking Lv100 HP 365/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+What　will<FE>SLOWKING　do？
+AMNESIA
+TYPE/<FC>かあFIGHT
+Battler 3 info: Dodrio Lv100 HP 236/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+TAUROS　used<FE>THRASH！
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+A　critical　hit！
+Foe　DODRIO<FE>fainted！<FB>
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Foe　UMBREON　used<FE>FAINT　ATTACK！
+Battler 1 info: Umbreon Lv100 HP 43/348 - 126 300 131 313 141 - Moves: 9 Confuse Ray, 18 Faint Attack, 14 Double Team, 40 Baton Pass
+Battler 0 info: Slowking Lv100 HP 277/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+It\'s　super　effective！
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 0 info: Slowking Lv100 HP 277/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+SLOWKING　snapped<FE>out　of　confusion！
+SLOWKING　used<FE>BRICK　BREAK！
+Battler 0 info: Slowking Lv100 HP 277/366 - 158 231 228 228 61 - Moves: 10 Psychic, 14 Brick Break, 20 Amnesia, 15 Attract
+SLOWKING\'s<FE>attack　missed！
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 18 Thrash, 15 Swagger, 20 Facade
+TAUROS　became<FE>confused　due　to　fatigue！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 18 Thrash, 15 Swagger, 20 Facade
+TAUROS\'s　PERSIM　BERRY<FE>snapped　it　out　of　confusion！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 18 Thrash, 15 Swagger, 20 Facade
+SLOWKING\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 0 info: Slowking Lv100 HP 299/366 - 158 231 228 228 61 - Moves: 10 Psychic, 14 Brick Break, 20 Amnesia, 15 Attract
+What　will<FE>SLOWKING　do？
+AMNESIA
+14/15
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+TAUROS　used<FE>THRASH！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 17 Thrash, 15 Swagger, 20 Facade
+Battler 1 info: Umbreon Lv100 HP 0/348 - 126 300 131 313 141 - Moves: 9 Confuse Ray, 18 Faint Attack, 14 Double Team, 40 Baton Pass
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 9 Earthquake, 17 Thrash, 15 Swagger, 20 Facade
+Battler 1 info: Umbreon Lv100 HP 0/348 - 126 300 131 313 141 - Moves: 9 Confuse Ray, 18 Faint Attack, 14 Double Team, 40 Baton Pass
+Foe　UMBREON<FE>fainted！<FB>
+Battler 1 info: Umbreon Lv100 HP 0/348 - 126 300 131 313 141 - Moves: 9 Confuse Ray, 18 Faint Attack, 14 Double Team, 40 Baton Pass
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Player　defeated<FE>EXPERT　KRISTEN！<FB>
+A　TOUGH　KID<FE>HUH？　HUMPH　！<FC>け
+<FC>いいVery　Long<FC>あさ
+<FC>いいMIGHTYENA<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181 - Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Mightyena Lv46 HP 134/134 - 101 83 81 66 83 - Moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+ELITE　FOUR　SIDNEY<FE>would　like　to　battle！<FB>
+ELITE　FOUR　SIDNEY　sent<FE>out　MIGHTYENA！
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+<FC>いいMIGHTYENA<FC>あさ♂
+Go！　Very　Long！
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181 - Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Foe　MIGHTYENA\'s　INTIMIDATE<FE>cuts　Very　Long\'s　ATTACK！
+What　will<FE>Very　Long　do？
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+Battler 3 info: Dodrio Lv100 HP 0/236 - 323 151 117 131 274 - Moves: 20 Drill Peck, 9 Tri Attack, 10 Sleep Talk, 9 Rest
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 2 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVery　Long<FC>あさ
+<FC>いいMIGHTYENA<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181 - Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Mightyena Lv46 HP 134/134 - 101 83 81 66 83 - Moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+ELITE　FOUR　SIDNEY<FE>would　like　to　battle！<FB>
+ELITE　FOUR　SIDNEY　sent<FE>out　MIGHTYENA！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいMIGHTYENA<FC>あさ♂
+Go！　Very　Long！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181 - Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Foe　MIGHTYENA\'s　INTIMIDATE<FE>cuts　Very　Long\'s　ATTACK！
+What　will<FE>Very　Long　do？
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVery　Long<FC>あさ
+<FC>いいMIGHTYENA<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181 - Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Mightyena Lv46 HP 134/134 - 101 83 81 66 83 - Moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+ELITE　FOUR　SIDNEY<FE>would　like　to　battle！<FB>
+ELITE　FOUR　SIDNEY　sent<FE>out　MIGHTYENA！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいMIGHTYENA<FC>あさ♂
+Go！　Very　Long！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181 - Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Foe　MIGHTYENA\'s　INTIMIDATE<FE>cuts　Very　Long\'s　ATTACK！
+What　will<FE>Very　Long　do？
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVery　Long<FC>あさ
+<FC>いいMIGHTYENA<FC>あさ♂
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181 - Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Battler 1 info: Mightyena Lv46 HP 134/134 - 101 83 81 66 83 - Moves: 20 Roar, 15 Double-Edge, 15 Sand-Attack, 15 Crunch
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+ELITE　FOUR　SIDNEY<FE>would　like　to　battle！<FB>
+ELITE　FOUR　SIDNEY　sent<FE>out　MIGHTYENA！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいMIGHTYENA<FC>あさ♂
+Go！　Very　Long！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVery　Long
+<FC>いいVery　Long<FC>あさ
+Battler 0 info: Rayquaza Lv76 HP 261/261 - 262 168 319 157 181 - Moves: 15 Outrage, 15 Fly, 15 Surf, 15 Waterfall
+Foe　MIGHTYENA\'s　INTIMIDATE<FE>cuts　Very　Long\'s　ATTACK！
+What　will<FE>Very　Long　do？
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+WATERFALL
+TYPE/<FC>かあDRAGON

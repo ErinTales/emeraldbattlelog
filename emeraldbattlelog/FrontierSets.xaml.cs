@@ -339,9 +339,18 @@ namespace PokemonBattleLogger
         {
             DispatcherTimer itemTimer;
             int frame = 0;
+            var bitmap = new BitmapImage();
 
-            var bitmap = new BitmapImage(
-                            new Uri($"pack://application:,,,/Images/icons/{name.Replace(". ", "_").ToLower()}.png"));
+            try
+            {
+                bitmap = new BitmapImage(
+                                new Uri($"pack://application:,,,/Images/icons/{name.Replace(". ", "_").ToLower()}.png"));
+            }
+            catch(Exception e)
+            {
+                bitmap = new BitmapImage(
+                                new Uri($"pack://application:,,,/Images/icons/question_mark.png"));
+            }
 
             //The icons have both frames contained in the same spritesheet, only display the top half.
             var cropped = new CroppedBitmap(
@@ -427,6 +436,7 @@ namespace PokemonBattleLogger
             itemNameFixed = itemNameFixed.Replace("nevermeltice", "never_melt_ice");
             itemNameFixed = itemNameFixed.Replace("twistedspoon", "twisted_spoon");
             itemNameFixed = itemNameFixed.Replace("white_herb", "in_battle_herb"); //the fuck?
+            itemNameFixed = itemNameFixed.Replace("mental_herb", "in_battle_herb");
 
             var itemImage = new Image
             {
@@ -510,8 +520,18 @@ namespace PokemonBattleLogger
 
         private Image UpdateItemFrame(Image itemImage, int frame, string name, int frameSize)
         {
-            var bitmap = new BitmapImage(
-                new Uri($"pack://application:,,,/Images/{name.Replace(". ", "_")}.png"));
+            var bitmap = new BitmapImage();
+            try
+            {
+                bitmap = new BitmapImage(
+                    new Uri($"pack://application:,,,/Images/{name.Replace(". ", "_")}.png"));
+            }
+            catch(Exception e)
+            {
+                bitmap = new BitmapImage(
+                    new Uri($"pack://application:,,,/Images/icons/question_mark.png"));
+            }
+            
 
             //I don't know how this code works but my friend Malamar said it would. and it does.
             int y = frame * frameSize;

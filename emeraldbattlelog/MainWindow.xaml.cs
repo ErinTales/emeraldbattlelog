@@ -241,7 +241,7 @@ namespace PokemonBattleLogger
             line = line.Replace("uSing", "using");
 
             //Remove weird/buggy "What will [partial type name]" spam. (the buffer seems to partially overwrite itself for some reason)
-            if (line.StartsWith("What will ") && !line.EndsWith(" do?"))
+            if (line.StartsWith("What will") && !line.EndsWith(" do?"))
             {
                 line = "";
             }
