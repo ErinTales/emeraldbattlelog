@@ -155,6 +155,7 @@ namespace PokemonBattleLogger
             line = line.Replace("ス", "");
             line = line.Replace("⋯", "...");
             line = line.Replace("♂", "");
+            line = line.Replace("さ", "");
             line = line.Replace("♀", "");
             line = line.Replace("こ", "");
             line = line.Replace("あ", "");
@@ -237,13 +238,14 @@ namespace PokemonBattleLogger
             line = line.Replace("SANDーATTACK", "SandーAttack");
             line = line.Replace("MUDーSLAP", "MudーSlap");
             line = line.Replace("DOUBLEーEDGE", "DoubleーEdge");
+            line = line.Replace("uSing", "using");
 
             //Remove weird/buggy "What will [partial type name]" spam. (the buffer seems to partially overwrite itself for some reason)
             if (line.StartsWith("What will ") && !line.EndsWith(" do?"))
             {
                 line = "";
             }
-
+            
             //Add newlines before select messages, for formatting reasons
             if (line.EndsWith("would like to battle! ")         //New trainer battle
                 || line.EndsWith("appeared! ")                  //wild battle
@@ -539,20 +541,21 @@ namespace PokemonBattleLogger
                     }
                     else //if (!line.Contains(" and "))
                     {
-                        pokemonName = line.Split("Go! ")[1].TrimEnd('!').Replace(". ", "_").ToLower();
+                        pokemonName = line.Split("Go! ")[1].TrimEnd('!').Replace(". ", "_").ToLower().Trim();
                     }
                 }
                 else if (line.Contains("Go for it,"))
                 {
-                    pokemonName = line.Split("Go for it, ")[1].TrimEnd('!').Replace(". ", "_").ToLower();
+                    pokemonName = line.Split("Go for it, ")[1].TrimEnd('!').Replace(". ", "_").ToLower().Trim();
                 }
                 else if (line.Contains("Do it! "))
                 {
-                    pokemonName = line.Split("Do it! ")[1].TrimEnd('!').Replace(". ", "_").ToLower();
+                    pokemonName = line.Split("Do it! ")[1].TrimEnd('!').Replace(". ", "_").ToLower().Trim();
                 }
                 else if (line.Contains("dragged out"))
                 {
-                    pokemonName = line.Split(" was dragged out")[0].Replace(". ", "_").ToLower();
+                    //Weird quirk here - the newline ("\r\n") we added earlier needs removed
+                    pokemonName = line.Split(" was dragged out")[0].Replace(". ", "_").ToLower().Trim();
                 }
 
                 displayTeamIcons(line, playerTeamRevealed, pokemonName, true);
@@ -574,12 +577,12 @@ namespace PokemonBattleLogger
                     }
                     else //if (!line.Contains(" and "))
                     {
-                        pokemonName = line.Split("sent out ")[1].TrimEnd('!').Replace(". ", "_").ToLower();
+                        pokemonName = line.Split("sent out ")[1].TrimEnd('!').Replace(". ", "_").ToLower().Trim();
                     }
                 }
                 else if (line.Contains("dragged out"))
                 {
-                    pokemonName = line.Split(" was dragged out")[0].Split("Foe ")[1].Replace(". ", "_").ToLower();
+                    pokemonName = line.Split(" was dragged out")[0].Split("Foe ")[1].Replace(". ", "_").ToLower().Trim();
                 }
 
                 displayTeamIcons(line, enemyTeamRevealed, pokemonName, false);
@@ -605,8 +608,6 @@ namespace PokemonBattleLogger
                     {
                         return;
                     }
-
-                    Debug.WriteLine(line);
 
                     foreach (string pokemonName in Tables.pokemon)
                     {
@@ -670,6 +671,8 @@ namespace PokemonBattleLogger
 
         void displayTeamIcons(string line, string[] team, string teammate, bool isPlayer)
         {
+            //teammate.Remove(  
+
             if(team.Contains(teammate))
             {
                 return;
@@ -681,7 +684,6 @@ namespace PokemonBattleLogger
                     if (team[i] == null)
                     {
                         team[i] = teammate;
-
                         if (isPlayer)
                         {
                             playerTeamRevealed = team;

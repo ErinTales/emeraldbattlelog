@@ -10013,3 +10013,2578 @@ What　will<FE>NIDOQUEEN　do？
 Battler 3 info: Gardevoir Lv100 HP 291/291 - 124 180 258 238 231 - Moves: 15 Dream Eater, 20 Hypnosis, 20 Magical Leaf, 19 Reflect
 Battler 3 info: Gardevoir Lv100 HP 291/291 - 124 180 258 238 231 - Moves: 15 Dream Eater, 20 Hypnosis, 20 Magical Leaf, 19 Reflect
 Battler 3 info: Gardevoir Lv100 HP 291/291 - 124 180 258 238 231 - Moves: 15 Dream Eater, 20 Hypnosis, 20 Magical Leaf, 19 Reflect
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 2 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいWALREIN<FC>あこ♀
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Walrein Lv100 HP 403/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 10 Ice Beam, 10 Curse, 15 Double Team
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+HIKER　KENNETH<FE>would　like　to　battle！<FB>
+HIKER　KENNETH　sent<FE>out　WALREIN！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいWALREIN<FC>あこ♀
+Go！　VAPOREON！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+15/15
+TYPE/<FC>かあWATER
+What　will<FE>TER
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+TYPE/<FC>かあWATER
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　WALREIN　used<FE>ICE　BEAM！
+Battler 1 info: Walrein Lv100 HP 403/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 9 Ice Beam, 10 Curse, 15 Double Team
+Battler 0 info: Vaporeon Lv100 HP 368/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+It\'s　not　very　effective⋯
+Battler 0 info: Vaporeon Lv100 HP 368/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+VAPOREON　was<FE>frozen　solid！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 0 info: Vaporeon Lv100 HP 368/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+VAPOREON　was<FE>defrosted！
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 368/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 1 info: Walrein Lv100 HP 363/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 9 Ice Beam, 10 Curse, 15 Double Team
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 373/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　WALREIN　used<FE>CURSE！
+Battler 1 info: Walrein Lv100 HP 363/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 9 Ice Beam, 9 Curse, 15 Double Team
+Battler 1 info: Walrein Lv100 HP 363/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 9 Ice Beam, 9 Curse, 15 Double Team
+Foe　WALREIN\'s　SPEED<FE>fell！
+Battler 1 info: Walrein Lv100 HP 363/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 9 Ice Beam, 9 Curse, 15 Double Team
+Foe　WALREIN\'s　ATTACK<FE>rose！
+Battler 1 info: Walrein Lv100 HP 363/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 9 Ice Beam, 9 Curse, 15 Double Team
+Foe　WALREIN\'s　DEFENSE<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 373/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Walrein Lv100 HP 286/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 9 Ice Beam, 9 Curse, 15 Double Team
+A　critical　hit！
+Battler 1 info: Walrein Lv100 HP 286/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 9 Ice Beam, 9 Curse, 15 Double Team
+Foe　WALREIN　is　paralyzed！<FE>It　may　be　unable　to　move！
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 382/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいWALREIN<FC>あこ♀
+What　will<FE>VAPOREON　do？
+SHADOWLAM
+13/15
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 382/418 - 141 173 231 243 141 - Moves: 14 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Walrein Lv100 HP 232/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 9 Ice Beam, 9 Curse, 15 Double Team
+It\'s　not　very　effective⋯
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 388/418 - 141 173 231 243 141 - Moves: 14 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　WALREIN　is　paralyzed！<FE>It　can\'t　move！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+14/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 388/418 - 141 173 231 243 141 - Moves: 13 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Walrein Lv100 HP 187/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 9 Ice Beam, 9 Curse, 15 Double Team
+It\'s　not　very　effective⋯
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 393/418 - 141 173 231 243 141 - Moves: 13 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　WALREIN　used<FE>DOUBLE　TEAM！
+Battler 1 info: Walrein Lv100 HP 187/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 9 Ice Beam, 9 Curse, 14 Double Team
+Battler 1 info: Walrein Lv100 HP 187/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 9 Ice Beam, 9 Curse, 14 Double Team
+Foe　WALREIN\'s　evasiveness<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+13/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 393/418 - 141 173 231 243 141 - Moves: 12 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Walrein Lv100 HP 133/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 9 Ice Beam, 9 Curse, 14 Double Team
+It\'s　not　very　effective⋯
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 399/418 - 141 173 231 243 141 - Moves: 12 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　WALREIN　used<FE>ICE　BEAM！
+Battler 1 info: Walrein Lv100 HP 133/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 9 Curse, 14 Double Team
+Battler 0 info: Vaporeon Lv100 HP 348/418 - 141 173 231 243 141 - Moves: 12 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+It\'s　not　very　effective⋯
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+12/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 348/418 - 141 173 231 243 141 - Moves: 11 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+VAPOREON\'s<FE>attack　missed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　WALREIN　used<FE>CURSE！
+Battler 1 info: Walrein Lv100 HP 133/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 8 Curse, 14 Double Team
+Battler 1 info: Walrein Lv100 HP 133/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 8 Curse, 14 Double Team
+Foe　WALREIN\'s　SPEED<FE>fell！
+Battler 1 info: Walrein Lv100 HP 133/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 8 Curse, 14 Double Team
+Foe　WALREIN\'s　ATTACK<FE>rose！
+Battler 1 info: Walrein Lv100 HP 133/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 8 Curse, 14 Double Team
+Foe　WALREIN\'s　DEFENSE<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+11/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 348/418 - 141 173 231 243 141 - Moves: 10 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Walrein Lv100 HP 83/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 8 Curse, 14 Double Team
+It\'s　not　very　effective⋯
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 354/418 - 141 173 231 243 141 - Moves: 10 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　WALREIN　used<FE>CURSE！
+Battler 1 info: Walrein Lv100 HP 83/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 7 Curse, 14 Double Team
+Battler 1 info: Walrein Lv100 HP 83/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 7 Curse, 14 Double Team
+Foe　WALREIN\'s　SPEED<FE>fell！
+Battler 1 info: Walrein Lv100 HP 83/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 7 Curse, 14 Double Team
+Foe　WALREIN\'s　ATTACK<FE>rose！
+Battler 1 info: Walrein Lv100 HP 83/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 7 Curse, 14 Double Team
+Foe　WALREIN\'s　DEFENSE<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+10/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 354/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+VAPOREON\'s<FE>attack　missed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　WALREIN　used<FE>DOUBLE　TEAM！
+Battler 1 info: Walrein Lv100 HP 83/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 7 Curse, 13 Double Team
+Battler 1 info: Walrein Lv100 HP 83/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 7 Curse, 13 Double Team
+Foe　WALREIN\'s　evasiveness<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　willIN\'s　evasiveness<FE>rose！
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 354/418 - 141 173 231 243 141 - Moves: 8 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Walrein Lv100 HP 31/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 7 Curse, 13 Double Team
+It\'s　not　very　effective⋯
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 360/418 - 141 173 231 243 141 - Moves: 8 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　WALREIN　used<FE>DOUBLE　TEAM！
+Battler 1 info: Walrein Lv100 HP 31/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 7 Curse, 12 Double Team
+Battler 1 info: Walrein Lv100 HP 31/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 7 Curse, 12 Double Team
+Foe　WALREIN\'s　evasiveness<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ8/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 360/418 - 141 173 231 243 141 - Moves: 7 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Walrein Lv100 HP 0/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 7 Curse, 12 Double Team
+It\'s　not　very　effective⋯
+Battler 1 info: Walrein Lv100 HP 0/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 7 Curse, 12 Double Team
+Foe　WALREIN<FE>fainted！<FB>
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 363/418 - 141 173 231 243 141 - Moves: 7 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Walrein Lv100 HP 0/403 - 196 258 226 258 166 - Moves: 10 Earthquake, 8 Ice Beam, 7 Curse, 12 Double Team
+Battler 0 info: Vaporeon Lv100 HP 363/418 - 141 173 231 243 141 - Moves: 7 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Dugtrio Lv100 HP 211/211 - 284 136 122 176 339 - Moves: 10 Earthquake, 5 AncientPower, 20 Aerial Ace, 10 Tri Attack
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+HIKER　KENNETH　sent<FE>out　DUGTRIO！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいDUGTRIO<FC>あさ♂
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+ラ7/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　DUGTRIO　used<FE>TRI　ATTACK！
+Battler 1 info: Dugtrio Lv100 HP 211/211 - 284 136 122 176 339 - Moves: 10 Earthquake, 5 AncientPower, 20 Aerial Ace, 9 Tri Attack
+Battler 0 info: Vaporeon Lv100 HP 264/418 - 141 173 231 243 141 - Moves: 7 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 264/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Dugtrio Lv100 HP 0/211 - 284 136 122 176 339 - Moves: 10 Earthquake, 5 AncientPower, 20 Aerial Ace, 9 Tri Attack
+It\'s　super　effective！
+Foe　DUGTRIO<FE>fainted！<FB>
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 290/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Dugtrio Lv100 HP 0/211 - 284 136 122 176 339 - Moves: 10 Earthquake, 5 AncientPower, 20 Aerial Ace, 9 Tri Attack
+Battler 0 info: Vaporeon Lv100 HP 290/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Lapras Lv100 HP 401/401 - 185 196 269 226 240 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 20 Roar
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+HIKER　KENNETH　sent<FE>out　LAPRAS！
+<FC>いいLAPRAS<FC>あこ♀
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ6/15
+TYPE/<FC>かあWATER
+TYPE/<FC>かあICE
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+10/10
+TYPE/<FC>かあICE
+TYPE/<FC>かあWATER
+TYPE/<FC>かあNORMAL
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+13/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Lapras Lv100 HP 401/401 - 185 196 269 226 240 - Moves: 14 Surf, 10 Ice Beam, 15 Body Slam, 20 Roar
+Foe　LAPRAS　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 394/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+VAPOREON　restored　HP<FE>using　its　WATER　ABSORB！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 394/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 12 Body Slam, 15 Shadow Ball
+Battler 1 info: Lapras Lv100 HP 353/401 - 185 196 269 226 240 - Moves: 14 Surf, 10 Ice Beam, 15 Body Slam, 20 Roar
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 400/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 12 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+12/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　LAPRAS　used<FE>ICE　BEAM！
+Battler 1 info: Lapras Lv100 HP 353/401 - 185 196 269 226 240 - Moves: 14 Surf, 9 Ice Beam, 15 Body Slam, 20 Roar
+Battler 0 info: Vaporeon Lv100 HP 342/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 12 Body Slam, 15 Shadow Ball
+It\'s　not　very　effective⋯
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 342/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 11 Body Slam, 15 Shadow Ball
+Battler 1 info: Lapras Lv100 HP 303/401 - 185 196 269 226 240 - Moves: 14 Surf, 9 Ice Beam, 15 Body Slam, 20 Roar
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 348/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 11 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+11/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　LAPRAS　used<FE>BODY　SLAM！
+Battler 1 info: Lapras Lv100 HP 303/401 - 185 196 269 226 240 - Moves: 14 Surf, 9 Ice Beam, 14 Body Slam, 20 Roar
+Battler 0 info: Vaporeon Lv100 HP 281/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 11 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 281/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 10 Body Slam, 15 Shadow Ball
+Battler 1 info: Lapras Lv100 HP 258/401 - 185 196 269 226 240 - Moves: 14 Surf, 9 Ice Beam, 14 Body Slam, 20 Roar
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 286/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 10 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+10/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 286/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 9 Body Slam, 15 Shadow Ball
+Battler 1 info: Lapras Lv100 HP 207/401 - 185 196 269 226 240 - Moves: 14 Surf, 9 Ice Beam, 14 Body Slam, 20 Roar
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 292/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 9 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　LAPRAS　used<FE>ROAR！
+Battler 1 info: Lapras Lv100 HP 207/401 - 185 196 269 226 240 - Moves: 14 Surf, 9 Ice Beam, 14 Body Slam, 19 Roar
+Battler 0 info: Lanturn Lv100 HP 366/366 - 190 127 226 163 145 - Moves: 15 Flail, 10 Endure, 15 Thunderbolt, 15 Surf
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいLANTURN<FC>あさ♂
+LANTURN　was<FE>dragged　out！<FB>
+What　will<FE>s<FE>dragged　out！<FB>
+What　will<FE>LANTURN　do？
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいLANTURN<FC>あさ♂
+<FC>いいLAPRAS<FC>あこ♀
+What　will<FE>LANTURN　do？
+<FC>いいLANTURN<FC>あさ♂
+<FC>いいLAPRAS<FC>あこ♀
+LANTURN,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Vaporeon Lv100 HP 292/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 9 Body Slam, 15 Shadow Ball
+Do　it！　VAPOREON！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Lapras Lv100 HP 207/401 - 185 196 269 226 240 - Moves: 13 Surf, 9 Ice Beam, 14 Body Slam, 19 Roar
+Foe　LAPRAS　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 396/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 9 Body Slam, 15 Shadow Ball
+VAPOREON　restored　HP<FE>using　its　WATER　ABSORB！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ6/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　LAPRAS　used<FE>BODY　SLAM！
+Battler 1 info: Lapras Lv100 HP 207/401 - 185 196 269 226 240 - Moves: 13 Surf, 9 Ice Beam, 13 Body Slam, 19 Roar
+Battler 0 info: Vaporeon Lv100 HP 328/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 9 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 328/418 - 141 173 231 243 141 - Moves: 5 Surf, 10 Ice Beam, 9 Body Slam, 15 Shadow Ball
+Battler 1 info: Lapras Lv100 HP 154/401 - 185 196 269 226 240 - Moves: 13 Surf, 9 Ice Beam, 13 Body Slam, 19 Roar
+It\'s　not　very　effective⋯
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 334/418 - 141 173 231 243 141 - Moves: 5 Surf, 10 Ice Beam, 9 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ5/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Lapras Lv100 HP 154/401 - 185 196 269 226 240 - Moves: 12 Surf, 9 Ice Beam, 13 Body Slam, 19 Roar
+Foe　LAPRAS　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 5 Surf, 10 Ice Beam, 9 Body Slam, 15 Shadow Ball
+VAPOREON　restored　HP<FE>using　its　WATER　ABSORB！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 4 Surf, 10 Ice Beam, 9 Body Slam, 15 Shadow Ball
+Battler 1 info: Lapras Lv100 HP 97/401 - 185 196 269 226 240 - Moves: 12 Surf, 9 Ice Beam, 13 Body Slam, 19 Roar
+It\'s　not　very　effective⋯
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ4/15
+TYPE/<FC>かあWATER
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Lapras Lv100 HP 97/401 - 185 196 269 226 240 - Moves: 11 Surf, 9 Ice Beam, 13 Body Slam, 19 Roar
+Foe　LAPRAS　used<FE>SURF！
+VAPOREON\'s　WATER　ABSORB<FE>made　SURF　useless！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 4 Surf, 10 Ice Beam, 8 Body Slam, 15 Shadow Ball
+Battler 1 info: Lapras Lv100 HP 47/401 - 185 196 269 226 240 - Moves: 11 Surf, 9 Ice Beam, 13 Body Slam, 19 Roar
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　LAPRAS　used<FE>ICE　BEAM！
+Battler 1 info: Lapras Lv100 HP 47/401 - 185 196 269 226 240 - Moves: 11 Surf, 8 Ice Beam, 13 Body Slam, 19 Roar
+Battler 0 info: Vaporeon Lv100 HP 360/418 - 141 173 231 243 141 - Moves: 4 Surf, 10 Ice Beam, 8 Body Slam, 15 Shadow Ball
+It\'s　not　very　effective⋯
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 360/418 - 141 173 231 243 141 - Moves: 4 Surf, 10 Ice Beam, 7 Body Slam, 15 Shadow Ball
+Battler 1 info: Lapras Lv100 HP 0/401 - 185 196 269 226 240 - Moves: 11 Surf, 8 Ice Beam, 13 Body Slam, 19 Roar
+Foe　LAPRAS<FE>fainted！<FB>
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 365/418 - 141 173 231 243 141 - Moves: 4 Surf, 10 Ice Beam, 7 Body Slam, 15 Shadow Ball
+Battler 1 info: Lapras Lv100 HP 0/401 - 185 196 269 226 240 - Moves: 11 Surf, 8 Ice Beam, 13 Body Slam, 19 Roar
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Player　defeated<FE>HIKER　KENNETH！<FB>
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+I　AM　SORRY　⋯<FE><FC>け
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいBLASTOISE<FC>あさ♂
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Blastoise Lv100 HP 341/341 - 268 236 248 246 172 - Moves: 5 Hydro Pump, 5 Mega Kick, 15 Brick Break, 20 Mirror Coat
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+BLACK　BELT　HITOMI<FE>would　like　to　battle！<FB>
+BLACK　BELT　HITOMI　sent<FE>out　BLASTOISE！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいBLASTOISE<FC>あさ♂
+Go！　VAPOREON！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+15/15
+TYPE/<FC>かあWATER
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+15/15
+TYPE/<FC>かあWATER
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 1 info: Blastoise Lv100 HP 302/341 - 268 236 248 246 172 - Moves: 5 Hydro Pump, 5 Mega Kick, 15 Brick Break, 20 Mirror Coat
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　BLASTOISE　used<FE>MIRROR　COAT！
+Battler 1 info: Blastoise Lv100 HP 302/341 - 268 236 248 246 172 - Moves: 5 Hydro Pump, 5 Mega Kick, 15 Brick Break, 19 Mirror Coat
+But　it　failed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　MIRROR　COAT！
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+14/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　BLASTOISE　used<FE>MEGA　KICK！
+Battler 1 info: Blastoise Lv100 HP 302/341 - 268 236 248 246 172 - Moves: 5 Hydro Pump, 4 Mega Kick, 15 Brick Break, 19 Mirror Coat
+Battler 0 info: Vaporeon Lv100 HP 284/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Foe　BLASTOISE\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 1 info: Blastoise Lv100 HP 318/341 - 268 236 248 246 172 - Moves: 5 Hydro Pump, 4 Mega Kick, 15 Brick Break, 19 Mirror Coat
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 284/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Blastoise Lv100 HP 278/341 - 268 236 248 246 172 - Moves: 5 Hydro Pump, 4 Mega Kick, 15 Brick Break, 19 Mirror Coat
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 289/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+13/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Blastoise Lv100 HP 278/341 - 268 236 248 246 172 - Moves: 4 Hydro Pump, 4 Mega Kick, 15 Brick Break, 19 Mirror Coat
+Foe　BLASTOISE　used<FE>HYDRO　PUMP！
+Battler 0 info: Vaporeon Lv100 HP 393/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+VAPOREON　restored　HP<FE>using　its　WATER　ABSORB！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 393/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 12 Body Slam, 15 Shadow Ball
+Battler 1 info: Blastoise Lv100 HP 237/341 - 268 236 248 246 172 - Moves: 4 Hydro Pump, 4 Mega Kick, 15 Brick Break, 19 Mirror Coat
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 398/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 12 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+12/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Blastoise Lv100 HP 237/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 15 Brick Break, 19 Mirror Coat
+Foe　BLASTOISE　used<FE>HYDRO　PUMP！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 12 Body Slam, 15 Shadow Ball
+VAPOREON　restored　HP<FE>using　its　WATER　ABSORB！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 11 Body Slam, 15 Shadow Ball
+Battler 1 info: Blastoise Lv100 HP 155/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 15 Brick Break, 19 Mirror Coat
+A　critical　hit！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+11/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　BLASTOISE　used<FE>BRICK　BREAK！
+Battler 1 info: Blastoise Lv100 HP 155/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 14 Brick Break, 19 Mirror Coat
+Battler 0 info: Vaporeon Lv100 HP 319/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 11 Body Slam, 15 Shadow Ball
+Foe　BLASTOISE\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 1 info: Blastoise Lv100 HP 167/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 14 Brick Break, 19 Mirror Coat
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 319/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 10 Body Slam, 15 Shadow Ball
+Battler 1 info: Blastoise Lv100 HP 130/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 14 Brick Break, 19 Mirror Coat
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 323/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 10 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+10/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　BLASTOISE　used<FE>BRICK　BREAK！
+Battler 1 info: Blastoise Lv100 HP 130/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 13 Brick Break, 19 Mirror Coat
+Battler 0 info: Vaporeon Lv100 HP 238/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 10 Body Slam, 15 Shadow Ball
+Foe　BLASTOISE\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 1 info: Blastoise Lv100 HP 140/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 13 Brick Break, 19 Mirror Coat
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 238/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 9 Body Slam, 15 Shadow Ball
+Battler 1 info: Blastoise Lv100 HP 103/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 13 Brick Break, 19 Mirror Coat
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 242/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 9 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ9/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 242/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 8 Body Slam, 15 Shadow Ball
+Battler 1 info: Blastoise Lv100 HP 64/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 13 Brick Break, 19 Mirror Coat
+Battler 1 info: Blastoise Lv100 HP 64/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 13 Brick Break, 19 Mirror Coat
+Foe　BLASTOISE　is　paralyzed！<FE>It　may　be　unable　to　move！
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 246/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 8 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　BLASTOISE　used<FE>MIRROR　COAT！
+Battler 1 info: Blastoise Lv100 HP 64/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 13 Brick Break, 18 Mirror Coat
+But　it　failed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+ラ8/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 246/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 7 Body Slam, 15 Shadow Ball
+Battler 1 info: Blastoise Lv100 HP 24/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 13 Brick Break, 18 Mirror Coat
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 251/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 7 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　BLASTOISE　is　paralyzed！<FE>It　can\'t　move！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ7/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 251/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Blastoise Lv100 HP 0/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 13 Brick Break, 18 Mirror Coat
+Battler 1 info: Blastoise Lv100 HP 0/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 13 Brick Break, 18 Mirror Coat
+Foe　BLASTOISE<FE>fainted！<FB>
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 254/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Blastoise Lv100 HP 0/341 - 268 236 248 246 172 - Moves: 3 Hydro Pump, 4 Mega Kick, 13 Brick Break, 18 Mirror Coat
+Battler 0 info: Vaporeon Lv100 HP 254/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Jolteon Lv100 HP 271/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 10 Dig, 30 Double Kick, 20 Roar
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+BLACK　BELT　HITOMI　sent<FE>out　JOLTEON！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいJOLTEON<FC>あさ♂
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ6/15
+TYPE/<FC>かあNORMAL
+What　will<FE>VAPOREON　do？
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいJOLTEON<FC>あさ♂
+VAPOREON,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Lanturn Lv100 HP 366/366 - 190 127 226 163 145 - Moves: 15 Flail, 10 Endure, 15 Thunderbolt, 15 Surf
+Go！　LANTURN！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいLANTURN<FC>あさ♂
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Jolteon Lv100 HP 271/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 9 Dig, 30 Double Kick, 20 Roar
+Battler 1 info: Jolteon Lv100 HP 271/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 9 Dig, 30 Double Kick, 20 Roar
+Foe　JOLTEON　dug　a　hole！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>LANTURN　do？
+THUNDERBOLT
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Jolteon Lv100 HP 271/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 9 Dig, 30 Double Kick, 20 Roar
+Foe　JOLTEON　used<FE>DIG！
+Battler 0 info: Lanturn Lv100 HP 206/366 - 190 127 226 163 145 - Moves: 15 Flail, 10 Endure, 15 Thunderbolt, 15 Surf
+It\'s　super　effective！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+LANTURN　used<FE>SURF！
+Battler 0 info: Lanturn Lv100 HP 206/366 - 190 127 226 163 145 - Moves: 15 Flail, 10 Endure, 15 Thunderbolt, 14 Surf
+Battler 1 info: Jolteon Lv100 HP 167/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 9 Dig, 30 Double Kick, 20 Roar
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>LANTURN　do？
+THUNDERBOLT
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Jolteon Lv100 HP 167/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 8 Dig, 30 Double Kick, 20 Roar
+Battler 1 info: Jolteon Lv100 HP 167/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 8 Dig, 30 Double Kick, 20 Roar
+Foe　JOLTEON　dug　a　hole！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+LANTURN　used<FE>SURF！
+Battler 0 info: Lanturn Lv100 HP 206/366 - 190 127 226 163 145 - Moves: 15 Flail, 10 Endure, 15 Thunderbolt, 13 Surf
+LANTURN\'s<FE>attack　missed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>LANTURN　do？
+THUNDERBOLT
+TYPE/<FC>かあWATER
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+LANTURN　used<FE>ENDURE！
+Battler 0 info: Lanturn Lv100 HP 206/366 - 190 127 226 163 145 - Moves: 15 Flail, 9 Endure, 15 Thunderbolt, 13 Surf
+LANTURN　braced<FE>itself！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Jolteon Lv100 HP 167/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 8 Dig, 30 Double Kick, 20 Roar
+Foe　JOLTEON　used<FE>DIG！
+Battler 0 info: Lanturn Lv100 HP 32/366 - 190 127 226 163 145 - Moves: 15 Flail, 9 Endure, 15 Thunderbolt, 13 Surf
+It\'s　super　effective！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 0 info: Lanturn Lv100 HP 32/366 - 190 127 226 163 145 - Moves: 15 Flail, 9 Endure, 15 Thunderbolt, 13 Surf
+Using　SALAC　BERRY,　the　SPEED<FE>of　LANTURN　rose！
+Battler 0 info: Lanturn Lv100 HP 32/366 - 190 127 226 163 145 - Moves: 15 Flail, 9 Endure, 15 Thunderbolt, 13 Surf
+What　will<FE>LANTURN　do？
+THUNDERBOLT
+TYPE/<FC>かあNORMAL
+What　will<FE>LANTURN　do？
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいLANTURN<FC>あさ♂
+<FC>いいJOLTEON<FC>あさ♂
+What　will<FE>LANTURN　do？
+THUNDERBOLT
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Jolteon Lv100 HP 167/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 7 Dig, 30 Double Kick, 20 Roar
+Battler 1 info: Jolteon Lv100 HP 167/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 7 Dig, 30 Double Kick, 20 Roar
+Foe　JOLTEON　dug　a　hole！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+LANTURN　used<FE>FLAIL！
+Battler 0 info: Lanturn Lv100 HP 32/366 - 190 127 226 163 145 - Moves: 14 Flail, 9 Endure, 15 Thunderbolt, 13 Surf
+LANTURN\'s<FE>attack　missed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>LANTURN　do？
+THUNDERBOLT
+TYPE/<FC>かあNORMAL
+What　will<FE>LANTURN　do？
+<FC>いいLANTURN<FC>あさ♂
+<FC>いいJOLTEON<FC>あさ♂
+What　will<FE><FC>あさ♂
+What　will<FE>LANTURN　do？
+THUNDERBOLT
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Jolteon Lv100 HP 167/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 7 Dig, 30 Double Kick, 20 Roar
+Foe　JOLTEON　used<FE>DIG！
+Battler 0 info: Lanturn Lv100 HP 0/366 - 190 127 226 163 145 - Moves: 14 Flail, 9 Endure, 15 Thunderbolt, 13 Surf
+It\'s　super　effective！
+Battler 0 info: Lanturn Lv100 HP 0/366 - 190 127 226 163 145 - Moves: 14 Flail, 9 Endure, 15 Thunderbolt, 13 Surf
+LANTURN<FE>fainted！<FB>
+Battler 0 info: Lanturn Lv100 HP 0/366 - 190 127 226 163 145 - Moves: 14 Flail, 9 Endure, 15 Thunderbolt, 13 Surf
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいLANTURN<FC>あさ♂
+<FC>いいJOLTEON<FC>あさ♂
+Battler 0 info: Vaporeon Lv100 HP 254/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Do　it！　VAPOREON！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+15/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Jolteon Lv100 HP 167/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 6 Dig, 30 Double Kick, 20 Roar
+Battler 1 info: Jolteon Lv100 HP 167/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 6 Dig, 30 Double Kick, 20 Roar
+Foe　JOLTEON　dug　a　hole！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 254/418 - 141 173 231 243 141 - Moves: 14 Surf, 10 Ice Beam, 6 Body Slam, 15 Shadow Ball
+VAPOREON\'s<FE>attack　missed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+14/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Jolteon Lv100 HP 167/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 6 Dig, 30 Double Kick, 20 Roar
+Foe　JOLTEON　used<FE>DIG！
+Battler 0 info: Vaporeon Lv100 HP 188/418 - 141 173 231 243 141 - Moves: 14 Surf, 10 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 188/418 - 141 173 231 243 141 - Moves: 13 Surf, 10 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Jolteon Lv100 HP 47/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 6 Dig, 30 Double Kick, 20 Roar
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 203/418 - 141 173 231 243 141 - Moves: 13 Surf, 10 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+13/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 203/418 - 141 173 231 243 141 - Moves: 12 Surf, 10 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Jolteon Lv100 HP 0/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 6 Dig, 30 Double Kick, 20 Roar
+Foe　JOLTEON<FE>fainted！<FB>
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 208/418 - 141 173 231 243 141 - Moves: 12 Surf, 10 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Jolteon Lv100 HP 0/271 - 229 156 319 226 296 - Moves: 15 Thunderbolt, 6 Dig, 30 Double Kick, 20 Roar
+Battler 0 info: Vaporeon Lv100 HP 208/418 - 141 173 231 243 141 - Moves: 12 Surf, 10 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Shiftry Lv100 HP 321/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 15 Double Team, 10 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+BLACK　BELT　HITOMI　sent<FE>out　SHIFTRY！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいSHIFTRY<FC>あこ♀
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+12/15
+TYPE/<FC>かあWATER
+TYPE/<FC>かあICE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SHIFTRY　used<FE>DOUBLE　TEAM！
+Battler 1 info: Shiftry Lv100 HP 321/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 14 Double Team, 10 Rest
+Battler 1 info: Shiftry Lv100 HP 321/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 14 Double Team, 10 Rest
+Foe　SHIFTRY\'s　evasiveness<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>ICE　BEAM！
+Battler 0 info: Vaporeon Lv100 HP 208/418 - 141 173 231 243 141 - Moves: 12 Surf, 9 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Shiftry Lv100 HP 170/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 14 Double Team, 10 Rest
+It\'s　super　effective！
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 226/418 - 141 173 231 243 141 - Moves: 12 Surf, 9 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ9/10
+TYPE/<FC>かあICE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SHIFTRY　used<FE>REST！
+Battler 1 info: Shiftry Lv100 HP 170/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 14 Double Team, 9 Rest
+Battler 1 info: Shiftry Lv100 HP 170/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 14 Double Team, 9 Rest
+Foe　SHIFTRY　went<FE>to　sleep！
+Battler 1 info: Shiftry Lv100 HP 321/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 14 Double Team, 9 Rest
+Foe　SHIFTRY　regained<FE>health！
+Battler 1 info: Shiftry Lv100 HP 321/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 14 Double Team, 9 Rest
+Foe　SHIFTRY\'s　CHESTO　BERRY<FE>woke　it　from　its　sleep！
+Battler 1 info: Shiftry Lv100 HP 321/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 14 Double Team, 9 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>ICE　BEAM！
+Battler 0 info: Vaporeon Lv100 HP 226/418 - 141 173 231 243 141 - Moves: 12 Surf, 8 Ice Beam, 6 Body Slam, 15 Shadow Ball
+VAPOREON\'s<FE>attack　missed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ8/10
+TYPE/<FC>かあICE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SHIFTRY　used<FE>REST！
+Battler 1 info: Shiftry Lv100 HP 321/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 14 Double Team, 8 Rest
+Foe　SHIFTRY\'s<FE>HP　is　full！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>ICE　BEAM！
+Battler 0 info: Vaporeon Lv100 HP 226/418 - 141 173 231 243 141 - Moves: 12 Surf, 7 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Shiftry Lv100 HP 151/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 14 Double Team, 8 Rest
+It\'s　super　effective！
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 247/418 - 141 173 231 243 141 - Moves: 12 Surf, 7 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ7/10
+TYPE/<FC>かあICE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SHIFTRY　used<FE>DOUBLE　TEAM！
+Battler 1 info: Shiftry Lv100 HP 151/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 13 Double Team, 8 Rest
+Battler 1 info: Shiftry Lv100 HP 151/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 13 Double Team, 8 Rest
+Foe　SHIFTRY\'s　evasiveness<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>ICE　BEAM！
+Battler 0 info: Vaporeon Lv100 HP 247/418 - 141 173 231 243 141 - Moves: 12 Surf, 6 Ice Beam, 6 Body Slam, 15 Shadow Ball
+VAPOREON\'s<FE>attack　missed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ6/10
+TYPE/<FC>かあICE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SHIFTRY　used<FE>REST！
+Battler 1 info: Shiftry Lv100 HP 151/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 13 Double Team, 7 Rest
+Battler 1 info: Shiftry Lv100 HP 151/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 13 Double Team, 7 Rest
+Foe　SHIFTRY　went<FE>to　sleep！
+Battler 1 info: Shiftry Lv100 HP 321/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 13 Double Team, 7 Rest
+Foe　SHIFTRY　regained<FE>health！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>ICE　BEAM！
+Battler 0 info: Vaporeon Lv100 HP 247/418 - 141 173 231 243 141 - Moves: 12 Surf, 5 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Shiftry Lv100 HP 168/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 13 Double Team, 7 Rest
+It\'s　super　effective！
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 266/418 - 141 173 231 243 141 - Moves: 12 Surf, 5 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ5/10
+TYPE/<FC>かあICE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Shiftry Lv100 HP 168/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 13 Double Team, 7 Rest
+Foe　SHIFTRY　is　fast<FE>asleep。
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>ICE　BEAM！
+Battler 0 info: Vaporeon Lv100 HP 266/418 - 141 173 231 243 141 - Moves: 12 Surf, 4 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Shiftry Lv100 HP 19/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 13 Double Team, 7 Rest
+It\'s　super　effective！
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 284/418 - 141 173 231 243 141 - Moves: 12 Surf, 4 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+TYPE/<FC>かあICE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Shiftry Lv100 HP 19/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 13 Double Team, 7 Rest
+Foe　SHIFTRY　woke　up！
+Foe　SHIFTRY　used<FE>DOUBLE　TEAM！
+Battler 1 info: Shiftry Lv100 HP 19/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 12 Double Team, 7 Rest
+Battler 1 info: Shiftry Lv100 HP 19/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 12 Double Team, 7 Rest
+Foe　SHIFTRY\'s　evasiveness<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>ICE　BEAM！
+Battler 0 info: Vaporeon Lv100 HP 284/418 - 141 173 231 243 141 - Moves: 12 Surf, 3 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Shiftry Lv100 HP 0/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 12 Double Team, 7 Rest
+It\'s　super　effective！
+Battler 1 info: Shiftry Lv100 HP 0/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 12 Double Team, 7 Rest
+Foe　SHIFTRY<FE>fainted！<FB>
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 286/418 - 141 173 231 243 141 - Moves: 12 Surf, 3 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Shiftry Lv100 HP 0/321 - 236 240 194 219 196 - Moves: 10 Leech Seed, 10 Dig, 12 Double Team, 7 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Player　defeated<FE>BLACK　BELT　HITOMI！<FB>
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+AIYEEH　！！　<FE>I　AM　SORRY　！！<FC>け
+<FC>いいVAPOREON
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいMACHAMP<FC>あさ♂
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Machamp Lv100 HP 363/363 - 325 238 149 248 146 - Moves: 5 Cross Chop, 10 Earthquake, 20 Bulk Up, 10 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+EXPERT　EVAN<FE>would　like　to　battle！<FB>
+EXPERT　EVAN　sent<FE>out　MACHAMP！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいMACHAMP<FC>あさ♂
+Go！　VAPOREON！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+15/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　MACHAMP　used<FE>CROSS　CHOP！
+Battler 1 info: Machamp Lv100 HP 363/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 10 Rest
+Foe　MACHAMP\'s<FE>attack　missed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 14 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Machamp Lv100 HP 265/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 10 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+14/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　MACHAMP　used<FE>REST！
+Battler 1 info: Machamp Lv100 HP 265/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 9 Rest
+Battler 1 info: Machamp Lv100 HP 265/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 9 Rest
+Foe　MACHAMP　went<FE>to　sleep！
+Battler 1 info: Machamp Lv100 HP 363/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 9 Rest
+Foe　MACHAMP　regained<FE>health！
+Battler 1 info: Machamp Lv100 HP 363/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 9 Rest
+Foe　MACHAMP\'s　CHESTO　BERRY<FE>woke　it　from　its　sleep！
+Battler 1 info: Machamp Lv100 HP 363/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 9 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 13 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Machamp Lv100 HP 254/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 9 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+13/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　MACHAMP　used<FE>REST！
+Battler 1 info: Machamp Lv100 HP 254/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 8 Rest
+Battler 1 info: Machamp Lv100 HP 254/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 8 Rest
+Foe　MACHAMP　went<FE>to　sleep！
+Battler 1 info: Machamp Lv100 HP 363/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 8 Rest
+Foe　MACHAMP　regained<FE>health！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 12 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Machamp Lv100 HP 256/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 8 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+12/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Machamp Lv100 HP 256/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 8 Rest
+Foe　MACHAMP　is　fast<FE>asleep。
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 11 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Machamp Lv100 HP 154/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 8 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+11/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Machamp Lv100 HP 154/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 8 Rest
+Foe　MACHAMP　is　fast<FE>asleep。
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 10 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Machamp Lv100 HP 56/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 8 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+10/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Machamp Lv100 HP 56/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 20 Bulk Up, 8 Rest
+Foe　MACHAMP　woke　up！
+Foe　MACHAMP　used<FE>BULK　UP！
+Battler 1 info: Machamp Lv100 HP 56/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 19 Bulk Up, 8 Rest
+Battler 1 info: Machamp Lv100 HP 56/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 19 Bulk Up, 8 Rest
+Foe　MACHAMP\'s　ATTACK<FE>rose！
+Battler 1 info: Machamp Lv100 HP 56/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 19 Bulk Up, 8 Rest
+Foe　MACHAMP\'s　DEFENSE<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Machamp Lv100 HP 0/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 19 Bulk Up, 8 Rest
+Battler 1 info: Machamp Lv100 HP 0/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 19 Bulk Up, 8 Rest
+Foe　MACHAMP<FE>fainted！<FB>
+Battler 1 info: Machamp Lv100 HP 0/363 - 325 238 149 248 146 - Moves: 4 Cross Chop, 10 Earthquake, 19 Bulk Up, 8 Rest
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Blaziken Lv100 HP 301/301 - 339 176 319 176 196 - Moves: 10 Blaze Kick, 5 Mega Kick, 15 ThunderPunch, 15 Brick Break
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+EXPERT　EVAN　sent<FE>out　BLAZIKEN！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいBLAZIKEN<FC>あこ♀
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ9/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　BLAZIKEN　used<FE>BRICK　BREAK！
+Battler 1 info: Blaziken Lv100 HP 301/301 - 339 176 319 176 196 - Moves: 10 Blaze Kick, 5 Mega Kick, 15 ThunderPunch, 14 Brick Break
+Battler 0 info: Vaporeon Lv100 HP 258/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 258/418 - 141 173 231 243 141 - Moves: 8 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Blaziken Lv100 HP 0/301 - 339 176 319 176 196 - Moves: 10 Blaze Kick, 5 Mega Kick, 15 ThunderPunch, 14 Brick Break
+It\'s　super　effective！
+Foe　BLAZIKEN<FE>fainted！<FB>
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 295/418 - 141 173 231 243 141 - Moves: 8 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Blaziken Lv100 HP 0/301 - 339 176 319 176 196 - Moves: 10 Blaze Kick, 5 Mega Kick, 15 ThunderPunch, 14 Brick Break
+Battler 0 info: Vaporeon Lv100 HP 295/418 - 141 173 231 243 141 - Moves: 8 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Nidoking Lv100 HP 366/366 - 311 190 185 186 206 - Moves: 5 Mega Kick, 10 Earthquake, 15 Shadow Ball, 15 Brick Break
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+EXPERT　EVAN　sent<FE>out　NIDOKING！
+<FC>いいNIDOKING<FC>あさ♂
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ8/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　NIDOKING　used<FE>BRICK　BREAK！
+Battler 1 info: Nidoking Lv100 HP 366/366 - 311 190 185 186 206 - Moves: 5 Mega Kick, 10 Earthquake, 15 Shadow Ball, 14 Brick Break
+Battler 0 info: Vaporeon Lv100 HP 191/418 - 141 173 231 243 141 - Moves: 8 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 191/418 - 141 173 231 243 141 - Moves: 7 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Nidoking Lv100 HP 92/366 - 311 190 185 186 206 - Moves: 5 Mega Kick, 10 Earthquake, 15 Shadow Ball, 14 Brick Break
+It\'s　super　effective！
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 225/418 - 141 173 231 243 141 - Moves: 7 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　NIDOKING　used<FE>EARTHQUAKE！
+Battler 1 info: Nidoking Lv100 HP 92/366 - 311 190 185 186 206 - Moves: 5 Mega Kick, 9 Earthquake, 15 Shadow Ball, 14 Brick Break
+Battler 0 info: Vaporeon Lv100 HP 19/418 - 141 173 231 243 141 - Moves: 7 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Foe　NIDOKING\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 1 info: Nidoking Lv100 HP 117/366 - 311 190 185 186 206 - Moves: 5 Mega Kick, 9 Earthquake, 15 Shadow Ball, 14 Brick Break
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 19/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Nidoking Lv100 HP 0/366 - 311 190 185 186 206 - Moves: 5 Mega Kick, 9 Earthquake, 15 Shadow Ball, 14 Brick Break
+It\'s　super　effective！
+Foe　NIDOKING<FE>fainted！<FB>
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 33/418 - 141 173 231 243 141 - Moves: 6 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Nidoking Lv100 HP 0/366 - 311 190 185 186 206 - Moves: 5 Mega Kick, 9 Earthquake, 15 Shadow Ball, 14 Brick Break
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Player　defeated<FE>EXPERT　EVAN！<FB>
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+THE　AWFUL　STENCH<FE>OF　A　LOSS<FC>け
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいMILOTIC<FC>あこ♀
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Milotic Lv100 HP 394/394 - 140 194 328 286 198 - Moves: 15 Surf, 10 Ice Beam, 25 Safeguard, 20 Mirror Coat
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+HIKER　DARYL<FE>would　like　to　battle！<FB>
+HIKER　DARYL　sent<FE>out　MILOTIC！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいMILOTIC<FC>あこ♀
+Go！　VAPOREON！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+15/15
+TYPE/<FC>かあWATER
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　MILOTIC　used<FE>ICE　BEAM！
+Battler 1 info: Milotic Lv100 HP 394/394 - 140 194 328 286 198 - Moves: 15 Surf, 9 Ice Beam, 25 Safeguard, 20 Mirror Coat
+Battler 0 info: Vaporeon Lv100 HP 364/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+It\'s　not　very　effective⋯
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 364/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 1 info: Milotic Lv100 HP 343/394 - 140 194 328 286 198 - Moves: 15 Surf, 9 Ice Beam, 25 Safeguard, 20 Mirror Coat
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 370/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+14/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 370/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 1 info: Milotic Lv100 HP 291/394 - 140 194 328 286 198 - Moves: 15 Surf, 9 Ice Beam, 25 Safeguard, 20 Mirror Coat
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 376/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　MILOTIC　used<FE>MIRROR　COAT！
+Battler 1 info: Milotic Lv100 HP 291/394 - 140 194 328 286 198 - Moves: 15 Surf, 9 Ice Beam, 25 Safeguard, 19 Mirror Coat
+But　it　failed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+13/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Milotic Lv100 HP 291/394 - 140 194 328 286 198 - Moves: 14 Surf, 9 Ice Beam, 25 Safeguard, 19 Mirror Coat
+Foe　MILOTIC　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 13 Body Slam, 15 Shadow Ball
+VAPOREON　restored　HP<FE>using　its　WATER　ABSORB！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 12 Body Slam, 15 Shadow Ball
+Battler 1 info: Milotic Lv100 HP 238/394 - 140 194 328 286 198 - Moves: 14 Surf, 9 Ice Beam, 25 Safeguard, 19 Mirror Coat
+Battler 1 info: Milotic Lv100 HP 238/394 - 140 194 328 286 198 - Moves: 14 Surf, 9 Ice Beam, 25 Safeguard, 19 Mirror Coat
+Foe　MILOTIC　is　paralyzed！<FE>It　may　be　unable　to　move！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？ed！<FE>It　may　be　unable　to　move！
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+12/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 11 Body Slam, 15 Shadow Ball
+Battler 1 info: Milotic Lv100 HP 204/394 - 140 194 328 286 198 - Moves: 14 Surf, 9 Ice Beam, 25 Safeguard, 19 Mirror Coat
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　MILOTIC　is　paralyzed！<FE>It　can\'t　move！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 10 Body Slam, 15 Shadow Ball
+Battler 1 info: Milotic Lv100 HP 169/394 - 140 194 328 286 198 - Moves: 14 Surf, 9 Ice Beam, 25 Safeguard, 19 Mirror Coat
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　MILOTIC　used<FE>SAFEGUARD！
+Battler 1 info: Milotic Lv100 HP 169/394 - 140 194 328 286 198 - Moves: 14 Surf, 9 Ice Beam, 24 Safeguard, 19 Mirror Coat
+Foe\'s　party　is　covered<FE>by　a　veil！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+10/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 9 Body Slam, 15 Shadow Ball
+Battler 1 info: Milotic Lv100 HP 139/394 - 140 194 328 286 198 - Moves: 14 Surf, 9 Ice Beam, 24 Safeguard, 19 Mirror Coat
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　MILOTIC　used<FE>MIRROR　COAT！
+Battler 1 info: Milotic Lv100 HP 139/394 - 140 194 328 286 198 - Moves: 14 Surf, 9 Ice Beam, 24 Safeguard, 18 Mirror Coat
+But　it　failed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ9/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 8 Body Slam, 15 Shadow Ball
+Battler 1 info: Milotic Lv100 HP 104/394 - 140 194 328 286 198 - Moves: 14 Surf, 9 Ice Beam, 24 Safeguard, 18 Mirror Coat
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　MILOTIC　used<FE>MIRROR　COAT！
+Battler 1 info: Milotic Lv100 HP 104/394 - 140 194 328 286 198 - Moves: 14 Surf, 9 Ice Beam, 24 Safeguard, 17 Mirror Coat
+But　it　failed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ8/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 7 Body Slam, 15 Shadow Ball
+Battler 1 info: Milotic Lv100 HP 70/394 - 140 194 328 286 198 - Moves: 14 Surf, 9 Ice Beam, 24 Safeguard, 17 Mirror Coat
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　MILOTIC　used<FE>MIRROR　COAT！
+Battler 1 info: Milotic Lv100 HP 70/394 - 140 194 328 286 198 - Moves: 14 Surf, 9 Ice Beam, 24 Safeguard, 16 Mirror Coat
+But　it　failed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ7/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 6 Body Slam, 15 Shadow Ball
+Battler 1 info: Milotic Lv100 HP 36/394 - 140 194 328 286 198 - Moves: 14 Surf, 9 Ice Beam, 24 Safeguard, 16 Mirror Coat
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Milotic Lv100 HP 36/394 - 140 194 328 286 198 - Moves: 13 Surf, 9 Ice Beam, 24 Safeguard, 16 Mirror Coat
+Foe　MILOTIC　used<FE>SURF！
+VAPOREON\'s　WATER　ABSORB<FE>made　SURF　useless！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe\'s　party　is　no　longer<FE>protected　by　SAFEGUARD！
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ6/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 5 Body Slam, 15 Shadow Ball
+Battler 1 info: Milotic Lv100 HP 4/394 - 140 194 328 286 198 - Moves: 13 Surf, 9 Ice Beam, 24 Safeguard, 16 Mirror Coat
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　MILOTIC　used<FE>ICE　BEAM！
+Battler 1 info: Milotic Lv100 HP 4/394 - 140 194 328 286 198 - Moves: 13 Surf, 8 Ice Beam, 24 Safeguard, 16 Mirror Coat
+Battler 0 info: Vaporeon Lv100 HP 368/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 5 Body Slam, 15 Shadow Ball
+It\'s　not　very　effective⋯
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ5/15
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 368/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 1 info: Milotic Lv100 HP 0/394 - 140 194 328 286 198 - Moves: 13 Surf, 8 Ice Beam, 24 Safeguard, 16 Mirror Coat
+Battler 1 info: Milotic Lv100 HP 0/394 - 140 194 328 286 198 - Moves: 13 Surf, 8 Ice Beam, 24 Safeguard, 16 Mirror Coat
+Foe　MILOTIC<FE>fainted！<FB>
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 369/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 1 info: Milotic Lv100 HP 0/394 - 140 194 328 286 198 - Moves: 13 Surf, 8 Ice Beam, 24 Safeguard, 16 Mirror Coat
+Battler 0 info: Vaporeon Lv100 HP 369/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 1 info: Umbreon Lv100 HP 373/373 - 228 256 140 338 166 - Moves: 10 Curse, 40 Screech, 15 Double Team, 15 Double-Edge
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+HIKER　DARYL　sent<FE>out　UMBREON！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいUMBREON<FC>あさ♂
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ4/15
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあWATER
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+15/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　UMBREON　used<FE>DOUBLE　TEAM！
+Battler 1 info: Umbreon Lv100 HP 373/373 - 228 256 140 338 166 - Moves: 10 Curse, 40 Screech, 14 Double Team, 15 Double-Edge
+Battler 1 info: Umbreon Lv100 HP 373/373 - 228 256 140 338 166 - Moves: 10 Curse, 40 Screech, 14 Double Team, 15 Double-Edge
+Foe　UMBREON\'s　evasiveness<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 369/418 - 141 173 231 243 141 - Moves: 14 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 1 info: Umbreon Lv100 HP 209/373 - 228 256 140 338 166 - Moves: 10 Curse, 40 Screech, 14 Double Team, 15 Double-Edge
+A　critical　hit！
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 389/418 - 141 173 231 243 141 - Moves: 14 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　UMBREON\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Umbreon Lv100 HP 232/373 - 228 256 140 338 166 - Moves: 10 Curse, 40 Screech, 14 Double Team, 15 Double-Edge
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+14/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　UMBREON　used<FE>CURSE！
+Battler 1 info: Umbreon Lv100 HP 232/373 - 228 256 140 338 166 - Moves: 9 Curse, 40 Screech, 14 Double Team, 15 Double-Edge
+Battler 1 info: Umbreon Lv100 HP 232/373 - 228 256 140 338 166 - Moves: 9 Curse, 40 Screech, 14 Double Team, 15 Double-Edge
+Foe　UMBREON\'s　SPEED<FE>fell！
+Battler 1 info: Umbreon Lv100 HP 232/373 - 228 256 140 338 166 - Moves: 9 Curse, 40 Screech, 14 Double Team, 15 Double-Edge
+Foe　UMBREON\'s　ATTACK<FE>rose！
+Battler 1 info: Umbreon Lv100 HP 232/373 - 228 256 140 338 166 - Moves: 9 Curse, 40 Screech, 14 Double Team, 15 Double-Edge
+Foe　UMBREON\'s　DEFENSE<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 389/418 - 141 173 231 243 141 - Moves: 13 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 1 info: Umbreon Lv100 HP 150/373 - 228 256 140 338 166 - Moves: 9 Curse, 40 Screech, 14 Double Team, 15 Double-Edge
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 399/418 - 141 173 231 243 141 - Moves: 13 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　UMBREON\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Umbreon Lv100 HP 173/373 - 228 256 140 338 166 - Moves: 9 Curse, 40 Screech, 14 Double Team, 15 Double-Edge
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+13/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 399/418 - 141 173 231 243 141 - Moves: 12 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 1 info: Umbreon Lv100 HP 89/373 - 228 256 140 338 166 - Moves: 9 Curse, 40 Screech, 14 Double Team, 15 Double-Edge
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 409/418 - 141 173 231 243 141 - Moves: 12 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　UMBREON　used<FE>DOUBLE　TEAM！
+Battler 1 info: Umbreon Lv100 HP 89/373 - 228 256 140 338 166 - Moves: 9 Curse, 40 Screech, 13 Double Team, 15 Double-Edge
+Battler 1 info: Umbreon Lv100 HP 89/373 - 228 256 140 338 166 - Moves: 9 Curse, 40 Screech, 13 Double Team, 15 Double-Edge
+Foe　UMBREON\'s　evasiveness<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　UMBREON\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Umbreon Lv100 HP 112/373 - 228 256 140 338 166 - Moves: 9 Curse, 40 Screech, 13 Double Team, 15 Double-Edge
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+12/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 409/418 - 141 173 231 243 141 - Moves: 11 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+VAPOREON\'s<FE>attack　missed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　UMBREON　used<FE>SCREECH！
+Battler 1 info: Umbreon Lv100 HP 112/373 - 228 256 140 338 166 - Moves: 9 Curse, 39 Screech, 13 Double Team, 15 Double-Edge
+Foe　UMBREON\'s<FE>attack　missed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　UMBREON\'s　LEFTOVERS<FE>restored　its　HP　a　little！
+Battler 1 info: Umbreon Lv100 HP 135/373 - 228 256 140 338 166 - Moves: 9 Curse, 39 Screech, 13 Double Team, 15 Double-Edge
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+11/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 409/418 - 141 173 231 243 141 - Moves: 10 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 1 info: Umbreon Lv100 HP 54/373 - 228 256 140 338 166 - Moves: 9 Curse, 39 Screech, 13 Double Team, 15 Double-Edge
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 10 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　UMBREON　used<FE>DOUBLEーEDGE！
+Battler 1 info: Umbreon Lv100 HP 54/373 - 228 256 140 338 166 - Moves: 9 Curse, 39 Screech, 13 Double Team, 14 Double-Edge
+Battler 0 info: Vaporeon Lv100 HP 217/418 - 141 173 231 243 141 - Moves: 10 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 1 info: Umbreon Lv100 HP 0/373 - 228 256 140 338 166 - Moves: 9 Curse, 39 Screech, 13 Double Team, 14 Double-Edge
+Foe　UMBREON　is　hit<FE>with　recoil！
+Battler 1 info: Umbreon Lv100 HP 0/373 - 228 256 140 338 166 - Moves: 9 Curse, 39 Screech, 13 Double Team, 14 Double-Edge
+Foe　UMBREON<FE>fainted！<FB>
+Battler 1 info: Umbreon Lv100 HP 0/373 - 228 256 140 338 166 - Moves: 9 Curse, 39 Screech, 13 Double Team, 14 Double-Edge
+Battler 0 info: Vaporeon Lv100 HP 217/418 - 141 173 231 243 141 - Moves: 10 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 1 info: Kangaskhan Lv100 HP 414/414 - 317 196 104 196 216 - Moves: 10 Crush Claw, 15 Shadow Ball, 15 Attract, 10 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+HIKER　DARYL　sent<FE>out　KANGASKHAN！
+<FC>いいKANGASKHAN<FC>あこ♀
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+10/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　KANGASKHAN　used<FE>SHADOW　BALL！
+Battler 1 info: Kangaskhan Lv100 HP 414/414 - 317 196 104 196 216 - Moves: 10 Crush Claw, 14 Shadow Ball, 15 Attract, 10 Rest
+Battler 0 info: Vaporeon Lv100 HP 96/418 - 141 173 231 243 141 - Moves: 10 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 96/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 1 info: Kangaskhan Lv100 HP 273/414 - 317 196 104 196 216 - Moves: 10 Crush Claw, 14 Shadow Ball, 15 Attract, 10 Rest
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 113/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ9/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　KANGASKHAN　used<FE>CRUSH　CLAW！
+Battler 1 info: Kangaskhan Lv100 HP 273/414 - 317 196 104 196 216 - Moves: 9 Crush Claw, 14 Shadow Ball, 15 Attract, 10 Rest
+Battler 0 info: Vaporeon Lv100 HP 0/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+VAPOREON<FE>fainted！<FB>
+Battler 0 info: Vaporeon Lv100 HP 0/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 4 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいKANGASKHAN<FC>あこ♀
+Battler 0 info: Typhlosion Lv100 HP 272/272 - 221 167 271 181 253 - Moves: 15 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Do　it！　TYPHLOSION！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいTYPHLOSION<FC>あさ♂
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+PP　
+TYPE/<FC>かあFIRE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>FLAMETHROWER！
+Battler 0 info: Typhlosion Lv100 HP 272/272 - 221 167 271 181 253 - Moves: 14 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Kangaskhan Lv100 HP 119/414 - 317 196 104 196 216 - Moves: 9 Crush Claw, 14 Shadow Ball, 15 Attract, 10 Rest
+Battler 1 info: Kangaskhan Lv100 HP 119/414 - 317 196 104 196 216 - Moves: 9 Crush Claw, 14 Shadow Ball, 15 Attract, 10 Rest
+Foe　KANGASKHAN　was　burned！
+Battler 1 info: Kangaskhan Lv100 HP 119/414 - 317 196 104 196 216 - Moves: 9 Crush Claw, 14 Shadow Ball, 15 Attract, 10 Rest
+Foe　KANGASKHAN\'s　LUM　BERRY<FE>cured　its　burn　problem！
+Battler 1 info: Kangaskhan Lv100 HP 119/414 - 317 196 104 196 216 - Moves: 9 Crush Claw, 14 Shadow Ball, 15 Attract, 10 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　KANGASKHAN　used<FE>CRUSH　CLAW！
+Battler 1 info: Kangaskhan Lv100 HP 119/414 - 317 196 104 196 216 - Moves: 8 Crush Claw, 14 Shadow Ball, 15 Attract, 10 Rest
+Battler 0 info: Typhlosion Lv100 HP 106/272 - 221 167 271 181 253 - Moves: 14 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 0 info: Typhlosion Lv100 HP 106/272 - 221 167 271 181 253 - Moves: 14 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+TYPHLOSION\'s　DEFENSE<FE>fell！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+PP　
+TYPE/<FC>かあFIRE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>FLAMETHROWER！
+Battler 0 info: Typhlosion Lv100 HP 106/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Kangaskhan Lv100 HP 0/414 - 317 196 104 196 216 - Moves: 8 Crush Claw, 14 Shadow Ball, 15 Attract, 10 Rest
+Foe　KANGASKHAN<FE>fainted！<FB>
+Battler 1 info: Kangaskhan Lv100 HP 0/414 - 317 196 104 196 216 - Moves: 8 Crush Claw, 14 Shadow Ball, 15 Attract, 10 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Player　defeated<FE>HIKER　DARYL！<FB>
+YOU\'RE　GOING　TO<FE>A　LEGEND　！<FC>け
+<FC>いいVAPOREON
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいCLEFABLE<FC>あこ♀
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Clefable Lv100 HP 331/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 20 Cosmic Power, 15 Double Team, 20 Follow Me
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+EXPERT　KRISTEN<FE>would　like　to　battle！<FB>
+EXPERT　KRISTEN　sent<FE>out　CLEFABLE！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいCLEFABLE<FC>あこ♀
+Go！　VAPOREON！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+15/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　CLEFABLE　used<FE>COSMIC　POWER！
+Battler 1 info: Clefable Lv100 HP 331/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 15 Double Team, 20 Follow Me
+Battler 1 info: Clefable Lv100 HP 331/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 15 Double Team, 20 Follow Me
+Foe　CLEFABLE\'s　DEFENSE<FE>rose！
+Battler 1 info: Clefable Lv100 HP 331/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 15 Double Team, 20 Follow Me
+Foe　CLEFABLE\'s　SP。　DEF<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 14 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Clefable Lv100 HP 250/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 15 Double Team, 20 Follow Me
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+14/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　CLEFABLE　used<FE>DOUBLE　TEAM！
+Battler 1 info: Clefable Lv100 HP 250/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 14 Double Team, 20 Follow Me
+Battler 1 info: Clefable Lv100 HP 250/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 14 Double Team, 20 Follow Me
+Foe　CLEFABLE\'s　evasiveness<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 13 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Clefable Lv100 HP 167/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 14 Double Team, 20 Follow Me
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　doeness<FE>rose！
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+13/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　CLEFABLE　used<FE>DOUBLE　TEAM！
+Battler 1 info: Clefable Lv100 HP 167/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 13 Double Team, 20 Follow Me
+Battler 1 info: Clefable Lv100 HP 167/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 13 Double Team, 20 Follow Me
+Foe　CLEFABLE\'s　evasiveness<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 12 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+VAPOREON\'s<FE>attack　missed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+12/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　CLEFABLE　used<FE>FOLLOW　ME！
+Battler 1 info: Clefable Lv100 HP 167/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 13 Double Team, 19 Follow Me
+Foe　CLEFABLE　became　the<FE>center　of　attention！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 11 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Clefable Lv100 HP 82/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 13 Double Team, 19 Follow Me
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+11/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　CLEFABLE　used<FE>FOLLOW　ME！
+Battler 1 info: Clefable Lv100 HP 82/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 13 Double Team, 18 Follow Me
+Foe　CLEFABLE　became　the<FE>center　of　attention！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 10 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Clefable Lv100 HP 0/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 13 Double Team, 18 Follow Me
+Battler 1 info: Clefable Lv100 HP 0/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 13 Double Team, 18 Follow Me
+Foe　CLEFABLE<FE>fainted！<FB>
+Battler 1 info: Clefable Lv100 HP 0/331 - 262 245 185 216 156 - Moves: 10 Meteor Mash, 19 Cosmic Power, 13 Double Team, 18 Follow Me
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 10 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Heracross Lv100 HP 364/364 - 286 186 104 226 295 - Moves: 10 Megahorn, 10 Earthquake, 15 Attract, 20 Bulk Up
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+EXPERT　KRISTEN　sent<FE>out　HERACROSS！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいHERACROSS<FC>あこ♀
+What　will<FE>VAPOREON　dout　HERACROSS！
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+10/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　HERACROSS　used<FE>EARTHQUAKE！
+Battler 1 info: Heracross Lv100 HP 364/364 - 286 186 104 226 295 - Moves: 10 Megahorn, 9 Earthquake, 15 Attract, 20 Bulk Up
+Battler 0 info: Vaporeon Lv100 HP 295/418 - 141 173 231 243 141 - Moves: 10 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 295/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Heracross Lv100 HP 252/364 - 286 186 104 226 295 - Moves: 10 Megahorn, 9 Earthquake, 15 Attract, 20 Bulk Up
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 309/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ9/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　HERACROSS　used<FE>ATTRACT！
+Battler 1 info: Heracross Lv100 HP 252/364 - 286 186 104 226 295 - Moves: 10 Megahorn, 9 Earthquake, 14 Attract, 20 Bulk Up
+Battler 0 info: Vaporeon Lv100 HP 309/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+VAPOREON<FE>fell　in　love！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　is　in　love<FE>with　Foe　HERACROSS！
+VAPOREON　is<FE>immobilized　by　love！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ9/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　HERACROSS　used<FE>BULK　UP！
+Battler 1 info: Heracross Lv100 HP 252/364 - 286 186 104 226 295 - Moves: 10 Megahorn, 9 Earthquake, 14 Attract, 19 Bulk Up
+Battler 1 info: Heracross Lv100 HP 252/364 - 286 186 104 226 295 - Moves: 10 Megahorn, 9 Earthquake, 14 Attract, 19 Bulk Up
+Foe　HERACROSS\'s　ATTACK<FE>rose！
+Battler 1 info: Heracross Lv100 HP 252/364 - 286 186 104 226 295 - Moves: 10 Megahorn, 9 Earthquake, 14 Attract, 19 Bulk Up
+Foe　HERACROSS\'s　DEFENSE<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　is　in　love<FE>with　Foe　HERACROSS！
+VAPOREON　is<FE>immobilized　by　love！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ9/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　HERACROSS　used<FE>MEGAHORN！
+Battler 1 info: Heracross Lv100 HP 252/364 - 286 186 104 226 295 - Moves: 9 Megahorn, 9 Earthquake, 14 Attract, 19 Bulk Up
+Battler 0 info: Vaporeon Lv100 HP 0/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 0 info: Vaporeon Lv100 HP 0/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+VAPOREON<FE>fainted！<FB>
+Battler 0 info: Vaporeon Lv100 HP 0/418 - 141 173 231 243 141 - Moves: 9 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいHERACROSS<FC>あこ♀
+Battler 0 info: Typhlosion Lv100 HP 272/272 - 221 167 271 181 253 - Moves: 15 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Do　it！　TYPHLOSION！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいTYPHLOSION<FC>あさ♂
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+PP　
+TYPE/<FC>かあFIRE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　HERACROSS　used<FE>MEGAHORN！
+Battler 1 info: Heracross Lv100 HP 252/364 - 286 186 104 226 295 - Moves: 8 Megahorn, 9 Earthquake, 14 Attract, 19 Bulk Up
+Battler 0 info: Typhlosion Lv100 HP 85/272 - 221 167 271 181 253 - Moves: 15 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+It\'s　not　very　effective⋯
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>FLAMETHROWER！
+Battler 0 info: Typhlosion Lv100 HP 85/272 - 221 167 271 181 253 - Moves: 14 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Heracross Lv100 HP 0/364 - 286 186 104 226 295 - Moves: 8 Megahorn, 9 Earthquake, 14 Attract, 19 Bulk Up
+It\'s　super　effective！
+Battler 1 info: Heracross Lv100 HP 0/364 - 286 186 104 226 295 - Moves: 8 Megahorn, 9 Earthquake, 14 Attract, 19 Bulk Up
+Foe　HERACROSS<FE>fainted！<FB>
+Battler 1 info: Heracross Lv100 HP 0/364 - 286 186 104 226 295 - Moves: 8 Megahorn, 9 Earthquake, 14 Attract, 19 Bulk Up
+Battler 0 info: Typhlosion Lv100 HP 85/272 - 221 167 271 181 253 - Moves: 14 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Muk Lv100 HP 351/351 - 309 249 166 236 136 - Moves: 10 Curse, 10 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+EXPERT　KRISTEN　sent<FE>out　MUK！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいMUK<FC>あさ♂
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+ROCK　SLIDE
+TYPE/<FC>かあFIRE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>FLAMETHROWER！
+Battler 0 info: Typhlosion Lv100 HP 85/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Muk Lv100 HP 161/351 - 309 249 166 236 136 - Moves: 10 Curse, 10 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　MUK　used<FE>REST！
+Battler 1 info: Muk Lv100 HP 161/351 - 309 249 166 236 136 - Moves: 10 Curse, 9 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Battler 1 info: Muk Lv100 HP 161/351 - 309 249 166 236 136 - Moves: 10 Curse, 9 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Foe　MUK　went<FE>to　sleep！
+Battler 1 info: Muk Lv100 HP 351/351 - 309 249 166 236 136 - Moves: 10 Curse, 9 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Foe　MUK　regained<FE>health！
+Battler 1 info: Muk Lv100 HP 351/351 - 309 249 166 236 136 - Moves: 10 Curse, 9 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Foe　MUK\'s　CHESTO　BERRY<FE>woke　it　from　its　sleep！
+Battler 1 info: Muk Lv100 HP 351/351 - 309 249 166 236 136 - Moves: 10 Curse, 9 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+PP　
+TYPE/<FC>かあFIRE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>FLAMETHROWER！
+Battler 0 info: Typhlosion Lv100 HP 85/272 - 221 167 271 181 253 - Moves: 12 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Muk Lv100 HP 159/351 - 309 249 166 236 136 - Moves: 10 Curse, 9 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　MUK　used<FE>CURSE！
+Battler 1 info: Muk Lv100 HP 159/351 - 309 249 166 236 136 - Moves: 9 Curse, 9 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Battler 1 info: Muk Lv100 HP 159/351 - 309 249 166 236 136 - Moves: 9 Curse, 9 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Foe　MUK\'s　SPEED<FE>fell！
+Battler 1 info: Muk Lv100 HP 159/351 - 309 249 166 236 136 - Moves: 9 Curse, 9 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Foe　MUK\'s　ATTACK<FE>rose！
+Battler 1 info: Muk Lv100 HP 159/351 - 309 249 166 236 136 - Moves: 9 Curse, 9 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Foe　MUK\'s　DEFENSE<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+PP　
+TYPE/<FC>かあFIRE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>FLAMETHROWER！
+Battler 0 info: Typhlosion Lv100 HP 85/272 - 221 167 271 181 253 - Moves: 11 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Muk Lv100 HP 0/351 - 309 249 166 236 136 - Moves: 9 Curse, 9 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Battler 1 info: Muk Lv100 HP 0/351 - 309 249 166 236 136 - Moves: 9 Curse, 9 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Foe　MUK<FE>fainted！<FB>
+Battler 1 info: Muk Lv100 HP 0/351 - 309 249 166 236 136 - Moves: 9 Curse, 9 Rest, 10 Sludge Bomb, 5 DynamicPunch
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Player　defeated<FE>EXPERT　KRISTEN！<FB>
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+A　TOUGH　KID<FE>HUH？　HUMPH　！<FC>け
+<FC>いいVAPOREON
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいSALAMENCE<FC>あさ♂
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Salamence Lv100 HP 331/331 - 348 196 298 196 278 - Moves: 15 Double-Edge, 15 Crunch, 15 Swagger, 10 Protect
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TRIATHLETE　EMILIA<FE>would　like　to　battle！<FB>
+TRIATHLETE　EMILIA　sent<FE>out　SALAMENCE！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいSALAMENCE<FC>あさ♂
+Go！　VAPOREON！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Foe　SALAMENCE\'s　INTIMIDATE<FE>cuts　VAPOREON\'s　ATTACK！
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+15/15
+TYPE/<FC>かあWATER
+TYPE/<FC>かあICE
+What　<FC>かあICE
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+10/10
+TYPE/<FC>かあICE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SALAMENCE　used<FE>PROTECT！
+Battler 1 info: Salamence Lv100 HP 331/331 - 348 196 298 196 278 - Moves: 15 Double-Edge, 15 Crunch, 15 Swagger, 9 Protect
+Foe　SALAMENCE　protected<FE>itself！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>ICE　BEAM！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 9 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Foe　SALAMENCE<FE>protected　itself！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ9/10
+TYPE/<FC>かあICE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SALAMENCE　used<FE>PROTECT！
+Battler 1 info: Salamence Lv100 HP 331/331 - 348 196 298 196 278 - Moves: 15 Double-Edge, 15 Crunch, 15 Swagger, 8 Protect
+But　it　failed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>ICE　BEAM！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Salamence Lv100 HP 0/331 - 348 196 298 196 278 - Moves: 15 Double-Edge, 15 Crunch, 15 Swagger, 8 Protect
+It\'s　super　effective！
+Foe　SALAMENCE<FE>fainted！<FB>
+Battler 1 info: Salamence Lv100 HP 0/331 - 348 196 298 196 278 - Moves: 15 Double-Edge, 15 Crunch, 15 Swagger, 8 Protect
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Scizor Lv100 HP 281/281 - 394 236 131 259 166 - Moves: 5 Silver Wind, 25 Steel Wing, 30 Swords Dance, 30 Light Screen
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TRIATHLETE　EMILIA　sent<FE>out　SCIZOR！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいSCIZOR<FC>あこ♀
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ8/10
+TYPE/<FC>かあICE
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SCIZOR　used<FE>SILVER　WIND！
+Battler 1 info: Scizor Lv100 HP 281/281 - 394 236 131 259 166 - Moves: 4 Silver Wind, 25 Steel Wing, 30 Swords Dance, 30 Light Screen
+Battler 0 info: Vaporeon Lv100 HP 264/418 - 141 173 231 243 141 - Moves: 15 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 264/418 - 141 173 231 243 141 - Moves: 14 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Scizor Lv100 HP 184/281 - 394 236 131 259 166 - Moves: 4 Silver Wind, 25 Steel Wing, 30 Swords Dance, 30 Light Screen
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 276/418 - 141 173 231 243 141 - Moves: 14 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+14/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SCIZOR　used<FE>SILVER　WIND！
+Battler 1 info: Scizor Lv100 HP 184/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 30 Swords Dance, 30 Light Screen
+Battler 0 info: Vaporeon Lv100 HP 120/418 - 141 173 231 243 141 - Moves: 14 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Scizor Lv100 HP 184/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 30 Swords Dance, 30 Light Screen
+Foe　SCIZOR\'s　ATTACK<FE>rose！
+Battler 1 info: Scizor Lv100 HP 184/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 30 Swords Dance, 30 Light Screen
+Foe　SCIZOR\'s　DEFENSE<FE>rose！
+Battler 1 info: Scizor Lv100 HP 184/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 30 Swords Dance, 30 Light Screen
+Foe　SCIZOR\'s　SPEED<FE>rose！
+Battler 1 info: Scizor Lv100 HP 184/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 30 Swords Dance, 30 Light Screen
+Foe　SCIZOR\'s　SP。　ATK<FE>rose！
+Battler 1 info: Scizor Lv100 HP 184/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 30 Swords Dance, 30 Light Screen
+Foe　SCIZOR\'s　SP。　DEF<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 120/418 - 141 173 231 243 141 - Moves: 13 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Scizor Lv100 HP 118/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 30 Swords Dance, 30 Light Screen
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 128/418 - 141 173 231 243 141 - Moves: 13 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+13/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SCIZOR　used<FE>SWORDS　DANCE！
+Battler 1 info: Scizor Lv100 HP 118/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 29 Swords Dance, 30 Light Screen
+Battler 1 info: Scizor Lv100 HP 118/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 29 Swords Dance, 30 Light Screen
+Foe　SCIZOR\'s　ATTACK<FE>sharply　rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 128/418 - 141 173 231 243 141 - Moves: 12 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Scizor Lv100 HP 45/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 29 Swords Dance, 30 Light Screen
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 137/418 - 141 173 231 243 141 - Moves: 12 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SCIZOR　used<FE>LIGHT　SCREEN！
+Battler 1 info: Scizor Lv100 HP 45/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 29 Swords Dance, 29 Light Screen
+Foe\'s　LIGHT　SCREEN<FE>raised　SP。　DEF！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 137/418 - 141 173 231 243 141 - Moves: 11 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Scizor Lv100 HP 10/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 29 Swords Dance, 29 Light Screen
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 141/418 - 141 173 231 243 141 - Moves: 11 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+11/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SCIZOR　used<FE>SWORDS　DANCE！
+Battler 1 info: Scizor Lv100 HP 10/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 28 Swords Dance, 29 Light Screen
+Battler 1 info: Scizor Lv100 HP 10/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 28 Swords Dance, 29 Light Screen
+Foe　SCIZOR\'s　ATTACK<FE>sharply　rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 141/418 - 141 173 231 243 141 - Moves: 10 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Scizor Lv100 HP 0/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 28 Swords Dance, 29 Light Screen
+Battler 1 info: Scizor Lv100 HP 0/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 28 Swords Dance, 29 Light Screen
+Foe　SCIZOR<FE>fainted！<FB>
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 142/418 - 141 173 231 243 141 - Moves: 10 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Scizor Lv100 HP 0/281 - 394 236 131 259 166 - Moves: 3 Silver Wind, 25 Steel Wing, 28 Swords Dance, 29 Light Screen
+Battler 0 info: Vaporeon Lv100 HP 142/418 - 141 173 231 243 141 - Moves: 10 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Snorlax Lv100 HP 503/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 10 Rock Slide, 10 Curse, 10 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TRIATHLETE　EMILIA　sent<FE>out　SNORLAX！
+<FC>いいSNORLAX<FC>あこ♀
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+10/15
+TYPE/<FC>かあWATER
+What　will<FE>VAPOREON　do？
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいSNORLAX<FC>あこ♀
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+TYPE/<FC>かあWATER
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>BODY　SLAM！
+Battler 0 info: Vaporeon Lv100 HP 142/418 - 141 173 231 243 141 - Moves: 10 Surf, 8 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 1 info: Snorlax Lv100 HP 474/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 10 Rock Slide, 10 Curse, 10 Rest
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 145/418 - 141 173 231 243 141 - Moves: 10 Surf, 8 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SNORLAX　used<FE>CURSE！
+Battler 1 info: Snorlax Lv100 HP 474/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 10 Rock Slide, 9 Curse, 10 Rest
+Battler 1 info: Snorlax Lv100 HP 474/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 10 Rock Slide, 9 Curse, 10 Rest
+Foe　SNORLAX\'s　SPEED<FE>fell！
+Battler 1 info: Snorlax Lv100 HP 474/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 10 Rock Slide, 9 Curse, 10 Rest
+Foe　SNORLAX\'s　ATTACK<FE>rose！
+Battler 1 info: Snorlax Lv100 HP 474/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 10 Rock Slide, 9 Curse, 10 Rest
+Foe　SNORLAX\'s　DEFENSE<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+14/15
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 145/418 - 141 173 231 243 141 - Moves: 9 Surf, 8 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 1 info: Snorlax Lv100 HP 431/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 10 Rock Slide, 9 Curse, 10 Rest
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 150/418 - 141 173 231 243 141 - Moves: 9 Surf, 8 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SNORLAX　used<FE>REST！
+Battler 1 info: Snorlax Lv100 HP 431/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 10 Rock Slide, 9 Curse, 9 Rest
+Battler 1 info: Snorlax Lv100 HP 431/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 10 Rock Slide, 9 Curse, 9 Rest
+Foe　SNORLAX　went<FE>to　sleep！
+Battler 1 info: Snorlax Lv100 HP 503/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 10 Rock Slide, 9 Curse, 9 Rest
+Foe　SNORLAX　regained<FE>health！
+Battler 1 info: Snorlax Lv100 HP 503/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 10 Rock Slide, 9 Curse, 9 Rest
+Foe　SNORLAX\'s　CHESTO　BERRY<FE>woke　it　from　its　sleep！
+Battler 1 info: Snorlax Lv100 HP 503/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 10 Rock Slide, 9 Curse, 9 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ9/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 150/418 - 141 173 231 243 141 - Moves: 8 Surf, 8 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 1 info: Snorlax Lv100 HP 458/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 10 Rock Slide, 9 Curse, 9 Rest
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 155/418 - 141 173 231 243 141 - Moves: 8 Surf, 8 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SNORLAX　used<FE>ROCK　SLIDE！
+Battler 1 info: Snorlax Lv100 HP 458/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 9 Rock Slide, 9 Curse, 9 Rest
+Foe　SNORLAX\'s<FE>attack　missed！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe\'s　LIGHT　SCREEN<FE>wore　off！
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ8/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 155/418 - 141 173 231 243 141 - Moves: 7 Surf, 8 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 1 info: Snorlax Lv100 HP 371/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 9 Rock Slide, 9 Curse, 9 Rest
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 165/418 - 141 173 231 243 141 - Moves: 7 Surf, 8 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SNORLAX　used<FE>CURSE！
+Battler 1 info: Snorlax Lv100 HP 371/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 9 Rock Slide, 8 Curse, 9 Rest
+Battler 1 info: Snorlax Lv100 HP 371/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 9 Rock Slide, 8 Curse, 9 Rest
+Foe　SNORLAX\'s　SPEED<FE>fell！
+Battler 1 info: Snorlax Lv100 HP 371/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 9 Rock Slide, 8 Curse, 9 Rest
+Foe　SNORLAX\'s　ATTACK<FE>rose！
+Battler 1 info: Snorlax Lv100 HP 371/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 9 Rock Slide, 8 Curse, 9 Rest
+Foe　SNORLAX\'s　DEFENSE<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ7/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 165/418 - 141 173 231 243 141 - Moves: 6 Surf, 8 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 1 info: Snorlax Lv100 HP 287/503 - 281 208 149 298 96 - Moves: 10 Earthquake, 9 Rock Slide, 8 Curse, 9 Rest
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 175/418 - 141 173 231 243 141 - Moves: 6 Surf, 8 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SNORLAX　used<FE>EARTHQUAKE！
+Battler 1 info: Snorlax Lv100 HP 287/503 - 281 208 149 298 96 - Moves: 9 Earthquake, 9 Rock Slide, 8 Curse, 9 Rest
+Battler 0 info: Vaporeon Lv100 HP 0/418 - 141 173 231 243 141 - Moves: 6 Surf, 8 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 0 info: Vaporeon Lv100 HP 0/418 - 141 173 231 243 141 - Moves: 6 Surf, 8 Ice Beam, 14 Body Slam, 15 Shadow Ball
+VAPOREON<FE>fainted！<FB>
+Battler 0 info: Vaporeon Lv100 HP 0/418 - 141 173 231 243 141 - Moves: 6 Surf, 8 Ice Beam, 14 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいSNORLAX<FC>あこ♀
+Battler 0 info: Typhlosion Lv100 HP 272/272 - 221 167 271 181 253 - Moves: 15 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Do　it！　TYPHLOSION！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいTYPHLOSION<FC>あさ♂
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+PP　
+TYPE/<FC>かあFIRE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>FLAMETHROWER！
+Battler 0 info: Typhlosion Lv100 HP 272/272 - 221 167 271 181 253 - Moves: 14 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Snorlax Lv100 HP 239/503 - 281 208 149 298 96 - Moves: 9 Earthquake, 9 Rock Slide, 8 Curse, 9 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SNORLAX　used<FE>CURSE！
+Battler 1 info: Snorlax Lv100 HP 239/503 - 281 208 149 298 96 - Moves: 9 Earthquake, 9 Rock Slide, 7 Curse, 9 Rest
+Battler 1 info: Snorlax Lv100 HP 239/503 - 281 208 149 298 96 - Moves: 9 Earthquake, 9 Rock Slide, 7 Curse, 9 Rest
+Foe　SNORLAX\'s　SPEED<FE>fell！
+Battler 1 info: Snorlax Lv100 HP 239/503 - 281 208 149 298 96 - Moves: 9 Earthquake, 9 Rock Slide, 7 Curse, 9 Rest
+Foe　SNORLAX\'s　ATTACK<FE>rose！
+Battler 1 info: Snorlax Lv100 HP 239/503 - 281 208 149 298 96 - Moves: 9 Earthquake, 9 Rock Slide, 7 Curse, 9 Rest
+Foe　SNORLAX\'s　DEFENSE<FE>rose！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+PP　
+TYPE/<FC>かあFIRE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>FLAMETHROWER！
+Battler 0 info: Typhlosion Lv100 HP 272/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Snorlax Lv100 HP 186/503 - 281 208 149 298 96 - Moves: 9 Earthquake, 9 Rock Slide, 7 Curse, 9 Rest
+Battler 1 info: Snorlax Lv100 HP 186/503 - 281 208 149 298 96 - Moves: 9 Earthquake, 9 Rock Slide, 7 Curse, 9 Rest
+Foe　SNORLAX　was　burned！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SNORLAX　used<FE>ROCK　SLIDE！
+Battler 1 info: Snorlax Lv100 HP 186/503 - 281 208 149 298 96 - Moves: 9 Earthquake, 8 Rock Slide, 7 Curse, 9 Rest
+Battler 0 info: Typhlosion Lv100 HP 45/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+It\'s　super　effective！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　SNORLAX　is　hurt<FE>by　its　burn！
+Battler 1 info: Snorlax Lv100 HP 124/503 - 281 208 149 298 96 - Moves: 9 Earthquake, 8 Rock Slide, 7 Curse, 9 Rest
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+ROCK　SLIDE
+TYPE/<FC>かあFIRE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>FLAMETHROWER！
+Battler 0 info: Typhlosion Lv100 HP 45/272 - 221 167 271 181 253 - Moves: 12 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Snorlax Lv100 HP 0/503 - 281 208 149 298 96 - Moves: 9 Earthquake, 8 Rock Slide, 7 Curse, 9 Rest
+A　critical　hit！
+Battler 1 info: Snorlax Lv100 HP 0/503 - 281 208 149 298 96 - Moves: 9 Earthquake, 8 Rock Slide, 7 Curse, 9 Rest
+Foe　SNORLAX<FE>fainted！<FB>
+Battler 1 info: Snorlax Lv100 HP 0/503 - 281 208 149 298 96 - Moves: 9 Earthquake, 8 Rock Slide, 7 Curse, 9 Rest
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Player　defeated<FE>TRIATHLETE　EMILIA！<FB>
+AHAHA　SEE　？<FE>THAT　WAS　ENTERTAINING　！<FC>け
+<FC>いいVAPOREON
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいCRADILY<FC>あさ♂
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 15 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Cradily Lv100 HP 376/376 - 287 230 178 250 122 - Moves: 10 Earthquake, 5 AncientPower, 15 Swagger, 10 Psych Up
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+COLLECTOR　GABRIEL<FE>would　like　to　battle！<FB>
+COLLECTOR　GABRIEL　sent<FE>out　CRADILY！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいCRADILY<FC>あさ♂
+Go！　VAPOREON！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+15/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 418/418 - 141 173 231 243 141 - Moves: 14 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Cradily Lv100 HP 264/376 - 287 230 178 250 122 - Moves: 10 Earthquake, 5 AncientPower, 15 Swagger, 10 Psych Up
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　CRADILY　used<FE>EARTHQUAKE！
+Battler 1 info: Cradily Lv100 HP 264/376 - 287 230 178 250 122 - Moves: 9 Earthquake, 5 AncientPower, 15 Swagger, 10 Psych Up
+Battler 0 info: Vaporeon Lv100 HP 285/418 - 141 173 231 243 141 - Moves: 14 Surf, 10 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+14/15
+TYPE/<FC>かあWATER
+TYPE/<FC>かあICE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>ICE　BEAM！
+Battler 0 info: Vaporeon Lv100 HP 285/418 - 141 173 231 243 141 - Moves: 14 Surf, 9 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Cradily Lv100 HP 125/376 - 287 230 178 250 122 - Moves: 9 Earthquake, 5 AncientPower, 15 Swagger, 10 Psych Up
+It\'s　super　effective！
+Battler 1 info: Cradily Lv100 HP 125/376 - 287 230 178 250 122 - Moves: 9 Earthquake, 5 AncientPower, 15 Swagger, 10 Psych Up
+Foe　CRADILY　was<FE>frozen　solid！
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 302/418 - 141 173 231 243 141 - Moves: 14 Surf, 9 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　CRADILY　is<FE>frozen　solid！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　CRADILY\'s　SITRUS　BERRY<FE>restored　health！
+Battler 1 info: Cradily Lv100 HP 155/376 - 287 230 178 250 122 - Moves: 9 Earthquake, 5 AncientPower, 15 Swagger, 10 Psych Up
+Battler 1 info: Cradily Lv100 HP 155/376 - 287 230 178 250 122 - Moves: 9 Earthquake, 5 AncientPower, 15 Swagger, 10 Psych Up
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+ラ9/10
+TYPE/<FC>かあICE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>ICE　BEAM！
+Battler 0 info: Vaporeon Lv100 HP 302/418 - 141 173 231 243 141 - Moves: 14 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Cradily Lv100 HP 13/376 - 287 230 178 250 122 - Moves: 9 Earthquake, 5 AncientPower, 15 Swagger, 10 Psych Up
+It\'s　super　effective！
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 319/418 - 141 173 231 243 141 - Moves: 14 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: Cradily Lv100 HP 13/376 - 287 230 178 250 122 - Moves: 9 Earthquake, 5 AncientPower, 15 Swagger, 10 Psych Up
+Foe　CRADILY　was<FE>defrosted！
+Foe　CRADILY　used<FE>EARTHQUAKE！
+Battler 1 info: Cradily Lv100 HP 13/376 - 287 230 178 250 122 - Moves: 8 Earthquake, 5 AncientPower, 15 Swagger, 10 Psych Up
+Battler 0 info: Vaporeon Lv100 HP 188/418 - 141 173 231 243 141 - Moves: 14 Surf, 8 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+ラ8/10
+TYPE/<FC>かあICE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>ICE　BEAM！
+Battler 0 info: Vaporeon Lv100 HP 188/418 - 141 173 231 243 141 - Moves: 14 Surf, 7 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Cradily Lv100 HP 0/376 - 287 230 178 250 122 - Moves: 8 Earthquake, 5 AncientPower, 15 Swagger, 10 Psych Up
+It\'s　super　effective！
+Foe　CRADILY<FE>fainted！<FB>
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 189/418 - 141 173 231 243 141 - Moves: 14 Surf, 7 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Cradily Lv100 HP 0/376 - 287 230 178 250 122 - Moves: 8 Earthquake, 5 AncientPower, 15 Swagger, 10 Psych Up
+Battler 0 info: Vaporeon Lv100 HP 189/418 - 141 173 231 243 141 - Moves: 14 Surf, 7 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Hariyama Lv100 HP 429/429 - 339 156 196 156 122 - Moves: 5 Cross Chop, 15 Fire Punch, 15 Ice Punch, 15 ThunderPunch
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+COLLECTOR　GABRIEL　sent<FE>out　HARIYAMA！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいHARIYAMA<FC>あさ♂
+What　will<FE>VAPOREON　do？
+SHADOW　BALL
+ラ7/10
+TYPE/<FC>かあICE
+TYPE/<FC>かあWATER
+What　will<FE>VAPOREON　do？
+BODY　SLAM
+14/15
+TYPE/<FC>かあWATER
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+VAPOREON　used<FE>SURF！
+Battler 0 info: Vaporeon Lv100 HP 189/418 - 141 173 231 243 141 - Moves: 13 Surf, 7 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 1 info: Hariyama Lv100 HP 276/429 - 339 156 196 156 122 - Moves: 5 Cross Chop, 15 Fire Punch, 15 Ice Punch, 15 ThunderPunch
+VAPOREON\'s　SHELL　BELL<FE>restored　its　HP　a　little！
+Battler 0 info: Vaporeon Lv100 HP 208/418 - 141 173 231 243 141 - Moves: 13 Surf, 7 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　HARIYAMA　used<FE>CROSS　CHOP！
+Battler 1 info: Hariyama Lv100 HP 276/429 - 339 156 196 156 122 - Moves: 4 Cross Chop, 15 Fire Punch, 15 Ice Punch, 15 ThunderPunch
+Battler 0 info: Vaporeon Lv100 HP 0/418 - 141 173 231 243 141 - Moves: 13 Surf, 7 Ice Beam, 15 Body Slam, 15 Shadow Ball
+VAPOREON<FE>fainted！<FB>
+Battler 0 info: Vaporeon Lv100 HP 0/418 - 141 173 231 243 141 - Moves: 13 Surf, 7 Ice Beam, 15 Body Slam, 15 Shadow Ball
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいVAPOREON<FC>あさ♂
+<FC>いいHARIYAMA<FC>あさ♂
+Battler 0 info: Typhlosion Lv100 HP 272/272 - 221 167 271 181 253 - Moves: 15 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Do　it！　TYPHLOSION！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいTYPHLOSION<FC>あさ♂
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+PP　
+TYPE/<FC>かあFIRE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　HARIYAMA　used<FE>ICE　PUNCH！
+Battler 1 info: Hariyama Lv100 HP 276/429 - 339 156 196 156 122 - Moves: 4 Cross Chop, 15 Fire Punch, 14 Ice Punch, 15 ThunderPunch
+Battler 0 info: Typhlosion Lv100 HP 241/272 - 221 167 271 181 253 - Moves: 15 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+It\'s　not　very　effective⋯
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>FLAMETHROWER！
+Battler 0 info: Typhlosion Lv100 HP 241/272 - 221 167 271 181 253 - Moves: 14 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Hariyama Lv100 HP 68/429 - 339 156 196 156 122 - Moves: 4 Cross Chop, 15 Fire Punch, 14 Ice Punch, 15 ThunderPunch
+A　critical　hit！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+ROCK　SLIDE
+TYPE/<FC>かあFIRE
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>FLAMETHROWER！
+Battler 0 info: Typhlosion Lv100 HP 241/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Hariyama Lv100 HP 0/429 - 339 156 196 156 122 - Moves: 4 Cross Chop, 15 Fire Punch, 14 Ice Punch, 15 ThunderPunch
+Foe　HARIYAMA<FE>fainted！<FB>
+Battler 1 info: Hariyama Lv100 HP 0/429 - 339 156 196 156 122 - Moves: 4 Cross Chop, 15 Fire Punch, 14 Ice Punch, 15 ThunderPunch
+Battler 0 info: Typhlosion Lv100 HP 241/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Ninetales Lv100 HP 287/287 - 188 186 261 236 299 - Moves: 10 Heat Wave, 15 Body Slam, 5 Grudge, 5 Sunny Day
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+COLLECTOR　GABRIEL　sent<FE>out　NINETALES！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいNINETALES<FC>あさ♂
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+PP　
+TYPE/<FC>かあFIRE
+TYPE/<FC>かあELECTR
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+PP　
+TYPE/<FC>かあELECTR
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　NINETALES　used<FE>BODY　SLAM！
+Battler 1 info: Ninetales Lv100 HP 287/287 - 188 186 261 236 299 - Moves: 10 Heat Wave, 14 Body Slam, 5 Grudge, 5 Sunny Day
+Battler 0 info: Typhlosion Lv100 HP 167/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 15 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>THUNDERPUNCH！
+Battler 0 info: Typhlosion Lv100 HP 167/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 14 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Ninetales Lv100 HP 220/287 - 188 186 261 236 299 - Moves: 10 Heat Wave, 14 Body Slam, 5 Grudge, 5 Sunny Day
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+PP　
+TYPE/<FC>かあELECTR
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　NINETALES　used<FE>HEAT　WAVE！
+Battler 1 info: Ninetales Lv100 HP 220/287 - 188 186 261 236 299 - Moves: 9 Heat Wave, 14 Body Slam, 5 Grudge, 5 Sunny Day
+Battler 0 info: Typhlosion Lv100 HP 87/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 14 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+It\'s　not　very　effective⋯
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>THUNDERPUNCH！
+Battler 0 info: Typhlosion Lv100 HP 87/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 13 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 1 info: Ninetales Lv100 HP 146/287 - 188 186 261 236 299 - Moves: 9 Heat Wave, 14 Body Slam, 5 Grudge, 5 Sunny Day
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+PP　
+TYPE/<FC>かあELECTR
+TYPE/<FC>かあROCK
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　NINETALES　used<FE>BODY　SLAM！
+Battler 1 info: Ninetales Lv100 HP 146/287 - 188 186 261 236 299 - Moves: 9 Heat Wave, 13 Body Slam, 5 Grudge, 5 Sunny Day
+Battler 0 info: Typhlosion Lv100 HP 13/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 13 ThunderPunch, 20 Aerial Ace, 10 Rock Slide
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+TYPHLOSION　used<FE>ROCK　SLIDE！
+Battler 0 info: Typhlosion Lv100 HP 13/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 13 ThunderPunch, 20 Aerial Ace, 9 Rock Slide
+Battler 1 info: Ninetales Lv100 HP 17/287 - 188 186 261 236 299 - Moves: 9 Heat Wave, 13 Body Slam, 5 Grudge, 5 Sunny Day
+It\'s　super　effective！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+What　will<FE>TYPHLOSION　do？
+THUNDERPUNCH
+PP　
+TYPE/<FC>かあROCK
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　NINETALES　used<FE>BODY　SLAM！
+Battler 1 info: Ninetales Lv100 HP 17/287 - 188 186 261 236 299 - Moves: 9 Heat Wave, 12 Body Slam, 5 Grudge, 5 Sunny Day
+Battler 0 info: Typhlosion Lv100 HP 0/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 13 ThunderPunch, 20 Aerial Ace, 9 Rock Slide
+TYPHLOSION<FE>fainted！<FB>
+Battler 0 info: Typhlosion Lv100 HP 0/272 - 221 167 271 181 253 - Moves: 13 Flamethrower, 13 ThunderPunch, 20 Aerial Ace, 9 Rock Slide
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいTYPHLOSION<FC>あさ♂
+<FC>いいNINETALES<FC>あさ♂
+Battler 0 info: Lanturn Lv100 HP 366/366 - 190 127 226 163 145 - Moves: 15 Flail, 10 Endure, 15 Thunderbolt, 15 Surf
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Your　foe\'s　weak！<FE>Get　\'em,　LANTURN！
+<FC>いいLANTURN<FC>あさ♂
+What　will<FE>LANTURN　do？
+THUNDERBOLT
+TYPE/<FC>かあNORMAL
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Foe　NINETALES　used<FE>SUNNY　DAY！
+Battler 1 info: Ninetales Lv100 HP 17/287 - 188 186 261 236 299 - Moves: 9 Heat Wave, 12 Body Slam, 5 Grudge, 4 Sunny Day
+The　sunlight　got　bright！
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+LANTURN　used<FE>FLAIL！
+Battler 0 info: Lanturn Lv100 HP 366/366 - 190 127 226 163 145 - Moves: 14 Flail, 10 Endure, 15 Thunderbolt, 15 Surf
+Battler 1 info: Ninetales Lv100 HP 0/287 - 188 186 261 236 299 - Moves: 9 Heat Wave, 12 Body Slam, 5 Grudge, 4 Sunny Day
+Foe　NINETALES<FE>fainted！<FB>
+Battler 1 info: Ninetales Lv100 HP 0/287 - 188 186 261 236 299 - Moves: 9 Heat Wave, 12 Body Slam, 5 Grudge, 4 Sunny Day
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Player　defeated<FE>COLLECTOR　GABRIEL！<FB>
+MY　BELLY　DRUM　WAS<FE>TOO　WEAK　⋯　<FC>け
+<FC>いいHARIYAMA<FC>あさ♂
+<FC>いいRHYDON<FC>あこ♀
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいVENUSAUR<FC>あさ♂
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 10 Fake Out
+Battler 1 info: Rhydon Lv100 HP 365/365 - 341 248 88 140 88 - Moves: 10 Earthquake, 10 Rock Tomb, 10 Scary Face, 15 Brick Break
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 20 Facade
+Battler 3 info: Venusaur Lv100 HP 336/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+PARASOL　LADY　CHELSEA<FE>would　like　to　battle！<FB>
+PARASOL　LADY　CHELSEA　sent<FE>out　RHYDON　and　VENUSAUR！
+Battler 3 info: Venusaur Lv100 HP 336/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 336/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+<FC>いいVENUSAUR<FC>あさ♂
+<FC>いいRHYDON<FC>あこ♀
+Go！　HARIYAMA　and<FE>TAUROS！
+Battler 3 info: Venusaur Lv100 HP 336/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいHARIYAMA<FC>あさ♂
+Battler 1 info: Rhydon Lv100 HP 365/365 - 341 248 88 140 88 - Moves: 10 Earthquake, 10 Rock Tomb, 10 Scary Face, 15 Brick Break
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　RHYDON\'s　ATTACK！
+Battler 3 info: Venusaur Lv100 HP 336/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+TAUROS\'s　INTIMIDATE<FE>cuts　Foe　VENUSAUR\'s　ATTACK！
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Venusaur Lv100 HP 336/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 336/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+COUNTER
+ラ5/ラ5
+TYPE/<FC>かあFIGHT
+TYPE/<FC>かあROCK
+TYPE/<FC>かあNORMAL
+What　will<FE>TAUROS　do？
+SWAGGER
+10/10
+TYPE/<FC>かあGROUND
+TYPE/<FC>かあNORMAL
+Battler 3 info: Venusaur Lv100 HP 336/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+HARIYAMA　used<FE>FAKE　OUT！
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 5 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+Battler 3 info: Venusaur Lv100 HP 284/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 284/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 284/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 284/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+TAUROS　used<FE>FACADE！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 19 Facade
+Battler 3 info: Venusaur Lv100 HP 142/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 142/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 142/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 142/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Foe　VENUSAUR　flinched！
+Battler 3 info: Venusaur Lv100 HP 142/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 142/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Foe　RHYDON　used<FE>SCARY　FACE！
+Battler 1 info: Rhydon Lv100 HP 365/365 - 341 248 88 140 88 - Moves: 10 Earthquake, 10 Rock Tomb, 9 Scary Face, 15 Brick Break
+Foe　RHYDON\'s<FE>attack　missed！
+Battler 3 info: Venusaur Lv100 HP 142/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+What　will<FE>HARIYAMA　do？
+Battler 3 info: Venusaur Lv100 HP 142/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 142/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+COUNTER
+ラ9/10
+TYPE/<FC>かあNORMAL
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+SWAGGER
+19/20
+TYPE/<FC>かあNORMAL
+Battler 3 info: Venusaur Lv100 HP 142/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+TAUROS　used<FE>FACADE！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Venusaur Lv100 HP 2/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 2/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 2/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 15 Sleep Powder
+Foe　VENUSAUR　used<FE>SLEEP　POWDER！
+Battler 3 info: Venusaur Lv100 HP 2/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+TAUROS<FE>fell　asleep！
+Battler 3 info: Venusaur Lv100 HP 2/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 2/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+Battler 1 info: Rhydon Lv100 HP 0/365 - 341 248 88 140 88 - Moves: 10 Earthquake, 10 Rock Tomb, 9 Scary Face, 15 Brick Break
+A　critical　hit！
+It\'s　super　effective！
+Battler 1 info: Rhydon Lv100 HP 0/365 - 341 248 88 140 88 - Moves: 10 Earthquake, 10 Rock Tomb, 9 Scary Face, 15 Brick Break
+Foe　RHYDON<FE>fainted！<FB>
+Battler 1 info: Rhydon Lv100 HP 0/365 - 341 248 88 140 88 - Moves: 10 Earthquake, 10 Rock Tomb, 9 Scary Face, 15 Brick Break
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+Battler 1 info: Granbull Lv100 HP 356/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 20 Roar
+Battler 3 info: Venusaur Lv100 HP 2/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+PARASOL　LADY　CHELSEA　sent<FE>out　GRANBULL！
+Battler 3 info: Venusaur Lv100 HP 2/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+<FC>いいGRANBULL<FC>あこ♀
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 4 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+Foe　GRANBULL\'s　INTIMIDATE<FE>cuts　HARIYAMA\'s　ATTACK！
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Foe　GRANBULL\'s　INTIMIDATE<FE>cuts　TAUROS\'s　ATTACK！
+What　will<FE>HARIYAMA　do？
+COUNTER
+ラ4/ラ5
+TYPE/<FC>かあFIGHT
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+Battler 3 info: Venusaur Lv100 HP 2/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 2 info: Tauros Lv100 HP 263/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+TAUROS　is　fast<FE>asleep。
+Battler 3 info: Venusaur Lv100 HP 2/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 2/336 - 172 174 298 208 151 - Moves: 5 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Foe　VENUSAUR　used<FE>GIGA　DRAIN！
+Battler 3 info: Venusaur Lv100 HP 2/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+TAUROS　had　its<FE>energy　drained！
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+HARIYAMA　used<FE>CROSS　CHOP！
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 3 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+Battler 1 info: Granbull Lv100 HP 92/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 20 Roar
+It\'s　super　effective！
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Foe　GRANBULL　used<FE>ROAR！
+Battler 1 info: Granbull Lv100 HP 92/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 19 Roar
+Battler 0 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+<FC>いいSLOWKING<FC>あさ♂
+SLOWKING　was<FE>dragged　out！<FB>
+What　will<FE>as<FE>dragged　out！<FB>
+What　will<FE>SLOWKING　do？
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+<FC>いいSLOWKING<FC>あさ♂
+<FC>いいGRANBULL<FC>あこ♀
+<FC>いいTAUROS<FC>あさ♂
+<FC>いいVENUSAUR<FC>あさ♂
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+What　will<FE>RMAL
+What　will<FE>TAUROS　do？
+SWAGGER
+TYPE/<FC>かあNORMAL
+SLOWKING,　that\'s　enough！<FE>Come　back！
+Battler 0 info: Hariyama Lv100 HP 443/443 - 272 170 79 170 108 - Moves: 3 Cross Chop, 10 Rock Slide, 20 Counter, 9 Fake Out
+Go！　HARIYAMA！
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+<FC>いいHARIYAMA<FC>あさ♂
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+TAUROS　woke　up！
+TAUROS　used<FE>FACADE！
+Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 17 Facade
+Battler 1 info: Granbull Lv100 HP 0/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 19 Roar
+Foe　GRANBULL<FE>fainted！<FB>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 2 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいGYARADOS<FC>あさ♂
+<FC>いいWAILORD<FC>あこ♀
+<FC>いいPORYGON2<FC>あさ
+<FC>いいHYPNO<FC>あさ♂
+Battler 0 info: Gyarados Lv100 HP 366/366 - 258 166 115 298 170 - Moves: 20 Frustration, 25 Bite, 20 Thunder Wave, 20 Dragon Dance
+Battler 1 info: Wailord Lv100 HP 495/495 - 188 140 188 154 115 - Moves: 15 Surf, 15 Icy Wind, 15 Body Slam, 20 Roar
+Battler 2 info: Porygon2 Lv100 HP 346/346 - 254 188 196 198 128 - Moves: 10 Tri Attack, 20 Aerial Ace, 15 Shadow Ball, 20 Recover
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+SAILOR　MAXWELL<FE>would　like　to　battle！<FB>
+SAILOR　MAXWELL　sent<FE>out　WAILORD　and　HYPNO！
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+<FC>いいHYPNO<FC>あさ♂
+<FC>いいWAILORD<FC>あこ♀
+Go！　GYARADOS　and<FE>PORYGON2！
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+<FC>いいPORYGON2<FC>あさ
+<FC>いいGYARADOS<FC>あさ♂
+SLOWKING　was<FE>dragged　out！<FB>
+Battler 0 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 1 info: Granbull Lv100 HP 92/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 19 Roar
+Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 2 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいGYARADOS<FC>あさ♂
+<FC>いいWAILORD<FC>あこ♀
+<FC>いいPORYGON2<FC>あさ
+<FC>いいHYPNO<FC>あさ♂
+Battler 0 info: Gyarados Lv100 HP 366/366 - 258 166 115 298 170 - Moves: 20 Frustration, 25 Bite, 20 Thunder Wave, 20 Dragon Dance
+Battler 1 info: Wailord Lv100 HP 495/495 - 188 140 188 154 115 - Moves: 15 Surf, 15 Icy Wind, 15 Body Slam, 20 Roar
+Battler 2 info: Porygon2 Lv100 HP 346/346 - 254 188 196 198 128 - Moves: 10 Tri Attack, 20 Aerial Ace, 15 Shadow Ball, 20 Recover
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+SAILOR　MAXWELL<FE>would　like　to　battle！<FB>
+SAILOR　MAXWELL　sent<FE>out　WAILORD　and　HYPNO！
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+<FC>いいHYPNO<FC>あさ♂
+<FC>いいWAILORD<FC>あこ♀
+Go！　GYARADOS　and<FE>PORYGON2！
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+SLOWKING　was<FE>dragged　out！<FB>
+Battler 0 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 1 info: Granbull Lv100 HP 92/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 19 Roar
+Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 2 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいGYARADOS<FC>あさ♂
+<FC>いいWAILORD<FC>あこ♀
+<FC>いいPORYGON2<FC>あさ
+<FC>いいHYPNO<FC>あこ♀
+Battler 0 info: Gyarados Lv100 HP 366/366 - 258 166 115 298 170 - Moves: 20 Frustration, 25 Bite, 20 Thunder Wave, 20 Dragon Dance
+Battler 1 info: Wailord Lv100 HP 495/495 - 188 140 188 154 115 - Moves: 15 Surf, 15 Icy Wind, 15 Body Slam, 20 Roar
+Battler 2 info: Porygon2 Lv100 HP 346/346 - 254 188 196 198 128 - Moves: 10 Tri Attack, 20 Aerial Ace, 15 Shadow Ball, 20 Recover
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+SAILOR　MAXWELL<FE>would　like　to　battle！<FB>
+SAILOR　MAXWELL　sent<FE>out　WAILORD　and　HYPNO！
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+<FC>いいWAPNO<FC>あこ♀
+<FC>いいWAILORD<FC>あこ♀
+Go！　GYARADOS　and<FE>PORYGON2！
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+<FC>いいPORYGON2<FC>あさ
+<FC>いいGYARADOS<FC>あさ♂
+SLOWKING　was<FE>dragged　out！<FB>
+Battler 0 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 1 info: Granbull Lv100 HP 92/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 19 Roar
+Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 2 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいGYARADOS<FC>あさ♂
+<FC>いいWAILORD<FC>あこ♀
+<FC>いいPORYGON2<FC>あさ
+<FC>いいHYPNO<FC>あさ♂
+Battler 0 info: Gyarados Lv100 HP 366/366 - 258 166 115 298 170 - Moves: 20 Frustration, 25 Bite, 20 Thunder Wave, 20 Dragon Dance
+Battler 1 info: Wailord Lv100 HP 495/495 - 188 140 188 154 115 - Moves: 15 Surf, 15 Icy Wind, 15 Body Slam, 20 Roar
+Battler 2 info: Porygon2 Lv100 HP 346/346 - 254 188 196 198 128 - Moves: 10 Tri Attack, 20 Aerial Ace, 15 Shadow Ball, 20 Recover
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+SAILOR　MAXWELL<FE>would　like　to　battle！<FB>
+SAILOR　MAXWELL　sent<FE>out　WAILORD　and　HYPNO！
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+<FC>いいHYPNO<FC>あさ♂
+<FC>いいWAILORD<FC>あこ♀
+Go！　GYARADOS　and<FE>PORYGON2！
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+<FC>いいPORYGON2<FC>あさ
+<FC>いいGYARADOS<FC>あさ♂
+SLOWKING　was<FE>dragged　out！<FB>
+Battler 0 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 1 info: Granbull Lv100 HP 92/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 19 Roar
+Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 2 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいGYARADOS<FC>あさ♂
+<FC>いいWAILORD<FC>あこ♀
+<FC>いいPORYGON2<FC>あさ
+<FC>いいHYPNO<FC>あさ♂
+Battler 0 info: Gyarados Lv100 HP 366/366 - 258 166 115 298 170 - Moves: 20 Frustration, 25 Bite, 20 Thunder Wave, 20 Dragon Dance
+Battler 1 info: Wailord Lv100 HP 495/495 - 188 140 188 154 115 - Moves: 15 Surf, 15 Icy Wind, 15 Body Slam, 20 Roar
+Battler 2 info: Porygon2 Lv100 HP 346/346 - 254 188 196 198 128 - Moves: 10 Tri Attack, 20 Aerial Ace, 15 Shadow Ball, 20 Recover
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+SAILOR　MAXWELL<FE>would　like　to　battle！<FB>
+SAILOR　MAXWELL　sent<FE>out　WAILORD　and　HYPNO！
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+<FC>いいHYPNO<FC>あさ♂
+<FC>いいWAILORD<FC>あこ♀
+SLOWKING　was<FE>dragged　out！<FB>
+Battler 0 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 1 info: Granbull Lv100 HP 92/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 19 Roar
+Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 2 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいGYARADOS<FC>あさ♂
+<FC>いいWAILORD<FC>あさ♂
+<FC>いいPORYGON2<FC>あさ
+<FC>いいHYPNO<FC>あさ♂
+Battler 0 info: Gyarados Lv100 HP 366/366 - 258 166 115 298 170 - Moves: 20 Frustration, 25 Bite, 20 Thunder Wave, 20 Dragon Dance
+Battler 1 info: Wailord Lv100 HP 495/495 - 188 140 188 154 115 - Moves: 15 Surf, 15 Icy Wind, 15 Body Slam, 20 Roar
+Battler 2 info: Porygon2 Lv100 HP 346/346 - 254 188 196 198 128 - Moves: 10 Tri Attack, 20 Aerial Ace, 15 Shadow Ball, 20 Recover
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+SAILOR　MAXWELL<FE>would　like　to　battle！<FB>
+SAILOR　MAXWELL　sent<FE>out　WAILORD　and　HYPNO！
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+<FC>いいWAILORD
+<FC>いいWAILORD<FC>あさ♂
+SLOWKING　was<FE>dragged　out！<FB>
+Battler 0 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 1 info: Granbull Lv100 HP 92/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 19 Roar
+Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 2 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいGYARADOS<FC>あさ♂
+<FC>いいWAILORD<FC>あこ♀
+<FC>いいPORYGON2<FC>あさ
+<FC>いいHYPNO<FC>あさ♂
+Battler 0 info: Gyarados Lv100 HP 366/366 - 258 166 115 298 170 - Moves: 20 Frustration, 25 Bite, 20 Thunder Wave, 20 Dragon Dance
+Battler 1 info: Wailord Lv100 HP 495/495 - 188 140 188 154 115 - Moves: 15 Surf, 15 Icy Wind, 15 Body Slam, 20 Roar
+Battler 2 info: Porygon2 Lv100 HP 346/346 - 254 188 196 198 128 - Moves: 10 Tri Attack, 20 Aerial Ace, 15 Shadow Ball, 20 Recover
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+SAILOR　MAXWELL<FE>would　like　to　battle！<FB>
+SAILOR　MAXWELL　sent<FE>out　WAILORD　and　HYPNO！
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+<FC>いいHYPNO<FC>あさ♂
+<FC>いいWAILORD<FC>あこ♀
+Go！　GYARADOS　and<FE>PORYGON2！
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+<FC>いいPORYGON2<FC>あさ
+<FC>いいGYARADOS<FC>あさ♂
+SLOWKING　was<FE>dragged　out！<FB>
+Battler 0 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 1 info: Granbull Lv100 HP 92/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 19 Roar
+Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+What　will<FE>SLOWKING　do？
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Battler 0 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 1 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 2 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+Battler 3 info: nil Lv0 HP 0/0 - 0 0 0 0 0 - Moves: 0 nil, 0 nil, 0 nil, 0 nil
+<FC>いいGYARADOS<FC>あさ♂
+<FC>いいWAILORD<FC>あさ♂
+<FC>いいPORYGON2<FC>あさ
+<FC>いいHYPNO<FC>あさ♂
+Battler 0 info: Gyarados Lv100 HP 366/366 - 258 166 115 298 170 - Moves: 20 Frustration, 25 Bite, 20 Thunder Wave, 20 Dragon Dance
+Battler 1 info: Wailord Lv100 HP 495/495 - 188 140 188 154 115 - Moves: 15 Surf, 15 Icy Wind, 15 Body Slam, 20 Roar
+Battler 2 info: Porygon2 Lv100 HP 346/346 - 254 188 196 198 128 - Moves: 10 Tri Attack, 20 Aerial Ace, 15 Shadow Ball, 20 Recover
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+SAILOR　MAXWELL<FE>would　like　to　battle！<FB>
+SAILOR　MAXWELL　sent<FE>out　WAILORD　and　HYPNO！
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+Battler 3 info: Hypno Lv100 HP 283/283 - 154 211 238 238 127 - Moves: 15 ThunderPunch, 15 Fire Punch, 15 Ice Punch, 20 Hypnosis
+<FC>いいHYPNO<FC>あさ♂
+<FC>いいWAILORD<FC>あさ♂
+SLOWKING　was<FE>dragged　out！<FB>
+Battler 0 info: Slowking Lv100 HP 366/366 - 158 231 228 228 61 - Moves: 10 Psychic, 15 Brick Break, 20 Amnesia, 15 Attract
+Battler 1 info: Granbull Lv100 HP 92/356 - 342 158 115 128 98 - Moves: 5 Mega Kick, 10 SmellingSalt, 20 Thunder Wave, 19 Roar
+Battler 2 info: Tauros Lv100 HP 58/263 - 298 198 79 148 291 - Moves: 10 Earthquake, 20 Thrash, 15 Swagger, 18 Facade
+Battler 3 info: Venusaur Lv100 HP 104/336 - 172 174 298 208 151 - Moves: 4 Giga Drain, 5 Sunny Day, 5 Synthesis, 14 Sleep Powder
+What　will<FE>SLOWKING　do？

@@ -38,7 +38,6 @@ namespace PokemonBattleLogger
         public FrontierSets()
         {
             InitializeComponent();
-            System.Diagnostics.Debug.WriteLine("Starting watcher...");
             StartWatcher();
         }
 
@@ -176,7 +175,7 @@ namespace PokemonBattleLogger
                         var container = new Grid();
 
                         container.Children.Add(initializeIcon(team[i]));
-                        if (!teamStatus[i].Equals("remove"))
+                        if (!teamStatus[i].Equals(""))
                         {
                             container.Children.Add(initializeStatus(teamStatus[i], 24));
                         }
@@ -186,7 +185,6 @@ namespace PokemonBattleLogger
                     else //if we don't have a status...
                     {
                         teamPanel.Children.Add(initializeIcon(team[i]));
-
                     }
                 }
                 //If there's less than 3 teammates, add pokeballs.
