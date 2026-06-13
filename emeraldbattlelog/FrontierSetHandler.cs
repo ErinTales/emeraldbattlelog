@@ -26,6 +26,7 @@ namespace emeraldbattlelog
             return handleFrontierSet("Battler 1 " + monName);
         }
 
+        //We're not really using most of the information collected by this, but we might in the future.
         public PokemonSlot[] handleFrontierSet(String monInfo)
         {
             TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
@@ -38,7 +39,7 @@ namespace emeraldbattlelog
                     $@"\b{Regex.Escape(pokemonName)}\b",
                     RegexOptions.IgnoreCase))
                 {
-                    //Currently we only want to bother for opponents, but this may change in the future.
+                    //Currently we only want to bother for opponents.
                     if (monInfo.StartsWith("Battler 1")
                         || monInfo.StartsWith("Battler 3"))
                     {

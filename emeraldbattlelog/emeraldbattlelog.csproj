@@ -653,6 +653,7 @@
     <None Remove="images\left.png" />
     <None Remove="images\middle-battle.png" />
     <None Remove="images\middle.png" />
+    <None Remove="images\pokeball_selection.png" />
     <None Remove="images\pokeemerald.ico" />
     <None Remove="images\pokemon-emerald.ttf" />
     <None Remove="images\pokemon_sprites\a.png" />
@@ -1729,6 +1730,7 @@
     <Resource Include="images\left.png" />
     <Resource Include="images\middle-battle.png" />
     <Resource Include="images\middle.png" />
+    <Resource Include="images\pokeball_selection.png" />
     <Resource Include="images\pokeemerald.ico" />
     <Resource Include="images\pokemon-emerald.ttf" />
     <Resource Include="images\pokemon_sprites\a.png" />

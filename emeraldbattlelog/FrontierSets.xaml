@@ -13,6 +13,7 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="24"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="32"/> 
             <RowDefinition Height="24"/>
         </Grid.RowDefinitions>
 
@@ -35,13 +36,13 @@
            RenderOptions.BitmapScalingMode="NearestNeighbor"
            RenderOptions.EdgeMode="Aliased"
            SnapsToDevicePixels="True"/>
-        <Image Grid.Row="2"
+        <Image Grid.Row="3"
            Grid.Column="0"
            Source="Images/bottomleft.png"
            RenderOptions.BitmapScalingMode="NearestNeighbor"
            RenderOptions.EdgeMode="Aliased"
            SnapsToDevicePixels="True"/>
-        <Image Grid.Row="2"
+        <Image Grid.Row="3"
            Grid.Column="2"
            Source="Images/bottomright.png"
            RenderOptions.BitmapScalingMode="NearestNeighbor"
@@ -64,7 +65,7 @@
 
         </Border>
 
-        <Border Grid.Row="2" Grid.Column="1"
+        <Border Grid.Row="3" Grid.Column="1"
         RenderOptions.BitmapScalingMode="NearestNeighbor"
         SnapsToDevicePixels="True">
 
@@ -78,7 +79,7 @@
 
         </Border>
 
-        <Border Grid.Row="1" Grid.Column="0"
+        <Border Grid.Row="1" Grid.RowSpan="2" Grid.Column="0"
         RenderOptions.BitmapScalingMode="NearestNeighbor"
         SnapsToDevicePixels="True">
 
@@ -92,7 +93,7 @@
 
         </Border>
 
-        <Border Grid.Row="1" Grid.Column="2"
+        <Border Grid.Row="1" Grid.RowSpan="2" Grid.Column="2"
         RenderOptions.BitmapScalingMode="NearestNeighbor"
         SnapsToDevicePixels="True">
 
@@ -107,8 +108,7 @@
         </Border>
 
         <!-- Battle Log -->
-        <Border Grid.Row="1"
-                Grid.Column="1">
+        <Border Grid.Row="1" Grid.Column="1">
 
             <Border.Background>
                 <ImageBrush ImageSource="Images/middle.png"
@@ -123,6 +123,22 @@
              Columns="5"/>
 
         </Border>
+
+        <!-- Enemy team icons -->
+        <Border Grid.Row="2" Grid.Column="1">
+
+            <Border.Background>
+                <ImageBrush ImageSource="Images/middle.png"
+                        TileMode="Tile"
+                        Stretch="None"
+                        Viewport="0,0,12,12"
+                        ViewportUnits="Absolute"/>
+            </Border.Background>
+
+            <Grid Name="teamIcons"></Grid>
+
+        </Border>
+
     </Grid>
 
 </Window>

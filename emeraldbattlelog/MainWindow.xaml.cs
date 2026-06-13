@@ -34,6 +34,10 @@ namespace PokemonBattleLogger
         string lastFainted = "";
         string[] enemyPokemon = new string[2];
 
+        string[] playerTeamRevealed = new string[6];
+        string[] enemyTeamRevealed = new string[6];
+
+
         public MainWindow()
         {
             frontierSetsWindow.Show();
@@ -226,6 +230,7 @@ namespace PokemonBattleLogger
             line = line.Replace("WILLーOーWISP", "WillーOーWisp");
             line = line.Replace("SANDーATTACK", "SandーAttack");
             line = line.Replace("MUDーSLAP", "MudーSlap");
+            line = line.Replace("DOUBLEーEDGE", "DoubleーEdge");
 
             //Remove weird/buggy "What will [partial type name]" spam. (the buffer seems to partially overwrite itself for some reason)
             if (line.StartsWith("What will ") && !line.EndsWith(" do?"))
@@ -240,6 +245,8 @@ namespace PokemonBattleLogger
                 || line.Contains("used")                        //use a move
                 || line.Contains("sent out")                    //opponent sends out pokemon
                 || line.Contains("Go!")                         //player sends out pokemon
+                || line.Contains("Go for it,")                  //player sends out pokemon
+                || line.Contains("Do it! ")                     //player sends out pokemon
                 || line.Contains("dragged out")                 //sent out due to roar/ww
                 || line.Contains("is confused")                 //pokemon is confused
                 || line.Contains("Player defeated")             //player wins
@@ -315,9 +322,24 @@ namespace PokemonBattleLogger
                 turnCounter = 1;
                 battleTypeLockout = false;
 
-                //clear battle log
+                //clear frontier sets.
                 Dispatcher.Invoke(() =>
                 {
+                    playerTeamRevealed = new string[6];
+                    enemyTeamRevealed = new string[6];
+                    frontierSetsWindow.initializeTeams();
+                    frontierSetsWindow.PossibleEnemies.Children.Clear();
+                });
+            }
+
+            //Clear frontier sets window when we win.
+            if (line.Contains("Player defeated "))
+            {
+                Dispatcher.Invoke(() =>
+                {
+                    playerTeamRevealed = new string[6];
+                    enemyTeamRevealed = new string[6];
+                    frontierSetsWindow.initializeTeams();
                     frontierSetsWindow.PossibleEnemies.Children.Clear();
                 });
             }
@@ -364,7 +386,7 @@ namespace PokemonBattleLogger
                 frontierSetsWindow.setEnemyCount(battleType);
 
                 //When enemy is sent out.
-                if (line.Contains(" sent out ") || line.Contains("dragged out"))
+                if (line.Contains(" sent out ") || (line.Contains("Foe ") && line.Contains("dragged out")))
                 {
                     string sentOut = "";
                     if (line.Contains(" sent out "))
@@ -385,7 +407,7 @@ namespace PokemonBattleLogger
                 //Post battler info only once they actually send it out - we received it early.
                 //Basically we just don't want to send it out as the line is first printing bc
                 //it looks odd - it shows up before you can visually tell what you're fighting.
-                if (line.Contains("Turn") || line.Contains("Go!") || line.Contains("used"))
+                if (line.Contains("Turn") || line.Contains("Go!") || line.Contains("Go for it,") || line.Contains("Do it! ") || line.Contains("used"))
                 {
                     Dispatcher.Invoke(() =>
                     {
@@ -394,9 +416,8 @@ namespace PokemonBattleLogger
                     });
                 }
 
-                //Clear sets when we win or score a KO
-                if (line.Contains("Player defeated ")
-                    || (line.Contains("Foe") && line.Contains("fainted!"))
+                //Clear sets when we score a KO
+                if ((line.Contains("Foe") && line.Contains("fainted!"))
                     || (line.Contains("Wild") && line.Contains("fainted!")))
                 {
                     Dispatcher.Invoke(() =>
@@ -406,7 +427,7 @@ namespace PokemonBattleLogger
                 }
             }
 
-            //handle double battles - these have been handled differently (and probably better in some ways) 
+            //handle double battles
             if (battleType == 2)
             {
                 //set frontier sets window to double battle
@@ -469,7 +490,7 @@ namespace PokemonBattleLogger
                 //Post battler info only once they actually send it out - we received it early.
                 //Basically we just don't want to send it out as the line is first printing bc
                 //it looks odd - it shows up before you can visually tell what you're fighting.
-                if (line.Contains("Turn") || line.Contains("Go!") || line.Contains("used"))
+                if (line.Contains("Turn") || line.Contains("Go!") || line.Contains("Go for it,") || line.Contains("Do it! ") || line.Contains("used"))
                 {
                     Dispatcher.Invoke(() =>
                     {
@@ -478,17 +499,99 @@ namespace PokemonBattleLogger
                         frontierSetsWindow.postSetDouble(setsDouble);
                     });
                 }
+            }
 
-                //Clear sets when we win
-                if (line.Contains("Player defeated "))
+            //Send teammates off to be displayed at the bottom.
+            handleTeamIcons(line);
+
+            return line;
+        }
+
+        //Checks for lines where someone is sending out a pokemon and adds
+        //them to the little team tracker near the bottom of the window
+        void handleTeamIcons(string line)
+        {
+            if (line.Contains("Go!") || line.Contains("Go for it,") || line.Contains("Do it! ") || (!line.Contains("Foe ") && line.Contains("dragged out")))
+            {
+                string pokemonName = "";
+
+                if (line.Contains("Go!"))
                 {
-                    Dispatcher.Invoke(() =>
+                    if (line.Contains(" and "))
                     {
-                        frontierSetsWindow.PossibleEnemies.Children.Clear();
-                    });
+                        Debug.WriteLine("double battle allies");
+                        string sentOut = line.Split("Go! ")[1];
+                        sentOut = sentOut.TrimEnd('!');
+
+                        pokemonName = sentOut.Split(" and ")[1];
+                        displayTeamIcons(playerTeamRevealed, sentOut.Split(" and ")[0], true);
+                    }
+                    else //if (!line.Contains(" and "))
+                    {
+                        pokemonName = line.Split("Go! ")[1].TrimEnd('!').Replace(". ", "_").ToLower();
+                    }
+                }
+                else if (line.Contains("Go for it,"))
+                {
+                    pokemonName = line.Split("Go for it, ")[1].TrimEnd('!').Replace(". ", "_").ToLower();
+                }
+                else if (line.Contains("Do it! "))
+                {
+                    pokemonName = line.Split("Do it! ")[1].TrimEnd('!').Replace(". ", "_").ToLower();
+                }
+                else if (line.Contains("dragged out"))
+                {
+                    pokemonName = line.Split(" was dragged out")[0].Replace(". ", "_").ToLower();
+                }
+
+                displayTeamIcons(playerTeamRevealed, pokemonName, true);
+            }
+            if (line.Contains(" sent out ") || (line.Contains("Foe ") && line.Contains("dragged out")))
+            {
+                string pokemonName = "";
+
+                if (line.Contains("sent out "))
+                {
+                    if (line.Contains(" and "))
+                    {
+                        string sentOut = line.Split(" sent out ")[1];
+                        sentOut = sentOut.TrimEnd('!');
+
+                        pokemonName = sentOut.Split(" and ")[1];
+                        displayTeamIcons(enemyTeamRevealed, sentOut.Split(" and ")[0], false);
+                    }
+                    else //if (!line.Contains(" and "))
+                    {
+                        pokemonName = line.Split("sent out ")[1].TrimEnd('!').Replace(". ", "_").ToLower();
+                    }
+                }
+                else if (line.Contains("dragged out"))
+                {
+                    pokemonName = line.Split(" was dragged out")[0].Split("Foe ")[1].Replace(". ", "_").ToLower();
+                }
+
+                displayTeamIcons(enemyTeamRevealed, pokemonName, false);
+            }
+        }
+
+        void displayTeamIcons(string[] team, string teammate, bool isPlayer)
+        {
+            if(team.Contains(teammate))
+            {
+                return;
+            }
+            else //if (!team.Contains(teammate))
+            {
+                for (int i = 0; i < team.Length; i++)
+                {
+                    if (team[i] == null)
+                    {
+                        team[i] = teammate;
+                        frontierSetsWindow.displayTeam(team, isPlayer);
+                        break;
+                    }
                 }
             }
-            return line;
         }
 
         void setBattleType(int numOfOpponents)
